@@ -1,12 +1,4 @@
-
-
 # Nahetu
-
-
-
-
-
-
 
 (455.)
 
@@ -21,6 +13,3 @@
 998\. Nahetupaccayā ārammaṇe ekaṃ. (Saṃkhittaṃ.)
 
 999\. (Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
-
-
-

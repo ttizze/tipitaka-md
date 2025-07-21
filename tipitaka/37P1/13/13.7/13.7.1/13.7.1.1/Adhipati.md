@@ -1,11 +1,4 @@
-
-
 # Adhipati
-
-
-
-
-
 
 (59.)
 
@@ -24,6 +17,3 @@
 2043\. Appamāṇo dhammo parittassa dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati, sahajātādhipati. **Ārammaṇādhipati**—  ariyā maggā vuṭṭhahitvā maggaṃ garuṃ katvā paccavekkhanti, phalaṃ garuṃ katvā paccavekkhanti, nibbānaṃ garuṃ katvā paccavekkhanti, nibbānaṃ gotrabhussa, vodānassa adhipatipaccayena paccayo. **Sahajātādhipati**—  appamāṇādhipati cittasamuṭṭhānānaṃ rūpānaṃ adhipatipaccayena paccayo. (2)
 
 2044\. Appamāṇo dhammo parittassa ca appamāṇassa ca dhammassa adhipatipaccayena paccayo. **Sahajātādhipati**—  appamāṇādhipati sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ adhipatipaccayena paccayo. (3)
-
-
-

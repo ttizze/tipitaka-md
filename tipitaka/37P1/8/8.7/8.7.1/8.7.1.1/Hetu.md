@@ -1,11 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
 
 (17.)
 
@@ -22,6 +15,3 @@
 682\. Upekkhāsahagato dhammo upekkhāsahagatassa dhammassa hetupaccayena paccayo—  upekkhāsahagatā hetū sampayuttakānaṃ khandhānaṃ hetupaccayena paccayo. Paṭisandhikkhaṇe…pe… . (1)
 
 683\. Pītisahagato ca sukhasahagato ca dhammā pītisahagatassa dhammassa…pe…  sukhasahagatassa dhammassa…pe…  pītisahagatassa ca sukhasahagatassa ca dhammassa hetupaccayena paccayo—  pītisahagatā ca sukhasahagatā ca hetū sampayuttakānaṃ pītisahagatānañca sukhasahagatānañca khandhānaṃ hetupaccayena paccayo. Paṭisandhikkhaṇe…pe… . (3)
-
-
-

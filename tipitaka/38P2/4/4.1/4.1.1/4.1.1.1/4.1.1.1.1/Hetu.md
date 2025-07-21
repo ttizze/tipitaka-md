@@ -1,12 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
-
 
 (1.)
 
@@ -33,6 +25,3 @@
 1330\. Saññojanañca nosaññojanañca dhammaṃ paṭicca saññojano ca nosaññojano ca dhammā uppajjanti hetupaccayā—  nosaññojanaṃ ekaṃ khandhañca kāmarāgasaññojanañca paṭicca tayo khandhā diṭṭhisaññojanaṃ avijjāsaññojanaṃ cittasamuṭṭhānañca rūpaṃ…pe… . (Cakkaṃ bandhitabbaṃ.) (3)
 
 1331\. (Ārammaṇapaccaye rūpaṃ natthi. Adhipatipaccayo hetusadiso, vicikicchāsaññojanaṃ natthi.) Anantarapaccayā…pe…  avigatapaccayā.
-
-
-

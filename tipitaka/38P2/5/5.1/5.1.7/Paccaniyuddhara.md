@@ -1,10 +1,4 @@
-
-
 # Paccanīyuddhāra
-
-
-
-
 
 (38.)
 
@@ -29,6 +23,3 @@
 1710\. Gantho ca nogantho ca dhammā noganthassa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo…  pacchājātapaccayena paccayo. (2)
 
 1711\. Gantho ca nogantho ca dhammā ganthassa ca noganthassa ca dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo. (3)
-
-
-

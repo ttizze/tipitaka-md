@@ -1,12 +1,4 @@
-
-
 # Purejāta
-
-
-
-
-
-
 
 (30.)
 
@@ -15,6 +7,3 @@
 2179\. Noparāmāso dhammo parāmāsassa dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ. **Ārammaṇapurejātaṃ**—  cakkhuṃ…pe…  vatthuṃ assādeti abhinandati, taṃ ārabbha diṭṭhi uppajjati. **Vatthupurejātaṃ**—  vatthu parāmāsassa purejātapaccayena paccayo. (2)
 
 2180\. Noparāmāso dhammo parāmāsassa ca noparāmāsassa ca dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ. **Ārammaṇapurejātaṃ**—  cakkhuṃ…pe…  vatthuṃ assādeti abhinandati, taṃ ārabbha parāmāso ca sampayuttakā ca khandhā uppajjanti. **Vatthupurejātaṃ**—  vatthu parāmāsassa ca sampayuttakānañca khandhānaṃ purejātapaccayena paccayo. (3)
-
-
-

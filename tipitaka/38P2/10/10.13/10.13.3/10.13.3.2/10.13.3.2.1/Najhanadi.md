@@ -1,12 +1,4 @@
-
-
 # Najhānādi
-
-
-
-
-
-
 
 (391.)
 
@@ -21,6 +13,3 @@
 3307\. Upādā ca noupādā ca dhammaṃ paccayā noupādā dhammo uppajjati najhānapaccayā—  cakkhuviññāṇasahagataṃ ekaṃ khandhañca cakkhāyatanañca paccayā tayo khandhā…pe…  dve khandhe ca…pe… . (1)
 
 3308\. Namaggapaccayā pañca, nasampayuttapaccayā tīṇi, navippayuttapaccayā tīṇi, nonatthipaccayā tīṇi, novigatapaccayā tīṇi.
-
-
-

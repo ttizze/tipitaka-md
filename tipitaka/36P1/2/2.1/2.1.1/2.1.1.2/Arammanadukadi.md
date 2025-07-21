@@ -1,17 +1,8 @@
-
-
 # Ārammaṇadukādi
-
-
-
-
-
 
 ---
 
 182\. (Ārammaṇe ṭhitena sabbattha tīṇeva pañhā.)
-
-
 
 (28.)
 
@@ -30,6 +21,3 @@
 189\. Upanissayapaccayā hetuyā tīṇi…pe… .
 
 190\. Purejātapaccayā hetuyā tīṇi…pe… .
-
-
-

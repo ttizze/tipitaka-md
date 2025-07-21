@@ -1,11 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
 
 (45.)
 
@@ -18,6 +11,3 @@
 1563\. Apacayagāmī dhammo apacayagāmissa dhammassa hetupaccayena paccayo…  tīṇi.
 
 1564\. Nevācayagāmināpacayagāmī dhammo nevācayagāmināpacayagāmissa dhammassa hetupaccayena paccayo—  nevācayagāmināpacayagāmī hetū sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo. Paṭisandhikkhaṇe nevācayagāmināpacayagāmī hetū sampayuttakānaṃ khandhānaṃ kaṭattā ca rūpānaṃ hetupaccayena paccayo. (1)
-
-
-

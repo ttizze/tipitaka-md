@@ -1,10 +1,4 @@
-
-
 # Hetu
-
-
-
-
 
 (8.)
 
@@ -21,6 +15,3 @@
 1550\. Hetuyā nava, ārammaṇe tīṇi…pe…  vipāke ekaṃ…pe…  avigate nava. (Saṃkhittaṃ.)
 
 1551\. (Sahajātavārampi…pe…  pañhāvārampi vitthāretabbaṃ.)
-
-
-

@@ -1,10 +1,4 @@
-
-
 # Hetu-ārammaṇa
-
-
-
-
 
 (3.)
 
@@ -25,6 +19,3 @@
 14\. Kusalaṃ nahetuṃ dhammaṃ paṭicca naakusalo nanahetu dhammo uppajjati hetupaccayā. Kusalaṃ nahetuṃ dhammaṃ paṭicca naabyākato nanahetu dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
 
 15\. Hetuyā nava, ārammaṇe nava…pe…  vipāke tīṇi…pe…  avigate nava. (Sabbattha nava.)
-
-
-

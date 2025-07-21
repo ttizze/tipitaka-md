@@ -1,12 +1,4 @@
-
-
 # Anantarādi
-
-
-
-
-
-
 
 (23.)
 
@@ -25,6 +17,3 @@
 3588\. Upādāno ca noupādāno ca dhammā upādānassa dhammassa anantarapaccayena paccayo—  purimā purimā upādānā ca sampayuttakā ca khandhā pacchimānaṃ pacchimānaṃ upādānānaṃ anantarapaccayena paccayo. (Mūlaṃ kātabbaṃ.) Purimā purimā upādānā ca sampayuttakā ca khandhā pacchimānaṃ pacchimānaṃ noupādānānaṃ khandhānaṃ anantarapaccayena paccayo; upādānā ca sampayuttakā ca khandhā vuṭṭhānassa anantarapaccayena paccayo. (Mūlaṃ kātabbaṃ.) Purimā purimā upādānā ca sampayuttakā ca khandhā pacchimānaṃ pacchimānaṃ upādānānaṃ sampayuttakānañca khandhānaṃ anantarapaccayena paccayo. (3)
 
 3589\. Samanantarapaccayena paccayo…  sahajātapaccayena paccayo (paṭiccasadisaṃ)…  aññamaññapaccayena paccayo (paṭiccasadisaṃ)…  nissayapaccayena paccayo. (Paccayasadisaṃ.)
-
-
-

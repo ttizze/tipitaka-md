@@ -1,11 +1,4 @@
-
-
 # Ārammaṇa
-
-
-
-
-
 
 (61.)
 
@@ -22,6 +15,3 @@
 2187\. Vipākañca nevavipākanavipākadhammadhammañca dhammaṃ paccayā vipāko dhammo uppajjati ārammaṇapaccayā—  cakkhuviññāṇasahagataṃ ekaṃ khandhañca cakkhāyatanañca paccayā tayo khandhā…pe…  dve khandhe ca cakkhāyatanañca paccayā dve khandhā, sota…  ghāna…  jivhā…  kāya…  vipākaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe ca vatthuñca paccayā dve khandhā; paṭisandhikkhaṇe vipākaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe ca vatthuñca paccayā dve khandhā. (1)
 
 2188\. Vipākadhammadhammañca nevavipākanavipākadhammadhammañca dhammaṃ paccayā vipākadhammadhammo uppajjati ārammaṇapaccayā—  vipākadhammadhammaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe ca vatthuñca paccayā dve khandhā. (1)
-
-
-

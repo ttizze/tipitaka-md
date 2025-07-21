@@ -1,12 +1,4 @@
-
-
 # Adhipati
-
-
-
-
-
-
 
 (178.)
 
@@ -17,6 +9,3 @@
 489\. Nahetu sahetuko dhammo nahetusahetukassa ca nahetuahetukassa ca dhammassa adhipatipaccayena paccayo. **Sahajātādhipati**—  nahetu sahetukādhipati sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ adhipatipaccayena paccayo. (3)
 
 490\. Nahetu ahetuko dhammo nahetusahetukassa dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  ariyā nibbānaṃ garuṃ katvā paccavekkhanti; nibbānaṃ gotrabhussa, vodānassa, maggassa, phalassa adhipatipaccayena paccayo; cakkhuṃ…pe…  vatthuṃ…  nahetū ahetuke khandhe garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā rāgo uppajjati, diṭṭhi uppajjati. (1)
-
-
-

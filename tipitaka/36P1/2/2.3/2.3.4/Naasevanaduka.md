@@ -1,10 +1,4 @@
-
-
 # Naāsevanaduka
-
-
-
-
 
 (184.)
 
@@ -12,6 +6,3 @@
 
 * [Tika](Naasevanaduka/Tika.md)
 * [Catukka](Naasevanaduka/Catukka.md)
-
-
-

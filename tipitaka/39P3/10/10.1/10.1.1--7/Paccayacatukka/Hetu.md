@@ -1,11 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
 
 (1.)
 
@@ -28,6 +21,3 @@
 2024\. Hetuyā nava, ārammaṇe tīṇi, adhipatiyā pañca…pe…  aññamaññe cha…pe…  purejāte ekaṃ, āsevane ekaṃ…pe…  avigate nava. (Saṃkhittaṃ.)
 
 2025\. Nahetuyā nava, naārammaṇe tīṇi, naadhipatiyā nava…pe…  napurejāte napacchājāte naāsevane nava, nakamme dve, navipāke pañca, naāhāre ekaṃ, naindriye ekaṃ, najhāne dve, namagge nava, nasampayutte tīṇi, navippayutte dve, nonatthiyā tīṇi, novigate tīṇi. (Saṃkhittaṃ.)
-
-
-

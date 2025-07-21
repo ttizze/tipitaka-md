@@ -1,9 +1,4 @@
-
-
 # Nahetu-naārammaṇādi
-
-
-
 
 (2.)
 
@@ -32,6 +27,3 @@
 14\. Kusalo sukhāya vedanāya sampayutto dhammo nakusalassa nasukhāya vedanāya sampayuttassa dhammassa hetupaccayena paccayo…pe… .
 
 15\. Hetuyā terasa, ārammaṇe aṭṭhārasa, adhipatiyā sattarasa, anantare nava…pe…  sahajāte terasa, aññamaññe nava, nissaye terasa, upanissaye aṭṭhārasa, pacchājāte nava, kamme terasa, vipāke tīṇi, āhāre…pe…  magge terasa, sampayutte nava, vippayutte nava…pe…  avigate terasa. (Pañhāvārampi vitthāretabbaṃ.)
-
-
-

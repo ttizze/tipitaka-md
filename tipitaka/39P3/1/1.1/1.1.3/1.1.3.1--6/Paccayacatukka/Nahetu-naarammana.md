@@ -1,12 +1,4 @@
-
-
 # Nahetu-naārammaṇa
-
-
-
-
-
-
 
 (48.)
 
@@ -19,6 +11,3 @@
 80\. Nahetuṃ abyākataṃ dhammaṃ paṭicca nahetu abyākato dhammo uppajjati naārammaṇapaccayā. (1)
 
 81\. Hetuṃ abyākatañca nahetuṃ abyākatañca dhammaṃ paṭicca nahetu abyākato dhammo uppajjati naārammaṇapaccayā. (1)
-
-
-

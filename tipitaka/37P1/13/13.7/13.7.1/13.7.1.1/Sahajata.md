@@ -1,11 +1,4 @@
-
-
 # Sahajāta
-
-
-
-
-
 
 (64.)
 
@@ -36,6 +29,3 @@
 2064\. Paritto ca mahaggato ca dhammā parittassa dhammassa sahajātapaccayena paccayo—  mahaggatā khandhā ca mahābhūtā ca cittasamuṭṭhānānaṃ rūpānaṃ sahajātapaccayena paccayo. Paṭisandhikkhaṇe mahaggatā khandhā ca mahābhūtā ca kaṭattārūpānaṃ sahajātapaccayena paccayo. (1)
 
 2065\. Paritto ca mahaggato ca dhammā mahaggatassa dhammassa sahajātapaccayena paccayo—  paṭisandhikkhaṇe mahaggato eko khandho ca vatthu ca tiṇṇannaṃ khandhānaṃ sahajātapaccayena paccayo…pe… . (2)
-
-
-

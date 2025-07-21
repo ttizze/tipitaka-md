@@ -1,12 +1,4 @@
-
-
 # Nahetu
-
-
-
-
-
-
 
 (104.)
 
@@ -31,6 +23,3 @@
 789\. Rūpiñca arūpiñca dhammaṃ paccayā arūpī dhammo uppajjati nahetupaccayā—  cakkhuviññāṇasahagataṃ ekaṃ khandhañca cakkhāyatanañca paccayā tayo khandhā…pe…  dve khandhe…pe…  kāyaviññāṇasahagataṃ…pe…  arūpiṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe…pe…  paṭisandhikkhaṇe…pe…  vicikicchāsahagate uddhaccasahagate khandhe ca vatthuñca paccayā vicikicchāsahagato uddhaccasahagato moho. (2)
 
 790\. Rūpiñca arūpiñca dhammaṃ paccayā rūpī ca arūpī ca dhammā uppajjanti nahetupaccayā—  ahetukaṃ arūpiṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe…pe…  arūpino khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe…pe… . (3)
-
-
-

@@ -1,11 +1,4 @@
-
-
 # Anantara
-
-
-
-
-
 
 (42.)
 
@@ -20,6 +13,3 @@
 2365\. Aniyato dhammo micchattaniyatassa dhammassa anantarapaccayena paccayo—  aniyataṃ domanassaṃ micchattaniyatassa domanassassa anantarapaccayena paccayo. Aniyatamicchādiṭṭhi niyatamicchādiṭṭhiyā anantarapaccayena paccayo. (2)
 
 2366\. Aniyato dhammo sammattaniyatassa dhammassa anantarapaccayena paccayo—  gotrabhu maggassa…  vodānaṃ maggassa anantarapaccayena paccayo. (3)
-
-
-

@@ -1,10 +1,4 @@
-
-
 # Hetu
-
-
-
-
 
 (6.)
 
@@ -35,6 +29,3 @@
 25\. Abyākataṃ ahetukaṃ dhammaṃ paṭicca nakusalo naahetuko dhammo uppajjati hetupaccayā. Abyākataṃ ahetukaṃ dhammaṃ paṭicca naakusalo naahetuko dhammo uppajjati hetupaccayā. Abyākataṃ ahetukaṃ dhammaṃ paṭicca nakusalo naahetuko ca naakusalo naahetuko ca dhammā uppajjanti hetupaccayā…  tīṇi. (Saṃkhittaṃ.)
 
 26\. Hetuyā cha, ārammaṇe cha, vipāke tīṇi…pe…  avigate cha.
-
-
-

@@ -1,11 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
 
 (244.)
 
@@ -19,8 +12,6 @@
 
 4612\. Anulomaṃ.
 
-
-
 4613\. Narūpāvacaraṃ dhammaṃ saṃsaṭṭho narūpāvacaro dhammo uppajjati nahetupaccayā. (Saṃkhittaṃ.)
 
 4614\. Nahetuyā ekaṃ, naadhipatiyā dve, napurejāte dve, napacchājāte dve, naāsevane dve, nakamme dve, navipāke dve, najhāne ekaṃ, namagge ekaṃ, navippayutte ekaṃ.
@@ -28,8 +19,3 @@
 ---
 
 4615\. Paccanīyaṃ.
-
-
-
-
-

@@ -1,11 +1,4 @@
-
-
 # Noavigataduka
-
-
-
-
-
 
 (413.)
 
@@ -16,8 +9,3 @@
 ---
 
 1269\. Pañhāvārassa paccanīyagaṇanā.
-
-
-
-
-

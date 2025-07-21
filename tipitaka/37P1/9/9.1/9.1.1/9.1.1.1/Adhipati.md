@@ -1,11 +1,4 @@
-
-
 # Adhipati
-
-
-
-
-
 
 (6.)
 
@@ -20,6 +13,3 @@
 805\. Dassanena pahātabbañca nevadassanena nabhāvanāya pahātabbañca dhammaṃ paṭicca nevadassanena nabhāvanāya pahātabbo dhammo uppajjati adhipatipaccayā—  dassanena pahātabbe khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
 
 806\. Bhāvanāya pahātabbañca nevadassanena nabhāvanāya pahātabbañca dhammaṃ paṭicca nevadassanena nabhāvanāya pahātabbo dhammo uppajjati adhipatipaccayā—  bhāvanāya pahātabbe khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
-
-
-

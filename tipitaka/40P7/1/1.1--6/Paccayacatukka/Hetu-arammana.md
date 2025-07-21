@@ -1,10 +1,4 @@
-
-
 # Hetu-ārammaṇa
-
-
-
-
 
 (1.)
 
@@ -37,6 +31,3 @@
 9\. Hetuyā ekūnatiṃsa, ārammaṇe catuvīsa…pe…  vipāke nava…pe…  avigate ekūnatiṃsa.
 
 10\. (Sahajātavārampi paccayavārampi nissayavārampi saṃsaṭṭhavārampi sampayuttavārampi paṭiccavārasadisaṃ.)
-
-
-

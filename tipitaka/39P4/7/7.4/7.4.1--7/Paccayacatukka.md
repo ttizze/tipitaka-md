@@ -1,10 +1,4 @@
-
-
 # Paccayacatukka
-
-
-
-
 
 (10.)
 
@@ -21,6 +15,3 @@
 1556\. Hetuyā nava, ārammaṇe tīṇi…pe…  avigate nava. (Saṃkhittaṃ.)
 
 1557\. (Sahajātavārepi…pe…  pañhāvārepi vitthāretabbaṃ.)
-
-
-

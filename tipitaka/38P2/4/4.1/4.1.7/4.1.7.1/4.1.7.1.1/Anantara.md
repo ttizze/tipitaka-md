@@ -1,12 +1,4 @@
-
-
 # Anantara
-
-
-
-
-
-
 
 (20.)
 
@@ -17,6 +9,3 @@
 1371\. Nosaññojano dhammo saññojanassa dhammassa anantarapaccayena paccayo—  purimā purimā nosaññojanā khandhā pacchimānaṃ pacchimānaṃ saññojanānaṃ anantarapaccayena paccayo; āvajjanā saññojanānaṃ anantarapaccayena paccayo. (Evaṃ dvepi kātabbā.) (3)
 
 1372\. Saññojano ca nosaññojano ca dhammā saññojanassa dhammassa anantarapaccayena paccayo…  tīṇi.
-
-
-

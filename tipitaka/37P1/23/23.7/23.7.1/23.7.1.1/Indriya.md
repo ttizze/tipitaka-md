@@ -1,11 +1,4 @@
-
-
 # Indriya
-
-
-
-
-
 
 (46.)
 
@@ -20,6 +13,3 @@
 (47.)
 
 3041\. Anidassanasappaṭigho ca anidassanaappaṭigho ca dhammā anidassanaappaṭighassa dhammassa indriyapaccayena paccayo—  cakkhundriyañca cakkhuviññāṇañca cakkhuviññāṇasahagatānaṃ khandhānaṃ indriyapaccayena paccayo…pe…  kāyindriyañca kāyaviññāṇañca kāyaviññāṇasahagatānaṃ khandhānaṃ indriyapaccayena paccayo. (1)
-
-
-

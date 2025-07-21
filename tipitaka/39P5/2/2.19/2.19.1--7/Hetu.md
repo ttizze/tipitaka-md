@@ -1,10 +1,4 @@
-
-
 # Hetu
-
-
-
-
 
 (42.)
 
@@ -23,6 +17,3 @@
 433\. Ajjhattaṃ abyākataṃ dhammaṃ paṭicca ajjhatto abyākato dhammo uppajjati hetupaccayā. (1)
 
 434\. Bahiddhā abyākataṃ dhammaṃ paṭicca bahiddhā abyākato dhammo uppajjati hetupaccayā. (1) (Sabbattha dve. Sabbattha vitthāro.)
-
-
-

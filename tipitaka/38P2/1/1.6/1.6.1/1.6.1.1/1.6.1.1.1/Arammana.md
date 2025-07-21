@@ -1,12 +1,4 @@
-
-
 # Ārammaṇa
-
-
-
-
-
-
 
 (162.)
 
@@ -17,6 +9,3 @@
 451\. Nahetuṃ ahetukaṃ dhammaṃ paṭicca nahetu sahetuko dhammo uppajjati ārammaṇapaccayā—  paṭisandhikkhaṇe vatthuṃ paṭicca nahetū sahetukā khandhā. (3)
 
 452\. Nahetuṃ sahetukañca nahetuṃ ahetukañca dhammaṃ paṭicca nahetu sahetuko dhammo uppajjati ārammaṇapaccayā—  paṭisandhikkhaṇe nahetuṃ sahetukaṃ ekaṃ khandhañca vatthuñca paṭicca tayo khandhā…pe…  dve khandhe…pe… . (Saṃkhittaṃ. Evaṃ vibhajitabbaṃ.)
-
-
-

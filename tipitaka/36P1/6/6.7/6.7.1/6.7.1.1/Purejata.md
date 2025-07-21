@@ -1,11 +1,4 @@
-
-
 # Purejāta
-
-
-
-
-
 
 (17.)
 
@@ -14,6 +7,3 @@
 2863\. Asaṃkiliṭṭhasaṃkilesiko dhammo saṃkiliṭṭhasaṃkilesikassa dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ. **Ārammaṇapurejātaṃ**—  cakkhuṃ assādeti abhinandati; taṃ ārabbha rāgo uppajjati…pe…  domanassaṃ uppajjati. Sotaṃ…pe…  phoṭṭhabbe…  vatthuṃ assādeti abhinandati; taṃ ārabbha rāgo uppajjati…pe…  domanassaṃ uppajjati. **Vatthupurejātaṃ**—  vatthu saṃkiliṭṭhasaṃkilesikānaṃ khandhānaṃ purejātapaccayena paccayo. (2)
 
 2864\. Asaṃkiliṭṭhasaṃkilesiko dhammo asaṃkiliṭṭhaasaṃkilesikassa dhammassa purejātapaccayena paccayo—  vatthu asaṃkiliṭṭhaasaṃkilesikānaṃ khandhānaṃ purejātapaccayena paccayo. (3)
-
-
-

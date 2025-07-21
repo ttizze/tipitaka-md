@@ -1,11 +1,4 @@
-
-
 # Vipāka
-
-
-
-
-
 
 (44.)
 
@@ -14,6 +7,3 @@
 3032\. Anidassanaappaṭigho dhammo sanidassanasappaṭighassa dhammassa vipākapaccayena paccayo—  vipākā anidassanaappaṭighā khandhā sanidassanasappaṭighānaṃ cittasamuṭṭhānānaṃ rūpānaṃ vipākapaccayena paccayo. Paṭisandhikkhaṇe anidassanaappaṭighā khandhā sanidassanasappaṭighānaṃ kaṭattārūpānaṃ vipākapaccayena paccayo. (2)
 
 3033\. (Evaṃ satta pañhā vitthāretabbā, pavattipaṭisandhi.) (7)
-
-
-

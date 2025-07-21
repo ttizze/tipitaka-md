@@ -1,11 +1,4 @@
-
-
 # Hetu-ārammaṇādi
-
-
-
-
-
 
 (96.)
 
@@ -24,6 +17,3 @@
 (97.)
 
 2220\. Hetuyā tīṇi, ārammaṇe dve, adhipatiyā tīṇi, anantare samanantare ekaṃ, sahajāte pañca, aññamaññe pañca, nissaye pañca, upanissaye dve, purejāte tīṇi, pacchājāte tīṇi, āsevane ekaṃ, kamme tīṇi, vipāke tīṇi, āhāre cha, indriye satta, jhāne tīṇi, magge tīṇi, sampayutte ekaṃ, vippayutte cattāri, atthiyā nava…pe…  avigate nava. (Saṃkhittaṃ.)
-
-
-

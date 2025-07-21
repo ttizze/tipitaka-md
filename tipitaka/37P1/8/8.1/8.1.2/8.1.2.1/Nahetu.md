@@ -1,11 +1,4 @@
-
-
 # Nahetu
-
-
-
-
-
 
 (6.)
 
@@ -34,6 +27,3 @@
 661\. Pītisahagatañca sukhasahagatañca dhammaṃ paṭicca sukhasahagato dhammo uppajjati nahetupaccayā—  ahetukaṃ pītisahagatañca sukhasahagatañca ekaṃ khandhaṃ paṭicca sukhasahagatā dve khandhā, dve khandhe paṭicca eko khandho. (2)
 
 662\. Pītisahagatañca sukhasahagatañca dhammaṃ paṭicca pītisahagato ca sukhasahagato ca dhammā uppajjanti nahetupaccayā—  ahetukaṃ pītisahagatañca sukhasahagatañca ekaṃ khandhaṃ paṭicca pītisahagatā ca sukhasahagatā ca dve khandhā, dve khandhe paṭicca eko khandho. (3)
-
-
-

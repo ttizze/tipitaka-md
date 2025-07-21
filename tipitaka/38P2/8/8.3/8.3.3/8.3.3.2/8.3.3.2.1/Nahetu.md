@@ -1,12 +1,4 @@
-
-
 # Nahetu
-
-
-
-
-
-
 
 (62.)
 
@@ -17,6 +9,3 @@
 2018\. Nīvaraṇavippayuttaṃ dhammaṃ paccayā nīvaraṇasampayutto dhammo uppajjati nahetupaccayā—  vatthuṃ paccayā vicikicchāsahagato uddhaccasahagato moho. (2)
 
 2019\. Nīvaraṇasampayuttañca nīvaraṇavippayuttañca dhammaṃ paccayā nīvaraṇasampayutto dhammo uppajjati nahetupaccayā—  vicikicchāsahagate uddhaccasahagate khandhe ca vatthuñca paccayā vicikicchāsahagato uddhaccasahagato moho. (Saṃkhittaṃ.) (1)
-
-
-

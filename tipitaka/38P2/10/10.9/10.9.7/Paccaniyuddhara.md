@@ -1,10 +1,4 @@
-
-
 # Paccanīyuddhāra
-
-
-
-
 
 (310.)
 
@@ -29,6 +23,3 @@
 3087\. Cittasaṃsaṭṭhasamuṭṭhāno ca nocittasaṃsaṭṭhasamuṭṭhāno ca dhammā nocittasaṃsaṭṭhasamuṭṭhānassa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo…  pacchājātapaccayena paccayo. (2)
 
 3088\. Cittasaṃsaṭṭhasamuṭṭhāno ca nocittasaṃsaṭṭhasamuṭṭhāno ca dhammā cittasaṃsaṭṭhasamuṭṭhānassa ca nocittasaṃsaṭṭhasamuṭṭhānassa ca dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo. (3)
-
-
-

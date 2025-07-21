@@ -1,12 +1,4 @@
-
-
 # Nahetu-naadhipati
-
-
-
-
-
-
 
 (383.)
 
@@ -23,6 +15,3 @@
 824\. Nahetupaccayā ārammaṇe dve. (Saṃkhittaṃ.)
 
 825\. (Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
-
-
-

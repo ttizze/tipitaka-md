@@ -1,12 +1,4 @@
-
-
 # Anantarādi
-
-
-
-
-
-
 
 (56.)
 
@@ -21,6 +13,3 @@
 154\. Ahetukaṃ dhammaṃ paṭicca ahetuko dhammo uppajjati sahajātapaccayā—  ahetukaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  vicikicchāsahagataṃ uddhaccasahagataṃ mohaṃ paṭicca cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe…pe…  khandhe paṭicca vatthu, vatthuṃ paṭicca khandhā; ekaṃ mahābhūtaṃ…pe…  bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…  asaññasattānaṃ ekaṃ mahābhūtaṃ…pe… . (1)
 
 155\. Ahetukaṃ dhammaṃ paṭicca sahetuko dhammo uppajjati sahajātapaccayā. (Ime pañca pañhā hetusadisā, ninnānaṃ.) (2)
-
-
-

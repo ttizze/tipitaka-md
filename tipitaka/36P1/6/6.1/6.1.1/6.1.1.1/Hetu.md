@@ -1,11 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
 
 (1.)
 
@@ -28,6 +21,3 @@
 2813\. Asaṃkiliṭṭhasaṃkilesikañca asaṃkiliṭṭhaasaṃkilesikañca dhammaṃ paṭicca asaṃkiliṭṭhasaṃkilesiko dhammo uppajjati hetupaccayā—  asaṃkiliṭṭhaasaṃkilesike khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
 
 2814\. Saṃkiliṭṭhasaṃkilesikañca asaṃkiliṭṭhasaṃkilesikañca dhammaṃ paṭicca asaṃkiliṭṭhasaṃkilesiko dhammo uppajjati hetupaccayā—  saṃkiliṭṭhasaṃkilesike khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1) (Saṃkhittaṃ.)
-
-
-

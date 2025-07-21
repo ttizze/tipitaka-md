@@ -1,11 +1,4 @@
-
-
 # Naārammaṇādi
-
-
-
-
-
 
 (26.)
 
@@ -24,6 +17,3 @@
 1736\. Sekkhañca nevasekkhanāsekkhañca dhammaṃ paccayā sekkho dhammo uppajjati naadhipatipaccayā—  sekkhe khandhe ca vatthuñca paccayā sekkho adhipati. (1)
 
 1737\. Asekkhañca nevasekkhanāsekkhañca dhammaṃ paccayā asekkho dhammo uppajjati naadhipatipaccayā—  asekkhe khandhe ca vatthuñca paccayā asekkho adhipati. (1)
-
-
-

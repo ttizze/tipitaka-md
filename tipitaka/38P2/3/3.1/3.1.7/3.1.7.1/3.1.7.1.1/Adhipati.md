@@ -1,12 +1,4 @@
-
-
 # Adhipati
-
-
-
-
-
-
 
 (21.)
 
@@ -19,6 +11,3 @@
 1028\. Noāsavo dhammo āsavassa ca noāsavassa ca dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati, sahajātādhipati. **Ārammaṇādhipati**—  dānaṃ…pe…  noāsave khandhe garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā rāgo uppajjati, diṭṭhi uppajjati. **Sahajātādhipati**—  noāsavā adhipati sampayuttakānaṃ khandhānaṃ āsavānaṃ cittasamuṭṭhānānañca rūpānaṃ adhipatipaccayena paccayo. (3)
 
 1029\. Āsavo ca noāsavo ca dhammā āsavassa dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  āsave ca sampayuttake ca khandhe garuṃ katvā assādeti…pe…  āsavā uppajjanti. (Tīṇi, garukārammaṇā.)
-
-
-

@@ -1,11 +1,4 @@
-
-
 # Navipāka
-
-
-
-
-
 
 (148.)
 
@@ -20,8 +13,3 @@
 ---
 
 540\. (Vipākaṃ ṭhapetvā sabbattha vitthāretabbaṃ.)
-
-
-
-
-

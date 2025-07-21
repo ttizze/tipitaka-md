@@ -1,12 +1,4 @@
-
-
 # Nahetu
-
-
-
-
-
-
 
 (28.)
 
@@ -15,6 +7,3 @@
 (29.)
 
 1525\. Nahetuyā nava…pe…  novigate nava. (Sabbattha nava, saṃkhittaṃ.)
-
-
-

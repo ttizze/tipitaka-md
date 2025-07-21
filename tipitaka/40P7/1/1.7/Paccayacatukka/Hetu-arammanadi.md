@@ -1,10 +1,4 @@
-
-
 # Hetu-ārammaṇādi
-
-
-
-
 
 (8.)
 
@@ -33,6 +27,3 @@
 20\. Hetuyā ekūnatiṃsa, ārammaṇe chattiṃsa, adhipatiyā pañcatiṃsa, anantare catuttiṃsa, samanantare catuttiṃsa, sahajāte ekūnatiṃsa, aññamaññe catuvīsa, nissaye catuttiṃsa, upanissaye chattiṃsa, purejāte aṭṭhārasa, pacchājāte aṭṭhārasa, āsevane catuvīsa, kamme ekūnatiṃsa, vipāke nava, āhāre ekūnatiṃsa…pe…  sampayutte catuvīsa, vippayutte sattavīsa…pe…  avigate catuttiṃsa.
 
 21\. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ evaṃ gaṇetabbaṃ.)
-
-
-

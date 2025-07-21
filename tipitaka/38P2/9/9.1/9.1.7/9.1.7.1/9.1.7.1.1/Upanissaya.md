@@ -1,12 +1,4 @@
-
-
 # Upanissaya
-
-
-
-
-
-
 
 (27.)
 
@@ -23,6 +15,3 @@
 (29.)
 
 2177\. Parāmāso ca noparāmāso ca dhammā parāmāsassa dhammassa upanissayapaccayena paccayo—  tīṇi upanissayā parāmāso ca sampayuttakā ca khandhā parāmāsassa upanissayapaccayena paccayo…  tīṇi.
-
-
-

@@ -1,10 +1,4 @@
-
-
 # Hetu
-
-
-
-
 
 (5.)
 
@@ -19,6 +13,3 @@
 15\. Hetuyā nava, ārammaṇe cha, adhipatiyā pañca…pe…  avigate nava.
 
 16\. (Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ evaṃ vitthāretabbaṃ.)
-
-
-

@@ -1,12 +1,4 @@
-
-
 # Hetvādi
-
-
-
-
-
-
 
 (489.)
 
@@ -23,6 +15,3 @@
 (490.)
 
 1089\. Hetuyā tīṇi, ārammaṇe nava, adhipatiyā nava, anantare nava, samanantare nava, sahajāte nava, aññamaññe nava, nissaye nava, upanissaye nava, āsevane nava, kamme tīṇi, vipāke nava, āhāre tīṇi, indriye nava, jhāne tīṇi, magge nava, sampayutte nava, atthiyā nava…pe…  avigate nava. (Saṃkhittaṃ.)
-
-
-

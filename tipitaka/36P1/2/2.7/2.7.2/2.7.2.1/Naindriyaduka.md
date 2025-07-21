@@ -1,11 +1,4 @@
-
-
 # Naindriyaduka
-
-
-
-
-
 
 (408.)
 
@@ -18,6 +11,3 @@
 * [Terasaka](Naindriyaduka/Terasaka.md)
 * [Pannarasaka](Naindriyaduka/Pannarasaka.md)
 * [Ekavīsaka](Naindriyaduka/Ekavisaka.md)
-
-
-

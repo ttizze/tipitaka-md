@@ -1,11 +1,4 @@
-
-
 # Nahetu
-
-
-
-
-
 
 (24.)
 
@@ -32,6 +25,3 @@
 2098\. Vipākañca nevavipākanavipākadhammadhammañca dhammaṃ paṭicca nevavipākanavipākadhammadhammo uppajjati nahetupaccayā—  ahetuke vipāke khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ; ahetukapaṭisandhikkhaṇe vipāke khandhe ca mahābhūte ca paṭicca kaṭattārūpaṃ. (2)
 
 2099\. Vipākañca nevavipākanavipākadhammadhammañca dhammaṃ paṭicca vipāko ca nevavipākanavipākadhammadhammo ca dhammā uppajjanti nahetupaccayā—  ahetukapaṭisandhikkhaṇe vipākaṃ ekaṃ khandhañca vatthuñca paṭicca tayo khandhā…pe…  dve khandhe ca vatthuñca paṭicca dve khandhā, vipāke khandhe ca mahābhūte ca paṭicca kaṭattārūpaṃ. (3)
-
-
-

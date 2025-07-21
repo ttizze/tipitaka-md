@@ -1,11 +1,4 @@
-
-
 # Jhānasāmaññaghaṭanā
-
-
-
-
-
 
 (471.)
 
@@ -26,6 +19,3 @@
 1553\. Jhāna sahajāta nissaya vipāka vippayutta atthi avigatanti nahetuyā ekaṃ…pe…  novigate ekaṃ.
 
 1554\. Jhāna sahajāta aññamañña nissaya vipāka vippayutta atthi avigatanti nahetuyā ekaṃ…pe…  novigate ekaṃ. [Savipāka—  5]
-
-
-

@@ -1,12 +1,4 @@
-
-
 # Anantarādi
-
-
-
-
-
-
 
 (9.)
 
@@ -27,8 +19,3 @@
 ---
 
 31\. (Aññamaññanissayapaccayā sahajātapaccayasadisā.)
-
-
-
-
-

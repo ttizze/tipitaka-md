@@ -1,12 +1,4 @@
-
-
 # Pacchājātāsevana
-
-
-
-
-
-
 
 (74.)
 
@@ -15,6 +7,3 @@
 2268\. Parāmāsavippayutto dhammo parāmāsavippayuttassa dhammassa pacchājātapaccayena paccayo. (Saṃkhittaṃ.) (1)
 
 2269\. Parāmāsasampayutto dhammo parāmāsasampayuttassa dhammassa āsevanapaccayena paccayo…  dve.
-
-
-

@@ -1,11 +1,4 @@
-
-
 # Napurejāta
-
-
-
-
-
 
 (10.)
 
@@ -14,6 +7,3 @@
 2675\. Anāgatārammaṇaṃ dhammaṃ paṭicca anāgatārammaṇo dhammo uppajjati napurejātapaccayā—  arūpe anāgatārammaṇaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe…pe… . (1)
 
 2676\. Paccuppannārammaṇaṃ dhammaṃ paṭicca paccuppannārammaṇo dhammo uppajjati napurejātapaccayā—  paṭisandhikkhaṇe paccuppannārammaṇaṃ ekaṃ khandhaṃ paṭicca…pe…  dve khandhe…pe… . (1)
-
-
-

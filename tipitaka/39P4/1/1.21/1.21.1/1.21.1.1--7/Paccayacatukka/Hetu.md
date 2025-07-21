@@ -1,12 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
-
 
 (231.)
 
@@ -21,6 +13,3 @@
 878\. Naadhipatiyā dve, napurejāte dve, napacchājāte dve, naāsevane dve, navipāke dve, navippayutte dve. (Saṃkhittaṃ.)
 
 879\. (Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ vitthāretabbaṃ.)
-
-
-

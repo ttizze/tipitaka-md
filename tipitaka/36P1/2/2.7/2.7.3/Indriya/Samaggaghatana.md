@@ -1,11 +1,4 @@
-
-
 # Samaggaghaṭanā
-
-
-
-
-
 
 (462.)
 
@@ -26,6 +19,3 @@
 1488\. Indriya sahajāta nissaya vipāka magga vippayutta atthi avigatanti nahetuyā ekaṃ…pe…  novigate ekaṃ.
 
 1489\. Indriya sahajāta aññamañña nissaya vipāka magga vippayutta atthi avigatanti nahetuyā ekaṃ…pe…  novigate ekaṃ. [Savipāka—  5]
-
-
-

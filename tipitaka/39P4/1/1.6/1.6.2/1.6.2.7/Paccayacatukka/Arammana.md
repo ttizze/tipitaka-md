@@ -1,12 +1,4 @@
-
-
 # Ārammaṇa
-
-
-
-
-
-
 
 (94.)
 
@@ -27,6 +19,3 @@
 (98.)
 
 331\. Savitakkasavicāro nahetu ca avitakkavicāramatto nahetu ca dhammā savitakkasavicārassa nahetussa dhammassa ārammaṇapaccayena paccayo. Savitakkasavicāro nahetu ca avitakkavicāramatto nahetu ca dhammā avitakkavicāramattassa nahetussa dhammassa ārammaṇapaccayena paccayo. Savitakkasavicāro nahetu ca avitakkavicāramatto nahetu ca dhammā avitakkaavicārassa nahetussa dhammassa ārammaṇapaccayena paccayo. Savitakkasavicāro nahetu ca avitakkavicāramatto nahetu ca dhammā savitakkasavicārassa nahetussa ca avitakkavicāramattassa nahetussa ca dhammassa ārammaṇapaccayena paccayo…  cattāri.
-
-
-

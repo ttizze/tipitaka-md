@@ -1,11 +1,4 @@
-
-
 # Nahetu
-
-
-
-
-
 
 (75.)
 
@@ -26,6 +19,3 @@
 2233\. Vipākañca nevavipākanavipākadhammadhammañca dhammaṃ paccayā vipāko dhammo uppajjati…pe…  nevavipākanavipākadhammadhammo uppajjati…pe…  vipāko ca nevavipākanavipākadhammadhammo ca dhammā uppajjanti nahetupaccayā…pe…  tīṇi.
 
 2234\. Vipākadhammadhammañca nevavipākanavipākadhammadhammañca dhammaṃ paccayā vipākadhammadhammo uppajjati nahetupaccayā—  vicikicchāsahagate uddhaccasahagate khandhe ca vatthuñca paccayā vicikicchāsahagato uddhaccasahagato moho. (1)
-
-
-

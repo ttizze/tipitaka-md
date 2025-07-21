@@ -1,12 +1,4 @@
-
-
 # Purejātādi
-
-
-
-
-
-
 
 (101.)
 
@@ -19,8 +11,3 @@
 ---
 
 4286\. Bhāvanāyapahātabbahetukadukaṃ niṭṭhitaṃ.
-
-
-
-
-

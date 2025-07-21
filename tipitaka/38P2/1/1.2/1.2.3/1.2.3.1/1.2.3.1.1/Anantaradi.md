@@ -1,12 +1,4 @@
-
-
 # Anantarādi
-
-
-
-
-
-
 
 (78.)
 
@@ -25,6 +17,3 @@
 219\. Sahetukañca ahetukañca dhammaṃ paccayā ahetuko dhammo uppajjati sahajātapaccayā—  sahetuke khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ, vicikicchāsahagate uddhaccasahagate khandhe ca mohañca paccayā cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe…pe…  vicikicchāsahagate uddhaccasahagate khandhe ca vatthuñca paccayā vicikicchāsahagato uddhaccasahagato moho. (2)
 
 220\. Sahetukañca ahetukañca dhammaṃ paccayā sahetuko ca ahetuko ca dhammā uppajjanti sahajātapaccayā—  sahetukaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe…pe…  sahetuke khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ, vicikicchāsahagataṃ uddhaccasahagataṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe…pe…  sahetuke khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ. Vicikicchāsahagataṃ uddhaccasahagataṃ ekaṃ khandhañca mohañca paccayā tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  vicikicchāsahagataṃ uddhaccasahagataṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā moho ca…pe…  paṭisandhikkhaṇe sahetukaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe…pe…  sahetuke khandhe ca mahābhūte ca paccayā kaṭattārūpaṃ. (3)
-
-
-

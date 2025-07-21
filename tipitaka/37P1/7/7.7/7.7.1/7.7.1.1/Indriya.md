@@ -1,11 +1,4 @@
-
-
 # Indriya
-
-
-
-
-
 
 (120.)
 
@@ -22,6 +15,3 @@
 520\. Avitakkavicāramatto dhammo avitakkavicāramattassa ca avitakkaavicārassa ca dhammassa indriyapaccayena paccayo—  avitakkavicāramattā indriyā sampayuttakānaṃ khandhānaṃ vicārassa ca cittasamuṭṭhānānañca rūpānaṃ indriyapaccayena paccayo. Paṭisandhikkhaṇe…pe… . (3)
 
 521\. Avitakkaavicāro dhammo avitakkaavicārassa dhammassa indriyapaccayena paccayo—  avitakkaavicārā indriyā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ indriyapaccayena paccayo. Paṭisandhikkhaṇe…pe…  cakkhundriyaṃ cakkhuviññāṇassa…pe…  kāyindriyaṃ kāyaviññāṇassa indriyapaccayena paccayo. **Rūpajīvitindriyaṃ**—  kaṭattārūpānaṃ indriyapaccayena paccayo. (1)
-
-
-

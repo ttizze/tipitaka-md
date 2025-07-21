@@ -1,11 +1,4 @@
-
-
 # Tika
-
-
-
-
-
 
 2244\. Nahetupaccayā naārammaṇapaccayā sahajāte tīṇi, aññamaññe dve…pe…  avigate tīṇi.
 
@@ -15,10 +8,4 @@
 
 2246\. Paccanīyānulomaṃ.
 
-  
 Paccayavāro.
-
-
-
-
-

@@ -1,11 +1,4 @@
-
-
 # Ārammaṇa
-
-
-
-
-
 
 (3.)
 
@@ -20,6 +13,3 @@
 1235\. Hetuyā nava, ārammaṇe tīṇi, adhipatiyā nava…pe…  vipāke ekaṃ…pe…  avigate nava. (Saṃkhittaṃ.)
 
 1236\. Nahetuyā ekaṃ, naārammaṇe pañca, naadhipatiyā nava…pe…  novigate pañca. (Saṃkhittaṃ. Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ.)
-
-
-

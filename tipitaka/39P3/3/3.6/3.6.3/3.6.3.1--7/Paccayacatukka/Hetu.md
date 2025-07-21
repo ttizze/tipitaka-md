@@ -1,12 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
-
 
 (50.)
 
@@ -25,6 +17,3 @@
 1571\. Nahetuyā ekaṃ, naārammaṇe tīṇi, naadhipatiyā dve…pe…  napurejāte cattāri, napacchājāte pañca…pe…  nakamme ekaṃ, navipāke ekaṃ, naāhāre ekaṃ…pe…  namagge ekaṃ, nasampayutte tīṇi, navippayutte dve, nonatthiyā tīṇi, novigate tīṇi. (Saṃkhittaṃ, paccanīyaṃ.)
 
 1572\. (Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
-
-
-

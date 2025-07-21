@@ -1,10 +1,4 @@
-
-
 # Paccanīyuddhāra
-
-
-
-
 
 (196.)
 
@@ -25,6 +19,3 @@
 536\. Nahetu sahetuko ca nahetu ahetuko ca dhammā nahetusahetukassa dhammassa sahajātaṃ…  purejātaṃ. (1)
 
 537\. Nahetu sahetuko ca nahetu ahetuko ca dhammā nahetuahetukassa dhammassa sahajātaṃ…  pacchājātaṃ…  āhāraṃ…  indriyaṃ. (2)
-
-
-

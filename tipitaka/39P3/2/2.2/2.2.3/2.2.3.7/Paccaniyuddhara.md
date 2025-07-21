@@ -1,11 +1,4 @@
-
-
 # Paccanīyuddhāra
-
-
-
-
-
 
 (23.)
 
@@ -24,8 +17,3 @@
 ---
 
 1305\. Sahetukadukakusalattikaṃ niṭṭhitaṃ.
-
-
-
-
-

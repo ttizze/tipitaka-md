@@ -1,11 +1,4 @@
-
-
 # Napurejāta
-
-
-
-
-
 
 (51.)
 
@@ -24,6 +17,3 @@
 905\. Dassanena pahātabbañca nevadassanena nabhāvanāya pahātabbañca dhammaṃ paccayā nevadassanena nabhāvanāya pahātabbo dhammo uppajjati napurejātapaccayā—  dassanena pahātabbe khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ. (1)
 
 906\. Bhāvanāya pahātabbañca nevadassanena nabhāvanāya pahātabbañca dhammaṃ paccayā nevadassanena nabhāvanāya pahātabbo dhammo uppajjati napurejātapaccayā—  bhāvanāya pahātabbe khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ. (1)
-
-
-

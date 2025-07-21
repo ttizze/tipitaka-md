@@ -1,10 +1,4 @@
-
-
 # Paccayacatukka
-
-
-
-
 
 (23.)
 
@@ -47,6 +41,3 @@
 (30.)
 
 2009\. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.) (Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
-
-
-

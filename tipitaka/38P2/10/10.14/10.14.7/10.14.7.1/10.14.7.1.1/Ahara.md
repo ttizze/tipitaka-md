@@ -1,12 +1,4 @@
-
-
 # Āhāra
-
-
-
-
-
-
 
 (459.)
 
@@ -29,6 +21,3 @@
 3489\. Upādinno ca anupādinno ca dhammā anupādinnassa dhammassa āhārapaccayena paccayo—  upādinno ca anupādinno ca kabaḷīkāro āhāro imassa anupādinnassa kāyassa āhārapaccayena paccayo. (2)
 
 3490\. Upādinno ca anupādinno ca dhammā upādinnassa ca anupādinnassa ca dhammassa āhārapaccayena paccayo—  upādinno ca anupādinno ca kabaḷīkāro āhāro imassa upādinnassa ca anupādinnassa ca kāyassa āhārapaccayena paccayo. (3)
-
-
-

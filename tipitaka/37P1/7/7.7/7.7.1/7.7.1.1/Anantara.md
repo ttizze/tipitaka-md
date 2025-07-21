@@ -1,11 +1,4 @@
-
-
 # Anantara
-
-
-
-
-
 
 (79.)
 
@@ -66,6 +59,3 @@
 349\. Savitakkasavicāro ca avitakkavicāramatto ca dhammā avitakkavicāramattassa ca avitakkaavicārassa ca dhammassa anantarapaccayena paccayo—  savitakkasavicāraṃ cuticittañca vitakko ca avitakkavicāramattassa upapatticittassa ca vicārassa ca anantarapaccayena paccayo. Savitakkasavicārā khandhā ca vitakko ca avitakkavicāramattassa vuṭṭhānassa ca vicārassa ca anantarapaccayena paccayo. Avitakkavicāramattassa jhānassa parikammañca vitakko ca avitakkavicāramattassa jhānassa ca vicārassa ca anantarapaccayena paccayo. Gotrabhu ca vitakko ca avitakkavicāramattassa maggassa ca vicārassa ca anantarapaccayena paccayo. Vodānañca vitakko ca avitakkavicāramattassa maggassa ca vicārassa ca…  anulomañca vitakko ca avitakkavicāramattāya phalasamāpattiyā ca vicārassa ca anantarapaccayena paccayo. (4)
 
 350\. Savitakkasavicāro ca avitakkavicāramatto ca dhammā savitakkasavicārassa ca avitakkavicāramattassa ca dhammassa anantarapaccayena paccayo—  purimā purimā savitakkasavicārā khandhā ca vitakko ca pacchimānaṃ pacchimānaṃ savitakkasavicārānaṃ khandhānaṃ vitakkassa ca anantarapaccayena paccayo. Anulomañca vitakko ca gotrabhussa ca vitakkassa ca…  anulomañca vitakko ca vodānassa ca vitakkassa ca…  gotrabhu ca vitakko ca savitakkasavicārassa ca maggassa ca vitakkassa ca…  vodānañca vitakko ca savitakkasavicārassa maggassa ca vitakkassa ca anantarapaccayena paccayo. Savitakkasavicāro maggo ca vitakko ca savitakkasavicārassa phalassa ca vitakkassa ca…  savitakkasavicāraṃ phalañca vitakko ca savitakkasavicārassa phalassa ca vitakkassa ca…  anulomañca vitakko ca savitakkasavicārāya phalasamāpattiyā ca vitakkassa ca anantarapaccayena paccayo. (5)
-
-
-

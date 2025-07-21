@@ -1,12 +1,4 @@
-
-
 # Anantara
-
-
-
-
-
-
 
 (179.)
 
@@ -17,6 +9,3 @@
 493\. Nahetu ahetuko dhammo nahetuahetukassa dhammassa anantarapaccayena paccayo—  purimā purimā nahetū ahetukā khandhā pacchimānaṃ pacchimānaṃ nahetuahetukānaṃ khandhānaṃ anantarapaccayena paccayo; āvajjanā pañcannaṃ viññāṇānaṃ anantarapaccayena paccayo. (1)
 
 494\. Nahetu ahetuko dhammo nahetusahetukassa dhammassa anantarapaccayena paccayo—  nahetu ahetukaṃ cuticittaṃ nahetusahetukassa upapatticittassa anantarapaccayena paccayo; āvajjanā nahetusahetukānaṃ khandhānaṃ anantarapaccayena paccayo; nahetū ahetukā khandhā nahetusahetukassa vuṭṭhānassa anantarapaccayena paccayo. (2)
-
-
-

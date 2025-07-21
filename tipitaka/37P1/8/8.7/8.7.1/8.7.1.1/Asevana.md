@@ -1,11 +1,4 @@
-
-
 # Āsevana
-
-
-
-
-
 
 (37.)
 
@@ -24,6 +17,3 @@
 (39.)
 
 747\. Pītisahagato ca sukhasahagato ca dhammā pītisahagatassa dhammassa…pe…  sukhasahagatassa dhammassa…pe…  pītisahagatassa ca sukhasahagatassa ca dhammassa āsevanapaccayena paccayo—  purimā purimā pītisahagatā ca sukhasahagatā ca khandhā pacchimānaṃ pacchimānaṃ pītisahagatānañca sukhasahagatānañca khandhānaṃ āsevanapaccayena paccayo…pe…  pītisahagatañca sukhasahagatañca vodānaṃ pītisahagatassa ca sukhasahagatassa ca maggassa āsevanapaccayena paccayo. (3)
-
-
-

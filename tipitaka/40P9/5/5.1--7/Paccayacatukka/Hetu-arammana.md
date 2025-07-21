@@ -1,10 +1,4 @@
-
-
 # Hetu-ārammaṇa
-
-
-
-
 
 (31.)
 
@@ -19,6 +13,3 @@
 89\. Nahetuṃ naanidassanaappaṭighaṃ dhammaṃ paṭicca nahetu naanidassanaappaṭigho dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
 
 90\. Hetuyā ekaṃ, adhipatiyā sahajāte aññamaññe nissaye kamme…pe…  magge ekaṃ, vippayutte atthiyā avigate ekaṃ. (Sabbattha vitthāro.)
-
-
-

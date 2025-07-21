@@ -1,11 +1,4 @@
-
-
 # Ārammaṇa
-
-
-
-
-
 
 (39.)
 
@@ -30,6 +23,3 @@
 1890\. Adukkhamasukhāya vedanāya sampayutto dhammo sukhāya vedanāya sampayuttassa dhammassa ārammaṇapaccayena paccayo—  adukkhamasukhāya vedanāya sampayuttena cittena dānaṃ datvā, sīlaṃ samādiyitvā, uposathakammaṃ katvā sukhāya vedanāya sampayuttena cittena paccavekkhati. Adukkhamasukhāya vedanāya sampayuttā jhānā vuṭṭhahitvā, maggā vuṭṭhahitvā, phalā vuṭṭhahitvā sukhāya vedanāya sampayuttena cittena paccavekkhati. Ariyā sukhāya vedanāya sampayuttena cittena adukkhamasukhāya vedanāya sampayutte pahīne kilese paccavekkhanti, vikkhambhite kilese paccavekkhanti, pubbe samudāciṇṇe kilese jānanti. Adukkhamasukhāya vedanāya sampayutte khandhe sukhāya vedanāya sampayuttena cittena aniccato dukkhato anattato vipassati, assādeti abhinandati; taṃ ārabbha sukhāya vedanāya sampayutto rāgo uppajjati, diṭṭhi uppajjati; adukkhamasukhāya vedanāya sampayutte khandhe ārabbha sukhāya vedanāya sampayuttā khandhā uppajjanti. (2)
 
 1891\. Adukkhamasukhāya vedanāya sampayutto dhammo dukkhāya vedanāya sampayuttassa dhammassa ārammaṇapaccayena paccayo—  adukkhamasukhāya vedanāya sampayuttena cittena dānaṃ datvā, sīlaṃ samādiyitvā, uposathakammaṃ katvā vippaṭisārissa domanassaṃ uppajjati, adukkhamasukhāya vedanāya sampayutte jhāne parihīne vippaṭisārissa domanassaṃ uppajjati, adukkhamasukhāya vedanāya sampayutte khandhe ārabbha dukkhāya vedanāya sampayuttā khandhā uppajjanti. (3)
-
-
-

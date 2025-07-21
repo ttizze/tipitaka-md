@@ -1,12 +1,4 @@
-
-
 # Upanissaya
-
-
-
-
-
-
 
 (86.)
 
@@ -29,6 +21,3 @@
 1210\. Āsavasampayutto ca āsavavippayutto ca dhammā āsavasampayuttassa dhammassa upanissayapaccayena paccayo—  anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  domanassasahagatā vicikicchāsahagatā uddhaccasahagatā khandhā ca moho ca āsavasampayuttakānaṃ khandhānaṃ upanissayapaccayena paccayo. (Pucchitabbaṃ mūlaṃ.) Domanassasahagatā vicikicchāsahagatā uddhaccasahagatā khandhā ca moho ca āsavasampayuttakānaṃ khandhānaṃ upanissayapaccayena paccayo. (1)
 
 1211\. Āsavasampayutto ca āsavavippayutto ca dhammā āsavasampayuttassa ca āsavavippayuttassa ca dhammassa upanissayapaccayena paccayo—  anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  domanassasahagatā vicikicchāsahagatā uddhaccasahagatā khandhā ca moho ca domanassasahagatānaṃ vicikicchāsahagatānaṃ uddhaccasahagatānaṃ khandhānaṃ mohassa ca upanissayapaccayena paccayo. (2)
-
-
-

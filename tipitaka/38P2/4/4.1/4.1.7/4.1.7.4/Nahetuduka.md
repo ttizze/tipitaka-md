@@ -1,11 +1,4 @@
-
-
 # Nahetuduka
-
-
-
-
-
 
 (38.)
 
@@ -14,8 +7,3 @@
 ---
 
 1415\. Saññojanadukaṃ niṭṭhitaṃ.
-
-
-
-
-

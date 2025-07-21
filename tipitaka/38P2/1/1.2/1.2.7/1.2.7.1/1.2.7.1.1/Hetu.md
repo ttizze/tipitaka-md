@@ -1,12 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
-
 
 (96.)
 
@@ -23,6 +15,3 @@
 261\. Ahetuko dhammo sahetukassa dhammassa hetupaccayena paccayo—  vicikicchāsahagato uddhaccasahagato moho sampayuttakānaṃ khandhānaṃ hetupaccayena paccayo. (2)
 
 262\. Ahetuko dhammo sahetukassa ca ahetukassa ca dhammassa hetupaccayena paccayo—  vicikicchāsahagato uddhaccasahagato moho sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo. (3)
-
-
-

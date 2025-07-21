@@ -1,7 +1,4 @@
-
-
 # Dvattiṃsamahāpurisalakkhaṇāni
-
 
 ## 396\. Dvattiṃsamahāpurisalakkhaṇāni
 
@@ -28,6 +25,3 @@
 404\. Imāni kho tāni, bhikkhave, dvattiṃsa mahāpurisassa mahāpurisalakkhaṇāni, yehi samannāgatassa mahāpurisassa dveva gatiyo bhavanti anaññā. Sace agāraṃ ajjhāvasati, rājā hoti cakkavattī…pe…  sace kho pana agārasmā anagāriyaṃ pabbajati, arahaṃ hoti sammāsambuddho loke vivaṭṭacchado.
 
 405\. Imāni kho, bhikkhave, dvattiṃsa mahāpurisassa mahāpurisalakkhaṇāni bāhirakāpi isayo dhārenti, no ca kho te jānanti—  ‘imassa kammassa kaṭattā idaṃ lakkhaṇaṃ paṭilabhatī’ti.
-
-
-

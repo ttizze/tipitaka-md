@@ -1,11 +1,4 @@
-
-
 # Adhipati
-
-
-
-
-
 
 (95.)
 
@@ -30,6 +23,3 @@
 2297\. Nevavipākanavipākadhammadhammo vipākassa dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  nibbānaṃ phalassa adhipatipaccayena paccayo. (2)
 
 2298\. Nevavipākanavipākadhammadhammo vipākadhammadhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  sekkhā nibbānaṃ garuṃ katvā paccavekkhanti. Nibbānaṃ gotrabhussa, vodānassa, maggassa adhipatipaccayena paccayo. Cakkhuṃ garuṃ katvā assādeti abhinandati; taṃ garuṃ katvā rāgo uppajjati, diṭṭhi uppajjati. Sotaṃ…pe…  nevavipākanavipākadhammadhamme khandhe garuṃ katvā assādeti abhinandati; taṃ garuṃ katvā rāgo uppajjati, diṭṭhi uppajjati. (3)
-
-
-

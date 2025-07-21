@@ -1,11 +1,4 @@
-
-
 # Ārammaṇa
-
-
-
-
-
 
 (2.)
 
@@ -14,6 +7,3 @@
 2447\. Anupādinnupādāniyaṃ dhammaṃ paṭicca…pe… .
 
 2448\. Anupādinnaanupādāniyaṃ dhammaṃ paṭicca…pe…  ārammaṇapaccayā…  tīṇi.
-
-
-

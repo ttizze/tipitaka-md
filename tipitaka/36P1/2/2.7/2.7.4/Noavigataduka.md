@@ -1,10 +1,4 @@
-
-
 # Noavigataduka
-
-
-
-
 
 (517.)
 
@@ -14,22 +8,12 @@
 
 1793\. (Yathā noatthimūlakaṃ, evaṃ vitthāretabbaṃ.)
 
-
-
 ---
 
 1794\. Noavigatamūlakaṃ.
 
-  
 Pañhāvārassa paccanīyānulomaṃ.
-
-
 
 ---
 
 1795\. Kusalattikaṃ niṭṭhitaṃ.
-
-
-
-
-

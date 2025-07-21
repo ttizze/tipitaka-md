@@ -1,11 +1,4 @@
-
-
 # Purejāta
-
-
-
-
-
 
 (93.)
 
@@ -18,6 +11,3 @@
 1339\. Nevadassanena nabhāvanāya pahātabbahetuko dhammo dassanena pahātabbahetukassa ca nevadassanena nabhāvanāya pahātabbahetukassa ca dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ. **Ārammaṇapurejātaṃ**—  cakkhuṃ…pe…  vatthuṃ ārabbha vicikicchāsahagatā khandhā ca moho ca uppajjanti. **Vatthupurejātaṃ**—  vatthu vicikicchāsahagatānaṃ khandhānaṃ mohassa ca purejātapaccayena paccayo. (4)
 
 1340\. Nevadassanena nabhāvanāya pahātabbahetuko dhammo bhāvanāya pahātabbahetukassa ca nevadassanena nabhāvanāya pahātabbahetukassa ca dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ. **Ārammaṇapurejātaṃ**—  cakkhuṃ…pe…  vatthuṃ ārabbha uddhaccasahagatā khandhā ca moho ca uppajjanti. **Vatthupurejātaṃ**—  vatthu uddhaccasahagatānaṃ khandhānaṃ mohassa ca purejātapaccayena paccayo. (5)
-
-
-

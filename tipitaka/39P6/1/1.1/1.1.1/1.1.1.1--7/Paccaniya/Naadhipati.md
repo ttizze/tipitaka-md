@@ -1,12 +1,4 @@
-
-
 # Naadhipati
-
-
-
-
-
-
 
 (5.)
 
@@ -19,6 +11,3 @@
 9\. Naadhipatipaccayā hetuyā nava. (Saṃkhittaṃ.)
 
 10\. (Sahajātavārampi paccayavārampi nissayavārampi saṃsaṭṭhavārampi sampayuttavārampi paṭiccavārasadisaṃ.)
-
-
-

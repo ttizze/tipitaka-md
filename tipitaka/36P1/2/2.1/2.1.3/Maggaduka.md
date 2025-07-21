@@ -1,10 +1,4 @@
-
-
 # Maggaduka
-
-
-
-
 
 (77.)
 
@@ -12,6 +6,3 @@
 
 * [Tika](Maggaduka/Tika.md)
 * [Catukka](Maggaduka/Catukka.md)
-
-
-

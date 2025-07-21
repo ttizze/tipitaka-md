@@ -1,12 +1,4 @@
-
-
 # Upanissaya
-
-
-
-
-
-
 
 (181.)
 
@@ -19,6 +11,3 @@
 498\. Nahetu ahetuko dhammo nahetuahetukassa dhammassa upanissayapaccayena paccayo—  anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  kāyikaṃ sukhaṃ kāyikassa sukhassa, kāyikassa dukkhassa upanissayapaccayena paccayo; kāyikaṃ dukkhaṃ…  utu…  bhojanaṃ…  senāsanaṃ kāyikassa sukhassa, kāyikassa dukkhassa upanissayapaccayena paccayo; kāyikaṃ sukhaṃ…  kāyikaṃ dukkhaṃ…  utu…  bhojanaṃ…  senāsanaṃ kāyikassa sukhassa, kāyikassa dukkhassa upanissayapaccayena paccayo. (1)
 
 499\. Nahetu ahetuko dhammo nahetusahetukassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  kāyikaṃ sukhaṃ upanissāya dānaṃ deti…pe…  saṃghaṃ bhindati; kāyikaṃ dukkhaṃ…  utuṃ…  bhojanaṃ…  senāsanaṃ upanissāya dānaṃ deti…pe…  saṃghaṃ bhindati; kāyikaṃ sukhaṃ …pe…  senāsanaṃ saddhāya…pe…  patthanāya maggassa phalasamāpattiyā upanissayapaccayena paccayo. (2)
-
-
-

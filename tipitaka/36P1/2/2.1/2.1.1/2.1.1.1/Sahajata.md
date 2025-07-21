@@ -1,11 +1,4 @@
-
-
 # Sahajāta
-
-
-
-
-
 
 (5.)
 
@@ -18,6 +11,3 @@
 136\. Kusalañca abyākatañca dhammaṃ paṭicca abyākato dhammo uppajjati sahajātapaccayā—  kusale khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
 
 137\. Akusalañca abyākatañca dhammaṃ paṭicca abyākato dhammo uppajjati sahajātapaccayā—  akusale khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
-
-
-

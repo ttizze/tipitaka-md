@@ -1,11 +1,4 @@
-
-
 # Nakamma
-
-
-
-
-
 
 (218.)
 
@@ -14,6 +7,3 @@
 719\. Akusalaṃ dhammaṃ saṃsaṭṭho akusalo dhammo uppajjati nakammapaccayā. Akusale khandhe saṃsaṭṭhā akusalā cetanā. (1)
 
 720\. Abyākataṃ dhammaṃ saṃsaṭṭho abyākato dhammo uppajjati nakammapaccayā. Kiriyābyākate khandhe saṃsaṭṭhā kiriyābyākatā cetanā. (1)
-
-
-

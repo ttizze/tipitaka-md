@@ -1,8 +1,4 @@
-
-
 # Dvepabbajitavatthu
-
-
 
 (378.)
 
@@ -23,8 +19,3 @@
 ---
 
 629\. Jāliyasuttaṃ niṭṭhitaṃ sattamaṃ.
-
-
-
-
-

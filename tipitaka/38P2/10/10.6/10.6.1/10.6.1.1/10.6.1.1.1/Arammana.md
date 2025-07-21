@@ -1,12 +1,4 @@
-
-
 # Ārammaṇa
-
-
-
-
-
-
 
 (189.)
 
@@ -31,6 +23,3 @@
 2783\. Cittasamuṭṭhānañca nocittasamuṭṭhānañca dhammaṃ paṭicca nocittasamuṭṭhāno dhammo uppajjati ārammaṇapaccayā—  paṭisandhikkhaṇe cittasamuṭṭhāne khandhe ca vatthuñca paṭicca cittaṃ. (2)
 
 2784\. Cittasamuṭṭhānañca nocittasamuṭṭhānañca dhammaṃ paṭicca cittasamuṭṭhāno ca nocittasamuṭṭhāno ca dhammā uppajjanti ārammaṇapaccayā—  paṭisandhikkhaṇe cittasamuṭṭhānaṃ ekaṃ khandhañca vatthuñca paṭicca dve khandhā cittañca, dve khandhe…pe… . (3)
-
-
-

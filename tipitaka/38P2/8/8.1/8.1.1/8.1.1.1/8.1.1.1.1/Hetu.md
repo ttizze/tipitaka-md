@@ -1,12 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
-
 
 (1.)
 
@@ -31,6 +23,3 @@
 1896\. Nīvaraṇañca nonīvaraṇañca dhammaṃ paṭicca nonīvaraṇo dhammo uppajjati hetupaccayā—  nonīvaraṇaṃ ekaṃ khandhañca nīvaraṇañca paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe ca…pe…  nīvaraṇe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (2)
 
 1897\. Nīvaraṇañca nonīvaraṇañca dhammaṃ paṭicca nīvaraṇo ca nonīvaraṇo ca dhammā uppajjanti hetupaccayā—  nonīvaraṇaṃ ekaṃ khandhañca kāmacchandanīvaraṇañca paṭicca tayo khandhā thinamiddhanīvaraṇaṃ uddhaccanīvaraṇaṃ avijjānīvaraṇaṃ…pe…  dve khandhe ca…pe… . (Cakkaṃ. Saṃkhittaṃ.) (3)
-
-
-

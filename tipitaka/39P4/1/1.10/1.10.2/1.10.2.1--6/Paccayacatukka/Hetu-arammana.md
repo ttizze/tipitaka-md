@@ -1,12 +1,4 @@
-
-
 # Hetu-ārammaṇa
-
-
-
-
-
-
 
 (138.)
 
@@ -29,6 +21,3 @@
 494\. Nevācayagāmināpacayagāmiṃ nahetuṃ dhammaṃ paṭicca nevācayagāmināpacayagāmī nahetu dhammo uppajjati ārammaṇapaccayā. (1) (Saṃkhittaṃ.)
 
 495\. Hetuyā nava, ārammaṇe tīṇi, adhipatiyā nava…pe…  vipāke ekaṃ…pe…  avigate nava. (Saṃkhittaṃ.)
-
-
-

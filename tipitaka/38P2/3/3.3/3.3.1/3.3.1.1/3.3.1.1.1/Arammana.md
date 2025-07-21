@@ -1,12 +1,4 @@
-
-
 # Ārammaṇa
-
-
-
-
-
-
 
 (51.)
 
@@ -23,6 +15,3 @@
 1108\. Āsavavippayuttaṃ dhammaṃ paṭicca āsavasampayutto dhammo uppajjati ārammaṇapaccayā—  domanassasahagataṃ vicikicchāsahagataṃ uddhaccasahagataṃ mohaṃ paṭicca sampayuttakā khandhā. (2)
 
 1109\. Āsavasampayuttañca āsavavippayuttañca dhammaṃ paṭicca āsavasampayutto dhammo uppajjati ārammaṇapaccayā—  domanassasahagataṃ vicikicchāsahagataṃ uddhaccasahagataṃ ekaṃ khandhañca mohañca paṭicca tayo khandhā…pe…  dve khandhe…pe… . (1)
-
-
-

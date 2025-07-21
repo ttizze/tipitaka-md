@@ -1,12 +1,4 @@
-
-
 # Anantara
-
-
-
-
-
-
 
 (24.)
 
@@ -31,6 +23,3 @@
 69\. Hetū ca nahetū ca dhammā nahetussa dhammassa anantarapaccayena paccayo—  purimā purimā hetū ca sampayuttakā ca khandhā pacchimānaṃ pacchimānaṃ nahetūnaṃ khandhānaṃ anantarapaccayena paccayo. (2)
 
 70\. Hetū ca nahetū ca dhammā hetussa ca nahetussa ca dhammassa anantarapaccayena paccayo—  purimā purimā hetū ca sampayuttakā ca khandhā pacchimānaṃ pacchimānaṃ hetūnaṃ sampayuttakānañca khandhānaṃ anantarapaccayena paccayo. (3)
-
-
-

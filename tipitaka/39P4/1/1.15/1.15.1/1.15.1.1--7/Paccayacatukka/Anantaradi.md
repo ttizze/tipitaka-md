@@ -1,12 +1,4 @@
-
-
 # Anantarādi
-
-
-
-
-
-
 
 (183.)
 
@@ -35,6 +27,3 @@
 691\. Nahetupaccayā ārammaṇe cattāri. (Saṃkhittaṃ.)
 
 692\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
-
-
-

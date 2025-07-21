@@ -1,5 +1,3 @@
-
-
 # Paccayacatukka
 
 * [Hetu](Paccayacatukka/Hetu.md)
@@ -8,6 +6,3 @@
 * [Napurejātādi](Paccayacatukka/Napurejatadi.md)
 * [Nakamma](Paccayacatukka/Nakamma.md)
 * [Navipākādi](Paccayacatukka/Navipakadi.md)
-
-
-

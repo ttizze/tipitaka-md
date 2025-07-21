@@ -1,9 +1,4 @@
-
-
 # Paccanīyuddhāra
-
-
-
 
 (51.)
 
@@ -22,6 +17,3 @@
 2862\. Ajjhatto dhammo ca bahiddhā dhammo ca ajjhattassa dhammassa purejātaṃ, āhāraṃ. (1)
 
 2863\. Ajjhatto dhammo ca bahiddhā dhammo ca bahiddhā dhammassa purejātaṃ, āhāraṃ. (2)
-
-
-

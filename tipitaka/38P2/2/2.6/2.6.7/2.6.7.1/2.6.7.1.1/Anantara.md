@@ -1,12 +1,4 @@
-
-
 # Anantara
-
-
-
-
-
-
 
 (153.)
 
@@ -19,6 +11,3 @@
 899\. Lokuttaro dhammo lokuttarassa dhammassa anantarapaccayena paccayo—  purimā purimā lokuttarā khandhā pacchimānaṃ pacchimānaṃ lokuttarānaṃ khandhānaṃ anantarapaccayena paccayo; maggo phalassa, phalaṃ phalassa anantarapaccayena paccayo. (1)
 
 900\. Lokuttaro dhammo lokiyassa dhammassa anantarapaccayena paccayo—  phalaṃ vuṭṭhānassa anantarapaccayena paccayo. (2)
-
-
-

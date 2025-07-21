@@ -1,9 +1,4 @@
-
-
 # Paccanīyuddhāra
-
-
-
 
 (56.)
 
@@ -20,6 +15,3 @@
 185\. Nahetupaccayā ārammaṇe cattāri. (Saṃkhittaṃ.)
 
 186\. (Yathā kusalattike pañhāvāraṃ evaṃ vitthāretabbaṃ.)
-
-
-

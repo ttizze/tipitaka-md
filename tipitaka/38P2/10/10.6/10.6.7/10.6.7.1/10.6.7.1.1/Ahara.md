@@ -1,12 +1,4 @@
-
-
 # Āhāra
-
-
-
-
-
-
 
 (222.)
 
@@ -19,6 +11,3 @@
 (224.)
 
 2871\. Cittasamuṭṭhāno ca nocittasamuṭṭhāno ca dhammā cittasamuṭṭhānassa dhammassa āhārapaccayena paccayo—  cittasamuṭṭhānā ca nocittasamuṭṭhānā ca āhārā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ āhārapaccayena paccayo; paṭisandhikkhaṇe…pe… . (Mūlaṃ kātabbaṃ.) Paṭisandhikkhaṇe cittasamuṭṭhānā ca nocittasamuṭṭhānā ca āhārā kaṭattārūpānaṃ āhārapaccayena paccayo; cittasamuṭṭhāno ca nocittasamuṭṭhāno ca kabaḷīkāro āhāro imassa nocittasamuṭṭhānassa kāyassa āhārapaccayena paccayo. (Mūlaṃ kātabbaṃ.) Paṭisandhikkhaṇe cittasamuṭṭhānā ca nocittasamuṭṭhānā ca āhārā sampayuttakānaṃ khandhānaṃ kaṭattā ca rūpānaṃ āhārapaccayena paccayo. (3)
-
-
-

@@ -1,11 +1,4 @@
-
-
 # Navipāka
-
-
-
-
-
 
 (41.)
 
@@ -24,6 +17,3 @@
 2580\. Anupādinnupādāniyañca anupādinnaanupādāniyañca dhammaṃ paccayā anupādinnupādāniyo dhammo uppajjati navipākapaccayā. (Saṃkhittaṃ.)
 
 2581\. Upādinnupādāniyañca anupādinnupādāniyañca dhammaṃ paccayā anupādinnupādāniyo dhammo uppajjati navipākapaccayā—  anupādinnupādāniyaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe ca vatthuñca paccayā dve khandhā.
-
-
-

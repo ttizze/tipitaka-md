@@ -1,10 +1,4 @@
-
-
 # Duka
-
-
-
-
 
 (52.)
 
@@ -14,19 +8,10 @@
 
 787\. (Paccanīyānulomaṃ anumajjantena gaṇetabbaṃ.)
 
-
-
 ---
 
 788\. Paccanīyānulomaṃ.
 
-
-
 ---
 
 789\. Pītittikaṃ niṭṭhitaṃ.
-
-
-
-
-

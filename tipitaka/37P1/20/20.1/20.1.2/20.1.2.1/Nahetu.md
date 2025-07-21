@@ -1,11 +1,4 @@
-
-
 # Nahetu
-
-
-
-
-
 
 (6.)
 
@@ -18,6 +11,3 @@
 (8.)
 
 2672\. Paccuppannārammaṇaṃ dhammaṃ paṭicca paccuppannārammaṇo dhammo uppajjati nahetupaccayā—  ahetukaṃ paccuppannārammaṇaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe…pe…  ahetukapaṭisandhikkhaṇe…pe…  vicikicchāsahagate uddhaccasahagate khandhe paṭicca vicikicchāsahagato uddhaccasahagato moho. (1)
-
-
-

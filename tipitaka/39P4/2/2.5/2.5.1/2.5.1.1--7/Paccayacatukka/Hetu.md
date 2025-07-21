@@ -1,12 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
-
 
 (28.)
 
@@ -27,6 +19,3 @@
 1044\. Naadhipatipaccayā hetuyā tīṇi. (Saṃkhittaṃ.)
 
 1045\. (Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ.)
-
-
-

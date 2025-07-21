@@ -1,11 +1,4 @@
-
-
 # Nakamma
-
-
-
-
-
 
 (11.)
 
@@ -16,8 +9,3 @@
 ---
 
 666\. (Iminā kāraṇena dasa pañhā vitthāretabbā.)
-
-
-
-
-

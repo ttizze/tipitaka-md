@@ -1,11 +1,4 @@
-
-
 # Aññamañña
-
-
-
-
-
 
 (66.)
 
@@ -28,6 +21,3 @@
 2210\. Vipākañca nevavipākanavipākadhammadhammañca dhammaṃ paccayā vipāko dhammo uppajjati aññamaññapaccayā—  cakkhuviññāṇasahagataṃ ekaṃ khandhañca cakkhāyatanañca paccayā tayo khandhā…pe…  dve khandhe ca cakkhāyatanañca paccayā dve khandhā, sota…  ghāna…  jivhā…  kāya…pe…  vipākaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe ca vatthuñca paccayā dve khandhā; paṭisandhikkhaṇe vipākaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe ca vatthuñca paccayā dve khandhā. (1)
 
 2211\. Vipākadhammadhammañca nevavipākanavipākadhammadhammañca dhammaṃ paccayā vipākadhammadhammo uppajjati aññamaññapaccayā—  vipākadhammadhammaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe ca vatthuñca paccayā dve khandhā. (1)
-
-
-

@@ -1,12 +1,4 @@
-
-
 # Ārammaṇa
-
-
-
-
-
-
 
 (18.)
 
@@ -23,6 +15,3 @@
 (20.)
 
 2163\. Parāmāso ca noparāmāso ca dhammā parāmāsassa dhammassa ārammaṇapaccayena paccayo—  parāmāsañca sampayuttake ca khandhe ārabbha parāmāso uppajjati…  tīṇi.
-
-
-

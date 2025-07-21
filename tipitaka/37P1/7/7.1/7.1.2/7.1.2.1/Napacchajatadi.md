@@ -1,11 +1,4 @@
-
-
 # Napacchājātādi
-
-
-
-
-
 
 (38.)
 
@@ -16,6 +9,3 @@
 170\. Avitakkaavicāraṃ dhammaṃ paṭicca avitakkaavicāro dhammo uppajjati naāsevanapaccayā—  vipākaṃ avitakkaavicāraṃ ekaṃ khandhaṃ paṭicca…  (Saṃkhittaṃ.)
 
 171\. (Naāsevanamūlake avitakkavicāramattaṃ vipākena saha gacchantena napurejātasadisaṃ kātabbaṃ, avitakkavicāramattañca avitakkavicāramattagacchantena vipāko dassetabbo.)
-
-
-

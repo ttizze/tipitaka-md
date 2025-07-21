@@ -1,12 +1,4 @@
-
-
 # Ārammaṇa
-
-
-
-
-
-
 
 (203.)
 
@@ -25,6 +17,3 @@
 2818\. Cittasamuṭṭhānañca nocittasamuṭṭhānañca dhammaṃ paccayā nocittasamuṭṭhāno dhammo uppajjati ārammaṇapaccayā—  cakkhuviññāṇasahagate khandhe ca cakkhāyatanañca paccayā cakkhuviññāṇaṃ…pe…  kāyaviññāṇasahagate…pe…  cittasamuṭṭhāne khandhe ca vatthuñca paccayā cittaṃ; paṭisandhikkhaṇe…pe… . (2)
 
 2819\. Cittasamuṭṭhānañca nocittasamuṭṭhānañca dhammaṃ paccayā cittasamuṭṭhāno ca nocittasamuṭṭhāno ca dhammā uppajjanti ārammaṇapaccayā—  cakkhuviññāṇasahagataṃ ekaṃ khandhañca cakkhāyatanañca paccayā dve khandhā cakkhuviññāṇañca, dve khandhe…pe…  kāyaviññāṇasahagataṃ…pe…  cittasamuṭṭhānaṃ ekaṃ khandhañca vatthuñca paccayā dve khandhā cittañca, dve khandhe…pe…  paṭisandhikkhaṇe…pe… . (3) (Saṃkhittaṃ.)
-
-
-

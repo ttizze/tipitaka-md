@@ -1,10 +1,4 @@
-
-
 # Paccanīyuddhāra
-
-
-
-
 
 (135.)
 
@@ -17,6 +11,3 @@
 (137.)
 
 4372\. Savitakko ca avitakko ca dhammā savitakkassa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo. Savitakko ca avitakko ca dhammā avitakkassa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo…  pacchājātapaccayena paccayo. Savitakko ca avitakko ca dhammā savitakkassa ca avitakkassa ca dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo. (3)
-
-
-

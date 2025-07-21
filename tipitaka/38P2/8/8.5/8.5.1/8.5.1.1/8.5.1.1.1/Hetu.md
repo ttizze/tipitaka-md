@@ -1,12 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
-
 
 (92.)
 
@@ -31,6 +23,3 @@
 2096\. Nīvaraṇañceva nīvaraṇasampayuttañca nīvaraṇasampayuttañceva no ca nīvaraṇañca dhammaṃ paṭicca nīvaraṇasampayutto ceva no ca nīvaraṇo dhammo uppajjati hetupaccayā—  nīvaraṇasampayuttañceva no ca nīvaraṇaṃ ekaṃ khandhañca nīvaraṇañca paṭicca tayo khandhā…pe…  dve khandhe ca…pe… . (2)
 
 2097\. Nīvaraṇañceva nīvaraṇasampayuttañca nīvaraṇasampayuttañceva no ca nīvaraṇañca dhammaṃ paṭicca nīvaraṇo ceva nīvaraṇasampayutto ca nīvaraṇasampayutto ceva no ca nīvaraṇo ca dhammā uppajjanti hetupaccayā—  nīvaraṇasampayuttañceva no ca nīvaraṇaṃ ekaṃ khandhañca kāmacchandanīvaraṇañca paṭicca tayo khandhā thinamiddhanīvaraṇaṃ uddhaccanīvaraṇaṃ avijjānīvaraṇaṃ…pe…  dve khandhe ca…pe…  (cakkaṃ. Saṃkhittaṃ.) (3)
-
-
-

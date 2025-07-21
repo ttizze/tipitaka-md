@@ -1,12 +1,4 @@
-
-
 # Nakamma
-
-
-
-
-
-
 
 (244.)
 
@@ -17,6 +9,3 @@
 2923\. Nocittasahabhuṃ dhammaṃ paṭicca cittasahabhū dhammo uppajjati nakammapaccayā—  cittaṃ paṭicca sampayuttakā cetanā.
 
 2924\. Cittasahabhuñca nocittasahabhuñca dhammaṃ paṭicca cittasahabhū dhammo uppajjati nakammapaccayā—  cittasahabhū khandhe ca cittañca paṭicca sampayuttakā cetanā.
-
-
-

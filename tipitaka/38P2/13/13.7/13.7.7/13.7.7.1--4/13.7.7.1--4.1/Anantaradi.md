@@ -1,12 +1,4 @@
-
-
 # Anantarādi
-
-
-
-
-
-
 
 (156.)
 
@@ -27,6 +19,3 @@
 4420\. Sappītiko ca appītiko ca dhammā sappītikassa ca appītikassa ca dhammassa anantarapaccayena paccayo—  purimā purimā sappītikā khandhā ca pīti ca pacchimānaṃ pacchimānaṃ sappītikānaṃ khandhānaṃ pītiyā ca anantarapaccayena paccayo. (3)
 
 4421\. Samanantarapaccayena paccayo…  nava…  sahajātapaccayena paccayo…  nava…  aññamaññapaccayena paccayo…  nava…  nissayapaccayena paccayo…  nava.
-
-
-

@@ -1,12 +1,4 @@
-
-
 # Ārammaṇa-adhipati-anantara
-
-
-
-
-
-
 
 (189.)
 
@@ -41,6 +33,3 @@
 716\. Nahetupaccayā ārammaṇe pañca. (Saṃkhittaṃ.)
 
 717\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
-
-
-

@@ -1,11 +1,4 @@
-
-
 # Anantara
-
-
-
-
-
 
 (13.)
 
@@ -22,6 +15,3 @@
 2852\. Asaṃkiliṭṭhaasaṃkilesiko dhammo asaṃkiliṭṭhaasaṃkilesikassa dhammassa anantarapaccayena paccayo—  purimā purimā asaṃkiliṭṭhaasaṃkilesikā khandhā pacchimānaṃ pacchimānaṃ asaṃkiliṭṭhaasaṃkilesikānaṃ khandhānaṃ anantarapaccayena paccayo. Maggo phalassa…  phalaṃ phalassa anantarapaccayena paccayo. (1)
 
 2853\. Asaṃkiliṭṭhaasaṃkilesiko dhammo asaṃkiliṭṭhasaṃkilesikassa dhammassa anantarapaccayena paccayo—  phalaṃ vuṭṭhānassa anantarapaccayena paccayo. (2)
-
-
-

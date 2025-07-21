@@ -1,11 +1,4 @@
-
-
 # Adhipati
-
-
-
-
-
 
 (32.)
 
@@ -20,6 +13,3 @@
 3010\. Anidassanaappaṭigho dhammo sanidassanasappaṭighassa dhammassa adhipatipaccayena paccayo. **Sahajātādhipati**—  anidassanaappaṭighādhipati sanidassanasappaṭighānaṃ cittasamuṭṭhānānaṃ rūpānaṃ adhipatipaccayena paccayo. (2)
 
 3011\. (Anidassanaappaṭighamūlake sattapi pañhā vibhajitabbā, adhipati tividharūpasaṅgahena.)
-
-
-

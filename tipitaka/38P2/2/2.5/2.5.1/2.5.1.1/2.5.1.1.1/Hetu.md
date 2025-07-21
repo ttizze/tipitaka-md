@@ -1,12 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
-
 
 (93.)
 
@@ -31,6 +23,3 @@
 761\. Rūpiñca arūpiñca dhammaṃ paṭicca arūpī dhammo uppajjati hetupaccayā—  paṭisandhikkhaṇe arūpiṃ ekaṃ khandhañca vatthuñca paṭicca tayo khandhā…pe…  dve khandhe…pe… . (2)
 
 762\. Rūpiñca arūpiñca dhammaṃ paṭicca rūpī ca arūpī ca dhammā uppajjanti hetupaccayā—  paṭisandhikkhaṇe arūpiṃ ekaṃ khandhañca vatthuñca paṭicca tayo khandhā…pe…  dve khandhe…pe…  arūpino khandhe ca mahābhūte ca paṭicca kaṭattārūpaṃ. (Saṃkhittaṃ.) (3)
-
-
-

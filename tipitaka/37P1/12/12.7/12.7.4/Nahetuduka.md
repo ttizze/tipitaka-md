@@ -1,10 +1,4 @@
-
-
 # Nahetuduka
-
-
-
-
 
 (75.)
 
@@ -14,16 +8,8 @@
 
 1864\. Paccanīyānulomaṃ.
 
-  
 Pañhāvāro.
-
-
 
 ---
 
 1865\. Sekkhattikaṃ niṭṭhitaṃ.
-
-
-
-
-

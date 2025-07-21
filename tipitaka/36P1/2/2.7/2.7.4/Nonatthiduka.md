@@ -1,10 +1,4 @@
-
-
 # Nonatthiduka
-
-
-
-
 
 (515.)
 
@@ -14,13 +8,6 @@
 
 1787\. (Yathā nahetumūlakaṃ, evaṃ vitthāretabbaṃ.)
 
-
-
 ---
 
 1788\. Nonatthimūlakaṃ.
-
-
-
-
-

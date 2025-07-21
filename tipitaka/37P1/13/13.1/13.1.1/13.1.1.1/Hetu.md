@@ -1,11 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
 
 (1.)
 
@@ -40,6 +33,3 @@
 1877\. Parittañca mahaggatañca dhammaṃ paṭicca mahaggato dhammo uppajjati hetupaccayā—  paṭisandhikkhaṇe mahaggataṃ ekaṃ khandhañca vatthuñca paṭicca tayo khandhā…pe…  dve khandhe…pe… . (2)
 
 1878\. Parittañca mahaggatañca dhammaṃ paṭicca paritto ca mahaggato ca dhammā uppajjanti hetupaccayā—  paṭisandhikkhaṇe mahaggataṃ ekaṃ khandhañca vatthuñca paṭicca tayo khandhā…pe…  dve khandhe…pe…  mahaggate khandhe ca mahābhūte ca paṭicca kaṭattārūpaṃ. (3)
-
-
-

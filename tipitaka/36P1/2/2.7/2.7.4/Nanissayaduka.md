@@ -1,10 +1,4 @@
-
-
 # Nanissayaduka
-
-
-
-
 
 (501.)
 
@@ -12,6 +6,3 @@
 
 * [Pañcaka](Nanissayaduka/Pancaka.md)
 * [Navaka](Nanissayaduka/Navaka.md)
-
-
-

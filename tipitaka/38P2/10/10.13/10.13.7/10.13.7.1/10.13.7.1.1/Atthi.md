@@ -1,12 +1,4 @@
-
-
 # Atthi
-
-
-
-
-
-
 
 (407.)
 
@@ -31,6 +23,3 @@
 3357\. Upādā ca noupādā ca dhammā noupādā dhammassa atthipaccayena paccayo—  sahajātaṃ, purejātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ. **Sahajāto**—  cakkhuviññāṇasahagato eko khandho ca cakkhāyatanañca tiṇṇannaṃ khandhānaṃ atthipaccayena paccayo…pe…  dve khandhā ca…pe…  noupādā eko khandho ca vatthu ca tiṇṇannaṃ khandhānaṃ atthipaccayena paccayo…pe…  dve khandhā ca…pe…  paṭisandhikkhaṇe noupādā eko khandho ca vatthu ca tiṇṇannaṃ khandhānaṃ atthipaccayena paccayo…pe…  dve khandhā ca…pe… . **Purejātaṃ**—  phoṭṭhabbāyatanañca kāyāyatanañca kāyaviññāṇassa atthipaccayena paccayo. Phoṭṭhabbāyatanañca vatthu ca noupādā khandhānaṃ atthipaccayena paccayo. **Pacchājātā**—  noupādā khandhā ca kabaḷīkāro āhāro ca imassa noupādā kāyassa atthipaccayena paccayo. **Pacchājātā**—  noupādā khandhā ca rūpajīvitindriyañca noupādā kaṭattārūpānaṃ atthipaccayena paccayo. (2)
 
 3358\. Upādā ca noupādā ca dhammā upādā dhammassa ca noupādā dhammassa ca atthipaccayena paccayo—  pacchājātaṃ, āhāraṃ, indriyaṃ. **Pacchājātā**—  noupādā khandhā ca kabaḷīkāro āhāro ca imassa upādā kāyassa ca noupādā kāyassa ca atthipaccayena paccayo. **Pacchājātā**—  noupādā khandhā ca rūpajīvitindriyañca upādā ca noupādā ca kaṭattārūpānaṃ atthipaccayena paccayo. (3)
-
-
-

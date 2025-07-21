@@ -1,11 +1,4 @@
-
-
 # Atthyādi
-
-
-
-
-
 
 (104.)
 
@@ -38,6 +31,3 @@
 1387\. Dassanena pahātabbahetuko ca nevadassanena nabhāvanāya pahātabbahetuko ca dhammā dassanena pahātabbahetukassa ca nevadassanena nabhāvanāya pahātabbahetukassa ca dhammassa atthipaccayena paccayo—  sahajātaṃ, purejātaṃ. **Sahajāto**—  vicikicchāsahagato eko khandho ca vatthu ca tiṇṇannaṃ khandhānaṃ mohassa ca atthipaccayena paccayo…pe…  dve khandhā…pe…  vicikicchāsahagato eko khandho ca moho ca tiṇṇannaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ atthipaccayena paccayo…pe…  dve khandhā ca moho ca…pe… . (3)
 
 1388\. Bhāvanāya pahātabbahetuko ca nevadassanena nabhāvanāya pahātabbahetuko ca dhammā bhāvanāya pahātabbahetukassa dhammassa atthipaccayena paccayo (Saṃkhittaṃ. Tisso pañhā, dassanena nayena vibhajitabbā, “uddhaccan”ti niyāmetabbaṃ) natthipaccayena paccayo…  vigatapaccayena paccayo…  avigatapaccayena paccayo… .
-
-
-

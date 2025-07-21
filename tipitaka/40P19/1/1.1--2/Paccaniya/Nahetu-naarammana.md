@@ -1,10 +1,4 @@
-
-
 # Nahetu-naārammaṇa
-
-
-
-
 
 (3.)
 
@@ -23,6 +17,3 @@
 19\. Nahetupaccayā ārammaṇe cha…  (Saṃkhittaṃ.)
 
 20\. (Sahajātavāro paṭiccavārasadiso.)
-
-
-

@@ -1,11 +1,4 @@
-
-
 # Magga
-
-
-
-
-
 
 (123.)
 
@@ -24,6 +17,3 @@
 541\. Savitakkasavicāro ca avitakkavicāramatto ca dhammā avitakkaavicārassa dhammassa maggapaccayena paccayo—  savitakkasavicārāni maggaṅgāni vitakko ca cittasamuṭṭhānānaṃ rūpānaṃ maggapaccayena paccayo. Paṭisandhikkhaṇe…pe… . (2)
 
 542\. Savitakkasavicāro ca avitakkavicāramatto ca dhammā savitakkasavicārassa ca avitakkaavicārassa ca dhammassa maggapaccayena paccayo—  savitakkasavicārāni maggaṅgāni vitakko ca sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ maggapaccayena paccayo. Paṭisandhikkhaṇe…pe… . (3)
-
-
-

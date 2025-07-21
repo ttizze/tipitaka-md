@@ -1,11 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
 
 (28.)
 
@@ -34,8 +27,3 @@
 ---
 
 2301\. Upādānagocchakakusalattikaṃ niṭṭhitaṃ.
-
-
-
-
-

@@ -1,11 +1,4 @@
-
-
 # Naadhipati
-
-
-
-
-
 
 (28.)
 
@@ -30,6 +23,3 @@
 1515\. Ācayagāmiñca nevācayagāmināpacayagāmiñca dhammaṃ paccayā ācayagāmī ca nevācayagāmināpacayagāmī ca dhammā uppajjanti naadhipatipaccayā—  ācayagāmiṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe…pe…  ācayagāmī khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ. (3)
 
 1516\. Apacayagāmiñca nevācayagāmināpacayagāmiñca dhammaṃ paccayā apacayagāmī dhammo uppajjati naadhipatipaccayā—  apacayagāmī khandhe ca vatthuñca paccayā apacayagāmī adhipati. (1)
-
-
-

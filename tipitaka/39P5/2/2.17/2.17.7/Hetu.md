@@ -1,10 +1,4 @@
-
-
 # Hetu
-
-
-
-
 
 (38.)
 
@@ -15,6 +9,3 @@
 418\. Paccuppanno abyākato dhammo paccuppannassa abyākatassa dhammassa hetupaccayena paccayo.
 
 419\. Hetuyā ekaṃ, ārammaṇe tīṇi, adhipatiyā tīṇi…pe…  upanissaye tīṇi…pe…  avigate ekaṃ. (Sabbattha vitthāro.)
-
-
-

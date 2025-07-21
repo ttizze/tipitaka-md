@@ -1,11 +1,4 @@
-
-
 # Paccayacatukka
-
-
-
-
-
 
 (20.)
 
@@ -32,6 +25,3 @@
 (23.)
 
 1587\. Hetuyā tīṇi, ārammaṇe nava, adhipatiyā…pe…  samanantare satta, sahajāte aññamaññe nissaye tīṇi, upanissaye nava, āsevane tīṇi, kamme pañca, vipāke ekaṃ, āhāre…pe…  sampayutte tīṇi…pe…  avigate tīṇi. (Saṃkhittaṃ.)
-
-
-

@@ -1,10 +1,4 @@
-
-
 # Hetu
-
-
-
-
 
 (17.)
 
@@ -19,6 +13,3 @@
 (19.)
 
 360\. Nevadassanena nabhāvanāya pahātabbaṃ abyākataṃ dhammaṃ paṭicca nevadassanena nabhāvanāya pahātabbo abyākato dhammo uppajjati hetupaccayā. (Sabbattha ekaṃ.)
-
-
-

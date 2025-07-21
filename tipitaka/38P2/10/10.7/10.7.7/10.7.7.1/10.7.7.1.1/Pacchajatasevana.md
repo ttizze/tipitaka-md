@@ -1,12 +1,4 @@
-
-
 # Pacchājātāsevana
-
-
-
-
-
-
 
 (262.)
 
@@ -15,6 +7,3 @@
 2962\. Nocittasahabhū dhammo nocittasahabhussa dhammassa pacchājātapaccayena paccayo…pe… . (1)
 
 2963\. Cittasahabhū ca nocittasahabhū ca dhammā nocittasahabhussa dhammassa pacchājātapaccayena paccayo (saṃkhittaṃ)…  āsevanapaccayena paccayo…  nava.
-
-
-

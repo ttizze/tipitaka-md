@@ -1,12 +1,4 @@
-
-
 # Hetu-ārammaṇādi
-
-
-
-
-
-
 
 (66.)
 
@@ -53,6 +45,3 @@
 229\. Nahetupaccayā ārammaṇe pañca. (Saṃkhittaṃ.)
 
 230\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
-
-
-

@@ -1,12 +1,4 @@
-
-
 # Upanissaya
-
-
-
-
-
-
 
 (28.)
 
@@ -31,6 +23,3 @@
 79\. Hetū ca nahetū ca dhammā nahetussa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  hetū ca sampayuttakā ca khandhā nahetūnaṃ khandhānaṃ upanissayapaccayena paccayo. (2)
 
 80\. Hetū ca nahetū ca dhammā hetussa ca nahetussa ca dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  hetū ca sampayuttakā ca khandhā hetūnañca sampayuttakānañca khandhānaṃ upanissayapaccayena paccayo. (3)
-
-
-

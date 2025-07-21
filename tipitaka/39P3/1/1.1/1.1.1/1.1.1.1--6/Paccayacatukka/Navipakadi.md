@@ -1,12 +1,4 @@
-
-
 # Navipākādi
-
-
-
-
-
-
 
 (10.)
 
@@ -21,6 +13,3 @@
 17\. Naadhipatipaccayā hetuyā nava, ārammaṇe nava. (Saṃkhittaṃ, paccanīyānulomaṃ.)
 
 18\. (Sahajātavārampi paccayavārampi nissayavārampi saṃsaṭṭhavārampi sampayuttavārampi paṭiccavārasadisā vitthāretabbā.)
-
-
-

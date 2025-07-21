@@ -1,10 +1,4 @@
-
-
 # Paccanīyuddhāra
-
-
-
-
 
 (33.)
 
@@ -29,6 +23,3 @@
 3910\. Kileso ca nokileso ca dhammā nokilesassa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo…  pacchājātapaccayena paccayo. (2)
 
 3911\. Kileso ca nokileso ca dhammā kilesassa ca nokilesassa ca dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo. (3)
-
-
-

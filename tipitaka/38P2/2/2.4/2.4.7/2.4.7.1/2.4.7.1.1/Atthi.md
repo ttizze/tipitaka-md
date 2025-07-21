@@ -1,12 +1,4 @@
-
-
 # Atthi
-
-
-
-
-
-
 
 (83.)
 
@@ -31,6 +23,3 @@
 735\. Sappaṭigho ca appaṭigho ca dhammā appaṭighassa dhammassa atthipaccayena paccayo—  sahajātaṃ, purejātaṃ. **Sahajātā**—  appaṭighā khandhā ca mahābhūtā ca appaṭighānaṃ cittasamuṭṭhānānaṃ rūpānaṃ…pe…  (paṭiccasadisaṃ yāva asaññasattā). **Sahajāto**—  cakkhuviññāṇasahagato eko khandho ca cakkhāyatanañca tiṇṇannaṃ khandhānaṃ…pe…  dve khandhā ca…pe…  kāyaviññāṇasahagato eko khandho ca kāyāyatanañca tiṇṇannaṃ khandhānaṃ atthipaccayena paccayo…pe…  dve khandhā ca…pe… . (2)
 
 736\. Sappaṭigho ca appaṭigho ca dhammā sappaṭighassa ca appaṭighassa ca dhammassa atthipaccayena paccayo. (Paṭiccasadisaṃ.) (3)
-
-
-

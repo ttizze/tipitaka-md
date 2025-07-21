@@ -1,11 +1,4 @@
-
-
 # Saindriyaghaṭanā
-
-
-
-
-
 
 (477.)
 
@@ -26,6 +19,3 @@
 1600\. Magga sahajāta nissaya vipāka indriya vippayutta atthi avigatanti nahetuyā ekaṃ…pe…  novigate ekaṃ.
 
 1601\. Magga sahajāta aññamañña nissaya vipāka indriya vippayutta atthi avigatanti nahetuyā ekaṃ…pe…  novigate ekaṃ. [Savipāka—  5]
-
-
-

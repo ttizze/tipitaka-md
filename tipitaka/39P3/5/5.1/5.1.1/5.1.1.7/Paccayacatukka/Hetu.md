@@ -1,12 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
-
 
 (5.)
 
@@ -25,6 +17,3 @@
 1715\. Nahetupaccayā ārammaṇe nava. (Saṃkhittaṃ.)
 
 1716\. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
-
-
-

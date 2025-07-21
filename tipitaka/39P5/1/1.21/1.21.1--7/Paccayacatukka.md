@@ -1,10 +1,4 @@
-
-
 # Paccayacatukka
-
-
-
-
 
 (84.)
 
@@ -31,8 +25,3 @@
 ---
 
 296\. Kusalattikasanidassanattikaṃ niṭṭhitaṃ.
-
-
-
-
-

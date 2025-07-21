@@ -1,10 +1,4 @@
-
-
 # Navippayuttaduka
-
-
-
-
 
 (513.)
 
@@ -15,6 +9,3 @@
 * [Navaka](Navippayuttaduka/Navaka.md)
 * [Ekādasaka](Navippayuttaduka/Ekadasaka.md)
 * [Pannarasaka](Navippayuttaduka/Pannarasaka.md)
-
-
-

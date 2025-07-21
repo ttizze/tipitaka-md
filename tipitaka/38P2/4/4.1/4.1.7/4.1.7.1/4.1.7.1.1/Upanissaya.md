@@ -1,12 +1,4 @@
-
-
 # Upanissaya
-
-
-
-
-
-
 
 (22.)
 
@@ -21,6 +13,3 @@
 1377\. Nosaññojano dhammo saññojanassa ca nosaññojanassa ca dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  saddhaṃ upanissāya mānaṃ jappeti, diṭṭhiṃ gaṇhāti; sīlaṃ…pe…  senāsanaṃ upanissāya pāṇaṃ hanati…pe…  saṃghaṃ bhindati; saddhā…pe…  senāsanaṃ saññojanānaṃ sampayuttakānañca khandhānaṃ upanissayapaccayena paccayo. (3)
 
 1378\. Saññojano ca nosaññojano ca dhammā saññojanassa dhammassa upanissayapaccayena paccayo…  tīṇi.
-
-
-

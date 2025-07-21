@@ -1,10 +1,4 @@
-
-
 # Hetu
-
-
-
-
 
 (26.)
 
@@ -23,6 +17,3 @@
 55\. Hetuyā ekūnavīsa, ārammaṇe nava, adhipatiyā ekādasa…pe…  sahajāte ekūnavīsa…pe…  āsevane cha…pe…  vipāke terasa…pe…  avigate ekūnavīsa.
 
 56\. (Sahajātavārampi paccayavārampi nissayavārampi saṃsaṭṭhavārampi sampayuttavārampi vitthāretabbaṃ.)
-
-
-

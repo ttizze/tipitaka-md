@@ -1,11 +1,4 @@
-
-
 # Āsevana
-
-
-
-
-
 
 (59.)
 
@@ -14,6 +7,3 @@
 1605\. Ācayagāmī dhammo apacayagāmissa dhammassa āsevanapaccayena paccayo—  gotrabhu maggassa…  vodānaṃ maggassa āsevanapaccayena paccayo. (2)
 
 1606\. Nevācayagāmināpacayagāmī dhammo nevācayagāmināpacayagāmissa dhammassa āsevanapaccayena paccayo—  purimā purimā nevācayagāmināpacayagāmī khandhā pacchimānaṃ pacchimānaṃ nevācayagāmināpacayagāmīnaṃ khandhānaṃ āsevanapaccayena paccayo. (1)
-
-
-

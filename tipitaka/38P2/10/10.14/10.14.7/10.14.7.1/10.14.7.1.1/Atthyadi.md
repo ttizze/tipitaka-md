@@ -1,12 +1,4 @@
-
-
 # Atthyādi
-
-
-
-
-
-
 
 (464.)
 
@@ -31,6 +23,3 @@
 3510\. Upādinno ca anupādinno ca dhammā upādinnassa ca anupādinnassa ca dhammassa atthipaccayena paccayo. **Āhāraṃ**—  upādinno ca anupādinno ca kabaḷīkāro āhāro imassa upādinnassa ca anupādinnassa ca kāyassa atthipaccayena paccayo. (3)
 
 3511\. Natthipaccayena paccayo…  vigatapaccayena paccayo…  avigatapaccayena paccayo.
-
-
-

@@ -1,10 +1,4 @@
-
-
 # Nahetu
-
-
-
-
 
 (15.)
 
@@ -13,6 +7,3 @@
 29\. Nahetuyā ekavīsa, naārammaṇe ekavīsa…pe…  nakamme nava…pe…  navippayutte cuddasa…pe…  novigate ekavīsa.
 
 30\. (Sahajātavārampi paccayavārampi nissayavārampi saṃsaṭṭhavārampi sampayuttavārampi paṭiccavārasadisaṃ.)
-
-
-

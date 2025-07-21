@@ -1,11 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
 
 (10.)
 
@@ -42,6 +35,3 @@
 1831\. Hetuyā pañca, ārammaṇe dve…pe…  avigate pañca. (Saṃkhittaṃ, lokiyalokuttaragamanasadisaṃ.)
 
 1832\. (Sahajātavāropi…pe…  pañhāvāropi vitthāretabbā.)
-
-
-

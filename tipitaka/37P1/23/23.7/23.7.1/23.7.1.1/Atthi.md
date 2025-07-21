@@ -1,11 +1,4 @@
-
-
 # Atthi
-
-
-
-
-
 
 (50.)
 
@@ -46,6 +39,3 @@
 3059\. Sanidassanasappaṭigho ca anidassanasappaṭigho ca anidassanaappaṭigho ca dhammā anidassanaappaṭighassa dhammassa atthipaccayena paccayo—  sahajātaṃ, purejātaṃ. Rūpāyatanañca cakkhāyatanañca cakkhuviññāṇañca cakkhuviññāṇasahagatānaṃ khandhānaṃ atthipaccayena paccayo. (1)
 
 3060\. (Natthivigatapaccayaṃ anantarasadisaṃ. Avigatapaccayaṃ atthisadisaṃ.)
-
-
-

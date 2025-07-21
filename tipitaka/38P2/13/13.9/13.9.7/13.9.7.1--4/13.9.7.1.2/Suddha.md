@@ -1,12 +1,4 @@
-
-
 # Suddha
-
-
-
-
-
-
 
 (176.)
 
@@ -17,8 +9,3 @@
 ---
 
 4465\. Sukhasahagatadukaṃ niṭṭhitaṃ.
-
-
-
-
-

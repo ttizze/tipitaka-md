@@ -1,11 +1,4 @@
-
-
 # Nahetu
-
-
-
-
-
 
 (26.)
 
@@ -16,6 +9,3 @@
 1504\. Nevācayagāmināpacayagāmiṃ dhammaṃ paccayā ācayagāmī dhammo uppajjati nahetupaccayā—  vatthuṃ paccayā vicikicchāsahagato uddhaccasahagato moho. (2)
 
 1505\. Ācayagāmiñca nevācayagāmināpacayagāmiñca dhammaṃ paccayā ācayagāmī dhammo uppajjati nahetupaccayā—  vicikicchāsahagate uddhaccasahagate khandhe ca vatthuñca paccayā vicikicchāsahagato uddhaccasahagato moho. (1)
-
-
-

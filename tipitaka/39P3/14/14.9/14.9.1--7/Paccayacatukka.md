@@ -1,10 +1,4 @@
-
-
 # Paccayacatukka
-
-
-
-
 
 (31.)
 
@@ -23,6 +17,3 @@
 2668\. Saraṇaṃ nevadassanena nabhāvanāya pahātabbahetukaṃ dhammaṃ paṭicca araṇo nevadassanena nabhāvanāya pahātabbahetuko dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
 
 2669\. Hetuyā tīṇi, ārammaṇe ekaṃ, adhipatiyā ekaṃ…pe…  sahajāte tīṇi, aññamaññe ekaṃ, nissaye tīṇi…pe…  kamme tīṇi, vipāke ekaṃ…pe…  avigate tīṇi. (Saṃkhittaṃ. Sabbattha vitthāretabbaṃ.)
-
-
-

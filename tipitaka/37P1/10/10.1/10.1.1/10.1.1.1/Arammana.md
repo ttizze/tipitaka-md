@@ -1,11 +1,4 @@
-
-
 # Ārammaṇa
-
-
-
-
-
 
 (6.)
 
@@ -30,6 +23,3 @@
 1079\. Dassanena pahātabbahetukañca nevadassanena nabhāvanāya pahātabbahetukañca dhammaṃ paṭicca dassanena pahātabbahetuko dhammo uppajjati ārammaṇapaccayā—  vicikicchāsahagataṃ ekaṃ khandhañca mohañca paṭicca tayo khandhā…pe…  dve khandhe ca mohañca paṭicca dve khandhā. (1)
 
 1080\. Bhāvanāya pahātabbahetukañca nevadassanena nabhāvanāya pahātabbahetukañca dhammaṃ paṭicca bhāvanāya pahātabbahetuko dhammo uppajjati ārammaṇapaccayā—  uddhaccasahagataṃ ekaṃ khandhañca mohañca paṭicca tayo khandhā…pe…  dve khandhe ca mohañca paṭicca dve khandhā. (1)
-
-
-

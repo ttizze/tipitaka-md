@@ -1,11 +1,4 @@
-
-
 # Navipāka
-
-
-
-
-
 
 (43.)
 
@@ -18,6 +11,3 @@
 237\. Kusalañca abyākatañca dhammaṃ paṭicca abyākato dhammo uppajjati navipākapaccayā—  kusale khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ.
 
 238\. Akusalañca abyākatañca dhammaṃ paṭicca abyākato dhammo uppajjati navipākapaccayā—  akusale khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ.
-
-
-

@@ -1,11 +1,4 @@
-
-
 # Ārammaṇa
-
-
-
-
-
 
 (56.)
 
@@ -26,6 +19,3 @@
 2036\. Appamāṇo dhammo parittassa dhammassa ārammaṇapaccayena paccayo—  ariyā maggā vuṭṭhahitvā maggaṃ paccavekkhanti, phalaṃ paccavekkhanti, nibbānaṃ paccavekkhanti, nibbānaṃ gotrabhussa, vodānassa, āvajjanāya ārammaṇapaccayena paccayo. (2)
 
 2037\. Appamāṇo dhammo mahaggatassa dhammassa ārammaṇapaccayena paccayo—  ariyā cetopariyañāṇena appamāṇacittasamaṅgissa cittaṃ jānanti, appamāṇā khandhā cetopariyañāṇassa, pubbenivāsānussatiñāṇassa, anāgataṃsañāṇassa ārammaṇapaccayena paccayo. (3)
-
-
-

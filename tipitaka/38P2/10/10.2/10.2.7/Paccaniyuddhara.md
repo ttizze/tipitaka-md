@@ -1,10 +1,4 @@
-
-
 # Paccanīyuddhāra
-
-
-
-
 
 (86.)
 
@@ -29,6 +23,3 @@
 2536\. Citto ca nocitto ca dhammā nocittassa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo…  pacchājātapaccayena paccayo. (2)
 
 2537\. Citto ca nocitto ca dhammā cittassa ca nocittassa ca dhammassa ārammaṇapaccayena paccayo…  upanissayapaccayena paccayo. (3)
-
-
-

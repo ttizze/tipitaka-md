@@ -1,12 +1,4 @@
-
-
 # Atthyādi
-
-
-
-
-
-
 
 (84.)
 
@@ -23,6 +15,3 @@
 4256\. Dassanena pahātabbahetuko ca nadassanena pahātabbahetuko ca dhammā dassanena pahātabbahetukassa ca nadassanena pahātabbahetukassa ca dhammassa atthipaccayena paccayo—  sahajātaṃ, purejātaṃ. (Saṃkhittaṃ.) (3)
 
 4257\. Natthipaccayena paccayo…  vigatapaccayena paccayo…  avigatapaccayena paccayo.
-
-
-

@@ -1,8 +1,4 @@
-
-
 # Verañjakaṇḍa
-
-
 
 (1.)
 
@@ -129,8 +125,3 @@
 ---
 
 40\. Verañjabhāṇavāro niṭṭhito.
-
-
-
-
-

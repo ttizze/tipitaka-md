@@ -1,11 +1,4 @@
-
-
 # Nissaya
-
-
-
-
-
 
 (69.)
 
@@ -38,6 +31,3 @@
 2084\. Paritto ca mahaggato ca dhammā parittassa dhammassa nissayapaccayena paccayo—  mahaggatā khandhā ca mahābhūtā ca cittasamuṭṭhānānaṃ rūpānaṃ nissayapaccayena paccayo. Paṭisandhikkhaṇe mahaggatā khandhā ca mahābhūtā ca kaṭattārūpānaṃ nissayapaccayena paccayo. (1)
 
 2085\. Paritto ca mahaggato ca dhammā mahaggatassa dhammassa nissayapaccayena paccayo—  mahaggato eko khandho ca vatthu ca tiṇṇannaṃ khandhānaṃ nissayapaccayena paccayo…pe…  paṭisandhikkhaṇe mahaggato eko khandho ca vatthu ca tiṇṇannaṃ khandhānaṃ nissayapaccayena paccayo…pe…  dve khandhā…pe… . (2)
-
-
-

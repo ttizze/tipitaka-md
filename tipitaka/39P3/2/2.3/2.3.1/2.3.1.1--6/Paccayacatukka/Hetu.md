@@ -1,12 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
-
 
 (25.)
 
@@ -15,6 +7,3 @@
 (26.)
 
 1307\. Hetuyā ekaṃ, ārammaṇe ekaṃ, adhipatiyā ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
-
-
-

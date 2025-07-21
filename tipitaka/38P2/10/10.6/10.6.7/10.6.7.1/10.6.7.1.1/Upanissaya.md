@@ -1,12 +1,4 @@
-
-
 # Upanissaya
-
-
-
-
-
-
 
 (216.)
 
@@ -19,6 +11,3 @@
 2853\. Nocittasamuṭṭhāno dhammo cittasamuṭṭhānassa ca nocittasamuṭṭhānassa ca dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  utuṃ…  bhojanaṃ…  senāsanaṃ cittaṃ upanissāya dānaṃ deti…pe…  saṃghaṃ bhindati; utu…  bhojanaṃ…  senāsanaṃ cittaṃ cittasamuṭṭhānānaṃ khandhānaṃ cittassa ca upanissayapaccayena paccayo. (3)
 
 2854\. Cittasamuṭṭhāno ca nocittasamuṭṭhāno ca dhammā cittasamuṭṭhānassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**…  tīṇi.
-
-
-

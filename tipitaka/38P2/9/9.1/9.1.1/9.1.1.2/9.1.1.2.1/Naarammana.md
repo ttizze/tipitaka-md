@@ -1,12 +1,4 @@
-
-
 # Naārammaṇa
-
-
-
-
-
-
 
 (6.)
 
@@ -15,6 +7,3 @@
 2138\. Noparāmāsaṃ dhammaṃ paṭicca noparāmāso dhammo uppajjati naārammaṇapaccayā—  noparāmāse khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe…pe… . (Yāva asaññasattā.) (1)
 
 2139\. Parāmāsañca noparāmāsañca dhammaṃ paṭicca noparāmāso dhammo uppajjati naārammaṇapaccayā—  parāmāsañca sampayuttake ca khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
-
-
-

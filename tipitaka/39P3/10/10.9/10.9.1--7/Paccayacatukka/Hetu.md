@@ -1,11 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
 
 (65.)
 
@@ -62,6 +55,3 @@
 2161\. Nahetupaccayā ārammaṇe nava. (Saṃkhittaṃ.)
 
 2162\. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
-
-
-

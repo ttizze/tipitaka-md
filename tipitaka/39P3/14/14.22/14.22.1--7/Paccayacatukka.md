@@ -1,10 +1,4 @@
-
-
 # Paccayacatukka
-
-
-
-
 
 (69.)
 
@@ -41,6 +35,3 @@
 2766\. Nahetupaccayā ārammaṇe cattāri. (Saṃkhittaṃ.)
 
 2767\. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
-
-
-

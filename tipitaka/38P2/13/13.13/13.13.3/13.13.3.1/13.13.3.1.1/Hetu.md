@@ -1,12 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
-
 
 (273.)
 
@@ -17,6 +9,3 @@
 (274.)
 
 4667\. Arūpāvacarañca naarūpāvacarañca dhammaṃ paccayā arūpāvacaro dhammo uppajjati hetupaccayā—  arūpāvacaraṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe ca…pe… . Arūpāvacarañca naarūpāvacarañca dhammaṃ paccayā naarūpāvacaro dhammo uppajjati hetupaccayā—  arūpāvacare khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ. Arūpāvacarañca naarūpāvacarañca dhammaṃ paccayā arūpāvacaro ca naarūpāvacaro ca dhammā uppajjanti hetupaccayā—  arūpāvacaraṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe ca…pe…  arūpāvacare khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ. (3)
-
-
-

@@ -1,12 +1,4 @@
-
-
 # Hetu-ārammaṇa-anantara
-
-
-
-
-
-
 
 (18.)
 
@@ -31,6 +23,3 @@
 1002\. Nahetupaccayā ārammaṇe cattāri. (Saṃkhittaṃ.)
 
 1003\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
-
-
-

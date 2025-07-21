@@ -1,12 +1,4 @@
-
-
 # Najhānādi
-
-
-
-
-
-
 
 (381.)
 
@@ -17,6 +9,3 @@
 3277\. Noupādā dhammaṃ paṭicca upādā ca noupādā ca dhammā uppajjanti najhānapaccayā—  bāhiraṃ āhārasamuṭṭhānaṃ utusamuṭṭhānaṃ asaññasattānaṃ ekaṃ mahābhūtaṃ paṭicca tayo mahābhūtā…pe…  dve mahābhūte…pe…  mahābhūte paṭicca upādā kaṭattārūpaṃ upādārūpaṃ. (3)
 
 3278\. Upādā dhammaṃ paṭicca noupādā dhammo uppajjati namaggapaccayā pañca…  nasampayuttapaccayā…  tīṇi.
-
-
-

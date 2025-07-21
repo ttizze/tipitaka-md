@@ -1,11 +1,4 @@
-
-
 # Atthi
-
-
-
-
-
 
 (130.)
 
@@ -72,6 +65,3 @@
 587\. Savitakkasavicāro ca avitakkavicāramatto ca avitakkaavicāro ca dhammā savitakkasavicārassa dhammassa atthipaccayena paccayo—  sahajātaṃ, purejātaṃ. **Sahajāto**—  savitakkasavicāro eko khandho ca vitakko ca vatthu ca tiṇṇannaṃ khandhānaṃ atthipaccayena paccayo…pe…  paṭisandhikkhaṇe…pe… . (1)
 
 588\. Savitakkasavicāro ca avitakkavicāramatto ca avitakkaavicāro ca dhammā avitakkaavicārassa dhammassa atthipaccayena paccayo—  sahajātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ. **Sahajātā**—  savitakkasavicārā khandhā ca vitakko ca mahābhūtā ca cittasamuṭṭhānānaṃ rūpānaṃ atthipaccayena paccayo. Paṭisandhikkhaṇe…pe… . **Pacchājātā**—  savitakkasavicārā khandhā ca vitakko ca kabaḷīkāro āhāro ca purejātassa imassa kāyassa atthipaccayena paccayo. **Pacchājātā**—  savitakkasavicārā khandhā ca vitakko ca rūpajīvitindriyañca kaṭattārūpānaṃ atthipaccayena paccayo. (2)
-
-
-

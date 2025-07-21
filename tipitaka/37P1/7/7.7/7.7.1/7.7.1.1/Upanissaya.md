@@ -1,11 +1,4 @@
-
-
 # Upanissaya
-
-
-
-
-
 
 (102.)
 
@@ -66,6 +59,3 @@
 450\. Savitakkasavicāro ca avitakkavicāramatto ca dhammā avitakkavicāramattassa ca avitakkaavicārassa ca dhammassa upanissayapaccayena paccayo—  anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  savitakkasavicārā saddhā…  sīlaṃ…  sutaṃ…  cāgo…  paññā…pe…  patthanā vitakko ca avitakkavicāramattāya saddhāya…  sīlassa…  sutassa…  cāgassa…  paññāya vicārassa ca upanissayapaccayena paccayo. (4)
 
 451\. Savitakkasavicāro ca avitakkavicāramatto ca dhammā savitakkasavicārassa ca avitakkavicāramattassa ca dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  savitakkasavicārā saddhā…  sīlaṃ…  sutaṃ…  cāgo…  paññā…  rāgo…  doso…  moho…  māno…  diṭṭhi…  patthanā vitakko ca savitakkasavicārāya saddhāya…pe…  patthanāya vitakkassa ca upanissayapaccayena paccayo. (5)
-
-
-

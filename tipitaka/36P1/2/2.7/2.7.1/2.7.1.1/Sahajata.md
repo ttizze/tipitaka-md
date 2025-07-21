@@ -1,11 +1,4 @@
-
-
 # Sahajāta
-
-
-
-
-
 
 (283.)
 
@@ -26,6 +19,3 @@
 875\. Kusalo ca abyākato ca dhammā abyākatassa dhammassa sahajātapaccayena paccayo—  kusalā khandhā ca mahābhūtā ca cittasamuṭṭhānānaṃ rūpānaṃ sahajātapaccayena paccayo. (1)
 
 876\. Akusalo ca abyākato ca dhammā abyākatassa dhammassa sahajātapaccayena paccayo—  akusalā khandhā ca mahābhūtā ca cittasamuṭṭhānānaṃ rūpānaṃ sahajātapaccayena paccayo. (1)
-
-
-

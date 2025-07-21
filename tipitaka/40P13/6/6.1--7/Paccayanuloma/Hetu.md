@@ -1,10 +1,4 @@
-
-
 # Hetu
-
-
-
-
 
 (33.)
 
@@ -27,6 +21,3 @@
 76\. Hetuyā ekūnapaññāsa, ārammaṇe ekūnapaññāsa, adhipatiyā bāttiṃsa…pe…  purejāte āsevane pañcavīsa…pe…  avigate ekūnapaññāsa.
 
 77\. (Sahajātavārampi…pe…  pañhāvārampi vitthāretabbaṃ.)
-
-
-

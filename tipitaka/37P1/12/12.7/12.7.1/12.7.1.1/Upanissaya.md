@@ -1,11 +1,4 @@
-
-
 # Upanissaya
-
-
-
-
-
 
 (53.)
 
@@ -28,6 +21,3 @@
 1806\. Nevasekkhanāsekkho dhammo sekkhassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  paṭhamassa maggassa parikammaṃ paṭhamassa maggassa upanissayapaccayena paccayo…pe…  catutthassa maggassa parikammaṃ catutthassa maggassa upanissayapaccayena paccayo. (2)
 
 1807\. Nevasekkhanāsekkho dhammo asekkhassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  kāyikaṃ sukhaṃ…  kāyikaṃ dukkhaṃ…  utuṃ…  bhojanaṃ…  senāsanaṃ asekkhāya phalasamāpattiyā upanissayapaccayena paccayo. (3)
-
-
-

@@ -1,10 +1,4 @@
-
-
 # Paccanīyuddhāra
-
-
-
-
 
 (45.)
 
@@ -29,6 +23,3 @@
 1984\. Nīvaraṇo ca nonīvaraṇo ca dhammā nonīvaraṇassa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo…  pacchājātapaccayena paccayo. (2)
 
 1985\. Nīvaraṇo ca nonīvaraṇo ca dhammā nīvaraṇassa ca nonīvaraṇassa ca dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo. (3)
-
-
-

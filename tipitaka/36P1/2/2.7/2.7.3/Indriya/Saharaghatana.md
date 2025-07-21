@@ -1,11 +1,4 @@
-
-
 # Sāhāraghaṭanā
-
-
-
-
-
 
 (465.)
 
@@ -26,6 +19,3 @@
 1515\. Indriya sahajāta nissaya vipāka āhāra vippayutta atthi avigatanti nahetuyā ekaṃ…pe…  novigate ekaṃ.
 
 1516\. Indriya sahajāta aññamañña nissaya vipāka āhāra vippayutta atthi avigatanti nahetuyā ekaṃ…pe…  novigate ekaṃ. [Savipāka—  5]
-
-
-

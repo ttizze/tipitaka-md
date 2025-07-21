@@ -1,12 +1,4 @@
-
-
 # Atthyādi
-
-
-
-
-
-
 
 (125.)
 
@@ -29,6 +21,3 @@
 835\. Rūpī ca arūpī ca dhammā arūpissa dhammassa atthipaccayena paccayo—  sahajātaṃ, purejātaṃ. **Sahajāto**—  cakkhuviññāṇasahagato eko khandho ca cakkhāyatanañca tiṇṇannaṃ khandhānaṃ atthipaccayena paccayo…pe…  dve khandhā ca…pe…  kāyaviññāṇasahagato…pe…  arūpī eko khandho ca vatthu ca tiṇṇannaṃ khandhānaṃ atthipaccayena paccayo…pe…  dve khandhā ca…pe…  paṭisandhikkhaṇe arūpī eko khandho ca vatthu ca tiṇṇannaṃ khandhānaṃ…pe…  dve khandhā ca…pe… . (2)
 
 836\. Natthipaccayena paccayo…  vigatapaccayena paccayo…  avigatapaccayena paccayo.
-
-
-

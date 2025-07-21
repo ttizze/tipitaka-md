@@ -1,10 +1,4 @@
-
-
 # Hetu
-
-
-
-
 
 (49.)
 
@@ -17,6 +11,3 @@
 (50.)
 
 2491\. Hetuyā cha, ārammaṇe cha…pe…  avigate cha. (Saṃkhittaṃ. Kusalasadisaṃ. Sahajātavāropi…pe…  pañhāvāropi vitthāretabbā.)
-
-
-

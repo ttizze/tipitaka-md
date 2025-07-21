@@ -1,11 +1,4 @@
-
-
 # Sahajāta
-
-
-
-
-
 
 (9.)
 
@@ -26,8 +19,3 @@
 ---
 
 2964\. (Iminā kāraṇena satta pañhā vibhajitabbā.)
-
-
-
-
-

@@ -1,11 +1,4 @@
-
-
 # Napurejātaduka
-
-
-
-
-
 
 (156.)
 
@@ -13,6 +6,3 @@
 
 * [Tika](Napurejataduka/Tika.md)
 * [Catukka](Napurejataduka/Catukka.md)
-
-
-

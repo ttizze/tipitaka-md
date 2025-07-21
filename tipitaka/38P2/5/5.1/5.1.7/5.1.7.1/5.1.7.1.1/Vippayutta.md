@@ -1,12 +1,4 @@
-
-
 # Vippayutta
-
-
-
-
-
-
 
 (33.)
 
@@ -19,6 +11,3 @@
 1690\. Nogantho dhammo ganthassa ca noganthassa ca dhammassa vippayuttapaccayena paccayo. **Purejātaṃ**—  vatthu ganthānaṃ sampayuttakānañca khandhānaṃ vippayuttapaccayena paccayo. (3)
 
 1691\. Gantho ca nogantho ca dhammā noganthassa dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, pacchājātaṃ. (Saṃkhittaṃ.) (1)
-
-
-

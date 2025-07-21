@@ -1,11 +1,4 @@
-
-
 # Ārammaṇādi
-
-
-
-
-
 
 (4.)
 
@@ -20,6 +13,3 @@
 1668\. Sekkhañca nevasekkhanāsekkhañca dhammaṃ paṭicca nevasekkhanāsekkho dhammo uppajjati vipākapaccayā—  vipāke sekkhe khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
 
 1669\. Asekkhañca nevasekkhanāsekkhañca dhammaṃ paṭicca nevasekkhanāsekkho dhammo uppajjati vipākapaccayā—  asekkhe khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
-
-
-

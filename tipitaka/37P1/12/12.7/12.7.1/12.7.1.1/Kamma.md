@@ -1,11 +1,4 @@
-
-
 # Kamma
-
-
-
-
-
 
 (59.)
 
@@ -28,6 +21,3 @@
 (61.)
 
 1823\. Nevasekkhanāsekkho dhammo nevasekkhanāsekkhassa dhammassa kammapaccayena paccayo—  sahajātā, nānākkhaṇikā. **Sahajātā**—  nevasekkhanāsekkhā cetanā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo. Paṭisandhikkhaṇe…pe… . **Nānākkhaṇikā**—  nevasekkhanāsekkhā cetanā vipākānaṃ nevasekkhanāsekkhānaṃ khandhānaṃ kaṭattā ca rūpānaṃ kammapaccayena paccayo. (1)
-
-
-

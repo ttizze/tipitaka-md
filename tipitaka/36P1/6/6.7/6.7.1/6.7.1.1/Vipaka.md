@@ -1,11 +1,4 @@
-
-
 # Vipāka
-
-
-
-
-
 
 (21.)
 
@@ -16,6 +9,3 @@
 2880\. Asaṃkiliṭṭhaasaṃkilesiko dhammo asaṃkiliṭṭhasaṃkilesikassa dhammassa vipākapaccayena paccayo—  vipākā asaṃkiliṭṭhaasaṃkilesikā khandhā cittasamuṭṭhānānaṃ rūpānaṃ vipākapaccayena paccayo. (2)
 
 2881\. Asaṃkiliṭṭhaasaṃkilesiko dhammo asaṃkiliṭṭhasaṃkilesikassa ca asaṃkiliṭṭhaasaṃkilesikassa ca dhammassa vipākapaccayena paccayo—  vipāko asaṃkiliṭṭhaasaṃkilesiko eko khandho tiṇṇannaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ vipākapaccayena paccayo…pe…  dve khandhā…pe… . (3)
-
-
-

@@ -1,12 +1,4 @@
-
-
 # Nakammādi
-
-
-
-
-
-
 
 (62.)
 
@@ -17,6 +9,3 @@
 1136\. Āsavavippayuttaṃ dhammaṃ paṭicca āsavasampayutto dhammo uppajjati nakammapaccayā—  domanassasahagataṃ vicikicchāsahagataṃ uddhaccasahagataṃ mohaṃ paṭicca sampayuttakā cetanā. (2)
 
 1137\. Āsavasampayuttañca āsavavippayuttañca dhammaṃ paṭicca āsavasampayutto dhammo uppajjati nakammapaccayā—  domanassasahagate vicikicchāsahagate uddhaccasahagate khandhe ca mohañca paṭicca sampayuttakā cetanā…  navipākapaccayā…  naāhārapaccayā…  naindriyapaccayā…  najhānapaccayā…  namaggapaccayā…  nasampayuttapaccayā…  navippayuttapaccayā…  nonatthipaccayā…  novigatapaccayā.
-
-
-

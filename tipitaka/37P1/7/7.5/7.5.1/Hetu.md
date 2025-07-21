@@ -1,10 +1,4 @@
-
-
 # Hetu
-
-
-
-
 
 (59.)
 
@@ -35,6 +29,3 @@
 259\. Savitakkasavicārañca avitakkavicāramattañca dhammaṃ saṃsaṭṭho savitakkasavicāro dhammo uppajjati hetupaccayā—  savitakkasavicāraṃ ekaṃ khandhañca vitakkañca saṃsaṭṭhā tayo khandhā…pe…  dve khandhe ca vitakkañca…pe…  paṭisandhikkhaṇe…pe… . (1)
 
 260\. (Hetupaccayaṃ anumajjantena sabbe paccayā vitthāretabbā.)
-
-
-

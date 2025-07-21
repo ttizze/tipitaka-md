@@ -1,11 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
 
 (1.)
 
@@ -94,6 +87,3 @@
 37\. Savitakkasavicārañca avitakkavicāramattañca avitakkaavicārañca dhammaṃ paṭicca avitakkaavicāro dhammo uppajjati hetupaccayā—  savitakkasavicāre khandhe ca vitakkañca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. Paṭisandhikkhaṇe savitakkasavicāre khandhe ca vitakkañca mahābhūte ca paṭicca kaṭattārūpaṃ. (2)
 
 38\. Savitakkasavicārañca avitakkavicāramattañca avitakkaavicārañca dhammaṃ paṭicca savitakkasavicāro ca avitakkaavicāro ca dhammā uppajjanti hetupaccayā—  paṭisandhikkhaṇe savitakkasavicāraṃ ekaṃ khandhañca vitakkañca vatthuñca paṭicca tayo khandhā, tayo khandhe ca vitakkañca vatthuñca paṭicca eko khandho, dve khandhe ca vitakkañca vatthuñca paṭicca dve khandhā; savitakkasavicāre khandhe ca vitakkañca mahābhūte ca paṭicca kaṭattārūpaṃ. (3)
-
-
-

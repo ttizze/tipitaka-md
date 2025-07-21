@@ -1,12 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
-
 
 (9.)
 
@@ -17,6 +9,3 @@
 1483\. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
 
 1484\. Nahetuyā ekaṃ, naārammaṇe ekaṃ, naadhipatiyā ekaṃ. (Sabbattha ekaṃ, saṃkhittaṃ.)
-
-
-

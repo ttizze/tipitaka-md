@@ -1,11 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
 
 (1.)
 
@@ -35,13 +28,6 @@
 
 2261\. (Hīnattikaṃ saṃkiliṭṭhattikasadisaṃ vitthāretabbaṃ paripuṇṇaṃ.)
 
-
-
 ---
 
 2262\. Hīnattikaṃ niṭṭhitaṃ.
-
-
-
-
-

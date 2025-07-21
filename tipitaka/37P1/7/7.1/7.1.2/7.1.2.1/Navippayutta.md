@@ -1,11 +1,4 @@
-
-
 # Navippayutta
-
-
-
-
-
 
 (41.)
 
@@ -32,6 +25,3 @@
 189\. Avitakkavicāramattañca avitakkaavicārañca dhammaṃ paṭicca avitakkavicāramatto dhammo uppajjati navippayuttapaccayā—  arūpe avitakkavicāramattaṃ ekaṃ khandhañca vicārañca paṭicca tayo khandhā…pe…  dve khandhe ca vicārañca paṭicca dve khandhā. (1)
 
 190\. Savitakkasavicārañca avitakkavicāramattañca dhammaṃ paṭicca savitakkasavicāro dhammo uppajjati navippayuttapaccayā—  arūpe savitakkasavicāraṃ ekaṃ khandhañca vitakkañca paṭicca tayo khandhā…pe…  dve khandhe ca vitakkañca paṭicca dve khandhā. (1)
-
-
-

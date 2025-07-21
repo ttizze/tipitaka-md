@@ -1,11 +1,4 @@
-
-
 # Sahajāta
-
-
-
-
-
 
 (49.)
 
@@ -18,6 +11,3 @@
 (51.)
 
 1914\. Adukkhamasukhāya vedanāya sampayutto dhammo adukkhamasukhāya vedanāya sampayuttassa dhammassa sahajātapaccayena paccayo—  adukkhamasukhāya vedanāya sampayutto eko khandho dvinnaṃ khandhānaṃ sahajātapaccayena paccayo. Dve khandhā ekassa khandhassa sahajātapaccayena paccayo. Paṭisandhikkhaṇe adukkhamasukhāya vedanāya sampayutto eko khandho dvinnaṃ khandhānaṃ sahajātapaccayena paccayo. Dve khandhā ekassa khandhassa sahajātapaccayena paccayo. (1)
-
-
-

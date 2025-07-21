@@ -1,11 +1,4 @@
-
-
 # Paccanīyuddhāra
-
-
-
-
-
 
 (12.)
 
@@ -24,8 +17,3 @@
 ---
 
 1496\. Sappaccayadukakusalattikaṃ niṭṭhitaṃ.
-
-
-
-
-

@@ -1,11 +1,4 @@
-
-
 # Hetusāmaññaghaṭanā
-
-
-
-
-
 
 (58.)
 
@@ -17,10 +10,4 @@
 
 3065\. (Evaṃ sabbo gaṇanavāro gaṇetabbo.)
 
-  
 Anulomaṃ.
-
-
-
-
-

@@ -1,10 +1,4 @@
-
-
 # Noatthiduka
-
-
-
-
 
 (514.)
 
@@ -12,6 +6,3 @@
 
 * [Catukka](Noatthiduka/Catukka.md)
 * [Sattaka](Noatthiduka/Sattaka.md)
-
-
-

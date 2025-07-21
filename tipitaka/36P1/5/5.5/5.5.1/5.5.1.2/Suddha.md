@@ -1,11 +1,4 @@
-
-
 # Suddha
-
-
-
-
-
 
 (48.)
 
@@ -15,13 +8,6 @@
 
 2594\. (Yathā kusalattike gaṇanā, evaṃ gaṇetabbā.)
 
-
-
 ---
 
 2595\. Anulomaṃ.
-
-
-
-
-

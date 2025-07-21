@@ -1,12 +1,4 @@
-
-
 # Vippayutta
-
-
-
-
-
-
 
 (166.)
 
@@ -15,6 +7,3 @@
 925\. Lokiyo dhammo lokuttarassa dhammassa vippayuttapaccayena paccayo. **Purejātaṃ**—  vatthu lokuttarānaṃ khandhānaṃ vippayuttapaccayena paccayo. (2)
 
 926\. Lokuttaro dhammo lokiyassa dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, pacchājātaṃ. **Sahajātā**—  lokuttarā khandhā cittasamuṭṭhānānaṃ rūpānaṃ vippayuttapaccayena paccayo. **Pacchājātā**—  lokuttarā khandhā purejātassa imassa kāyassa vippayuttapaccayena paccayo. (1)
-
-
-

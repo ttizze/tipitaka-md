@@ -1,11 +1,4 @@
-
-
 # Aññamañña
-
-
-
-
-
 
 (100.)
 
@@ -22,6 +15,3 @@
 2319\. Nevavipākanavipākadhammadhammo vipākassa dhammassa aññamaññapaccayena paccayo—  paṭisandhikkhaṇe vatthu vipākānaṃ khandhānaṃ…pe… . (2)
 
 2320\. Vipāko ca nevavipākanavipākadhammadhammo ca dhammā vipākassa dhammassa…pe…  paṭisandhikkhaṇe vipāko eko khandho ca vatthu ca…pe… . (1) (Satta pañhā.)
-
-
-

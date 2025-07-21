@@ -1,11 +1,4 @@
-
-
 # Ārammaṇa
-
-
-
-
-
 
 (14.)
 
@@ -26,6 +19,3 @@
 2196\. Appamāṇārammaṇo dhammo parittārammaṇassa dhammassa ārammaṇapaccayena paccayo—  ariyā gotrabhuṃ paccavekkhanti, vodānaṃ paccavekkhanti, maggapaccavekkhaṇaṃ paccavekkhanti, phalapaccavekkhaṇaṃ paccavekkhanti, nibbānapaccavekkhaṇaṃ paccavekkhanti. Appamāṇārammaṇe paritte khandhe aniccato…pe…  vipassati, cetopariyañāṇena appamāṇārammaṇaparittacittasamaṅgissa cittaṃ jānāti. Appamāṇārammaṇā parittā khandhā cetopariyañāṇassa, pubbenivāsānussatiñāṇassa, yathākammūpagañāṇassa, anāgataṃsañāṇassa āvajjanāya ārammaṇapaccayena paccayo. (2)
 
 2197\. Appamāṇārammaṇo dhammo mahaggatārammaṇassa dhammassa ārammaṇapaccayena paccayo—  ariyā appamāṇārammaṇaṃ cetopariyañāṇaṃ paccavekkhanti, pubbenivāsānussatiñāṇaṃ paccavekkhanti, anāgataṃsañāṇaṃ paccavekkhanti. Cetopariyañāṇena appamāṇārammaṇamahaggatacittasamaṅgissa cittaṃ jānanti. Appamāṇārammaṇaṃ mahaggatā khandhā cetopariyañāṇassa, pubbenivāsānussatiñāṇassa, anāgataṃsañāṇassa, āvajjanāya ārammaṇapaccayena paccayo. (3)
-
-
-

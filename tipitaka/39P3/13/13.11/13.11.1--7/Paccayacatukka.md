@@ -1,10 +1,4 @@
-
-
 # Paccayacatukka
-
-
-
-
 
 (71.)
 
@@ -41,6 +35,3 @@
 (76.)
 
 2539\. Hetuyā nava, ārammaṇe cattāri, adhipatiyā pañca…pe…  purejāte āsevane dve…pe…  avigate nava. (Saṃkhittaṃ. Yathā kāmāvacaradukaabyākatasadisaṃ, ettakāyeva pañhā heṭṭhuparikaṃ parivattanti. Sahajātavārampi…pe…  pañhāvārampi sabbattha vitthāretabbaṃ.)
-
-
-

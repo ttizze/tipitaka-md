@@ -1,11 +1,4 @@
-
-
 # Adhipati
-
-
-
-
-
 
 (74.)
 
@@ -32,6 +25,3 @@
 963\. Nevadassanena nabhāvanāya pahātabbo dhammo dassanena pahātabbassa dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  dānaṃ datvā sīlaṃ samādiyitvā uposathakammaṃ katvā taṃ garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā dassanena pahātabbo rāgo uppajjati, diṭṭhi uppajjati. Pubbe suciṇṇāni garuṃ katvā…pe…  jhānā vuṭṭhahitvā jhānaṃ garuṃ katvā…pe…  cakkhuṃ…pe…  vatthuṃ…  nevadassanena nabhāvanāya pahātabbe khandhe garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā dassanena pahātabbo rāgo uppajjati, diṭṭhi uppajjati. (2)
 
 964\. Nevadassanena nabhāvanāya pahātabbo dhammo bhāvanāya pahātabbassa dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  dānaṃ datvā sīlaṃ samādiyitvā uposathakammaṃ katvā taṃ garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā bhāvanāya pahātabbo rāgo uppajjati. Pubbe…pe…  nevadassanena nabhāvanāya pahātabbe khandhe garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā bhāvanāya pahātabbo rāgo uppajjati. (3)
-
-
-

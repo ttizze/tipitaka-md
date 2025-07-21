@@ -1,9 +1,4 @@
-
-
 # Paccanīyuddhāra
-
-
-
 
 (88.)
 
@@ -38,6 +33,3 @@
 2148\. Paritto ca mahaggato ca dhammā parittassa dhammassa sahajātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ. (1)
 
 2149\. Paritto ca mahaggato ca dhammā mahaggatassa dhammassa sahajātaṃ, purejātaṃ. (2)
-
-
-

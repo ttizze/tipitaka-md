@@ -1,16 +1,7 @@
-
-
 # Naārammaṇaduka
-
-
-
-
 
 (496.)
 
 1709\. Naārammaṇapaccayā hetuyā satta, adhipatiyā satta, anantare satta, samanantare satta, sahajāte nava, aññamaññe tīṇi, nissaye terasa, upanissaye nava, purejāte tīṇi, pacchājāte tīṇi, āsevane tīṇi, kamme satta, vipāke ekaṃ, āhāre satta, indriye satta, jhāne satta, magge satta, sampayutte tīṇi, vippayutte pañca, atthiyā terasa, natthiyā satta, vigate satta, avigate terasa…pe… .
 
 * [Aṭṭhaka](Naarammanaduka/Atthaka.md)
-
-
-

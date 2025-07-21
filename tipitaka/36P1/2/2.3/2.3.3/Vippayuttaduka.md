@@ -1,10 +1,4 @@
-
-
 # Vippayuttaduka
-
-
-
-
 
 (177.)
 
@@ -13,6 +7,3 @@
 * [Tika](Vippayuttaduka/Tika.md)
 * [Catukka](Vippayuttaduka/Catukka.md)
 * [Pañcaka](Vippayuttaduka/Pancaka.md)
-
-
-

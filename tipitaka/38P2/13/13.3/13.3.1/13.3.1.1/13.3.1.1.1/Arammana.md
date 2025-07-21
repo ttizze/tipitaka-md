@@ -1,12 +1,4 @@
-
-
 # Ārammaṇa
-
-
-
-
-
-
 
 (50.)
 
@@ -23,6 +15,3 @@
 4180\. Nadassanena pahātabbahetukaṃ dhammaṃ paṭicca dassanena pahātabbahetuko dhammo uppajjati ārammaṇapaccayā—  vicikicchāsahagataṃ mohaṃ paṭicca sampayuttakā khandhā. (2)
 
 4181\. Dassanena pahātabbahetukañca nadassanena pahātabbahetukañca dhammaṃ paṭicca dassanena pahātabbahetuko dhammo uppajjati ārammaṇapaccayā—  vicikicchāsahagataṃ ekaṃ khandhañca mohañca paṭicca tayo khandhā…pe…  dve khandhe ca…pe… . (1) (Saṃkhittaṃ.)
-
-
-

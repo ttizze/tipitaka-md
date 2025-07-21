@@ -1,12 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
-
 
 (69.)
 
@@ -31,6 +23,3 @@
 1775\. Ganthasampayutto ca ganthavippayutto ca dhammā ganthavippayuttassa dhammassa hetupaccayena paccayo—  diṭṭhigatavippayuttalobhasahagato hetu ca lobho ca cittasamuṭṭhānānaṃ rūpānaṃ hetupaccayena paccayo; domanassasahagato hetu ca paṭighañca cittasamuṭṭhānānaṃ rūpānaṃ hetupaccayena paccayo. (2)
 
 1776\. Ganthasampayutto ca ganthavippayutto ca dhammā ganthasampayuttassa ca ganthavippayuttassa ca dhammassa hetupaccayena paccayo—  diṭṭhigatavippayuttalobhasahagato hetu ca lobho ca sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo; domanassasahagato hetu ca paṭighañca sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo. (3)
-
-
-

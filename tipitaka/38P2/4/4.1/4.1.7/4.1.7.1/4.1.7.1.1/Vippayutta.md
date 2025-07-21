@@ -1,12 +1,4 @@
-
-
 # Vippayutta
-
-
-
-
-
-
 
 (28.)
 
@@ -19,6 +11,3 @@
 1390\. Nosaññojano dhammo saññojanassa ca nosaññojanassa ca dhammassa vippayuttapaccayena paccayo. **Purejātaṃ**—  vatthu saññojanānaṃ sampayuttakānañca khandhānaṃ vippayuttapaccayena paccayo. (3)
 
 1391\. Saññojano ca nosaññojano ca dhammā nosaññojanassa dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, pacchājātaṃ. (Vibhajitabbaṃ.) (1)
-
-
-

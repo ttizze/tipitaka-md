@@ -1,11 +1,4 @@
-
-
 # Āsevana
-
-
-
-
-
 
 (109.)
 
@@ -58,6 +51,3 @@
 481\. Savitakkasavicāro ca avitakkavicāramatto ca dhammā avitakkavicāramattassa ca avitakkaavicārassa ca dhammassa āsevanapaccayena paccayo—  avitakkavicāramattassa jhānassa parikammañca vitakko ca avitakkavicāramattassa jhānassa vicārassa ca…  gotrabhu ca vitakko ca avitakkavicāramattassa maggassa vicārassa ca…  vodānañca vitakko ca avitakkavicāramattassa maggassa vicārassa ca āsevanapaccayena paccayo. (4)
 
 482\. Savitakkasavicāro ca avitakkavicāramatto ca dhammā savitakkasavicārassa ca avitakkavicāramattassa ca dhammassa āsevanapaccayena paccayo—  purimā purimā savitakkasavicārā khandhā ca vitakko ca pacchimānaṃ pacchimānaṃ savitakkasavicārānaṃ khandhānaṃ vitakkassa ca āsevanapaccayena paccayo. Anulomañca vitakko ca gotrabhussa vitakkassa ca…  anulomañca vitakko ca vodānassa vitakkassa ca…  gotrabhu ca vitakko ca savitakkasavicārassa maggassa vitakkassa ca…  vodānañca vitakko ca savitakkasavicārassa maggassa vitakkassa ca āsevanapaccayena paccayo. (5)
-
-
-

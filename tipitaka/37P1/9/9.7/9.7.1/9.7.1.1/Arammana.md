@@ -1,11 +1,4 @@
-
-
 # Ārammaṇa
-
-
-
-
-
 
 (71.)
 
@@ -28,6 +21,3 @@
 953\. Nevadassanena nabhāvanāya pahātabbo dhammo dassanena pahātabbassa dhammassa ārammaṇapaccayena paccayo—  dānaṃ datvā sīlaṃ samādiyitvā uposathakammaṃ katvā taṃ assādeti abhinandati, taṃ ārabbha dassanena pahātabbo rāgo uppajjati, diṭṭhi uppajjati, vicikicchā uppajjati, dassanena pahātabbaṃ domanassaṃ uppajjati. Pubbe suciṇṇāni assādeti abhinandati…pe…  jhānā vuṭṭhahitvā jhānaṃ assādeti abhinandati, taṃ ārabbha dassanena pahātabbo rāgo…pe…  diṭṭhi…pe…  vicikicchā…pe…  jhāne parihīne vippaṭisārissa dassanena pahātabbaṃ domanassaṃ uppajjati. Cakkhuṃ assādeti abhinandati…pe…  sotaṃ…  ghānaṃ…  jivhaṃ…  kāyaṃ…  rūpe…  sadde…  gandhe…  rase…  phoṭṭhabbe…  vatthuṃ…  nevadassanena nabhāvanāya pahātabbe khandhe assādeti abhinandati, taṃ ārabbha dassanena pahātabbo rāgo…pe…  diṭṭhi…pe…  vicikicchā…pe…  dassanena pahātabbaṃ domanassaṃ uppajjati. (2)
 
 954\. Nevadassanena nabhāvanāya pahātabbo dhammo bhāvanāya pahātabbassa dhammassa ārammaṇapaccayena paccayo—  dānaṃ datvā sīlaṃ samādiyitvā uposathakammaṃ katvā taṃ assādeti abhinandati, taṃ ārabbha bhāvanāya pahātabbo rāgo uppajjati, uddhaccaṃ uppajjati, bhāvanāya pahātabbaṃ domanassaṃ uppajjati. Pubbe suciṇṇāni…pe…  jhānā vuṭṭhahitvā…pe…  cakkhuṃ…pe…  vatthuṃ…  nevadassanena nabhāvanāya pahātabbe khandhe assādeti…pe…  taṃ ārabbha bhāvanāya pahātabbo rāgo uppajjati, uddhaccaṃ uppajjati, bhāvanāya pahātabbaṃ domanassaṃ uppajjati. (3)
-
-
-

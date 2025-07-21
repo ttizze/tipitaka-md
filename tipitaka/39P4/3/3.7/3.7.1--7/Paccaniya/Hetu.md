@@ -1,11 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
 
 (46.)
 
@@ -28,8 +21,3 @@
 ---
 
 1223\. Kusalattikacūḷantaradukaṃ niṭṭhitaṃ.
-
-
-
-
-

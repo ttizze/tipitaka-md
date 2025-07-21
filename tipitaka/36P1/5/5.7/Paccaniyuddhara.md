@@ -1,9 +1,4 @@
-
-
 # Paccanīyuddhāra
-
-
-
 
 (89.)
 
@@ -56,6 +51,3 @@
 2792\. Upādinnupādāniyo ca anupādinnupādāniyo ca dhammā upādinnupādāniyassa ca anupādinnupādāniyassa ca dhammassa āhāraṃ. (3)
 
 2793\. Upādinnupādāniyo ca anupādinnupādāniyo ca anupādinnaanupādāniyo ca dhammā upādinnupādāniyassa dhammassa pacchājātaṃ, āhāraṃ, indriyaṃ. (1)
-
-
-

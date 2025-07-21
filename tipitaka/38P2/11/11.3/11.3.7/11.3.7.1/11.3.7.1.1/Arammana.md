@@ -1,12 +1,4 @@
-
-
 # Ārammaṇa
-
-
-
-
-
-
 
 (66.)
 
@@ -23,6 +15,3 @@
 (68.)
 
 3702\. Upādānasampayutto ca upādānavippayutto ca dhammā upādānasampayuttassa dhammassa ārammaṇapaccayena paccayo—  diṭṭhigatavippayuttalobhasahagate khandhe ca lobhañca ārabbha upādānasampayuttā khandhā uppajjanti. (Mūlaṃ kātabbaṃ.) Diṭṭhigatavippayuttalobhasahagate khandhe ca lobhañca ārabbha upādānavippayuttā khandhā ca lobho ca uppajjanti. (Mūlaṃ kātabbaṃ.) Diṭṭhigatavippayuttalobhasahagate khandhe ca lobhañca ārabbha diṭṭhigatavippayuttalobhasahagatā khandhā ca lobho ca uppajjanti. (3)
-
-
-

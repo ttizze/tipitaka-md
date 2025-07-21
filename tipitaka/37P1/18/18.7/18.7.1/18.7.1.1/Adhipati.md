@@ -1,11 +1,4 @@
-
-
 # Adhipati
-
-
-
-
-
 
 (5.)
 
@@ -14,6 +7,3 @@
 2600\. Anuppanno dhammo uppannassa dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  anuppanne rūpe…  sadde…  gandhe…  rase…  phoṭṭhabbe…  anuppanne khandhe garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā rāgo uppajjati, diṭṭhi uppajjati. (1)
 
 2601\. Uppādī dhammo uppannassa dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  uppādiṃ cakkhuṃ…pe…  kāyaṃ…  rūpe…pe…  phoṭṭhabbe…  vatthuṃ…  uppādī khandhe garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā rāgo uppajjati, diṭṭhi uppajjati. (1)
-
-
-

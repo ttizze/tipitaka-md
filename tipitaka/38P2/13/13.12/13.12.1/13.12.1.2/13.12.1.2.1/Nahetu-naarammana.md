@@ -1,12 +1,4 @@
-
-
 # Nahetu-naārammaṇa
-
-
-
-
-
-
 
 (230.)
 
@@ -15,8 +7,3 @@
 ---
 
 4587\. Naārammaṇapaccayā…  tīṇi.
-
-
-
-
-

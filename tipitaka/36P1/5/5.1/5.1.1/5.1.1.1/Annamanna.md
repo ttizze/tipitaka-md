@@ -1,11 +1,4 @@
-
-
 # Aññamañña
-
-
-
-
-
 
 (5.)
 
@@ -14,6 +7,3 @@
 2459\. Anupādinnupādāniyaṃ dhammaṃ paṭicca…pe…  bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…pe… . (1)
 
 2460\. Anupādinnaanupādāniyaṃ dhammaṃ paṭicca…pe… . (1)
-
-
-

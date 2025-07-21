@@ -1,12 +1,4 @@
-
-
 # Catukka
-
-
-
-
-
-
 
 572\. Navippayuttapaccayā nahetupaccayā naārammaṇapaccayā naadhipatiyā ekaṃ. (Sabbattha ekaṃ.)
 
@@ -15,8 +7,3 @@
 ---
 
 574\. Paccayavāre paccanīyaṃ.
-
-
-
-
-

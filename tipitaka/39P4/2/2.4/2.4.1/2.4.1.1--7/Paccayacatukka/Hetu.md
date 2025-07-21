@@ -1,12 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
-
 
 (20.)
 
@@ -23,6 +15,3 @@
 1008\. Naadhipatiyā tīṇi, napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, navipāke tīṇi, navippayutte tīṇi. (Saṃkhittaṃ.)
 
 1009\. (Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ.)
-
-
-

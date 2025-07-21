@@ -1,11 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
 
 (346.)
 
@@ -17,8 +10,6 @@
 
 4795\. Anulomaṃ.
 
-
-
 4796\. Saraṇaṃ dhammaṃ paṭicca saraṇo dhammo uppajjati nahetupaccayā—  vicikicchāsahagate uddhaccasahagate khandhe paṭicca vicikicchāsahagato uddhaccasahagato moho. (1)
 
 4797\. Araṇaṃ dhammaṃ paṭicca araṇo dhammo uppajjati nahetupaccayā—  ahetukaṃ araṇaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  ahetukapaṭisandhikkhaṇe…pe… . (Yāva asaññasattā.) (1)
@@ -28,8 +19,3 @@
 ---
 
 4799\. Paccanīyaṃ.
-
-
-
-
-

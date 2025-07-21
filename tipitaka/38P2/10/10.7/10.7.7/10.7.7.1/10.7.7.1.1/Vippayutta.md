@@ -1,12 +1,4 @@
-
-
 # Vippayutta
-
-
-
-
-
-
 
 (265.)
 
@@ -31,6 +23,3 @@
 2975\. Cittasahabhū ca nocittasahabhū ca dhammā nocittasahabhussa dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, pacchājātaṃ. **Sahajātā**—  cittasahabhū khandhā ca cittañca nocittasahabhūnaṃ cittasamuṭṭhānānaṃ rūpānaṃ vippayuttapaccayena paccayo; paṭisandhikkhaṇe…pe… . **Pacchājātā**—  cittasahabhū khandhā ca cittañca purejātassa imassa nocittasahabhussa kāyassa vippayuttapaccayena paccayo. (2)
 
 2976\. Cittasahabhū ca nocittasahabhū ca dhammā cittasahabhussa ca nocittasahabhussa ca dhammassa vippayuttapaccayena paccayo—  cittasahabhū khandhā ca cittañca cittasahabhūnañca nocittasahabhūnañca cittasamuṭṭhānānaṃ rūpānaṃ vippayuttapaccayena paccayo. (3)
-
-
-

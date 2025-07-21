@@ -1,10 +1,4 @@
-
-
 # Paccayacatukka
-
-
-
-
 
 (13.)
 
@@ -47,6 +41,3 @@
 45\. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
 
 46\. (Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
-
-
-

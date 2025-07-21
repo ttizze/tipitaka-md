@@ -1,11 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
 
 (58.)
 
@@ -46,6 +39,3 @@
 2180\. Vipākadhammadhammañca nevavipākanavipākadhammadhammañca dhammaṃ paccayā nevavipākanavipākadhammadhammo uppajjati hetupaccayā—  vipākadhammadhamme khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ. (2)
 
 2181\. Vipākadhammadhammañca nevavipākanavipākadhammadhammañca dhammaṃ paccayā vipākadhammadhammo ca nevavipākanavipākadhammadhammo ca dhammā uppajjanti hetupaccayā—  vipākadhammadhammaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe ca vatthuñca paccayā dve khandhā, vipākadhammadhamme khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ. (3)
-
-
-

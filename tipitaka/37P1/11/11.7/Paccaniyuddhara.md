@@ -1,9 +1,4 @@
-
-
 # Paccanīyuddhāra
-
-
-
 
 (69.)
 
@@ -42,6 +37,3 @@
 1646\. Apacayagāmī ca nevācayagāmināpacayagāmī ca dhammā apacayagāmissa dhammassa sahajātaṃ, purejātaṃ. (1)
 
 1647\. Apacayagāmī ca nevācayagāmināpacayagāmī ca dhammā nevācayagāmināpacayagāmissa dhammassa sahajātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ. (2)
-
-
-

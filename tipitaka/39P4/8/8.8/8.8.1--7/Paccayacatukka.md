@@ -1,10 +1,4 @@
-
-
 # Paccayacatukka
-
-
-
-
 
 (31.)
 
@@ -23,6 +17,3 @@
 1796\. Hetuyā ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
 
 1797\. (Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
-
-
-

@@ -1,12 +1,4 @@
-
-
 # Ghaṭanā
-
-
-
-
-
-
 
 (70.)
 
@@ -15,8 +7,3 @@
 ---
 
 1964\. Samanantarapaccayā (anantarasadisaṃ.)
-
-
-
-
-

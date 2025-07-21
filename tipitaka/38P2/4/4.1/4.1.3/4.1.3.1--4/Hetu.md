@@ -1,11 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
 
 (10.)
 
@@ -32,6 +25,3 @@
 (13.)
 
 1353\. Nahetuyā cattāri (yattha yattha vatthu labbhati, tattha tattha ninnetabbaṃ), naārammaṇe tīṇi…pe…  novigate tīṇi.
-
-
-

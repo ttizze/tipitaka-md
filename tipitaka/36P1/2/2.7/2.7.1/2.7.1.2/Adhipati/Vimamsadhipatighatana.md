@@ -1,12 +1,4 @@
-
-
 # Vīmaṃsādhipatighaṭanā
-
-
-
-
-
-
 
 (316.)
 
@@ -17,8 +9,3 @@
 ---
 
 1030\. Adhipatimūlakaṃ.
-
-
-
-
-

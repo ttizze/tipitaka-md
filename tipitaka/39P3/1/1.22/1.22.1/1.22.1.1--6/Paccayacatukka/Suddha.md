@@ -1,12 +1,4 @@
-
-
 # Suddha
-
-
-
-
-
-
 
 (542.)
 
@@ -15,6 +7,3 @@
 (543.)
 
 1218\. Nahetuyā ekaṃ, naārammaṇe ekaṃ, naadhipatiyā ekaṃ (sabbe paccayā kātabbā)…pe…  novigate ekaṃ. (Saṃkhittaṃ.)
-
-
-

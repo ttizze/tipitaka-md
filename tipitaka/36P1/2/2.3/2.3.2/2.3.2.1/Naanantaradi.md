@@ -1,11 +1,4 @@
-
-
 # Naanantarādi
-
-
-
-
-
 
 (145.)
 
@@ -14,8 +7,3 @@
 ---
 
 526\. (Yathā paṭiccavāre, evaṃ vitthāretabbaṃ.)
-
-
-
-
-

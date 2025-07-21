@@ -1,11 +1,4 @@
-
-
 # Nahetuduka
-
-
-
-
-
 
 (17.)
 
@@ -13,6 +6,3 @@
 
 * [Catukka](Nahetuduka/Catukka.md)
 * [Navaka](Nahetuduka/Navaka.md)
-
-
-

@@ -1,11 +1,4 @@
-
-
 # Vippayutta
-
-
-
-
-
 
 (25.)
 
@@ -18,6 +11,3 @@
 2892\. Asaṃkiliṭṭhasaṃkilesiko dhammo asaṃkiliṭṭhaasaṃkilesikassa dhammassa vippayuttapaccayena paccayo. **Purejātaṃ**—  vatthu asaṃkiliṭṭhaasaṃkilesikānaṃ khandhānaṃ vippayuttapaccayena paccayo. (3)
 
 2893\. Asaṃkiliṭṭhaasaṃkilesiko dhammo asaṃkiliṭṭhasaṃkilesikassa dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, pacchājātaṃ. **Sahajātā**—  asaṃkiliṭṭhaasaṃkilesikā khandhā cittasamuṭṭhānānaṃ rūpānaṃ vippayuttapaccayena paccayo. **Pacchājātā**—  asaṃkiliṭṭhaasaṃkilesikā khandhā purejātassa imassa kāyassa vippayuttapaccayena paccayo. (1)
-
-
-

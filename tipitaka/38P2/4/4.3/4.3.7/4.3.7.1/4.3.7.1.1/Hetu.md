@@ -1,12 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
-
 
 (66.)
 
@@ -23,6 +15,3 @@
 1485\. Saññojanavippayutto dhammo saññojanasampayuttassa dhammassa hetupaccayena paccayo—  uddhaccasahagato moho sampayuttakānaṃ khandhānaṃ hetupaccayena paccayo. (2)
 
 1486\. Saññojanavippayutto dhammo saññojanasampayuttassa ca saññojanavippayuttassa ca dhammassa hetupaccayena paccayo—  uddhaccasahagato moho sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo. (3)
-
-
-

@@ -1,11 +1,4 @@
-
-
 # Adhipatyādi
-
-
-
-
-
 
 (22.)
 
@@ -16,6 +9,3 @@
 1724\. Nevasekkhanāsekkhaṃ dhammaṃ paccayā sekkho dhammo uppajjati āsevanapaccayā—  vatthuṃ paccayā sekkhā khandhā. (2)
 
 1725\. Sekkhañca nevasekkhanāsekkhañca dhammaṃ paccayā sekkho dhammo uppajjati āsevanapaccayā—  sekkhaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhā. (1)
-
-
-

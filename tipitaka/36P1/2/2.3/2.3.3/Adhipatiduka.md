@@ -1,10 +1,4 @@
-
-
 # Adhipatiduka
-
-
-
-
 
 (164.)
 
@@ -17,8 +11,3 @@
 ---
 
 588\. (Yathā ārammaṇamūlakaṃ, evaṃ vitthāretabbaṃ.)
-
-
-
-
-

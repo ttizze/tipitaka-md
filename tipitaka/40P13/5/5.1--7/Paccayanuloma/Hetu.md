@@ -1,10 +1,4 @@
-
-
 # Hetu
-
-
-
-
 
 (31.)
 
@@ -23,6 +17,3 @@
 (32.)
 
 68\. Hetuyā terasa, ārammaṇe pannarasa, adhipatiyā pannarasa, anantare soḷasa…pe…  sahajāte ekūnavīsa, aññamaññe nava, nissaye chabbīsa, upanissaye sattarasa, purejāte cha, pacchājāte nava, āsevane aṭṭha, kamme terasa, vipāke aṭṭha, āhāre terasa…pe…  magge terasa, sampayutte nava, vippayutte dvādasa…pe…  avigate chabbīsa.
-
-
-

@@ -1,11 +1,4 @@
-
-
 # Naadhipatiduka
-
-
-
-
-
 
 (54.)
 
@@ -13,6 +6,3 @@
 
 * [Tika](Naadhipatiduka/Tika.md)
 * [Catukka](Naadhipatiduka/Catukka.md)
-
-
-

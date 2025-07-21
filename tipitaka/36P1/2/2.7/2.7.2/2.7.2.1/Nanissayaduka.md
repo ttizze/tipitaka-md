@@ -1,11 +1,4 @@
-
-
 # Nanissayaduka
-
-
-
-
-
 
 (402.)
 
@@ -13,6 +6,3 @@
 
 * [Catukka](Nanissayaduka/Catukka.md)
 * [Dasaka](Nanissayaduka/Dasaka.md)
-
-
-

@@ -1,10 +1,4 @@
-
-
 # Jhānaduka
-
-
-
-
 
 (76.)
 
@@ -12,6 +6,3 @@
 
 * [Tika](Jhanaduka/Tika.md)
 * [Catukka](Jhanaduka/Catukka.md)
-
-
-

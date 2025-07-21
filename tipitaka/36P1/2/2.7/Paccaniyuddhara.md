@@ -1,9 +1,4 @@
-
-
 # Paccanīyuddhāra
-
-
-
 
 (391.)
 
@@ -48,8 +43,3 @@
 ---
 
 1173\. Pañhāvārassa paccanīyuddhāraṃ.
-
-
-
-
-

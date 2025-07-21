@@ -1,12 +1,4 @@
-
-
 # Atthi
-
-
-
-
-
-
 
 (176.)
 
@@ -27,6 +19,3 @@
 2748\. Cittasampayutto ca cittavippayutto ca dhammā cittasampayuttassa dhammassa atthipaccayena paccayo—  sahajātaṃ, purejātaṃ. **Sahajāto**—  cakkhuviññāṇasahagato eko khandho ca cakkhāyatanañca dvinnaṃ khandhānaṃ…pe…  kāyaviññāṇasahagato eko khandho ca kāyāyatanañca dvinnaṃ khandhānaṃ…pe…  cittasampayutto eko khandho ca vatthu ca dvinnaṃ khandhānaṃ…pe…  dve khandhā ca…pe…  paṭisandhikkhaṇe…pe… . (1)
 
 2749\. Cittasampayutto ca cittavippayutto ca dhammā cittavippayuttassa dhammassa atthipaccayena paccayo—  sahajātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ. **Sahajātā**—  cittasampayuttā khandhā ca mahābhūtā ca cittasamuṭṭhānānaṃ rūpānaṃ atthipaccayena paccayo; paṭisandhikkhaṇe…pe… . **Pacchājātā**—  cittasampayuttakā khandhā ca kabaḷīkāro āhāro ca imassa kāyassa atthipaccayena paccayo. **Pacchājātā**—  cittasampayuttakā khandhā ca rūpajīvitindriyañca kaṭattārūpānaṃ atthipaccayena paccayo. (2)
-
-
-

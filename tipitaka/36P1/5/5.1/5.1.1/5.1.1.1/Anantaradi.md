@@ -1,11 +1,4 @@
-
-
 # Anantarādi
-
-
-
-
-
 
 (4.)
 
@@ -20,6 +13,3 @@
 2456\. Anupādinnupādāniyañca anupādinnaanupādāniyañca dhammaṃ paṭicca…pe…  anupādinnupādāniyo…pe… . (1)
 
 2457\. Upādinnupādāniyañca anupādinnupādāniyañca dhammaṃ paṭicca anupādinnupādāniyo…pe… . (1)
-
-
-

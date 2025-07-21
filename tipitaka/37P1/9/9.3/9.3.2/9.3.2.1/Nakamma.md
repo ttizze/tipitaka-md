@@ -1,11 +1,4 @@
-
-
 # Nakamma
-
-
-
-
-
 
 (54.)
 
@@ -24,6 +17,3 @@
 913\. Dassanena pahātabbañca nevadassanena nabhāvanāya pahātabbañca dhammaṃ paccayā dassanena pahātabbo dhammo uppajjati nakammapaccayā—  dassanena pahātabbe khandhe ca vatthuñca paccayā dassanena pahātabbā cetanā. (1)
 
 914\. Bhāvanāya pahātabbañca nevadassanena nabhāvanāya pahātabbañca dhammaṃ paccayā bhāvanāya pahātabbo dhammo uppajjati nakammapaccayā—  bhāvanāya pahātabbe khandhe ca vatthuñca paccayā bhāvanāya pahātabbā cetanā. (1)
-
-
-

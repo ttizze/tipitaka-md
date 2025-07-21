@@ -1,11 +1,4 @@
-
-
 # Paccanīyuddhāra
-
-
-
-
-
 
 (56.)
 
@@ -25,13 +18,6 @@
 
 1702\. Āsavavippayuttasāsavadukakusalattikaṃ niṭṭhitaṃ.
 
-
-
 ---
 
 1703\. Āsavagocchakaṃ niṭṭhitaṃ.
-
-
-
-
-

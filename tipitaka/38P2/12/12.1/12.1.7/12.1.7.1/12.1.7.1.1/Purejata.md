@@ -1,12 +1,4 @@
-
-
 # Purejāta
-
-
-
-
-
-
 
 (25.)
 
@@ -15,6 +7,3 @@
 3878\. Nokileso dhammo kilesassa dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ. **Ārammaṇapurejātaṃ**—  cakkhuṃ…pe…  vatthuṃ assādeti abhinandati, taṃ ārabbha rāgo…pe…  domanassaṃ uppajjati. **Vatthupurejātaṃ**—  vatthu kilesānaṃ purejātapaccayena paccayo. (2)
 
 3879\. Nokileso dhammo kilesassa ca nokilesassa ca dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ. **Ārammaṇapurejātaṃ**—  cakkhuṃ…pe…  vatthuṃ assādeti abhinandati, taṃ ārabbha kilesā ca sampayuttakā ca khandhā uppajjanti. **Vatthupurejātaṃ**—  vatthu kilesānaṃ sampayuttakānañca khandhānaṃ purejātapaccayena paccayo. (3)
-
-
-

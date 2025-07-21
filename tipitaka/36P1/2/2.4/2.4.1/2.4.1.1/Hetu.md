@@ -1,11 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
 
 (193.)
 
@@ -36,8 +29,3 @@
 ---
 
 677\. (Yathā paccayavāre, evaṃ vitthāretabbaṃ.)
-
-
-
-
-

@@ -1,9 +1,4 @@
-
-
 # Ārammaṇa
-
-
-
 
 (8.)
 
@@ -22,6 +17,3 @@
 (9.)
 
 41\. Hetuyā aṭṭhārasa, ārammaṇe aṭṭhārasa, adhipatiyā tevīsa, anantare soḷasa…pe…  sahajāte aṭṭhārasa, aññamaññe nava, nissaye bāvīsa, upanissaye aṭṭhārasa, purejāte nava, pacchājāte cha, āsevane nava, kamme aṭṭhārasa, vipāke tīṇi, āhāre…pe…  magge aṭṭhārasa, sampayutte nava, vippayutte dvādasa…pe…  avigate dvāvīsa. (Pañhāvāraṃ vitthāretabbaṃ.)
-
-
-

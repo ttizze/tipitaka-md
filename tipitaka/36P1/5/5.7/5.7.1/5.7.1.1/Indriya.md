@@ -1,11 +1,4 @@
-
-
 # Indriya
-
-
-
-
-
 
 (75.)
 
@@ -22,6 +15,3 @@
 2711\. Anupādinnaanupādāniyo dhammo anupādinnupādāniyassa dhammassa indriyapaccayena paccayo—  anupādinnaanupādāniyā indriyā cittasamuṭṭhānānaṃ rūpānaṃ indriyapaccayena paccayo. (2)
 
 2712\. Anupādinnaanupādāniyo dhammo anupādinnupādāniyassa ca anupādinnaanupādāniyassa ca dhammassa indriyapaccayena paccayo—  anupādinnaanupādāniyā indriyā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ indriyapaccayena paccayo. (3)
-
-
-

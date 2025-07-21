@@ -1,10 +1,4 @@
-
-
 # Hetu
-
-
-
-
 
 (44.)
 
@@ -31,6 +25,3 @@
 1838\. Hetuyā terasa, ārammaṇe pañca, adhipatiyā nava…pe…  aññamaññe satta…pe…  purejāte āsevane tīṇi…pe…  avigate terasa. (Saṃkhittaṃ.)
 
 1839\. (Sahajātavārepi…pe…  pañhāvārepi sabbattha vitthāro.)
-
-
-

@@ -1,12 +1,4 @@
-
-
 # Naārammaṇa
-
-
-
-
-
-
 
 (196.)
 
@@ -23,6 +15,3 @@
 2800\. Cittasamuṭṭhānañca nocittasamuṭṭhānañca dhammaṃ paṭicca cittasamuṭṭhāno dhammo uppajjati naārammaṇapaccayā—  cittasamuṭṭhāne khandhe ca cittañca paṭicca cittasamuṭṭhānaṃ rūpaṃ, cittañca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
 
 2801\. Cittasamuṭṭhānañca nocittasamuṭṭhānañca dhammaṃ paṭicca nocittasamuṭṭhāno dhammo uppajjati naārammaṇapaccayā—  paṭisandhikkhaṇe cittasamuṭṭhāne khandhe ca cittañca paṭicca kaṭattārūpaṃ; paṭisandhikkhaṇe cittasamuṭṭhāne khandhe ca mahābhūte ca paṭicca kaṭattārūpaṃ. (Saṃkhittaṃ.) (2)
-
-
-

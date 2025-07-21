@@ -1,11 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
 
 (63.)
 
@@ -24,6 +17,3 @@
 1240\. Dassanena pahātabbahetukañca nevadassanena nabhāvanāya pahātabbahetukañca dhammaṃ saṃsaṭṭho dassanena pahātabbahetuko dhammo uppajjati hetupaccayā—  vicikicchāsahagataṃ ekaṃ khandhañca mohañca saṃsaṭṭhā tayo khandhā…pe…  dve khandhā. (1)
 
 1241\. Bhāvanāya pahātabbahetukañca nevadassanena nabhāvanāya pahātabbahetukañca dhammaṃ bhāvanāya pahātabbahetuko dhammo uppajjati hetupaccayā—  uddhaccasahagataṃ ekaṃ khandhañca mohañca saṃsaṭṭhā tayo khandhā…pe…  dve khandhā. (1)
-
-
-

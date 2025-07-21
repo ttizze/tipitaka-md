@@ -1,10 +1,4 @@
-
-
 # Hetu-ārammaṇa
-
-
-
-
 
 (2.)
 
@@ -19,6 +13,3 @@
 (3.)
 
 10\. Hetuyā tīṇi, ārammaṇe nava…pe…  upanissaye nava, purejāte pacchājāte tīṇi, āsevane nava, kamme tīṇi, vipāke nava, āhāre tīṇi, indriye nava, jhāne tīṇi, magge sampayutte nava, vippayutte pañca…pe…  avigate nava. (Pañhāvārampi evaṃ vitthāretabbaṃ.)
-
-
-

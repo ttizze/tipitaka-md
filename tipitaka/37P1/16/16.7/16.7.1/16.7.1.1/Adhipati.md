@@ -1,11 +1,4 @@
-
-
 # Adhipati
-
-
-
-
-
 
 (39.)
 
@@ -28,6 +21,3 @@
 2360\. Aniyato dhammo aniyatassa dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati sahajātādhipati. **Ārammaṇādhipati**—  dānaṃ datvā sīlaṃ samādiyitvā uposathakammaṃ katvā taṃ garuṃ katvā paccavekkhati, pubbe suciṇṇāni garuṃ katvā paccavekkhati, jhānā…pe…  ariyā phalaṃ garuṃ katvā paccavekkhanti, nibbānaṃ garuṃ katvā paccavekkhanti, nibbānaṃ gotrabhussa, vodānassa, phalassa adhipatipaccayena paccayo. Cakkhuṃ…pe…  vatthuṃ…pe…  aniyate khandhe garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā aniyato rāgo uppajjati, diṭṭhi uppajjati. **Sahajātādhipati**—  aniyatādhipati sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ adhipatipaccayena paccayo. (1)
 
 2361\. Aniyato dhammo sammattaniyatassa dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  nibbānaṃ maggassa adhipatipaccayena paccayo. (2)
-
-
-

@@ -1,12 +1,4 @@
-
-
 # Indriyādi
-
-
-
-
-
-
 
 (225.)
 
@@ -19,6 +11,3 @@
 2874\. Cittasamuṭṭhāno ca nocittasamuṭṭhāno ca dhammā cittasamuṭṭhānassa dhammassa indriyapaccayena paccayo—  cittasamuṭṭhānā ca nocittasamuṭṭhānā ca indriyā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ indriyapaccayena paccayo; paṭisandhikkhaṇe…pe…  cakkhundriyañca upekkhindriyañca cakkhuviññāṇasahagatānaṃ khandhānaṃ…pe…  kāyindriyañca sukhindriyañca…pe…  kāyindriyañca dukkhindriyañca kāyaviññāṇasahagatānaṃ khandhānaṃ indriyapaccayena paccayo. (Mūlaṃ kātabbaṃ.) Paṭisandhikkhaṇe cittasamuṭṭhānā ca nocittasamuṭṭhānā ca indriyā kaṭattārūpānaṃ indriyapaccayena paccayo; cakkhundriyañca upekkhindriyañca cakkhuviññāṇassa…pe…  kāyindriyañca…pe… . (Mūlaṃ kātabbaṃ.) Paṭisandhikkhaṇe cittasamuṭṭhānā ca nocittasamuṭṭhānā ca indriyā sampayuttakānaṃ khandhānaṃ kaṭattā ca rūpānaṃ indriyapaccayena paccayo; cakkhundriyañca upekkhindriyañca cakkhuviññāṇassa sampayuttakānañca khandhānaṃ indriyapaccayena paccayo; kāyindriyaṃ ca…pe… . (3)
 
 2875\. Jhānapaccayena paccayo…  tīṇi…  maggapaccayena paccayo…  tīṇi…  sampayuttapaccayena paccayo…  pañca…pe… .
-
-
-

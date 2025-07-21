@@ -1,10 +1,4 @@
-
-
 # Paccayacatukka
-
-
-
-
 
 (60.)
 
@@ -47,8 +41,3 @@
 ---
 
 1707\. Kusalattikapiṭṭhidukaṃ niṭṭhitaṃ.
-
-
-
-
-

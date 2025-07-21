@@ -1,11 +1,4 @@
-
-
 # Kamma
-
-
-
-
-
 
 (96.)
 
@@ -26,6 +19,3 @@
 (98.)
 
 1357\. Nevadassanena nabhāvanāya pahātabbahetuko dhammo nevadassanena nabhāvanāya pahātabbahetukassa dhammassa kammapaccayena paccayo—  sahajātā, nānākkhaṇikā. **Sahajātā**—  nevadassanena nabhāvanāya pahātabbahetukā cetanā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo. Paṭisandhikkhaṇe…pe… . **Nānākkhaṇikā**—  nevadassanena nabhāvanāya pahātabbahetukā cetanā vipākānaṃ khandhānaṃ kaṭattā ca rūpānaṃ kammapaccayena paccayo. (1)
-
-
-

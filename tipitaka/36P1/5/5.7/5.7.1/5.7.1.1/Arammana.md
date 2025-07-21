@@ -1,11 +1,4 @@
-
-
 # Ārammaṇa
-
-
-
-
-
 
 (52.)
 
@@ -24,6 +17,3 @@
 2617\. Anupādinnaanupādāniyo dhammo anupādinnaanupādāniyassa dhammassa ārammaṇapaccayena paccayo—  nibbānaṃ maggassa, phalassa ārammaṇapaccayena paccayo. (1)
 
 2618\. Anupādinnaanupādāniyo dhammo anupādinnupādāniyassa dhammassa ārammaṇapaccayena paccayo—  ariyā maggā vuṭṭhahitvā maggaṃ paccavekkhanti, phalaṃ paccavekkhanti, nibbānaṃ paccavekkhanti; nibbānaṃ gotrabhussa, vodānassa, āvajjanāya ārammaṇapaccayena paccayo. Ariyā cetopariyañāṇena anupādinnaanupādāniyacittasamaṅgissa cittaṃ jānanti; anupādinnaanupādāniyā khandhā cetopariyañāṇassa, pubbenivāsānussatiñāṇassa, anāgataṃsañāṇassa, āvajjanāya ārammaṇapaccayena paccayo. (2)
-
-
-

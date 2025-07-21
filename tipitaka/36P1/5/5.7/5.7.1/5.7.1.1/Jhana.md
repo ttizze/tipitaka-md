@@ -1,11 +1,4 @@
-
-
 # Jhāna
-
-
-
-
-
 
 (76.)
 
@@ -24,6 +17,3 @@
 2718\. Anupādinnaanupādāniyo dhammo anupādinnupādāniyassa dhammassa jhānapaccayena paccayo—  anupādinnaanupādāniyāni jhānaṅgāni cittasamuṭṭhānānaṃ rūpānaṃ jhānapaccayena paccayo. (2)
 
 2719\. Anupādinnaanupādāniyo dhammo anupādinnupādāniyassa ca anupādinnaanupādāniyassa ca dhammassa jhānapaccayena paccayo—  anupādinnaanupādāniyāni jhānaṅgāni sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ jhānapaccayena paccayo. (3)
-
-
-

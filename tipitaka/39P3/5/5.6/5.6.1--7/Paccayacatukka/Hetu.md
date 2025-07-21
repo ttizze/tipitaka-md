@@ -1,11 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
 
 (42.)
 
@@ -64,8 +57,3 @@
 ---
 
 1802\. Saññojanagocchakakusalattikaṃ niṭṭhitaṃ.
-
-
-
-
-

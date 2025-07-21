@@ -1,12 +1,4 @@
-
-
 # Nakammādi
-
-
-
-
-
-
 
 (12.)
 
@@ -17,6 +9,3 @@
 31\. Hetuñca nahetuñca dhammaṃ paṭicca nahetu dhammo uppajjati nakammapaccayā—  hetuñca sampayuttake ca khandhe paṭicca sampayuttakā cetanā. (1)
 
 32\. Hetuṃ dhammaṃ paṭicca hetu dhammo uppajjati navipākapaccayā…  nava.
-
-
-

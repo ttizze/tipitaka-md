@@ -1,12 +1,4 @@
-
-
 # Anantara
-
-
-
-
-
-
 
 (22.)
 
@@ -27,6 +19,3 @@
 (24.)
 
 1036\. Āsavo ca noāsavo ca dhammā āsavassa dhammassa anantarapaccayena paccayo…  tīṇi.
-
-
-

@@ -1,11 +1,4 @@
-
-
 # Kamma-vipāka
-
-
-
-
-
 
 (18.)
 
@@ -18,6 +11,3 @@
 2081\. Nevavipākanavipākadhammadhammaṃ paṭicca vipāko ca nevavipākanavipākadhammadhammo ca dhammā uppajjanti vipākapaccayā—  paṭisandhikkhaṇe vatthuṃ paṭicca vipākā khandhā, mahābhūte paṭicca kaṭattārūpaṃ. (3)
 
 2082\. Vipākañca nevavipākanavipākadhammadhammañca dhammaṃ paṭicca vipāko dhammo uppajjati vipākapaccayā…pe…  nevavipākanavipākadhammadhammo uppajjati vipākapaccayā. Vipāko ca nevavipākanavipākadhammadhammo ca dhammā uppajjanti vipākapaccayā…pe… .
-
-
-

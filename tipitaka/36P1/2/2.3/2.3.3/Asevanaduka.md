@@ -1,10 +1,4 @@
-
-
 # Āsevanaduka
-
-
-
-
 
 (170.)
 
@@ -13,6 +7,3 @@
 * [Tika](Asevanaduka/Tika.md)
 * [Catukka](Asevanaduka/Catukka.md)
 * [Tevīsaka](Asevanaduka/Tevisaka.md)
-
-
-

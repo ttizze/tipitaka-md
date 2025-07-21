@@ -1,10 +1,4 @@
-
-
 # Naāhāraduka
-
-
-
-
 
 (508.)
 
@@ -12,6 +6,3 @@
 
 * [Catukka](Naaharaduka/Catukka.md)
 * [Bāvīsaka](Naaharaduka/Bavisaka.md)
-
-
-

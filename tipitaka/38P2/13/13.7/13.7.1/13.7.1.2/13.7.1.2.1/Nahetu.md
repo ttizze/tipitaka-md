@@ -1,12 +1,4 @@
-
-
 # Nahetu
-
-
-
-
-
-
 
 (144.)
 
@@ -17,6 +9,3 @@
 (145.)
 
 4384\. Sappītikañca appītikañca dhammaṃ paṭicca sappītiko dhammo uppajjati nahetupaccayā—  ahetukaṃ sappītikaṃ ekaṃ khandhañca pītiñca paṭicca tayo khandhā…pe…  dve khandhe ca…pe… . Sappītikañca appītikañca dhammaṃ paṭicca appītiko dhammo uppajjati nahetupaccayā—  ahetuke sappītike khandhe ca pītiñca paṭicca cittasamuṭṭhānaṃ rūpaṃ, ahetuke sappītike khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. Sappītikañca appītikañca dhammaṃ paṭicca sappītiko ca appītiko ca dhammā uppajjanti nahetupaccayā—  ahetukaṃ sappītikaṃ ekaṃ khandhañca pītiñca paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe ca…pe…  ahetukaṃ sappītikaṃ ekaṃ khandhañca pītiñca paṭicca tayo khandhā…pe…  dve khandhe ca…pe…  ahetuke sappītike khandhe ca pītiñca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (3)
-
-
-

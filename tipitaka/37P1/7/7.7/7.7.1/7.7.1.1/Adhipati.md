@@ -1,11 +1,4 @@
-
-
 # Adhipati
-
-
-
-
-
 
 (74.)
 
@@ -62,6 +55,3 @@
 324\. Savitakkasavicāro ca avitakkavicāramatto ca dhammā avitakkavicāramattassa dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  savitakkasavicāre khandhe ca vitakkañca garuṃ katvā vitakko uppajjati. (2)
 
 325\. Savitakkasavicāro ca avitakkavicāramatto ca dhammā savitakkasavicārassa ca avitakkavicāramattassa ca dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  savitakkasavicāre khandhe ca vitakkañca garuṃ katvā savitakkasavicārā khandhā ca vitakko ca uppajjanti. (3)
-
-
-

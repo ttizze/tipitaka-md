@@ -1,10 +1,4 @@
-
-
 # Hetu
-
-
-
-
 
 (38.)
 
@@ -19,6 +13,3 @@
 97\. Apacayagāmiñca nevācayagāmināpacayagāmiñca dhammaṃ paṭicca naācayagāmī dhammo uppajjati hetupaccayā. Apacayagāmiñca nevācayagāmināpacayagāmiñca dhammaṃ paṭicca naapacayagāmī dhammo uppajjati hetupaccayā. Apacayagāmiñca nevācayagāmināpacayagāmiñca dhammaṃ paṭicca naācayagāmī ca naapacayagāmī ca dhammā uppajjanti hetupaccayā. (3) (Saṃkhittaṃ.)
 
 98\. Hetuyā ekūnavīsa, ārammaṇe nava…pe…  vipāke tīṇi…pe…  avigate ekūnavīsa. (Sabbattha vitthāro.)
-
-
-

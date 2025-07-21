@@ -1,11 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
 
 (30.)
 
@@ -28,6 +21,3 @@
 2531\. Anupādinnupādāniyañca anupādinnaanupādāniyañca dhammaṃ paccayā anupādinnupādāniyo dhammo uppajjati hetupaccayā—  anupādinnaanupādāniye khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ. (1)
 
 2532\. Upādinnupādāniyañca anupādinnupādāniyañca dhammaṃ paccayā anupādinnupādāniyo dhammo uppajjati hetupaccayā—  upādinnupādāniye khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ; anupādinnupādāniyaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe ca vatthuñca paccayā dve khandhā. (1)
-
-
-

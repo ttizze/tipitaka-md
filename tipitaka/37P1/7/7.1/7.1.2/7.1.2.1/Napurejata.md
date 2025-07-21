@@ -1,11 +1,4 @@
-
-
 # Napurejāta
-
-
-
-
-
 
 (35.)
 
@@ -38,6 +31,3 @@
 166\. Avitakkavicāramattañca avitakkaavicārañca dhammaṃ paṭicca avitakkavicāramatto ca avitakkaavicāro ca dhammā uppajjanti…pe…  paṭisandhikkhaṇe…  (Saṃkhittaṃ.)
 
 167\. (Napurejātamūlake yathā suddhikaṃ arūpaṃ, tathā arūpā kātabbā.)
-
-
-

@@ -1,11 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
 
 (205.)
 
@@ -19,8 +12,6 @@
 
 4542\. Anulomaṃ.
 
-
-
 4543\. Kāmāvacaraṃ dhammaṃ saṃsaṭṭho kāmāvacaro dhammo uppajjati nahetupaccayā—  ahetukaṃ kāmāvacaraṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā…pe…  dve khandhe…pe…  ahetukapaṭisandhikkhaṇe…pe…  vicikicchāsahagate uddhaccasahagate khandhe saṃsaṭṭho vicikicchāsahagato uddhaccasahagato moho.
 
 4544\. Nahetuyā ekaṃ, naadhipatiyā dve, napurejāte dve, napacchājāte dve, naāsevane dve, nakamme dve, navipāke dve, najhāne ekaṃ, namagge ekaṃ, navippayutte dve.
@@ -28,8 +19,3 @@
 ---
 
 4545\. Paccanīyaṃ.
-
-
-
-
-

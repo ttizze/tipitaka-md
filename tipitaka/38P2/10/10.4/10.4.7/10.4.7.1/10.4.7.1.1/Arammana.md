@@ -1,12 +1,4 @@
-
-
 # Ārammaṇa
-
-
-
-
-
-
 
 (164.)
 
@@ -15,6 +7,3 @@
 (165.)
 
 2720\. Cittavippayutto dhammo cittasampayuttassa dhammassa ārammaṇapaccayena paccayo—  ariyā nibbānaṃ paccavekkhanti. Nibbānaṃ gotrabhussa, vodānassa, maggassa, phalassa, āvajjanāya ārammaṇapaccayena paccayo; cakkhuṃ…pe…  vatthuṃ cittavippayutte khandhe aniccato…pe…  domanassaṃ uppajjati; dibbena cakkhunā rūpaṃ passati, dibbāya sotadhātuyā saddaṃ suṇāti. Rūpāyatanaṃ cakkhuviññāṇasahagatānaṃ khandhānaṃ…pe…  phoṭṭhabbāyatanaṃ…pe…  cittavippayuttā khandhā iddhividhañāṇassa, pubbenivāsānussatiñāṇassa, anāgataṃsañāṇassa, āvajjanāya ārammaṇapaccayena paccayo. (1)
-
-
-

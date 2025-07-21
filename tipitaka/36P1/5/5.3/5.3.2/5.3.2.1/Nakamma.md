@@ -1,11 +1,4 @@
-
-
 # Nakamma
-
-
-
-
-
 
 (40.)
 
@@ -20,6 +13,3 @@
 2572\. Upādinnupādāniyañca anupādinnaanupādāniyañca dhammaṃ paccayā anupādinnaanupādāniyo dhammo uppajjati nakammapaccayā—  kusale anupādinnaanupādāniye khandhe ca vatthuñca paccayā anupādinnaanupādāniyā kusalā cetanā. (1)
 
 2573\. Upādinnupādāniyañca anupādinnupādāniyañca dhammaṃ paccayā anupādinnupādāniyo dhammo uppajjati nakammapaccayā—  anupādinnupādāniye khandhe ca vatthuñca paccayā anupādinnupādāniyā cetanā. (1)
-
-
-

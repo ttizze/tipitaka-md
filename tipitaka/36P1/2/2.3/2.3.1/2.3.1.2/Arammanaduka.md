@@ -1,11 +1,4 @@
-
-
 # Ārammaṇaduka
-
-
-
-
-
 
 (136.)
 
@@ -14,8 +7,3 @@
 ---
 
 505\. (Ārammaṇamūlakaṃ yathā hetumūlakaṃ, evaṃ vitthāretabbaṃ.)
-
-
-
-
-

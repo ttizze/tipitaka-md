@@ -1,10 +1,4 @@
-
-
 # Hetu-ārammaṇa
-
-
-
-
 
 (56.)
 
@@ -17,6 +11,3 @@
 1880\. Uppanno araṇo dhammo uppannassa araṇassa dhammassa hetupaccayena paccayo. (Saṃkhittaṃ.)
 
 1881\. Hetuyā ekaṃ, ārammaṇe tīṇi, adhipatiyā tīṇi…pe…  upanissaye tīṇi…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
-
-
-

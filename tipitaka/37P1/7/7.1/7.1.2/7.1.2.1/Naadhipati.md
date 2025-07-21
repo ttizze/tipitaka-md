@@ -1,11 +1,4 @@
-
-
 # Naadhipati
-
-
-
-
-
 
 (31.)
 
@@ -36,6 +29,3 @@
 152\. Savitakkasavicārañca avitakkaavicārañca dhammaṃ paṭicca…  satta. (Saṃkhittaṃ.)
 
 153\. Avitakkavicāramattañca avitakkaavicārañca dhammaṃ paṭicca savitakkasavicāro dhammo uppajjati…pe…  avitakkavicāramatto dhammo uppajjati naadhipatipaccayā, avitakkavicāramatte khandhe ca vicārañca paṭicca avitakkavicāramattā adhipati, vipākaṃ avitakkavicāramattaṃ ekaṃ khandhañca vicārañca paṭicca. (Saṃkhittaṃ.)
-
-
-

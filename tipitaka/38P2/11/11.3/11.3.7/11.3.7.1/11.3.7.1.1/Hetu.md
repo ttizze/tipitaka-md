@@ -1,12 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
-
 
 (63.)
 
@@ -23,6 +15,3 @@
 3696\. Upādānasampayutto ca upādānavippayutto ca dhammā upādānasampayuttassa dhammassa hetupaccayena paccayo—  diṭṭhigatavippayuttalobhasahagato moho ca lobho ca sampayuttakānaṃ khandhānaṃ hetupaccayena paccayo. (Mūlaṃ kātabbaṃ.) Diṭṭhigatavippayuttalobhasahagato moho ca lobho ca cittasamuṭṭhānānaṃ rūpānaṃ hetupaccayena paccayo. (2)
 
 3697\. Upādānasampayutto ca upādānavippayutto ca dhammā upādānasampayuttassa ca upādānavippayuttassa ca dhammassa hetupaccayena paccayo—  diṭṭhigatavippayuttalobhasahagato moho ca lobho ca sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo. (3)
-
-
-

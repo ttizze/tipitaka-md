@@ -1,12 +1,4 @@
-
-
 # Purejātādi
-
-
-
-
-
-
 
 (44.)
 
@@ -19,6 +11,3 @@
 4162\. Pacchājātapaccayena paccayo…  dve, āsevanapaccayena paccayo…  dve, kammapaccayena paccayo—  bhāvanāya pahātabbā cetanā sampayuttakānaṃ khandhānaṃ kammapaccayena paccayo. (Mūlaṃ kātabbaṃ.) Bhāvanāya pahātabbā cetanā cittasamuṭṭhānānaṃ rūpānaṃ kammapaccayena paccayo. (Mūlaṃ kātabbaṃ.) Bhāvanāya pahātabbā cetanā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo. (3)
 
 4163\. Nabhāvanāya pahātabbo dhammo nabhāvanāya pahātabbassa dhammassa kammapaccayena paccayo—  sahajātā, nānākkhaṇikā. **Sahajātā**—  nabhāvanāya pahātabbā cetanā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo; paṭisandhikkhaṇe…pe… . **Nānākkhaṇikā**—  nabhāvanāya pahātabbā cetanā vipākānaṃ khandhānaṃ kaṭattā ca rūpānaṃ kammapaccayena paccayo…  vipākapaccayena paccayo…  ekaṃ…pe…  avigatapaccayena paccayo. (Sabbapaccayā dassanadukasadisā, bhāvanā ninnānākaraṇā.)
-
-
-

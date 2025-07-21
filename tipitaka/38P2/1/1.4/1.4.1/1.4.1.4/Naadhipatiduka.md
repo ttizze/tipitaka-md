@@ -1,11 +1,4 @@
-
-
 # Naadhipatiduka
-
-
-
-
-
 
 (135.)
 
@@ -14,8 +7,3 @@
 ---
 
 374\. Paccanīyānulomaṃ.
-
-
-
-
-

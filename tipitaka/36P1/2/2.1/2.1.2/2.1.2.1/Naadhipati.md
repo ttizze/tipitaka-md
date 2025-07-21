@@ -1,11 +1,4 @@
-
-
 # Naadhipati
-
-
-
-
-
 
 (36.)
 
@@ -18,6 +11,3 @@
 215\. Kusalañca abyākatañca dhammaṃ paṭicca abyākato dhammo uppajjati naadhipatipaccayā—  kusale khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
 
 216\. Akusalañca abyākatañca dhammaṃ paṭicca abyākato dhammo uppajjati naadhipatipaccayā—  akusale khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
-
-
-

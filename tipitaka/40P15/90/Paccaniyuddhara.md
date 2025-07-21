@@ -1,8 +1,4 @@
-
-
 # Paccanīyuddhāra
-
-
 
 (105.)
 
@@ -11,6 +7,3 @@
 290\. Nahetuyā tīṇi, naārammaṇe tīṇi…pe…  noavigate tīṇi.
 
 291\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
-
-
-

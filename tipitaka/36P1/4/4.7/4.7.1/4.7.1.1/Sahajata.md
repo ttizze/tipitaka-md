@@ -1,11 +1,4 @@
-
-
 # Sahajāta
-
-
-
-
-
 
 (99.)
 
@@ -22,6 +15,3 @@
 2312\. Vipāko ca nevavipākanavipākadhammadhammo ca dhammā nevavipākanavipākadhammadhammassa sahajātapaccayena paccayo—  vipākā khandhā ca mahābhūtā ca cittasamuṭṭhānānaṃ rūpānaṃ…pe…  paṭisandhikkhaṇe vipākā khandhā ca mahābhūtā ca kaṭattārūpānaṃ sahajātapaccayena paccayo. (2)
 
 2313\. Vipākadhammadhammo ca nevavipākanavipākadhammadhammo ca dhammā nevavipākanavipākadhammadhammassa sahajātapaccayena paccayo—  vipākadhammadhammā khandhā ca mahābhūtā ca cittasamuṭṭhānānaṃ rūpānaṃ sahajātapaccayena paccayo. (1)
-
-
-

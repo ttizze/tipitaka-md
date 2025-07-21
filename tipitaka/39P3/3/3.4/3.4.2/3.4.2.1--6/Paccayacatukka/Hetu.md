@@ -1,12 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
-
 
 (26.)
 
@@ -17,6 +9,3 @@
 (27.)
 
 1523\. Hetuyā nava, ārammaṇe ekaṃ, adhipatiyā nava…pe…  aññamaññe cha, nissaye nava, upanissaye ekaṃ, purejāte āsevane ekaṃ, kamme nava, vipāke nava…pe…  avigate nava. (Saṃkhittaṃ.)
-
-
-

@@ -1,11 +1,4 @@
-
-
 # Āhāra
-
-
-
-
-
 
 (72.)
 
@@ -36,6 +29,3 @@
 2704\. Upādinnupādāniyo ca anupādinnupādāniyo ca dhammā anupādinnupādāniyassa dhammassa āhārapaccayena paccayo—  upādinnupādāniyo ca anupādinnupādāniyo ca kabaḷīkāro āhāro anupādinnupādāniyassa kāyassa āhārapaccayena paccayo. (2)
 
 2705\. Upādinnupādāniyo ca anupādinnupādāniyo ca dhammā upādinnupādāniyassa ca anupādinnupādāniyassa ca dhammassa āhārapaccayena paccayo—  upādinnupādāniyo ca anupādinnupādāniyo ca kabaḷīkāro āhāro upādinnupādāniyassa ca anupādinnupādāniyassa ca kāyassa āhārapaccayena paccayo. (3)
-
-
-

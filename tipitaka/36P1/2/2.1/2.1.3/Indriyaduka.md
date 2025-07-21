@@ -1,10 +1,4 @@
-
-
 # Indriyaduka
-
-
-
-
 
 (75.)
 
@@ -12,6 +6,3 @@
 
 * [Tika](Indriyaduka/Tika.md)
 * [Catukka](Indriyaduka/Catukka.md)
-
-
-

@@ -1,11 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
 
 (14.)
 
@@ -34,6 +27,3 @@
 2297\. Micchattaniyatañca aniyatañca dhammaṃ paccayā micchattaniyato ca aniyato ca dhammā uppajjanti hetupaccayā—  micchattaniyataṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe…pe…  micchattaniyate khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ. (3)
 
 2298\. Sammattaniyatañca aniyatañca dhammaṃ paccayā sammattaniyato dhammo uppajjati hetupaccayā. (Tīṇi pañhā, micchattasadisaṃ.)
-
-
-

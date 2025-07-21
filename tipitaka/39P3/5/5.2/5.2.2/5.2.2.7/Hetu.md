@@ -1,11 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
 
 (16.)
 
@@ -16,6 +9,3 @@
 (17.)
 
 1734\. Hetuyā cattāri, ārammaṇe tīṇi, adhipatiyā cattāri…pe…  avigate satta. (Saṃkhittaṃ.)
-
-
-

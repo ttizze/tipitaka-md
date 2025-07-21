@@ -1,11 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
 
 (36.)
 
@@ -14,6 +7,3 @@
 (37.)
 
 1658\. Hetuyā satta, ārammaṇe nava, adhipatiyā nava…pe…  upanissaye āsevane nava, kamme āhāre indriye jhāne tīṇi, magge sampayutte nava…pe…  avigate nava. (Saṃkhittaṃ.)
-
-
-

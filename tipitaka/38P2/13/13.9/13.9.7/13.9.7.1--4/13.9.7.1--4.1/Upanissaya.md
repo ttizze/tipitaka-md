@@ -1,12 +1,4 @@
-
-
 # Upanissaya
-
-
-
-
-
-
 
 (173.)
 
@@ -19,6 +11,3 @@
 4456\. Nasukhasahagato dhammo sukhasahagatassa ca nasukhasahagatassa ca dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  nasukhasahagataṃ saddhaṃ upanissāya sukhasahagatena cittena dānaṃ deti…pe…  (dutiyagamanasadisaṃ) mānaṃ jappeti, diṭṭhiṃ gaṇhāti; nasukhasahagataṃ sīlaṃ…pe…  senāsanaṃ sukhaṃ upanissāya dānaṃ deti…pe…  samāpattiṃ uppādeti, sukhasahagatena cittena adinnaṃ ādiyati…pe…  nasukhasahagatā saddhā…pe…  senāsanaṃ sukhañca sukhasahagatāya…  saddhāya…pe…  patthanāya…  kāyikassa sukhassa, maggassa, phalasamāpattiyā sukhassa ca upanissayapaccayena paccayo. (3)
 
 4457\. Sukhasahagato ca nasukhasahagato ca dhammā sukhasahagatassa dhammassa upanissayapaccayena paccayo…  tīṇi.
-
-
-

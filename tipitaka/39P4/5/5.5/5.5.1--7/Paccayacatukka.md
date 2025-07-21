@@ -1,10 +1,4 @@
-
-
 # Paccayacatukka
-
-
-
-
 
 (18.)
 
@@ -41,6 +35,3 @@
 1396\. Hetuyā satta, ārammaṇe nava…pe…  avigate terasa. (Saṃkhittaṃ.)
 
 1397\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
-
-
-

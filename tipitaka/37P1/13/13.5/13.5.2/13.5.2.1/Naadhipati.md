@@ -1,11 +1,4 @@
-
-
 # Naadhipati
-
-
-
-
-
 
 (46.)
 
@@ -14,6 +7,3 @@
 2004\. Mahaggataṃ dhammaṃ saṃsaṭṭho mahaggato dhammo uppajjati naadhipatipaccayā—  mahaggate khandhe saṃsaṭṭhā mahaggatā adhipati, vipākaṃ mahaggataṃ ekaṃ khandhaṃ saṃsaṭṭhā…pe…  paṭisandhikkhaṇe…pe… . (1)
 
 2005\. Appamāṇaṃ dhammaṃ saṃsaṭṭho appamāṇo dhammo uppajjati naadhipatipaccayā—  appamāṇe khandhe saṃsaṭṭhā appamāṇā adhipati. (1)
-
-
-

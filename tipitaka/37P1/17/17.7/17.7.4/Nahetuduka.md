@@ -1,10 +1,4 @@
-
-
 # Nahetuduka
-
-
-
-
 
 (56.)
 
@@ -14,13 +8,6 @@
 
 2593\. Paccanīyānulomaṃ.
 
-
-
 ---
 
 2594\. Maggārammaṇattikaṃ niṭṭhitaṃ.
-
-
-
-
-

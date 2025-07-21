@@ -1,11 +1,4 @@
-
-
 # Paccayacatukka
-
-
-
-
-
 
 (237.)
 
@@ -24,6 +17,3 @@
 904\. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Sabbattha ekaṃ.)
 
 905\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
-
-
-

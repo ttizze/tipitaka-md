@@ -1,10 +1,4 @@
-
-
 # Vippayuttaduka
-
-
-
-
 
 (79.)
 
@@ -14,6 +8,3 @@
 * [Catukka](Vippayuttaduka/Catukka.md)
 * [Pañcaka](Vippayuttaduka/Pancaka.md)
 * [Dvādasaka](Vippayuttaduka/Dvadasaka.md)
-
-
-

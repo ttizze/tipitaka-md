@@ -1,11 +1,4 @@
-
-
 # Upanissaya
-
-
-
-
-
 
 (45.)
 
@@ -26,6 +19,3 @@
 2373\. Aniyato dhammo micchattaniyatassa dhammassa upanissayapaccayena paccayo—  anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  aniyataṃ rāgaṃ upanissāya mātaraṃ jīvitā voropeti…pe…  saṃghaṃ bhindati. Aniyataṃ dosaṃ…pe…  patthanaṃ…  kāyikaṃ sukhaṃ…pe…  senāsanaṃ upanissāya mātaraṃ jīvitā voropeti…pe…  saṃghaṃ bhindati. Aniyato rāgo…pe…  senāsanaṃ mātughātikammassa…  pitughātikammassa…  arahantaghātikammassa…  ruhiruppādakammassa…  saṃghabhedakammassa…  niyatamicchādiṭṭhiyā upanissayapaccayena paccayo. (2)
 
 2374\. Aniyato dhammo sammattaniyatassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  paṭhamassa maggassa parikammaṃ paṭhamassa maggassa…pe…  catutthassa maggassa parikammaṃ catutthassa maggassa upanissayapaccayena paccayo. (3)
-
-
-

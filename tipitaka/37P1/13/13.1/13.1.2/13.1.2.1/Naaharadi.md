@@ -1,11 +1,4 @@
-
-
 # Naāhārādi
-
-
-
-
-
 
 (24.)
 
@@ -14,6 +7,3 @@
 1949\. Mahaggataṃ dhammaṃ paṭicca mahaggato dhammo uppajjati navippayuttapaccayā—  arūpe mahaggataṃ ekaṃ khandhaṃ…pe… . (1)
 
 1950\. Appamāṇaṃ dhammaṃ paṭicca appamāṇo dhammo uppajjati navippayuttapaccayā—  arūpe appamāṇaṃ ekaṃ khandhaṃ…pe…  nonatthipaccayā…  novigatapaccayā.
-
-
-

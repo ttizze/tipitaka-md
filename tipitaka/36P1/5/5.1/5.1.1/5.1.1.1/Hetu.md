@@ -1,11 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
 
 (1.)
 
@@ -26,6 +19,3 @@
 2444\. Anupādinnupādāniyañca anupādinnaanupādāniyañca dhammaṃ paṭicca anupādinnupādāniyo dhammo uppajjati hetupaccayā—  anupādinnaanupādāniye khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
 
 2445\. Upādinnupādāniyañca anupādinnupādāniyañca dhammaṃ paṭicca anupādinnupādāniyo dhammo uppajjati hetupaccayā—  upādinnupādāniye khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
-
-
-

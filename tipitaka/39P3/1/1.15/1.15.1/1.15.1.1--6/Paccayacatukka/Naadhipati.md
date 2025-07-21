@@ -1,12 +1,4 @@
-
-
 # Naadhipati
-
-
-
-
-
-
 
 (431.)
 
@@ -21,6 +13,3 @@
 939\. Naadhipatipaccayā hetuyā tīṇi. (Saṃkhittaṃ.)
 
 940\. (Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
-
-
-

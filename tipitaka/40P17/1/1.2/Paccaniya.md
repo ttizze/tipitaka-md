@@ -1,9 +1,4 @@
-
-
 # Paccanīya
-
-
-
 
 (7.)
 
@@ -16,6 +11,3 @@
 20\. Kusalaṃ adukkhamasukhāya vedanāya sampayuttaṃ dhammaṃ paṭicca nakusalo naadukkhamasukhāya vedanāya sampayutto dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
 
 21\. Hetuyā terasa, ārammaṇe nava…pe…  vipāke tīṇi…pe…  avigate terasa. (Sabbattha vitthāro.)
-
-
-

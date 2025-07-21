@@ -1,12 +1,4 @@
-
-
 # Nahetu
-
-
-
-
-
-
 
 (22.)
 
@@ -15,6 +7,3 @@
 589\. Anidassanaṃ dhammaṃ paṭicca sanidassano dhammo uppajjati nahetupaccayā—  ahetuke anidassane khandhe paṭicca sanidassanaṃ cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe…pe…  mahābhūte paṭicca sanidassanaṃ cittasamuṭṭhānaṃ rūpaṃ kaṭattārūpaṃ upādārūpaṃ…  bāhire…  āhārasamuṭṭhāne…  utusamuṭṭhāne…  asaññasattānaṃ mahābhūte paṭicca sanidassanaṃ kaṭattārūpaṃ upādārūpaṃ. (2)
 
 590\. Anidassanaṃ dhammaṃ paṭicca sanidassano ca anidassano ca dhammā uppajjanti nahetupaccayā—  ahetukaṃ anidassanaṃ ekaṃ khandhaṃ paṭicca tayo khandhā sanidassanañca anidassanañca cittasamuṭṭhānaṃ rūpaṃ…pe…  dve khandhe…pe…  paṭisandhikkhaṇe…pe…  mahābhūte paṭicca…pe…  bāhire…  āhārasamuṭṭhāne…  utusamuṭṭhāne…  asaññasattānaṃ mahābhūte paṭicca sanidassanañca anidassanañca kaṭattārūpaṃ, upādārūpaṃ. (3) (Evaṃ sabbe kātabbā.)
-
-
-

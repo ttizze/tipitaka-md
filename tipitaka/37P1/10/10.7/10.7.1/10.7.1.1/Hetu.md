@@ -1,11 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
 
 (75.)
 
@@ -28,6 +21,3 @@
 1275\. Nevadassanena nabhāvanāya pahātabbahetuko dhammo dassanena pahātabbahetukassa ca nevadassanena nabhāvanāya pahātabbahetukassa ca dhammassa hetupaccayena paccayo—  vicikicchāsahagato moho sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo. (4)
 
 1276\. Nevadassanena nabhāvanāya pahātabbahetuko dhammo bhāvanāya pahātabbahetukassa ca nevadassanena nabhāvanāya pahātabbahetukassa ca dhammassa hetupaccayena paccayo—  uddhaccasahagato moho sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo. (5)
-
-
-

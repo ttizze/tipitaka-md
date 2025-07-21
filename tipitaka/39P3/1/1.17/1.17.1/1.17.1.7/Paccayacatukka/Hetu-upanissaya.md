@@ -1,12 +1,4 @@
-
-
 # Hetu-upanissaya
-
-
-
-
-
-
 
 (477.)
 
@@ -25,6 +17,3 @@
 (478.)
 
 1055\. Hetuyā tīṇi, ārammaṇe tīṇi, adhipatiyā cha, sahajāte nava, aññamaññe nava, nissaye nava, upanissaye tīṇi, purejāte tīṇi, pacchājāte tīṇi, kamme tīṇi, vipāke nava, āhāre tīṇi, indriye nava, jhāne tīṇi, magge nava, sampayutte nava, vippayutte pañca, atthiyā nava, avigate nava. (Saṃkhittaṃ.)
-
-
-

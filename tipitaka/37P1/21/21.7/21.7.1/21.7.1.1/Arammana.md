@@ -1,11 +1,4 @@
-
-
 # Ārammaṇa
-
-
-
-
-
 
 (28.)
 
@@ -18,6 +11,3 @@
 2815\. Bahiddhā dhammo bahiddhā dhammassa ārammaṇapaccayena paccayo—  paro dānaṃ datvā sīlaṃ samādiyitvā uposathakammaṃ katvā taṃ paccavekkhati, pubbe suciṇṇāni paccavekkhati, jhānā vuṭṭhahitvā…pe…  ariyā maggā vuṭṭhahitvā maggaṃ paccavekkhanti, phalaṃ paccavekkhanti…  nibbānaṃ paccavekkhanti. Nibbānaṃ gotrabhussa, vodānassa, maggassa, phalassa, āvajjanāya ārammaṇapaccayena paccayo. Ariyā pahīne kilese paccavekkhanti, vikkhambhite kilese paccavekkhanti, pubbe samudāciṇṇe…pe…  paro bahiddhā cakkhuṃ…pe…  vatthuṃ…  bahiddhā khandhe aniccato…pe…  domanassaṃ uppajjati. Dibbena cakkhunā rūpaṃ passati, dibbāya sotadhātuyā saddaṃ suṇāti. Cetopariyañāṇena bahiddhā cittasamaṅgissa…pe…  ākāsānañcāyatanaṃ viññāṇañcāyatanassa ārammaṇapaccayena paccayo. Ākiñcaññāyatanaṃ nevasaññānāsaññāyatanassa ārammaṇapaccayena paccayo. Bahiddhā rūpāyatanaṃ bahiddhā cakkhuviññāṇassa…pe…  bahiddhā phoṭṭhabbāyatanaṃ bahiddhā kāyaviññāṇassa…pe…  bahiddhā khandhā iddhividhañāṇassa, cetopariyañāṇassa, pubbenivāsānussatiñāṇassa, yathākammūpagañāṇassa, anāgataṃsañāṇassa, āvajjanāya ārammaṇapaccayena paccayo. (1)
 
 2816\. Bahiddhā dhammo ajjhattassa dhammassa ārammaṇapaccayena paccayo—  ariyā nibbānaṃ paccavekkhanti. Nibbānaṃ gotrabhussa, vodānassa, maggassa, phalassa, āvajjanāya ārammaṇapaccayena paccayo. Bahiddhā cakkhuṃ…pe…  vatthuṃ…  bahiddhā khandhe aniccato…pe…  domanassaṃ uppajjati. Dibbena cakkhunā rūpaṃ passati, dibbāya sotadhātuyā saddaṃ suṇāti. Cetopariyañāṇena bahiddhā cittasamaṅgissa cittaṃ jānāti. Bahiddhā rūpāyatanaṃ ajjhattaṃ cakkhuviññāṇassa…pe…  bahiddhā phoṭṭhabbāyatanaṃ ajjhattaṃ kāyaviññāṇassa…pe…  bahiddhā khandhā iddhividhañāṇassa, cetopariyañāṇassa, pubbenivāsānussatiñāṇassa, yathākammūpagañāṇassa, anāgataṃsañāṇassa, āvajjanāya ārammaṇapaccayena paccayo. (2)
-
-
-

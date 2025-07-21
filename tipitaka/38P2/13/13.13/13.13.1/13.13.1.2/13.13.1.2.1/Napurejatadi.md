@@ -1,12 +1,4 @@
-
-
 # Napurejātādi
-
-
-
-
-
-
 
 (270.)
 
@@ -23,6 +15,3 @@
 4661\. Naarūpāvacaraṃ dhammaṃ paṭicca naarūpāvacaro dhammo uppajjati naāsevanapaccayā—  naarūpāvacaraṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe… . (Yāva asaññasattā.) (1)
 
 4662\. Arūpāvacarañca naarūpāvacarañca dhammaṃ paṭicca naarūpāvacaro dhammo uppajjati naāsevanapaccayā—  arūpāvacare khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1) (Saṃkhittaṃ.)
-
-
-

@@ -1,11 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
 
 (19.)
 
@@ -62,6 +55,3 @@
 (28.)
 
 2072\. Hetuyā tīṇi, ārammaṇe nava, adhipatiyā nava (ettha chasu sahajātādhipati), anantare nava…pe…  sahajāte nava, aññamaññe nava, nissaye nava, upanissaye nava, purejāte tīṇi, pacchājāte tīṇi, āsevane nava, kamme tīṇi, vipāke nava, āhāre nava, indriye nava, jhāne tīṇi, magge tīṇi, sampayutte pañca, vippayutte pañca, atthiyā nava…pe…  avigate nava. (Saṃkhittaṃ.)
-
-
-

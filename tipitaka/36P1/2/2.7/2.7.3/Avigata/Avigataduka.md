@@ -1,11 +1,4 @@
-
-
 # Avigataduka
-
-
-
-
-
 
 (494.)
 
@@ -14,8 +7,3 @@
 ---
 
 1694\. Pañhāvārassa anulomapaccanīyaṃ.
-
-
-
-
-

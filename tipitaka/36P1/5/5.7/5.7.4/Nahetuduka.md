@@ -1,10 +1,4 @@
-
-
 # Nahetuduka
-
-
-
-
 
 (95.)
 
@@ -16,13 +10,6 @@
 
 2804\. Paccanīyānulomaṃ.
 
-
-
 ---
 
 2805\. Upādinnattikaṃ niṭṭhitaṃ.
-
-
-
-
-

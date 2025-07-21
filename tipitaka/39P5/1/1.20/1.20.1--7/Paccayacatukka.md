@@ -1,10 +1,4 @@
-
-
 # Paccayacatukka
-
-
-
-
 
 (82.)
 
@@ -17,6 +11,3 @@
 285\. Kusalaṃ bahiddhārammaṇaṃ dhammaṃ paṭicca kusalo bahiddhārammaṇo dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
 
 286\. Hetuyā tīṇi…pe…  vipāke ekaṃ…pe…  avigate tīṇi. (Saṃkhittaṃ.)
-
-
-

@@ -1,11 +1,4 @@
-
-
 # Vippayutta
-
-
-
-
-
 
 (92.)
 
@@ -18,6 +11,3 @@
 1019\. Nevadassanena nabhāvanāya pahātabbo dhammo dassanena pahātabbassa dhammassa vippayuttapaccayena paccayo—  **purejātaṃ** vatthu dassanena pahātabbānaṃ khandhānaṃ vippayuttapaccayena paccayo. (2)
 
 1020\. Nevadassanena nabhāvanāya pahātabbo dhammo bhāvanāya pahātabbassa dhammassa vippayuttapaccayena paccayo—  **purejātaṃ** vatthu bhāvanāya pahātabbānaṃ khandhānaṃ vippayuttapaccayena paccayo. (3)
-
-
-

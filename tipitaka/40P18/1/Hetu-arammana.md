@@ -1,8 +1,4 @@
-
-
 # Hetu-ārammaṇa
-
-
 
 (3.)
 
@@ -23,6 +19,3 @@
 14\. Nahetuṃ ahetukaṃ dhammaṃ paṭicca nanahetu naahetuko dhammo uppajjati hetupaccayā…  tīṇi. (Saṃkhittaṃ.)
 
 15\. Hetuyā cattāri, ārammaṇe cattāri…pe…  purejāte āsevane ekaṃ…pe…  vipāke tīṇi…pe…  avigate cattāri.
-
-
-

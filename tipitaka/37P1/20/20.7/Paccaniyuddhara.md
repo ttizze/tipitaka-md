@@ -1,9 +1,4 @@
-
-
 # Paccanīyuddhāra
-
-
-
 
 (40.)
 
@@ -28,6 +23,3 @@
 2751\. Paccuppannārammaṇo dhammo atītārammaṇassa dhammassa ārammaṇapaccayena paccayo…  upanissayapaccayena paccayo…  kammapaccayena paccayo. (2)
 
 2752\. Paccuppannārammaṇo dhammo anāgatārammaṇassa dhammassa ārammaṇapaccayena paccayo…  upanissayapaccayena paccayo…  kammapaccayena paccayo. (3)
-
-
-

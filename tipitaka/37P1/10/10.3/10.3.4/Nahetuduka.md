@@ -1,10 +1,4 @@
-
-
 # Nahetuduka
-
-
-
-
 
 (62.)
 
@@ -14,10 +8,4 @@
 
 1233\. Paccanīyānulomaṃ.
 
-  
 Paccayavāro.
-
-
-
-
-

@@ -1,11 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
 
 (278.)
 
@@ -16,6 +9,3 @@
 4676\. Hetuyā dve…pe…  avigate dve. (Anulomaṃ.)
 
 4677\. Nahetuyā ekaṃ, naadhipatiyā dve, napurejāte dve, napacchājāte dve, naāsevane dve, nakamme dve, navipāke dve, najhāne ekaṃ, namagge ekaṃ, navippayutte dve. (Paccanīyaṃ.)
-
-
-

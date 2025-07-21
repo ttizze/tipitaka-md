@@ -1,11 +1,4 @@
-
-
 # Nakamma
-
-
-
-
-
 
 (54.)
 
@@ -28,6 +21,3 @@
 241\. Savitakkasavicārañca avitakkavicāramattañca avitakkaavicārañca dhammaṃ paccayā savitakkasavicāro dhammo uppajjati nakammapaccayā—  savitakkasavicāre khandhe ca vitakkañca vatthuñca paccayā savitakkasavicārā cetanā. (1)
 
 242\. (Navipāke sattatiṃsa pañhā kātabbā. Naāhāra naindriya najhānanamagga nasampayutta navippayutta nonatthi novigatapaccayā vitthāretabbā.)
-
-
-

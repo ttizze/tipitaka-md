@@ -1,10 +1,4 @@
-
-
 # Paccayacatukka
-
-
-
-
 
 (20.)
 
@@ -23,6 +17,3 @@
 54\. Hetu sappaccayo dhammo hetussa sappaccayassa dhammassa hetupaccayena paccayo. (Saṃkhittaṃ.)
 
 55\. Hetuyā tīṇi, ārammaṇe…pe…  upanissaye nava, purejāte pacchājāte tīṇi, āsevane nava, kamme tīṇi, vipāke nava, āhāre tīṇi, indriye nava, jhāne tīṇi, magge sampayutte nava, vippayutte pañca…pe…  avigate nava. (Saṃkhittaṃ. Pañhāvārampi evaṃ vitthāretabbaṃ.)
-
-
-

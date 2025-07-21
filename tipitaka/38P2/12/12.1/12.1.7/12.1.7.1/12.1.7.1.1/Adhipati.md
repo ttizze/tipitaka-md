@@ -1,12 +1,4 @@
-
-
 # Adhipati
-
-
-
-
-
-
 
 (19.)
 
@@ -19,6 +11,3 @@
 3866\. Nokileso dhammo kilesassa ca nokilesassa ca dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati, sahajātādhipati. **Ārammaṇādhipati**—  dānaṃ…pe…  jhānaṃ…pe…  cakkhuṃ…pe…  vatthuṃ nokilese khandhe garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā kilesā ca sampayuttakā ca khandhā uppajjanti. **Sahajātādhipati**—  nokilesādhipati sampayuttakānaṃ khandhānaṃ kilesānañca cittasamuṭṭhānānañca rūpānaṃ adhipatipaccayena paccayo. (3)
 
 3867\. Kileso ca nokileso ca dhammā kilesassa dhammassa adhipatipaccayena paccayo…  tīṇi. (Ārammaṇādhipatiyeva.) (3)
-
-
-

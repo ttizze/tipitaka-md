@@ -1,11 +1,4 @@
-
-
 # Anantara
-
-
-
-
-
 
 (77.)
 
@@ -22,6 +15,3 @@
 970\. Nevadassanena nabhāvanāya pahātabbo dhammo dassanena pahātabbassa dhammassa…pe…  āvajjanā dassanena pahātabbānaṃ khandhānaṃ anantarapaccayena paccayo. (2)
 
 971\. Nevadassanena nabhāvanāya pahātabbo dhammo bhāvanāya pahātabbassa dhammassa anantarapaccayena paccayo—  āvajjanā bhāvanāya pahātabbānaṃ khandhānaṃ anantarapaccayena paccayo. (3)
-
-
-

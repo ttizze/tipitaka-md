@@ -1,11 +1,4 @@
-
-
 # Nissaya
-
-
-
-
-
 
 (285.)
 
@@ -36,6 +29,3 @@
 891\. Akusalo ca abyākato ca dhammā akusalassa dhammassa nissayapaccayena paccayo—  akusalo eko khandho ca vatthu ca tiṇṇannaṃ khandhānaṃ nissayapaccayena paccayo. Tayo khandhā ca vatthu ca ekassa khandhassa nissayapaccayena paccayo. Dve khandhā ca vatthu ca dvinnaṃ khandhānaṃ nissayapaccayena paccayo. (1)
 
 892\. Akusalo ca abyākato ca dhammā abyākatassa dhammassa nissayapaccayena paccayo—  akusalā khandhā ca mahābhūtā ca cittasamuṭṭhānānaṃ rūpānaṃ nissayapaccayena paccayo. (2)
-
-
-

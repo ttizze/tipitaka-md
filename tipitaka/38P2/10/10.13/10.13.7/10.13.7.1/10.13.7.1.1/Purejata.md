@@ -1,12 +1,4 @@
-
-
 # Purejāta
-
-
-
-
-
-
 
 (399.)
 
@@ -15,6 +7,3 @@
 3332\. Noupādā dhammo noupādā dhammassa purejātapaccayena paccayo. **Ārammaṇapurejātaṃ**—  phoṭṭhabbe aniccato…pe…  domanassaṃ uppajjati; phoṭṭhabbāyatanaṃ kāyaviññāṇassa purejātapaccayena paccayo. (1)
 
 3333\. Upādā ca noupādā ca dhammā noupādā dhammassa purejātapaccayena paccayo—  **ārammaṇapurejātaṃ, vatthupurejātaṃ**. Phoṭṭhabbāyatanañca kāyāyatanañca kāyaviññāṇassa purejātapaccayena paccayo; phoṭṭhabbāyatanañca vatthu ca noupādā khandhānaṃ purejātapaccayena paccayo. (1)
-
-
-

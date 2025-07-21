@@ -1,10 +1,4 @@
-
-
 # Hetusāmaññaghaṭanā
-
-
-
-
 
 (65.)
 
@@ -15,8 +9,3 @@
 ---
 
 3098\. Anulomapaccanīyaṃ.
-
-
-
-
-

@@ -1,12 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
-
 
 (43.)
 
@@ -27,6 +19,3 @@
 1556\. Naadhipatiyā dve…pe…  naāsevane ekaṃ…pe…  navippayutte dve. (Saṃkhittaṃ.)
 
 1557\. (Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
-
-
-

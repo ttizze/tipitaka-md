@@ -1,10 +1,4 @@
-
-
 # Nahetuduka
-
-
-
-
 
 (115.)
 
@@ -14,16 +8,8 @@
 
 1421\. Paccanīyānulomaṃ.
 
-  
 Pañhāvāro.
-
-
 
 ---
 
 1422\. Dassanenapahātabbahetukattikaṃ niṭṭhitaṃ.
-
-
-
-
-

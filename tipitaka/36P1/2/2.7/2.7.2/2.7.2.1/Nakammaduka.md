@@ -1,11 +1,4 @@
-
-
 # Nakammaduka
-
-
-
-
-
 
 (406.)
 
@@ -15,6 +8,3 @@
 * [Dasaka](Nakammaduka/Dasaka.md)
 * [Ekādasaka](Nakammaduka/Ekadasaka.md)
 * [Terasaka](Nakammaduka/Terasaka.md)
-
-
-

@@ -1,12 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
-
 
 (121.)
 
@@ -19,6 +11,3 @@
 (122.)
 
 215\. Hetuyā nava, ārammaṇe nava, adhipatiyā nava…pe…  kamme nava, āhāre nava, indriye nava, jhāne nava, magge nava, sampayutte nava, vippayutte nava, atthiyā nava, natthiyā nava, vigate nava, avigate nava.
-
-
-

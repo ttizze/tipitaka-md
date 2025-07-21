@@ -1,11 +1,4 @@
-
-
 # Samanantarādi
-
-
-
-
-
 
 (14.)
 
@@ -28,6 +21,3 @@
 2860\. Asaṃkiliṭṭhaasaṃkilesiko dhammo asaṃkiliṭṭhaasaṃkilesikassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  paṭhamo maggo dutiyassa maggassa…pe…  dutiyo maggo tatiyassa maggassa…pe…  tatiyo maggo catutthassa maggassa…pe…  maggo phalasamāpattiyā upanissayapaccayena paccayo. (1)
 
 2861\. Asaṃkiliṭṭhaasaṃkilesiko dhammo asaṃkiliṭṭhasaṃkilesikassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  ariyā maggaṃ upanissāya anuppannaṃ samāpattiṃ uppādenti, uppannaṃ samāpattiṃ samāpajjanti, saṅkhāre aniccato dukkhato anattato vipassanti. Maggo ariyānaṃ atthappaṭisambhidāya…pe…  ṭhānāṭṭhānakosallassa upanissayapaccayena paccayo. Phalasamāpatti kāyikassa sukhassa upanissayapaccayena paccayo. (2)
-
-
-

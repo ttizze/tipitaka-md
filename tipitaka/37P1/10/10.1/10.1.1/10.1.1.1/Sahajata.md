@@ -1,11 +1,4 @@
-
-
 # Sahajāta
-
-
-
-
-
 
 (12.)
 
@@ -30,6 +23,3 @@
 1094\. Nevadassanena nabhāvanāya pahātabbahetukaṃ dhammaṃ paṭicca dassanena pahātabbahetuko dhammo uppajjati sahajātapaccayā—  vicikicchāsahagataṃ mohaṃ paṭicca sampayuttakā khandhā. (2)
 
 1095\. Nevadassanena nabhāvanāya pahātabbahetukaṃ dhammaṃ paṭicca bhāvanāya pahātabbahetuko dhammo uppajjati sahajātapaccayā. (Saṃkhittaṃ. Hetusadisaṃ kātabbaṃ.) (3)
-
-
-

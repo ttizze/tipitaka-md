@@ -1,12 +1,4 @@
-
-
 # Pacchājātāsevana
-
-
-
-
-
-
 
 (455.)
 
@@ -25,6 +17,3 @@
 (456.)
 
 3474\. Anupādinno dhammo anupādinnassa dhammassa āsevanapaccayena paccayo…  ekaṃ. (Saṃkhittaṃ.)
-
-
-

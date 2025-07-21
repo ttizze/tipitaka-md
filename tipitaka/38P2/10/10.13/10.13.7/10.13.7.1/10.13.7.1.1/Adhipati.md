@@ -1,12 +1,4 @@
-
-
 # Adhipati
-
-
-
-
-
-
 
 (396.)
 
@@ -17,6 +9,3 @@
 3325\. Noupādā dhammo upādā dhammassa adhipatipaccayena paccayo. **Sahajātādhipati**—  noupādādhipati upādā cittasamuṭṭhānānaṃ rūpānaṃ adhipatipaccayena paccayo. (2)
 
 3326\. Noupādā dhammo upādā ca noupādā ca dhammassa adhipatipaccayena paccayo. **Sahajātādhipati**—  noupādādhipati sampayuttakānaṃ khandhānaṃ upādā ca noupādā ca cittasamuṭṭhānānaṃ rūpānaṃ adhipatipaccayena paccayo. (3)
-
-
-

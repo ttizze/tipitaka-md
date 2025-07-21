@@ -1,9 +1,4 @@
-
-
 # Hetu
-
-
-
 
 (7.)
 
@@ -20,6 +15,3 @@
 14\. Nakusalaṃ nadukkhāya vedanāya sampayuttañca naakusalaṃ nadukkhāya vedanāya sampayuttañca dhammaṃ paṭicca nakusalo nadukkhāya vedanāya sampayutto dhammo uppajjati hetupaccayā…  tīṇi. (Saṃkhittaṃ.)
 
 15\. Hetuyā ekūnatiṃsa, ārammaṇe catuvīsa…pe…  vipāke nava…pe…  avigate ekūnatiṃsa. (Sabbattha vitthāretabbaṃ.)
-
-
-

@@ -1,12 +1,4 @@
-
-
 # Naadhipati
-
-
-
-
-
-
 
 (6.)
 
@@ -17,6 +9,3 @@
 8\. Nahetuṃ kusalaṃ dhammaṃ paṭicca nahetu kusalo dhammo uppajjati naadhipatipaccayā…  tīṇi.
 
 9\. Hetuṃ kusalañca nahetuṃ kusalañca dhammaṃ paṭicca hetu kusalo dhammo uppajjati naadhipatipaccayā…  tīṇi.
-
-
-

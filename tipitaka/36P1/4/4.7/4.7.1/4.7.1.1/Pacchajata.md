@@ -1,11 +1,4 @@
-
-
 # Pacchājāta
-
-
-
-
-
 
 (106.)
 
@@ -14,6 +7,3 @@
 2355\. Vipākadhammadhammo nevavipākanavipākadhammadhammassa pacchājātapaccayena paccayo…pe…  (1)
 
 2356\. Nevavipākanavipākadhammadhammo nevavipākanavipākadhammadhammassa pacchājātapaccayena paccayo…pe…  (1)
-
-
-

@@ -1,11 +1,4 @@
-
-
 # Aññamañña
-
-
-
-
-
 
 (121.)
 
@@ -20,8 +13,3 @@
 ---
 
 453\. (Yathā ārammaṇapaccayaṃ, evaṃ vitthāretabbaṃ.)
-
-
-
-
-

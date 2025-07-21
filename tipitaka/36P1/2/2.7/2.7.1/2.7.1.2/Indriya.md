@@ -1,5 +1,3 @@
-
-
 # Indriya
 
 * [Indriyasabhāga](Indriya/Indriyasabhaga.md)
@@ -14,6 +12,3 @@
 * [Sādhipati-maggaghaṭanā](Indriya/Sadhipati-maggaghatana.md)
 * [Sahetu-maggaghaṭanā](Indriya/Sahetu-maggaghatana.md)
 * [Sahetu-adhipati-maggaghaṭanā](Indriya/Sahetu-adhipati-maggaghatana.md)
-
-
-

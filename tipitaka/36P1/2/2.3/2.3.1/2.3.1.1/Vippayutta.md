@@ -1,11 +1,4 @@
-
-
 # Vippayutta
-
-
-
-
-
 
 (132.)
 
@@ -26,6 +19,3 @@
 494\. Kusalañca abyākatañca dhammaṃ paccayā kusalo dhammo uppajjati vippayuttapaccayā—  kusalaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā, tayo khandhe ca vatthuñca paccayā eko khandho, dve khandhe ca vatthuñca paccayā dve khandhā, vatthuṃ vippayuttapaccayā. Kusalañca abyākatañca dhammaṃ paccayā abyākato dhammo uppajjati vippayuttapaccayā—  kusale khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ, khandhe vippayuttapaccayā. Kusalañca abyākatañca dhammaṃ paccayā kusalo ca abyākato ca dhammā uppajjanti vippayuttapaccayā—  kusalaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā, tayo khandhe ca vatthuñca paccayā eko khandho, dve khandhe ca vatthuñca paccayā dve khandhā, kusale khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ, khandhā vatthuṃ vippayuttapaccayā, cittasamuṭṭhānaṃ rūpaṃ khandhe vippayuttapaccayā. (3)
 
 495\. Akusalañca abyākatañca dhammaṃ paccayā akusalo dhammo uppajjati vippayuttapaccayā—  akusalaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe ca vatthuñca paccayā dve khandhā, vatthuṃ vippayuttapaccayā. Akusalañca abyākatañca dhammaṃ paccayā abyākato dhammo uppajjati vippayuttapaccayā—  akusale khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ, khandhe vippayuttapaccayā. Akusalañca abyākatañca dhammaṃ paccayā akusalo ca abyākato ca dhammā uppajjanti vippayuttapaccayā—  akusalaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhā, akusale khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ, khandhā vatthuṃ vippayuttapaccayā, cittasamuṭṭhānaṃ rūpaṃ khandhe vippayuttapaccayā. (3)
-
-
-

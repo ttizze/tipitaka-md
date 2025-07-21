@@ -1,12 +1,4 @@
-
-
 # Nahetu
-
-
-
-
-
-
 
 (323.)
 
@@ -31,6 +23,3 @@
 3119\. Ajjhattikañca bāhirañca dhammaṃ paṭicca bāhiro dhammo uppajjati nahetupaccayā—  ahetukaṃ bāhiraṃ ekaṃ khandhañca cittañca paṭicca dve khandhā cittasamuṭṭhānañca rūpaṃ, dve khandhe…pe…  ahetukaṃ cittañca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ; ahetukapaṭisandhikkhaṇe bāhiraṃ ekaṃ khandhañca cittañca paṭicca dve khandhā bāhiraṃ kaṭattā ca rūpaṃ; ahetukapaṭisandhikkhaṇe cittañca mahābhūte ca paṭicca bāhiraṃ kaṭattārūpaṃ, ahetukapaṭisandhikkhaṇe cittañca vatthuñca paṭicca bāhirā khandhā, vicikicchāsahagate uddhaccasahagate khandhe ca cittañca paṭicca vicikicchāsahagato uddhaccasahagato moho. (2)
 
 3120\. Ajjhattikañca bāhirañca dhammaṃ paṭicca ajjhattiko ca bāhiro ca dhammā uppajjanti nahetupaccayā—  ahetukapaṭisandhikkhaṇe bāhiraṃ ekaṃ khandhañca cittañca paṭicca dve khandhā ajjhattikañca bāhirañca kaṭattārūpaṃ, dve khandhe ca…pe… . (3)
-
-
-

@@ -1,10 +1,4 @@
-
-
 # Nahetu-naārammaṇa
-
-
-
-
 
 (6.)
 
@@ -21,6 +15,3 @@
 15\. Nahetuyā cha, naārammaṇe pannarasa, naadhipatiyā ekūnavīsa…pe…  nakamme nava…pe…  naāhāre…pe…  namagge tīṇi…pe…  novigate pannarasa.
 
 16\. (Paccanīyaṃ vitthāretabbaṃ. Sahajātavārampi paccayavārampi vitthāretabbaṃ. Paccayavārepi hetuyā chabbīsa, ārammaṇe aṭṭhārasa…pe…  avigate chabbīsa. Nissayavārampi saṃsaṭṭhavārampi sampayuttavārampi paṭiccavārasadisaṃ.)
-
-
-

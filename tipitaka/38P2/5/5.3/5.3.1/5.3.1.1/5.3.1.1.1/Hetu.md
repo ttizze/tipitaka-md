@@ -1,12 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
-
 
 (45.)
 
@@ -31,6 +23,3 @@
 1726\. Ganthasampayuttañca ganthavippayuttañca dhammaṃ paṭicca ganthavippayutto dhammo uppajjati hetupaccayā—  ganthasampayutte khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ, diṭṭhigatavippayuttalobhasahagate khandhe ca lobhañca paṭicca cittasamuṭṭhānaṃ rūpaṃ, domanassasahagate khandhe ca paṭighañca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (2)
 
 1727\. Ganthasampayuttañca ganthavippayuttañca dhammaṃ paṭicca ganthasampayutto ca ganthavippayutto ca dhammā uppajjanti hetupaccayā—  diṭṭhigatavippayuttalobhasahagataṃ ekaṃ khandhañca lobhañca paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  domanassasahagataṃ ekaṃ khandhañca paṭighañca paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe… . (3)
-
-
-

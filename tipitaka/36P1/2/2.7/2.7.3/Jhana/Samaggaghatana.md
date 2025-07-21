@@ -1,11 +1,4 @@
-
-
 # Samaggaghaṭanā
-
-
-
-
-
 
 (473.)
 
@@ -26,6 +19,3 @@
 1571\. Jhāna sahajāta nissaya vipāka magga vippayutta atthi avigatanti nahetuyā ekaṃ…pe…  novigate ekaṃ.
 
 1572\. Jhāna sahajāta aññamañña nissaya vipāka magga vippayutta atthi avigatanti nahetuyā ekaṃ…pe…  novigate ekaṃ. [Savipāka—  5]
-
-
-

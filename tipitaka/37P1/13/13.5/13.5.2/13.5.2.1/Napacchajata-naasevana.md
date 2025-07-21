@@ -1,11 +1,4 @@
-
-
 # Napacchājāta-naāsevana
-
-
-
-
-
 
 (48.)
 
@@ -14,6 +7,3 @@
 2010\. Mahaggataṃ dhammaṃ saṃsaṭṭho mahaggato dhammo uppajjati naāsevanapaccayā—  vipākaṃ mahaggataṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā…pe…  paṭisandhikkhaṇe…pe… . (1)
 
 2011\. Appamāṇaṃ dhammaṃ saṃsaṭṭho appamāṇo dhammo uppajjati naāsevanapaccayā—  vipākaṃ appamāṇaṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā…pe… . (1)
-
-
-

@@ -1,12 +1,4 @@
-
-
 # Ārammaṇa
-
-
-
-
-
-
 
 (105.)
 
@@ -25,8 +17,3 @@
 ---
 
 1852\. Ganthaganthaniyadukaṃ niṭṭhitaṃ.
-
-
-
-
-

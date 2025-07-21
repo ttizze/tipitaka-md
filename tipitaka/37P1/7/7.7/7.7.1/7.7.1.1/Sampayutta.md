@@ -1,11 +1,4 @@
-
-
 # Sampayutta
-
-
-
-
-
 
 (124.)
 
@@ -34,6 +27,3 @@
 552\. Avitakkavicāramatto ca avitakkaavicāro ca dhammā avitakkavicāramattassa dhammassa sampayuttapaccayena paccayo—  avitakkavicāramatto eko khandho ca vicāro ca tiṇṇannaṃ khandhānaṃ sampayuttapaccayena paccayo…pe…  dve khandhā ca vicāro ca dvinnaṃ khandhānaṃ…pe…  paṭisandhikkhaṇe…pe… . (1)
 
 553\. Savitakkasavicāro ca avitakkavicāramatto ca dhammā savitakkasavicārassa dhammassa sampayuttapaccayena paccayo—  savitakkasavicāro eko khandho ca vitakko ca tiṇṇannaṃ khandhānaṃ sampayuttapaccayena paccayo…pe…  dve khandhā ca vitakko ca dvinnaṃ khandhānaṃ…pe…  paṭisandhikkhaṇe…pe… . (1)
-
-
-

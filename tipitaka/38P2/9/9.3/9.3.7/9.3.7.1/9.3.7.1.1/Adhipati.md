@@ -1,12 +1,4 @@
-
-
 # Adhipati
-
-
-
-
-
-
 
 (66.)
 
@@ -21,6 +13,3 @@
 2254\. Parāmāsavippayutto dhammo parāmāsavippayuttassa dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati, sahajātādhipati. **Ārammaṇādhipati**—  dānaṃ…pe…  sīlaṃ…pe…  uposathakammaṃ katvā taṃ garuṃ katvā paccavekkhati, assādeti abhinandati, taṃ garuṃ katvā parāmāsavippayutto rāgo uppajjati, pubbe…pe…  jhānā…pe…  ariyā maggā vuṭṭhahitvā maggaṃ garuṃ katvā…pe…  phalaṃ…pe…  nibbānaṃ…pe…  nibbānaṃ gotrabhussa, vodānassa, maggassa, phalassa adhipatipaccayena paccayo; cakkhuṃ…pe…  vatthuṃ parāmāsavippayutte khandhe garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā parāmāsavippayutto rāgo uppajjati. **Sahajātādhipati**—  parāmāsavippayuttādhipati sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ adhipatipaccayena paccayo. (1)
 
 2255\. Parāmāsavippayutto dhammo parāmāsasampayuttassa dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  dānaṃ…pe…  sīlaṃ…pe…  uposathakammaṃ katvā taṃ garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā parāmāsasampayutto rāgo uppajjati, pubbe…pe…  jhānā…pe…  cakkhuṃ…pe…  vatthuṃ parāmāsavippayutte khandhe garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā parāmāsasampayutto rāgo uppajjati. (2)
-
-
-

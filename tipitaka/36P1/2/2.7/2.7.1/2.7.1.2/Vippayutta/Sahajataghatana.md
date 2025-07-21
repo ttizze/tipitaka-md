@@ -1,12 +1,4 @@
-
-
 # Sahajātaghaṭanā
-
-
-
-
-
-
 
 (378.)
 
@@ -17,8 +9,3 @@
 ---
 
 1139\. Vippayuttamūlakaṃ.
-
-
-
-
-

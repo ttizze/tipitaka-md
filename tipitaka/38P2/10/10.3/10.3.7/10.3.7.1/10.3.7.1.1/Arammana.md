@@ -1,12 +1,4 @@
-
-
 # Ārammaṇa
-
-
-
-
-
-
 
 (120.)
 
@@ -23,6 +15,3 @@
 (122.)
 
 2615\. Cetasiko ca acetasiko ca dhammā cetasikassa dhammassa ārammaṇapaccayena paccayo—  cetasike khandhe ca cittañca ārabbha cetasikā khandhā uppajjanti. (Mūlaṃ pucchitabbaṃ.) Cetasike khandhe ca cittañca ārabbha cittaṃ uppajjati. (Mūlaṃ pucchitabbaṃ.) Cetasike khandhe ca cittañca ārabbha cetasikā khandhā ca cittañca uppajjanti. (3)
-
-
-

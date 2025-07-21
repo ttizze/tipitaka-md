@@ -1,10 +1,4 @@
-
-
 # Najhānaduka
-
-
-
-
 
 (510.)
 
@@ -14,13 +8,6 @@
 
 1758\. (Yathā nahetumūlakaṃ, evaṃ najhānamūlakaṃ vitthāretabbaṃ.)
 
-
-
 ---
 
 1759\. Najhānamūlakaṃ.
-
-
-
-
-

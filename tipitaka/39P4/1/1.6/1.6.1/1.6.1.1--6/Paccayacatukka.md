@@ -1,11 +1,4 @@
-
-
 # Paccayacatukka
-
-
-
-
-
 
 (78.)
 
@@ -22,6 +15,3 @@
 258\. Naadhipatiyā tīṇi, napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, navipāke tīṇi, navippayutte tīṇi. (Saṃkhittaṃ.)
 
 259\. (Yathā sahajātavārampi…  sampayuttavārampi evaṃ vitthāretabbaṃ.)
-
-
-

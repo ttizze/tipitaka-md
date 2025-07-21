@@ -1,11 +1,4 @@
-
-
 # Āhāra
-
-
-
-
-
 
 (110.)
 
@@ -14,6 +7,3 @@
 2372\. Vipākadhammadhammo vipākadhammadhammassa āhārapaccayena paccayo…  tīṇi.
 
 2373\. Nevavipākanavipākadhammadhammo nevavipākanavipākadhammadhammassa āhārapaccayena paccayo—  nevavipākanavipākadhammadhammā āhārā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānañca rūpānaṃ āhārapaccayena paccayo. **Kabaḷīkāro āhāro**—  imassa kāyassa āhārapaccayena paccayo. (1)
-
-
-

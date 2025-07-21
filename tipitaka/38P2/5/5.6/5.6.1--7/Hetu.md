@@ -1,10 +1,4 @@
-
-
 # Hetu
-
-
-
-
 
 (117.)
 
@@ -14,13 +8,6 @@
 
 1884\. Ganthavippayuttaganthaniyadukaṃ niṭṭhitaṃ.
 
-
-
 ---
 
 1885\. Ganthagocchakaṃ niṭṭhitaṃ.
-
-
-
-
-

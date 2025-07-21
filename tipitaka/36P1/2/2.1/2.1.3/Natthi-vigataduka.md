@@ -1,10 +1,4 @@
-
-
 # Natthi-vigataduka
-
-
-
-
 
 (81.)
 
@@ -13,8 +7,3 @@
 ---
 
 350\. (Yathā ārammaṇamūlakaṃ, evaṃ vitthāretabbaṃ.)
-
-
-
-
-

@@ -1,12 +1,4 @@
-
-
 # Nahetu-naārammaṇādi
-
-
-
-
-
-
 
 (18.)
 
@@ -31,6 +23,3 @@
 61\. Nahetupaccayā ārammaṇe ekaṃ. (Saṃkhittaṃ.)
 
 62\. (Sahajātavārampi paccayavārampi nissayavārampi saṃsaṭṭhavārampi sampayuttavārampi paṭiccavārasadisā vitthāretabbā.)
-
-
-

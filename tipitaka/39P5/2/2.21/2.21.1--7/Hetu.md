@@ -1,10 +1,4 @@
-
-
 # Hetu
-
-
-
-
 
 (46.)
 
@@ -39,6 +33,3 @@
 449\. Hetuyā ekavīsa, ārammaṇe ekaṃ, adhipatiyā ekavīsa…pe…  aññamaññe cha…pe…  avigate ekavīsa. (Saṃkhittaṃ.)
 
 450\. (Sahajātavārampi…pe…  pañhāvārampi vitthāretabbaṃ.)
-
-
-

@@ -1,12 +1,4 @@
-
-
 # Hetu-ārammaṇa
-
-
-
-
-
-
 
 (107.)
 
@@ -35,6 +27,3 @@
 374\. Nahetuyā dasa, naadhipatiyā dasa…pe…  najhāne dve…pe…  navippayutte dasa. (Saṃkhittaṃ.)
 
 375\. (Sahajātavārampi…pe…  sampayuttavārampi vitthāretabbaṃ.)
-
-
-

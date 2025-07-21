@@ -1,10 +1,4 @@
-
-
 # Hetu
-
-
-
-
 
 (40.)
 
@@ -19,8 +13,3 @@
 ---
 
 1667\. Āsavasāsavadukakusalattikaṃ niṭṭhitaṃ.
-
-
-
-
-

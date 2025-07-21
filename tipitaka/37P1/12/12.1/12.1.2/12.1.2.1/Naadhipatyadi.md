@@ -1,11 +1,4 @@
-
-
 # Naadhipatyādi
-
-
-
-
-
 
 (9.)
 
@@ -26,6 +19,3 @@
 1685\. Nevasekkhanāsekkhaṃ dhammaṃ paṭicca nevasekkhanāsekkho dhammo uppajjati naāsevanapaccayā…  nevasekkhanāsekkhaṃ (ekaṃ, paripuṇṇaṃ, sekkhañca, nevasekkhanāsekkhañca, ghaṭanā paripuṇṇā, dvepi kātabbā. Nava) nakammapaccayā—  sekkhe khandhe paṭicca sekkhā cetanā.
 
 1686\. Nevasekkhanāsekkhaṃ dhammaṃ paṭicca nevasekkhanāsekkho dhammo uppajjati nakammapaccayā—  nevasekkhanāsekkhe khandhe paṭicca nevasekkhanāsekkhā cetanā; bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…  ekaṃ mahābhūtaṃ…pe… .
-
-
-

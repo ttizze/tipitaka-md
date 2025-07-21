@@ -1,11 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
 
 (28.)
 
@@ -38,6 +31,3 @@
 1969\. Parittañca appamāṇañca dhammaṃ paccayā paritto ca appamāṇo ca dhammā uppajjanti hetupaccayā—  appamāṇaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe…pe…  appamāṇe khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ. (3)
 
 1970\. Parittañca mahaggatañca dhammaṃ paccayā paritto dhammo uppajjati hetupaccayā…  tīṇi. (Paṭisandhikkhaṇe tīṇipi kātabbā.)
-
-
-

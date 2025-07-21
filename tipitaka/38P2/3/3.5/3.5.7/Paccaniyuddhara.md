@@ -1,10 +1,4 @@
-
-
 # Paccanīyuddhāra
-
-
-
-
 
 (125.)
 
@@ -29,6 +23,3 @@
 1311\. Āsavo ceva āsavasampayutto ca āsavasampayutto ceva no ca āsavo ca dhammā āsavasampayuttassa ceva no ca āsavassa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo. (2)
 
 1312\. Āsavo ceva āsavasampayutto ca āsavasampayutto ceva no ca āsavo ca dhammā āsavassa ceva āsavasampayuttassa ca āsavasampayuttassa ceva no ca āsavassa ca dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo. (3)
-
-
-

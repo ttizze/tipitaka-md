@@ -1,11 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
 
 (8.)
 
@@ -22,6 +15,3 @@
 2830\. Asaṃkiliṭṭhaasaṃkilesiko dhammo asaṃkiliṭṭhasaṃkilesikassa dhammassa hetupaccayena paccayo—  asaṃkiliṭṭhaasaṃkilesikā hetū cittasamuṭṭhānānaṃ rūpānaṃ hetupaccayena paccayo. (2)
 
 2831\. Asaṃkiliṭṭhaasaṃkilesiko dhammo asaṃkiliṭṭhasaṃkilesikassa ca asaṃkiliṭṭhaasaṃkilesikassa ca dhammassa hetupaccayena paccayo—  asaṃkiliṭṭhaasaṃkilesikā hetū sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo. (3)
-
-
-

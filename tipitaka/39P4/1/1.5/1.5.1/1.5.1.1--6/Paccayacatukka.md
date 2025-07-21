@@ -1,11 +1,4 @@
-
-
 # Paccayacatukka
-
-
-
-
-
 
 (64.)
 
@@ -20,6 +13,3 @@
 211\. Hetuyā tīṇi, ārammaṇe tīṇi…pe…  vipāke dve…pe…  avigate tīṇi. (Saṃkhittaṃ.)
 
 212\. Naadhipatiyā tīṇi, napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, navipāke tīṇi, navippayutte tīṇi. (Saṃkhittaṃ.) (Sahajātavārampi…pe…  sampayuttavārampi vitthāretabbaṃ.)
-
-
-

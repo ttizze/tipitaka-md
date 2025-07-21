@@ -1,11 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
 
 (116.)
 
@@ -25,16 +18,8 @@
 
 3807\. (Imaṃ dukaṃ cūḷantaraduke lokiyadukasadisaṃ, ninnānākaraṇaṃ.)
 
-  
 Upādānavippayuttaupādāniyadukaṃ niṭṭhitaṃ.
-
-
 
 ---
 
 3808\. Upādānagocchakaṃ niṭṭhitaṃ.
-
-
-
-
-

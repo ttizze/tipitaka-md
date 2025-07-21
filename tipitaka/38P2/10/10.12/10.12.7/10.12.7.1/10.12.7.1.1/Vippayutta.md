@@ -1,12 +1,4 @@
-
-
 # Vippayutta
-
-
-
-
-
-
 
 (357.)
 
@@ -31,6 +23,3 @@
 3210\. Ajjhattiko ca bāhiro ca dhammā bāhirassa dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, pacchājātaṃ. (Saṃkhittaṃ.) (2)
 
 3211\. Ajjhattiko ca bāhiro ca dhammā ajjhattikassa ca bāhirassa ca dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, pacchājātaṃ. **Sahajātā**—  paṭisandhikkhaṇe ajjhattikā ca bāhirā ca khandhā…pe…  (Saṃkhittaṃ.) (3)
-
-
-

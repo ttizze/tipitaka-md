@@ -1,11 +1,4 @@
-
-
 # Vippayutta
-
-
-
-
-
 
 (298.)
 
@@ -18,6 +11,3 @@
 984\. Abyākato dhammo kusalassa dhammassa vippayuttapaccayena paccayo. **Purejātaṃ**—  vatthu kusalānaṃ khandhānaṃ vippayuttapaccayena paccayo. (2)
 
 985\. Abyākato dhammo akusalassa dhammassa vippayuttapaccayena paccayo. **Purejātaṃ**—  vatthu akusalānaṃ khandhānaṃ vippayuttapaccayena paccayo. (3)
-
-
-

@@ -1,10 +1,4 @@
-
-
 # Hetu-ārammaṇa
-
-
-
-
 
 (35.)
 
@@ -17,6 +11,3 @@
 (36.)
 
 2086\. Hetuyā tīṇi, ārammaṇe dve, adhipatiyā cattāri, anantare ekaṃ…pe…  sahajāte satta, aññamaññe cha, nissaye satta, upanissaye dve, purejāte ekaṃ, pacchājāte ekaṃ, āsevane ekaṃ, kamme tīṇi, vipāke tīṇi, āhāre cattāri, indriye cha, jhāne tīṇi, magge tīṇi, sampayutte ekaṃ, vippayutte dve…pe…  avigate satta. (Saṃkhittaṃ.)
-
-
-

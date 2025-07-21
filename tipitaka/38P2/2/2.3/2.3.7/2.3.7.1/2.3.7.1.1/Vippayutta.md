@@ -1,12 +1,4 @@
-
-
 # Vippayutta
-
-
-
-
-
-
 
 (45.)
 
@@ -15,6 +7,3 @@
 638\. Anidassano dhammo sanidassanassa dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, pacchājātaṃ. **Sahajātā**—  anidassanā khandhā sanidassanānaṃ cittasamuṭṭhānānaṃ rūpānaṃ vippayuttapaccayena paccayo; paṭisandhikkhaṇe…pe… . **Pacchājātā**—  anidassanā khandhā purejātassa imassa sanidassanassa kāyassa vippayuttapaccayena paccayo. (2)
 
 639\. Anidassano dhammo sanidassanassa ca anidassanassa ca dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, pacchājātaṃ. **Sahajātā**—  anidassanā khandhā sanidassanānañca anidassanānañca cittasamuṭṭhānānaṃ rūpānaṃ vippayuttapaccayena paccayo; paṭisandhikkhaṇe…pe… . **Pacchājātā**—  anidassanā khandhā purejātassa imassa sanidassanassa ca anidassanassa ca kāyassa vippayuttapaccayena paccayo. (3)
-
-
-

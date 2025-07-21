@@ -1,12 +1,4 @@
-
-
 # Nahetu
-
-
-
-
-
-
 
 (9.)
 
@@ -17,6 +9,3 @@
 4076\. Nadassanena pahātabbaṃ dhammaṃ paccayā dassanena pahātabbo dhammo uppajjati nahetupaccayā—  vatthuṃ paccayā vicikicchāsahagato moho. (2)
 
 4077\. Dassanena pahātabbañca nadassanena pahātabbañca dhammaṃ paccayā dassanena pahātabbo dhammo uppajjati nahetupaccayā—  vicikicchāsahagate khandhe ca vatthuñca paccayā vicikicchāsahagato moho. (1)
-
-
-

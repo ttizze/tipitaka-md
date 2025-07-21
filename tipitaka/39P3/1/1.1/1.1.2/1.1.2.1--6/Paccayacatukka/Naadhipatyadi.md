@@ -1,12 +1,4 @@
-
-
 # Naadhipatyādi
-
-
-
-
-
-
 
 (32.)
 
@@ -27,6 +19,3 @@
 54\. Nahetupaccayā ārammaṇe ekaṃ. (Saṃkhittaṃ, paccanīyānulomaṃ.)
 
 55\. (Sahajātavārampi paccayavārampi nissayavārampi saṃsaṭṭhavārampi sampayuttavārampi paṭiccavārasadisā vitthāretabbā.)
-
-
-

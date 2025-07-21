@@ -1,12 +1,4 @@
-
-
 # Nahetu
-
-
-
-
-
-
 
 (23.)
 
@@ -15,6 +7,3 @@
 (24.)
 
 1747\. Nahetuyā dve, naadhipatiyā pañca, napurejāte pañca…pe…  nakamme tīṇi…pe…  navippayutte pañca. (Saṃkhittaṃ, paccanīyaṃ.)
-
-
-

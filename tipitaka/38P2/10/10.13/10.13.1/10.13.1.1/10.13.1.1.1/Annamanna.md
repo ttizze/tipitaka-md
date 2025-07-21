@@ -1,12 +1,4 @@
-
-
 # Aññamañña
-
-
-
-
-
-
 
 (373.)
 
@@ -19,6 +11,3 @@
 3253\. Noupādā dhammaṃ paṭicca upādā ca noupādā ca dhammā uppajjanti aññamaññapaccayā—  paṭisandhikkhaṇe noupādā ekaṃ khandhaṃ paṭicca tayo khandhā vatthu ca…pe…  dve khandhe…pe… . (3)
 
 3254\. Upādā ca noupādā ca dhammaṃ paṭicca noupādā dhammo uppajjati aññamaññapaccayā—  paṭisandhikkhaṇe noupādā ekaṃ khandhañca vatthuñca paṭicca tayo khandhā…pe…  dve khandhe ca…pe…  (Saṃkhittaṃ.) (1)
-
-
-

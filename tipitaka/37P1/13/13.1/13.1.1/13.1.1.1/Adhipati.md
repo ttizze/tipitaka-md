@@ -1,11 +1,4 @@
-
-
 # Adhipati
-
-
-
-
-
 
 (6.)
 
@@ -28,6 +21,3 @@
 1891\. Parittañca appamāṇañca dhammaṃ paṭicca paritto dhammo uppajjati adhipatipaccayā—  appamāṇe khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
 
 1892\. Parittañca mahaggatañca dhammaṃ paṭicca paritto dhammo uppajjati adhipatipaccayā—  mahaggate khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
-
-
-

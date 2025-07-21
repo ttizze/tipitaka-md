@@ -1,10 +1,4 @@
-
-
 # Paccayacatukka
-
-
-
-
 
 (18.)
 
@@ -29,6 +23,3 @@
 2647\. Araṇaṃ avitakkaavicāraṃ dhammaṃ paṭicca araṇo avitakkaavicāro dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
 
 2648\. Hetuyā ekaṃ (sabbattha ekaṃ)…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
-
-
-

@@ -1,11 +1,4 @@
-
-
 # Sajhāna-maggaghaṭanā
-
-
-
-
-
 
 (464.)
 
@@ -26,6 +19,3 @@
 1506\. Indriya sahajāta nissaya vipāka jhāna magga vippayutta atthi avigatanti nahetuyā ekaṃ…pe…  novigate ekaṃ.
 
 1507\. Indriya sahajāta aññamañña nissaya vipāka jhāna magga vippayutta atthi avigatanti nahetuyā ekaṃ…pe…  novigate ekaṃ. [Savipāka—  5]
-
-
-

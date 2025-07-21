@@ -1,10 +1,4 @@
-
-
 # Paccanīyuddhāra
-
-
-
-
 
 (164.)
 
@@ -23,8 +17,3 @@
 ---
 
 4437\. Sappītikadukaṃ niṭṭhitaṃ.
-
-
-
-
-

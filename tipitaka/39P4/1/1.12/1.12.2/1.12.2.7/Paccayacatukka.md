@@ -1,11 +1,4 @@
-
-
 # Paccayacatukka
-
-
-
-
-
 
 (165.)
 
@@ -28,6 +21,3 @@
 609\. Nahetupaccayā ārammaṇe satta. (Saṃkhittaṃ.)
 
 610\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
-
-
-

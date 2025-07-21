@@ -1,12 +1,4 @@
-
-
 # Atthi
-
-
-
-
-
-
 
 (193.)
 
@@ -25,6 +17,3 @@
 527\. Nahetu sahetuko ca nahetu ahetuko ca dhammā nahetusahetukassa dhammassa atthipaccayena paccayo—  sahajātaṃ, purejātaṃ. **Sahajāto**—  nahetu sahetuko eko khandho ca vatthu ca tiṇṇannaṃ khandhānaṃ…pe…  paṭisandhikkhaṇe…pe…  nahetu sahetuko eko khandho ca vatthu ca tiṇṇannaṃ khandhānaṃ…pe… . (1)
 
 528\. Nahetu sahetuko ca nahetu ahetuko ca dhammā nahetuahetukassa dhammassa atthipaccayena paccayo—  sahajātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ. **Sahajātā**—  nahetū sahetukā khandhā ca mahābhūtā ca cittasamuṭṭhānānaṃ rūpānaṃ atthipaccayena paccayo; paṭisandhikkhaṇe…pe… . **Pacchājātā**—  nahetū sahetukā khandhā ca kabaḷīkāro āhāro ca imassa kāyassa atthipaccayena paccayo. **Pacchājātā**—  nahetū sahetukā khandhā ca rūpajīvitindriyañca kaṭattārūpānaṃ atthipaccayena paccayo…pe… . (2)
-
-
-

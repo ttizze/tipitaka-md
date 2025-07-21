@@ -1,12 +1,4 @@
-
-
 # Kammādi
-
-
-
-
-
-
 
 (130.)
 
@@ -21,6 +13,3 @@
 4360\. Avitakko dhammo avitakkassa dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, purejātaṃ, pacchājātaṃ. (Saṃkhittaṃ.) Avitakko dhammo savitakkassa dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, purejātaṃ. (Saṃkhittaṃ.) Avitakko dhammo savitakkassa ca avitakkassa ca dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, purejātaṃ. **Sahajātaṃ**—  paṭisandhikkhaṇe vatthu vitakkassa sampayuttakānañca khandhānaṃ vippayuttapaccayena paccayo. **Purejātaṃ**—  vatthu vitakkassa sampayuttakānañca khandhānaṃ vippayuttapaccayena paccayo. (3)
 
 4361\. Savitakko ca avitakko ca dhammā avitakkassa dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, pacchājātaṃ. (Saṃkhittaṃ.)
-
-
-

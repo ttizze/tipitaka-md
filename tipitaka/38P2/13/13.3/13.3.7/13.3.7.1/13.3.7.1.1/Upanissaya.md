@@ -1,12 +1,4 @@
-
-
 # Upanissaya
-
-
-
-
-
-
 
 (78.)
 
@@ -23,6 +15,3 @@
 (80.)
 
 4244\. Dassanena pahātabbahetuko ca nadassanena pahātabbahetuko ca dhammā dassanena pahātabbahetukassa dhammassa upanissayapaccayena paccayo—  anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  vicikicchāsahagatā khandhā ca moho ca dassanena pahātabbahetukānaṃ khandhānaṃ upanissayapaccayena paccayo. (Mūlaṃ kātabbaṃ.) Vicikicchāsahagatā khandhā ca moho ca nadassanena pahātabbahetukānaṃ khandhānaṃ mohassa ca upanissayapaccayena paccayo. (Mūlaṃ kātabbaṃ.) Vicikicchāsahagatā khandhā ca moho ca vicikicchāsahagatānaṃ khandhānaṃ mohassa ca upanissayapaccayena paccayo. (3)
-
-
-

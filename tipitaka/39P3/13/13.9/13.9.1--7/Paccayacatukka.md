@@ -1,10 +1,4 @@
-
-
 # Paccayacatukka
-
-
-
-
 
 (57.)
 
@@ -31,6 +25,3 @@
 (61.)
 
 2508\. Upekkhāsahagataṃ abyākataṃ dhammaṃ paṭicca upekkhāsahagato abyākato dhammo uppajjati hetupaccayā nava pañhā. (Sappītikadukaabyākatasadisaṃ. Pañhāvāre kusalākusale indriye jhāne cha, abyākate nava.)
-
-
-

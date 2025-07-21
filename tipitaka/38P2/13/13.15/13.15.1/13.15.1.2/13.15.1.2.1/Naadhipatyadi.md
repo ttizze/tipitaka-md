@@ -1,12 +1,4 @@
-
-
 # Naadhipatyādi
-
-
-
-
-
-
 
 (303.)
 
@@ -15,6 +7,3 @@
 4719\. Aniyyānikaṃ dhammaṃ paṭicca aniyyāniko dhammo uppajjati naadhipatipaccayā—  aniyyānikaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  paṭisandhikkhaṇe…pe… . (Yāva asaññasattā kātabbā.) (1)
 
 4720\. Naanantarapaccayā…  nasamanantarapaccayā…  naaññamaññapaccayā…pe… .
-
-
-

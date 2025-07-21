@@ -1,12 +1,4 @@
-
-
 # Hetu-ārammaṇādi
-
-
-
-
-
-
 
 (6.)
 
@@ -31,6 +23,3 @@
 23\. Akusalo hetu dhammo akusalassa hetussa dhammassa adhipatipaccayena paccayo. (1)
 
 24\. Abyākato hetu dhammo abyākatassa hetussa dhammassa adhipatipaccayena paccayo. Abyākato hetu dhammo kusalassa hetussa dhammassa adhipatipaccayena paccayo. Abyākato hetu dhammo akusalassa hetussa dhammassa adhipatipaccayena paccayo…  tīṇi.
-
-
-

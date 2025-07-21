@@ -1,11 +1,4 @@
-
-
 # Paccanīyuddhāra
-
-
-
-
-
 
 (23.)
 
@@ -28,6 +21,3 @@
 41\. Nahetupaccayā ārammaṇe nava…pe…  avigate nava. (Saṃkhittaṃ, paccanīyānulomaṃ.)
 
 42\. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
-
-
-

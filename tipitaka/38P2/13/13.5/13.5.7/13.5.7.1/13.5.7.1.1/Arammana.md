@@ -1,12 +1,4 @@
-
-
 # Ārammaṇa
-
-
-
-
-
-
 
 (117.)
 
@@ -23,6 +15,3 @@
 (119.)
 
 4330\. Savitakko ca avitakko ca dhammā savitakkassa dhammassa ārammaṇapaccayena paccayo—  savitakke khandhe ca vitakkañca ārabbha savitakkā khandhā uppajjanti. (Mūlaṃ kātabbaṃ.) Savitakke khandhe ca vitakkañca ārabbha avitakkā khandhā ca vitakko ca uppajjanti. (Mūlaṃ kātabbaṃ.) Savitakke khandhe ca vitakkañca ārabbha savitakkā khandhā ca vitakko ca uppajjanti. (3)
-
-
-

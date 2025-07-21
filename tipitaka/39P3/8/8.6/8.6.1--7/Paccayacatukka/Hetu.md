@@ -1,11 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
 
 (31.)
 
@@ -36,8 +29,3 @@
 ---
 
 1958\. Nīvaraṇagocchakakusalattikaṃ niṭṭhitaṃ.
-
-
-
-
-

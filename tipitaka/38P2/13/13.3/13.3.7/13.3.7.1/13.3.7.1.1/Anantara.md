@@ -1,12 +1,4 @@
-
-
 # Anantara
-
-
-
-
-
-
 
 (75.)
 
@@ -21,6 +13,3 @@
 4238\. Dassanena pahātabbahetuko ca nadassanena pahātabbahetuko ca dhammā dassanena pahātabbahetukassa dhammassa anantarapaccayena paccayo—  purimā purimā vicikicchāsahagatā khandhā ca moho ca pacchimānaṃ pacchimānaṃ vicikicchāsahagatānaṃ khandhānaṃ anantarapaccayena paccayo. (Mūlaṃ kātabbaṃ.) Purimā purimā vicikicchāsahagatā khandhā ca moho ca pacchimassa pacchimassa vicikicchāsahagatassa mohassa anantarapaccayena paccayo; vicikicchāsahagatā khandhā ca moho ca vuṭṭhānassa anantarapaccayena paccayo. (Mūlaṃ kātabbaṃ.) Purimā purimā vicikicchāsahagatā khandhā ca moho ca pacchimānaṃ pacchimānaṃ vicikicchāsahagatānaṃ khandhānaṃ mohassa ca anantarapaccayena paccayo. (3)
 
 4239\. Samanantarapaccayena paccayo…  nava…  sahajātapaccayena paccayo…  nava…  aññamaññapaccayena paccayo…  cha…  nissayapaccayena paccayo…  nava.
-
-
-

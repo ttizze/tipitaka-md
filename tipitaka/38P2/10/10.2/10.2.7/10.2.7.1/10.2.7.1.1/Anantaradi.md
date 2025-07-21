@@ -1,12 +1,4 @@
-
-
 # Anantarādi
-
-
-
-
-
-
 
 (75.)
 
@@ -23,6 +15,3 @@
 2501\. Citto ca nocitto ca dhammā cittassa dhammassa anantarapaccayena paccayo—  purimaṃ purimaṃ cittañca sampayuttakā ca khandhā pacchimassa pacchimassa cittassa anantarapaccayena paccayo. (Mūlaṃ pucchitabbaṃ.) Purimaṃ purimaṃ cittañca sampayuttakā ca khandhā pacchimānaṃ pacchimānaṃ nocittānaṃ khandhānaṃ anantarapaccayena paccayo—  cittañca sampayuttakā ca khandhā vuṭṭhānassa anantarapaccayena paccayo. (Mūlaṃ pucchitabbaṃ.) Purimaṃ purimaṃ cittañca sampayuttakā ca khandhā pacchimassa pacchimassa cittassa sampayuttakānañca khandhānaṃ anantarapaccayena paccayo. (3)
 
 2502\. Samanantarapaccayena paccayo…  sahajātapaccayena paccayo…  aññamaññapaccayena paccayo (paṭiccavārasadisā)…  nissayapaccayena paccayo…  pañca. (Paccayavārasadisā.)
-
-
-

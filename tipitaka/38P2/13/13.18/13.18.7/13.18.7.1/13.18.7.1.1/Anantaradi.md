@@ -1,12 +1,4 @@
-
-
 # Anantarādi
-
-
-
-
-
-
 
 (354.)
 
@@ -17,6 +9,3 @@
 4819\. Araṇo dhammo araṇassa dhammassa anantarapaccayena paccayo—  purimā purimā araṇā khandhā pacchimānaṃ pacchimānaṃ araṇānaṃ khandhānaṃ anantarapaccayena paccayo; anulomaṃ gotrabhussa…pe…  phalasamāpattiyā anantarapaccayena paccayo. Araṇo dhammo saraṇassa dhammassa anantarapaccayena paccayo—  āvajjanā saraṇānaṃ khandhānaṃ anantarapaccayena paccayo. (2)
 
 4820\. Samanantarapaccayena paccayo…  sahajātapaccayena paccayo…  pañca…  aññamaññapaccayena paccayo…  dve…  nissayapaccayena paccayo…  satta.
-
-
-

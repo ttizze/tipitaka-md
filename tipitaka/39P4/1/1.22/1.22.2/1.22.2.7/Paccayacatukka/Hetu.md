@@ -1,12 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
-
 
 (243.)
 
@@ -25,8 +17,3 @@
 ---
 
 921\. Sanidassanasappaṭighattikahetudukaṃ niṭṭhitaṃ.
-
-
-
-
-

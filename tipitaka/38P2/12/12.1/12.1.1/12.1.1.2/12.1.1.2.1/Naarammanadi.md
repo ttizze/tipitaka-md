@@ -1,12 +1,4 @@
-
-
 # Naārammaṇādi
-
-
-
-
-
-
 
 (6.)
 
@@ -17,6 +9,3 @@
 3825\. Kilesañca nokilesañca dhammaṃ paṭicca nokileso dhammo uppajjati naārammaṇapaccayā—  kilese ca sampayuttake ca khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ, kilese ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
 
 3826\. Naadhipatipaccayā…  naanantarapaccayā…  nasamanantarapaccayā…  naaññamaññapaccayā…  naupanissayapaccayā.
-
-
-

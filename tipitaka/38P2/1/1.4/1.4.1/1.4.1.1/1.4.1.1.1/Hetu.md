@@ -1,12 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
-
 
 (127.)
 
@@ -33,6 +25,3 @@
 361\. Hetuñceva sahetukañca sahetukañceva na ca hetuñca dhammaṃ paṭicca hetu ceva sahetuko ca sahetuko ceva na ca hetu ca dhammā uppajjanti hetupaccayā—  sahetukañceva na ca hetuṃ ekaṃ khandhañca alobhañca paṭicca tayo khandhā adoso amoho ca…pe…  dve khandhe…pe…  paṭisandhikkhaṇe…pe… . (3)
 
 362\. (Saṃkhittaṃ. Evaṃ vitthāretabbaṃ.)
-
-
-

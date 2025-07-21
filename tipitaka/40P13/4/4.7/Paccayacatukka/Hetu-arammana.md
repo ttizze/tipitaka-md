@@ -1,10 +1,4 @@
-
-
 # Hetu-ārammaṇa
-
-
-
-
 
 (28.)
 
@@ -21,6 +15,3 @@
 (30.)
 
 61\. Hetuyā terasa, ārammaṇe pannarasa, adhipatiyā ekādasa, anantare soḷasa…pe…  sahajāte ekūnavīsa, aññamaññe nava, nissaye tevīsa, upanissaye aṭṭhārasa, purejāte soḷasa, pacchājāte pannarasa, āsevane pañca, kamme pannarasa, vipāke dasa, āhāre vīsa, indriye jhāne magge terasa, sampayutte nava, vippayutte soḷasa…pe…  avigate chattiṃsa. (Pañhāvārampi vitthāretabbaṃ.)
-
-
-

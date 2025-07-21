@@ -1,12 +1,4 @@
-
-
 # Ārammaṇa
-
-
-
-
-
-
 
 (112.)
 
@@ -15,6 +7,3 @@
 (113.)
 
 804\. Arūpī dhammo arūpissa dhammassa ārammaṇapaccayena paccayo—  dānaṃ…pe…  sīlaṃ…pe…  uposathakammaṃ katvā taṃ paccavekkhati, pubbe suciṇṇāni paccavekkhati, jhānā…pe…  ariyā maggā vuṭṭhahitvā maggaṃ paccavekkhanti, phalaṃ paccavekkhanti, nibbānaṃ paccavekkhanti; nibbānaṃ gotrabhussa, vodānassa, maggassa, phalassa, āvajjanāya ārammaṇapaccayena paccayo; ariyā pahīne kilese…pe…  vikkhambhite kilese…pe…  pubbe…pe…  arūpino khandhe aniccato…pe…  domanassaṃ uppajjati, cetopariyañāṇena arūpicittasamaṅgissa cittaṃ jānāti, ākāsānañcāyatanaṃ…pe…  nevasaññānāsaññāyatanassa…pe…  arūpino khandhā iddhividhañāṇassa, cetopariyañāṇassa, pubbenivāsānussatiñāṇassa, yathākammūpagañāṇassa, anāgataṃsañāṇassa, āvajjanāya ārammaṇapaccayena paccayo. (1)
-
-
-

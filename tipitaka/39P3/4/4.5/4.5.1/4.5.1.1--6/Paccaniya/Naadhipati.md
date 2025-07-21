@@ -1,12 +1,4 @@
-
-
 # Naadhipati
-
-
-
-
-
-
 
 (44.)
 
@@ -17,6 +9,3 @@
 1673\. Naadhipatiyā nava, napurejāte nava, napacchājāte nava, naāsevane nava, nakamme tīṇi, navipāke nava, navippayutte nava. (Saṃkhittaṃ.)
 
 1674\. (Sahajātavārepi…  sampayuttavārepi sabbattha nava.)
-
-
-

@@ -1,12 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
-
 
 (68.)
 
@@ -15,6 +7,3 @@
 (69.)
 
 4225\. Nadassanena pahātabbahetuko dhammo nadassanena pahātabbahetukassa dhammassa hetupaccayena paccayo—  nadassanena pahātabbahetukā hetū sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo, vicikicchāsahagato moho cittasamuṭṭhānānaṃ rūpānaṃ hetupaccayena paccayo; paṭisandhikkhaṇe…pe… . (Mūlaṃ kātabbaṃ.) Vicikicchāsahagato moho sampayuttakānaṃ khandhānaṃ hetupaccayena paccayo. (Mūlaṃ kātabbaṃ.) Vicikicchāsahagato moho sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo. (3)
-
-
-

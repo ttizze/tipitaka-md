@@ -1,11 +1,4 @@
-
-
 # Hetu-purejāta
-
-
-
-
-
 
 (102.)
 
@@ -32,8 +25,3 @@
 ---
 
 2239\. Mahantaradukakusalattikaṃ niṭṭhitaṃ.
-
-
-
-
-

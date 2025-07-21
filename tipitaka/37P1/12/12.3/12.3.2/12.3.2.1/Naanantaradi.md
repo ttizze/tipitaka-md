@@ -1,11 +1,4 @@
-
-
 # Naanantarādi
-
-
-
-
-
 
 (27.)
 
@@ -16,6 +9,3 @@
 1740\. Nevasekkhanāsekkhaṃ dhammaṃ paccayā sekkho dhammo uppajjati nakammapaccayā—  vatthuṃ paccayā sekkhā cetanā. (2)
 
 1741\. Sekkhañca nevasekkhanāsekkhañca dhammaṃ paccayā sekkho dhammo uppajjati nakammapaccayā—  sekkhe khandhe ca vatthuñca paccayā sekkhā cetanā. (1)
-
-
-

@@ -1,10 +1,4 @@
-
-
 # Nahetuduka
-
-
-
-
 
 (63.)
 
@@ -14,13 +8,6 @@
 
 2428\. Paccanīyānulomaṃ.
 
-
-
 ---
 
 2429\. Micchattaniyatattikaṃ niṭṭhitaṃ.
-
-
-
-
-

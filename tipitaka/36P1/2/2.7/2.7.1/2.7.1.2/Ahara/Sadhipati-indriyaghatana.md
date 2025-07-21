@@ -1,12 +1,4 @@
-
-
 # Sādhipati-indriyaghaṭanā
-
-
-
-
-
-
 
 (347.)
 
@@ -17,8 +9,3 @@
 ---
 
 1081\. Āhāramūlakaṃ.
-
-
-
-
-

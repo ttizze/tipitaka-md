@@ -1,11 +1,4 @@
-
-
 # Sabhāga
-
-
-
-
-
 
 2405\. Hetupaccayā adhipatiyā satta, sahajāte satta, aññamaññe pañca, nissaye satta, vipāke tīṇi, indriye satta, magge satta, sampayutte tīṇi, vippayutte tīṇi, atthiyā satta, avigate satta.
 
@@ -14,8 +7,3 @@
 ---
 
 2407\. Anulomaṃ
-
-
-
-
-

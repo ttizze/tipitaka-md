@@ -1,12 +1,4 @@
-
-
 # Atthyādi
-
-
-
-
-
-
 
 (39.)
 
@@ -33,6 +25,3 @@
 112\. Hetu ca nahetu ca dhammā hetussa ca nahetussa ca dhammassa atthipaccayena paccayo—  sahajātaṃ, purejātaṃ. **Sahajāto**—  nahetu eko khandho ca alobho ca tiṇṇannaṃ khandhānaṃ adosassa amohassa cittasamuṭṭhānānañca rūpānaṃ atthipaccayena paccayo (cakkaṃ). Nahetu eko khandho ca lobho ca tiṇṇannaṃ khandhānaṃ mohassa cittasamuṭṭhānānañca rūpānaṃ atthipaccayena paccayo (cakkaṃ); paṭisandhikkhaṇe nahetu eko khandho ca alobho ca (cakkaṃ). Paṭisandhikkhaṇe…pe…  alobho ca vatthu ca adosassa amohassa sampayuttakānañca khandhānaṃ atthipaccayena paccayo, lobho ca vatthu ca mohassa sampayuttakānañca khandhānaṃ atthipaccayena paccayo… .
 
 113\. Natthipaccayena paccayo…  vigatapaccayena paccayo…  avigatapaccayena paccayo. (3)
-
-
-

@@ -1,11 +1,4 @@
-
-
 # Kamma
-
-
-
-
-
 
 (22.)
 
@@ -16,6 +9,3 @@
 2914\. Bahiddhārammaṇo dhammo bahiddhārammaṇassa dhammassa kammapaccayena paccayo—  sahajātā, nānākkhaṇikā. **Sahajātā**—  bahiddhārammaṇā cetanā sampayuttakānaṃ khandhānaṃ kammapaccayena paccayo. Paṭisandhikkhaṇe…pe… . **Nānākkhaṇikā**—  bahiddhārammaṇā cetanā vipākānaṃ bahiddhārammaṇānaṃ khandhānaṃ kammapaccayena paccayo. (1)
 
 2915\. Bahiddhārammaṇo dhammo ajjhattārammaṇassa dhammassa kammapaccayena paccayo. Nānākkhaṇikā—  bahiddhārammaṇā cetanā vipākānaṃ ajjhattārammaṇānaṃ khandhānaṃ kammapaccayena paccayo. (2)
-
-
-

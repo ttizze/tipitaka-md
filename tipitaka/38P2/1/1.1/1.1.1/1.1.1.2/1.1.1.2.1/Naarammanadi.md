@@ -1,12 +1,4 @@
-
-
 # Naārammaṇādi
-
-
-
-
-
-
 
 (7.)
 
@@ -15,6 +7,3 @@
 17\. Nahetuṃ dhammaṃ paṭicca nahetu dhammo uppajjati naārammaṇapaccayā—  nahetū khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe…pe…  sabbe mahābhūtā…pe… . (1)
 
 18\. Hetuñca nahetuñca dhammaṃ paṭicca nahetu dhammo uppajjati naārammaṇapaccayā—  hetuñca nahetuñca khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe…pe…  naadhipatipaccayā…  (paripuṇṇaṃ) naanantarapaccayā…  nasamanantarapaccayā…  naaññamaññapaccayā…  naupanissayapaccayā.
-
-
-

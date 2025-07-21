@@ -1,11 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
 
 (98.)
 
@@ -32,6 +25,3 @@
 2228\. Hetuyā pañca, ārammaṇe dve, adhipatiyā ekaṃ…pe…  purejāte dve, āsevane ekaṃ, kamme pañca, vipāke pañca…pe…  avigate pañca. (Saṃkhittaṃ.)
 
 2229\. Nahetuyā pañca, naārammaṇe cattāri, naadhipatiyā pañca…pe…  napurejāte cattāri, napacchājāte naāsevane pañca, nakamme ekaṃ, navipāke dve, naāhāre dve, naindriye dve, najhāne dve, namagge pañca, nasampayutte cattāri, navippayutte dve, nonatthiyā cattāri, novigate cattāri. (Saṃkhittaṃ. Sahajātavārādi vitthāretabbo.)
-
-
-

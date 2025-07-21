@@ -1,10 +1,4 @@
-
-
 # Paccanīyuddhāra
-
-
-
-
 
 (89.)
 
@@ -17,6 +11,3 @@
 191\. Nahetupaccayā ārammaṇe ekaṃ. (Saṃkhittaṃ.)
 
 192\. (Yathā kusalattike pañhāvāraṃ evaṃ vitthāretabbaṃ.)
-
-
-

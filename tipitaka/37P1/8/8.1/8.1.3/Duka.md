@@ -1,10 +1,4 @@
-
-
 # Duka
-
-
-
-
 
 (15.)
 
@@ -14,10 +8,4 @@
 
 674\. (Anulomapaccanīyaṃ vitthārena gaṇetabbaṃ.)
 
-  
 Anulomapaccanīyaṃ.
-
-
-
-
-

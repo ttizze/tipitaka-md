@@ -1,11 +1,4 @@
-
-
 # Paccayacatukka
-
-
-
-
-
 
 (1.)
 
@@ -32,6 +25,3 @@
 (4.)
 
 1716\. Hetuyā tīṇi, ārammaṇe nava, adhipatiyā pañca, anantare…pe…  nissaye tīṇi, upanissaye nava, āsevane tīṇi…pe…  avigate tīṇi. (Saṃkhittaṃ. Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
-
-
-

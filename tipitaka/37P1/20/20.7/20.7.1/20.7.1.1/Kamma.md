@@ -1,11 +1,4 @@
-
-
 # Kamma
-
-
-
-
-
 
 (35.)
 
@@ -30,6 +23,3 @@
 2739\. Paccuppannārammaṇo dhammo atītārammaṇassa dhammassa kammapaccayena paccayo. **Nānākkhaṇikā**—  paccuppannārammaṇā cetanā vipākānaṃ atītārammaṇānaṃ khandhānaṃ kammapaccayena paccayo. (2)
 
 2740\. Paccuppannārammaṇo dhammo anāgatārammaṇassa dhammassa kammapaccayena paccayo. **Nānākkhaṇikā**—  paccuppannārammaṇā cetanā vipākānaṃ anāgatārammaṇānaṃ khandhānaṃ kammapaccayena paccayo. (3)
-
-
-

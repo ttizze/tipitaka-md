@@ -1,12 +1,4 @@
-
-
 # Pacchājātādi
-
-
-
-
-
-
 
 (32.)
 
@@ -17,6 +9,3 @@
 86\. Hetū ca nahetū ca dhammā nahetussa dhammassa pacchājātapaccayena paccayo—  pacchājātā hetū ca sampayuttakā ca khandhā purejātassa imassa kāyassa pacchājātapaccayena paccayo. (1)
 
 87\. Hetu dhammo hetussa dhammassa āsevanapaccayena paccayo (anantarasadisaṃ).
-
-
-

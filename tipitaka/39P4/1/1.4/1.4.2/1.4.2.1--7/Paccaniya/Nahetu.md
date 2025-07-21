@@ -1,12 +1,4 @@
-
-
 # Nahetu
-
-
-
-
-
-
 
 (62.)
 
@@ -25,6 +17,3 @@
 206\. Nahetupaccayā ārammaṇe dve. (Saṃkhittaṃ.)
 
 207\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
-
-
-

@@ -1,11 +1,4 @@
-
-
 # Napacchājātādi
-
-
-
-
-
 
 (18.)
 
@@ -40,6 +33,3 @@
 1934\. Parittañca mahaggatañca dhammaṃ paṭicca mahaggato dhammo uppajjati naāsevanapaccayā—  paṭisandhikkhaṇe mahaggataṃ ekaṃ khandhañca vatthuñca paṭicca tayo khandhā…pe…  dve khandhe…pe… . (2)
 
 1935\. Parittañca mahaggatañca dhammaṃ paṭicca paritto ca mahaggato ca dhammā uppajjanti naāsevanapaccayā—  paṭisandhikkhaṇe mahaggataṃ ekaṃ khandhañca vatthuñca paṭicca tayo khandhā…pe…  dve khandhe…pe…  mahaggate khandhe ca mahābhūte ca paṭicca kaṭattārūpaṃ. (3)
-
-
-

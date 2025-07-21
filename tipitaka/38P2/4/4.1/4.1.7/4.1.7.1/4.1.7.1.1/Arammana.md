@@ -1,12 +1,4 @@
-
-
 # Ārammaṇa
-
-
-
-
-
-
 
 (17.)
 
@@ -21,6 +13,3 @@
 1364\. Nosaññojano dhammo saññojanassa ca nosaññojanassa ca dhammassa ārammaṇapaccayena paccayo—  dānaṃ datvā sīlaṃ…pe…  uposathakammaṃ…pe…  pubbe…pe…  jhānā…pe…  cakkhuṃ…pe…  vatthuṃ nosaññojane khandhe assādeti abhinandati, taṃ ārabbha saññojanā ca saññojanasampayuttakā ca khandhā uppajjanti. (3)
 
 1365\. Saññojano ca nosaññojano ca dhammā saññojanassa dhammassa ārammaṇapaccayena paccayo…  tīṇi. (Ārabbhayeva kātabbā.)
-
-
-

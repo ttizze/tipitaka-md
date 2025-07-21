@@ -1,10 +1,4 @@
-
-
 # Hetu-ārammaṇa
-
-
-
-
 
 (60.)
 
@@ -45,6 +39,3 @@
 1901\. Hetuyā tīṇi, ārammaṇe nava, adhipatiyā…pe…  samanantare satta, sahajāte aññamaññe nissaye tīṇi, upanissaye nava, āsevane tīṇi, kamme nava, vipāke…pe…  sampayutte tīṇi…pe…  avigate tīṇi. (Saṃkhittaṃ.)
 
 1902\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
-
-
-

@@ -1,11 +1,4 @@
-
-
 # Nissaya
-
-
-
-
-
 
 (101.)
 
@@ -24,6 +17,3 @@
 2327\. Vipākadhammadhammo ca nevavipākanavipākadhammadhammo ca dhammā vipākadhammadhammassa nissayapaccayena paccayo—  vipākadhammadhammo eko khandho ca vatthu ca…pe… . (1)
 
 2328\. Vipākadhammadhammo ca nevavipākanavipākadhammadhammo ca dhammā nevavipākanavipākadhammadhammassa nissayapaccayena paccayo—  vipākadhammadhammā khandhā ca mahābhūtā ca cittasamuṭṭhānānaṃ rūpānaṃ… . (2) (Terasa pañhā.)
-
-
-

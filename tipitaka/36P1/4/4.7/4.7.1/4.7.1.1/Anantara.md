@@ -1,11 +1,4 @@
-
-
 # Anantara
-
-
-
-
-
 
 (97.)
 
@@ -22,6 +15,3 @@
 2304\. Nevavipākanavipākadhammadhammo vipākassa dhammassa anantarapaccayena paccayo—  āvajjanā pañcannaṃ viññāṇānaṃ anantarapaccayena paccayo. Nevavipākanavipākadhammadhammā khandhā vuṭṭhānassa, arahato anulomaṃ phalasamāpattiyā…  nirodhā vuṭṭhahantassa nevasaññānāsaññāyatanakiriyaṃ phalasamāpattiyā anantarapaccayena paccayo. (2)
 
 2305\. Nevavipākanavipākadhammadhammo vipākadhammadhammassa anantarapaccayena paccayo—  āvajjanā vipākadhammadhammānaṃ khandhānaṃ anantarapaccayena paccayo. (3)
-
-
-

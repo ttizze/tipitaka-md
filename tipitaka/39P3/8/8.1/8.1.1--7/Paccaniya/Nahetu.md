@@ -1,11 +1,4 @@
-
-
 # Nahetu
-
-
-
-
-
 
 (5.)
 
@@ -46,6 +39,3 @@
 1913\. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
 
 1914\. (Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
-
-
-

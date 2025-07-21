@@ -1,11 +1,4 @@
-
-
 # Sādhipati-indriyaghaṭanā
-
-
-
-
-
 
 (480.)
 
@@ -20,6 +13,3 @@
 1624\. Magga adhipati sahajāta aññamañña nissaya vipāka indriya sampayutta atthi avigatanti nahetuyā ekaṃ…pe…  novigate ekaṃ.
 
 1625\. Magga adhipati sahajāta nissaya vipāka indriya vippayutta atthi avigatanti nahetuyā ekaṃ…pe…  novigate ekaṃ. [Savipāka—  3]
-
-
-

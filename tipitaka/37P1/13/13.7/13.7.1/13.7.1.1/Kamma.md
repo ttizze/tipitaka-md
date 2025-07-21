@@ -1,11 +1,4 @@
-
-
 # Kamma
-
-
-
-
-
 
 (78.)
 
@@ -24,6 +17,3 @@
 2110\. Appamāṇo dhammo parittassa dhammassa kammapaccayena paccayo—  appamāṇā cetanā cittasamuṭṭhānānaṃ rūpānaṃ kammapaccayena paccayo. (2)
 
 2111\. Appamāṇo dhammo parittassa ca appamāṇassa ca dhammassa kammapaccayena paccayo—  appamāṇā cetanā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo. (3)
-
-
-

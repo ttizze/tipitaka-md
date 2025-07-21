@@ -1,12 +1,4 @@
-
-
 # Atthyādi
-
-
-
-
-
-
 
 (291.)
 
@@ -19,6 +11,3 @@
 4701\. Arūpāvacaro ca naarūpāvacaro ca dhammā arūpāvacarassa dhammassa atthipaccayena paccayo—  sahajātaṃ, purejātaṃ. **Sahajāto**—  arūpāvacaro eko khandho ca vatthu ca tiṇṇannaṃ khandhānaṃ atthipaccayena paccayo…pe…  dve khandhā ca…pe… . Arūpāvacaro ca naarūpāvacaro ca dhammā naarūpāvacarassa dhammassa atthipaccayena paccayo—  sahajātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ. **Sahajātā**—  arūpāvacarā khandhā ca mahābhūtā ca cittasamuṭṭhānānaṃ rūpānaṃ atthipaccayena paccayo. **Pacchājātā**—  arūpāvacarā khandhā ca kabaḷīkāro āhāro ca imassa kāyassa atthipaccayena paccayo. **Pacchājātā**—  arūpāvacarā khandhā ca rūpajīvitindriyañca kaṭattārūpānaṃ atthipaccayena paccayo. (2)
 
 4702\. Natthipaccayena paccayo…  vigatapaccayena paccayo…  avigatapaccayena paccayo.
-
-
-

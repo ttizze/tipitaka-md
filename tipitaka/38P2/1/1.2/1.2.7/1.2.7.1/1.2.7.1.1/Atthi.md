@@ -1,12 +1,4 @@
-
-
 # Atthi
-
-
-
-
-
-
 
 (116.)
 
@@ -31,6 +23,3 @@
 330\. Sahetuko ca ahetuko ca dhammā ahetukassa dhammassa atthipaccayena paccayo—  sahajātaṃ, purejātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ. **Sahajātā**—  sahetukā khandhā ca mahābhūtā ca cittasamuṭṭhānānaṃ rūpānaṃ atthipaccayena paccayo; vicikicchāsahagatā uddhaccasahagatā khandhā ca moho ca cittasamuṭṭhānānaṃ rūpānaṃ atthipaccayena paccayo; paṭisandhikkhaṇe sahetukā khandhā ca mahābhūtā ca kaṭattārūpānaṃ atthipaccayena paccayo. **Sahajātā**—  vicikicchāsahagatā uddhaccasahagatā khandhā ca vatthu ca mohassa atthipaccayena paccayo. **Pacchājātā**—  vicikicchāsahagatā uddhaccasahagatā khandhā ca moho ca purejātassa imassa kāyassa atthipaccayena paccayo. **Pacchājātā**—  sahetukā khandhā ca kabaḷīkāro āhāro ca imassa kāyassa atthipaccayena paccayo. **Pacchājātā**—  sahetukā khandhā ca rūpajīvitindriyañca kaṭattārūpānaṃ atthipaccayena paccayo. (2)
 
 331\. Sahetuko ca ahetuko ca dhammā sahetukassa ca ahetukassa ca dhammassa atthipaccayena paccayo—  sahajātaṃ, purejātaṃ. **Sahajāto**—  vicikicchāsahagato uddhaccasahagato eko khandho ca moho ca tiṇṇannaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ atthipaccayena paccayo…pe… . **Sahajāto**—  vicikicchāsahagato uddhaccasahagato eko khandho ca vatthu ca tiṇṇannaṃ khandhānaṃ mohassa ca atthipaccayena paccayo…pe…  dve khandhā ca…pe… . (3)
-
-
-

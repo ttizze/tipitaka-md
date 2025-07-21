@@ -1,11 +1,4 @@
-
-
 # Naadhipatyādi
-
-
-
-
-
 
 (9.)
 
@@ -14,6 +7,3 @@
 (10.)
 
 2776\. Bahiddhā dhammaṃ paṭicca bahiddhā dhammo uppajjati napurejātapaccayā—  arūpe bahiddhā ekaṃ khandhaṃ paṭicca…pe…  dve khandhe…pe…  bahiddhā khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ. Paṭisandhikkhaṇe (paripuṇṇaṃ) ekaṃ mahābhūtaṃ…pe…  bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…  asaññasattānaṃ…pe… .
-
-
-

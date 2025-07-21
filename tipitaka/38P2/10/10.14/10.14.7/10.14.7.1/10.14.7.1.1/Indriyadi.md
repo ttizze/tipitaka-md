@@ -1,12 +1,4 @@
-
-
 # Indriyādi
-
-
-
-
-
-
 
 (461.)
 
@@ -19,6 +11,3 @@
 3494\. Anupādinno dhammo anupādinnassa dhammassa indriyapaccayena paccayo—  anupādinnā indriyā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ indriyapaccayena paccayo. (1)
 
 3495\. Upādinno dhammo upādinnassa dhammassa jhānapaccayena paccayo…  cattāri, maggapaccayena paccayo…  cattāri, sampayuttapaccayena paccayo…  dve.
-
-
-

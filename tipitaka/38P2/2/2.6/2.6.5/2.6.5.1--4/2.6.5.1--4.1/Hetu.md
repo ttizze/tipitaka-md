@@ -1,12 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
-
 
 (147.)
 
@@ -15,6 +7,3 @@
 885\. Lokuttaraṃ dhammaṃ saṃsaṭṭho lokuttaro dhammo uppajjati hetupaccayā—  lokuttaraṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā…pe…  dve khandhe…pe… . (1)
 
 886\. (Saṃsaṭṭhavāro evaṃ vitthāretabbo, saha gaṇanāhi dve pañhā.)
-
-
-

@@ -1,12 +1,4 @@
-
-
 # Ārammaṇa
-
-
-
-
-
-
 
 (18.)
 
@@ -31,6 +23,3 @@
 1023\. Āsavo ca noāsavo ca dhammā noāsavassa dhammassa ārammaṇapaccayena paccayo—  āsave ca sampayuttake ca khandhe ārabbha noāsavā khandhā uppajjanti. (2)
 
 1024\. Āsavo ca noāsavo ca dhammā āsavassa ca noāsavassa ca dhammassa ārammaṇapaccayena paccayo—  āsave ca sampayuttake ca khandhe ārabbha āsavā ca sampayuttakā ca khandhā uppajjanti. (3)
-
-
-

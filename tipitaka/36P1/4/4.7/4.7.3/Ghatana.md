@@ -1,10 +1,4 @@
-
-
 # Ghaṭanā
-
-
-
-
 
 2429\. Hetu sahajāta nissaya atthi avigatanti naārammaṇe satta…pe…  naaññamaññe tīṇi…pe…  navipāke cattāri…pe…  nasampayutte tīṇi, navippayutte tīṇi…pe…  novigate satta.
 
@@ -13,8 +7,3 @@
 ---
 
 2431\. Anulomapaccanīyaṃ.
-
-
-
-
-

@@ -1,12 +1,4 @@
-
-
 # Atthyādi
-
-
-
-
-
-
 
 (87.)
 
@@ -33,6 +25,3 @@
 1542\. Saññojanasampayutto ca saññojanavippayutto ca dhammā saññojanasampayuttassa ca saññojanavippayuttassa ca dhammassa atthipaccayena paccayo—  sahajātaṃ, purejātaṃ. **Sahajāto**—  uddhaccasahagato eko khandho ca moho ca tiṇṇannaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ atthipaccayena paccayo…pe…  dve khandhā ca…pe… . **Sahajāto**—  uddhaccasahagato eko khandho ca vatthu ca tiṇṇannaṃ khandhānaṃ mohassa ca atthipaccayena paccayo…pe…  dve khandhā…pe… . (3)
 
 1543\. Natthipaccayena paccayo…  vigatapaccayena paccayo…  avigatapaccayena paccayo.
-
-
-

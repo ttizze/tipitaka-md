@@ -1,12 +1,4 @@
-
-
 # Upanissayādi
-
-
-
-
-
-
 
 (11.)
 
@@ -21,6 +13,3 @@
 (12.)
 
 36\. Hetuyā tīṇi, ārammaṇe nava, adhipatiyā satta, anantare pañca, samanantare pañca, sahajāte tīṇi, aññamaññe tīṇi, nissaye tīṇi, upanissaye nava, āsevane tīṇi, vipāke ekaṃ, indriye dve, magge dve, sampayutte tīṇi, atthiyā tīṇi, natthiyā pañca, vigate pañca, avigate tīṇi. (Saṃkhittaṃ.)
-
-
-

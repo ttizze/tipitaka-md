@@ -1,11 +1,4 @@
-
-
 # Paccanīyuddhāra
-
-
-
-
-
 
 (551.)
 
@@ -24,8 +17,3 @@
 ---
 
 1242\. Hetudukasanidassanasappaṭighattikaṃ niṭṭhitaṃ.
-
-
-
-
-

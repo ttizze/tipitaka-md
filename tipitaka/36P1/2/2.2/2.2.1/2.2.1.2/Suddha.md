@@ -1,11 +1,4 @@
-
-
 # Suddha
-
-
-
-
-
 
 (103.)
 
@@ -15,13 +8,6 @@
 
 409\. Anulomaṃ
 
-
-
 ---
 
 410\. (Yathā paṭiccavāragaṇanā, evaṃ gaṇetabbaṃ.)
-
-
-
-
-

@@ -1,9 +1,4 @@
-
-
 # Paccanīyuddhāra
-
-
-
 
 (33.)
 
@@ -36,6 +31,3 @@
 2925\. Saṃkiliṭṭhasaṃkilesiko ca asaṃkiliṭṭhasaṃkilesiko ca dhammā saṃkiliṭṭhasaṃkilesikassa dhammassa sahajātaṃ, purejātaṃ. (1)
 
 2926\. Saṃkiliṭṭhasaṃkilesiko ca asaṃkiliṭṭhasaṃkilesiko ca dhammā asaṃkiliṭṭhasaṃkilesikassa dhammassa sahajātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ. (2)
-
-
-

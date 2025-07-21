@@ -1,12 +1,4 @@
-
-
 # Ārammaṇādi
-
-
-
-
-
-
 
 (89.)
 
@@ -23,6 +15,3 @@
 (91.)
 
 155\. Hetuyā tīṇi, ārammaṇe nava, adhipatiyā tīṇi, anantare nava, samanantare nava, sahajāte nava, aññamaññe nava, nissaye nava, upanissaye nava, āsevane nava, kamme tīṇi, vipāke ekaṃ, āhāre tīṇi, indriye tīṇi, jhāne tīṇi, magge tīṇi, sampayutte nava, atthiyā nava, natthiyā nava, vigate nava, avigate nava. (Anulomaṃ.)
-
-
-

@@ -1,11 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
 
 (168.)
 
@@ -16,8 +9,6 @@
 ---
 
 4442\. Anulomaṃ.
-
-
 
 (169.)
 
@@ -31,9 +22,4 @@
 
 4446\. Paccanīyaṃ.
 
-
-
 4447\. (Evaṃ itare dve gaṇanāpi sahajātavāropi paṭiccavārasadisā. Paccayavāre pavattipi paṭisandhipi vitthāretabbā, yathā sappītikadukapaccayavārapaccanīyepi pavatte vatthu ca vitthāretabbaṃ, yathā sappītikaduke ekoyeva moho, evaṃ itare dve gaṇanāpi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi yathā sappītikadukaṃ, evaṃ kātabbaṃ.)
-
-
-

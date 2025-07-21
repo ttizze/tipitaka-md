@@ -1,11 +1,4 @@
-
-
 # Suddha
-
-
-
-
-
 
 (50.)
 
@@ -15,13 +8,6 @@
 
 781\. (Paccanīyaṃ anumajjantena gaṇetabbaṃ.)
 
-
-
 ---
 
 782\. Paccanīyaṃ.
-
-
-
-
-

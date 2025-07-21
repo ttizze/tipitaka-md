@@ -1,9 +1,4 @@
-
-
 # Paccanīyuddhāra
-
-
-
 
 (59.)
 
@@ -62,6 +57,3 @@
 3089\. Sanidassanasappaṭigho ca anidassanasappaṭigho ca dhammā anidassanaappaṭighassa dhammassa purejātaṃ. (1)
 
 3090\. Sanidassanasappaṭigho ca anidassanasappaṭigho ca anidassanaappaṭigho ca dhammā anidassanaappaṭighassa dhammassa sahajātapaccayena paccayo…  purejātapaccayena paccayo. (1)
-
-
-

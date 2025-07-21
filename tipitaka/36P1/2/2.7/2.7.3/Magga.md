@@ -1,5 +1,3 @@
-
-
 # Magga
 
 * [Maggaduka](Magga/Maggaduka.md)
@@ -10,6 +8,3 @@
 * [Sādhipati-indriyaghaṭanā](Magga/Sadhipati-indriyaghatana.md)
 * [Sahetu-indriyaghaṭanā](Magga/Sahetu-indriyaghatana.md)
 * [Sahetādhipati-indriyaghaṭanā](Magga/Sahetadhipati-indriyaghatana.md)
-
-
-

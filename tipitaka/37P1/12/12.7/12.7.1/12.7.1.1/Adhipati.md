@@ -1,11 +1,4 @@
-
-
 # Adhipati
-
-
-
-
-
 
 (45.)
 
@@ -30,6 +23,3 @@
 1788\. Nevasekkhanāsekkho dhammo sekkhassa dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  nibbānaṃ maggassa, sekkhassa phalassa adhipatipaccayena paccayo. (2)
 
 1789\. Nevasekkhanāsekkho dhammo asekkhassa dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  nibbānaṃ asekkhassa phalassa adhipatipaccayena paccayo. (3)
-
-
-

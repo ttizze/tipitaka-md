@@ -1,10 +1,4 @@
-
-
 # Aññamaññaduka
-
-
-
-
 
 (166.)
 
@@ -12,6 +6,3 @@
 
 * [Tika](Annamannaduka/Tika.md)
 * [Catukka](Annamannaduka/Catukka.md)
-
-
-

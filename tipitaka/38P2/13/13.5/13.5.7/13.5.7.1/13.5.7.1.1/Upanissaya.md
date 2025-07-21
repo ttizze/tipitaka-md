@@ -1,12 +1,4 @@
-
-
 # Upanissaya
-
-
-
-
-
-
 
 (125.)
 
@@ -23,6 +15,3 @@
 (127.)
 
 4352\. Savitakko ca avitakko ca dhammā savitakkassa dhammassa upanissayapaccayena paccayo—  savitakkā khandhā ca vitakko ca savitakkānaṃ khandhānaṃ upanissayapaccayena paccayo. (Mūlaṃ kātabbaṃ.) Savitakkā khandhā ca vitakko ca avitakkānaṃ khandhānaṃ vitakkassa ca upanissayapaccayena paccayo. (Mūlaṃ kātabbaṃ.) Savitakkā khandhā ca vitakko ca savitakkānaṃ khandhānaṃ vitakkassa ca upanissayapaccayena paccayo. (3)
-
-
-

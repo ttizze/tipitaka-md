@@ -1,10 +1,4 @@
-
-
 # Namaggaduka
-
-
-
-
 
 (254.)
 
@@ -12,6 +6,3 @@
 
 * [Pañcaka](Namaggaduka/Pancaka.md)
 * [Chakkādi](Namaggaduka/Chakkadi.md)
-
-
-

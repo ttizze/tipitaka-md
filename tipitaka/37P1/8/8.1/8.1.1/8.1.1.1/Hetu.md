@@ -1,11 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
 
 (1.)
 
@@ -32,6 +25,3 @@
 648\. Pītisahagatañca sukhasahagatañca dhammaṃ paṭicca sukhasahagato dhammo uppajjati hetupaccayā—  pītisahagatañca sukhasahagatañca ekaṃ khandhaṃ paṭicca sukhasahagatā dve khandhā, dve khandhe paṭicca eko khandho. Paṭisandhikkhaṇe pītisahagatañca sukhasahagatañca ekaṃ khandhaṃ paṭicca sukhasahagatā dve khandhā, dve khandhe paṭicca eko khandho. (2)
 
 649\. Pītisahagatañca sukhasahagatañca dhammaṃ paṭicca pītisahagato ca sukhasahagato ca dhammā uppajjanti hetupaccayā—  pītisahagatañca sukhasahagatañca ekaṃ khandhaṃ paṭicca pītisahagatā ca sukhasahagatā ca dve khandhā, dve khandhe paṭicca eko khandho. Paṭisandhikkhaṇe pītisahagatañca sukhasahagatañca ekaṃ khandhaṃ paṭicca pītisahagatā ca sukhasahagatā ca dve khandhā, dve khandhe paṭicca eko khandho. (3)
-
-
-

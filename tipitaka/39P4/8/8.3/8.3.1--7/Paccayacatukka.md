@@ -1,10 +1,4 @@
-
-
 # Paccayacatukka
-
-
-
-
 
 (8.)
 
@@ -45,6 +39,3 @@
 1738\. Hetuyā satta, ārammaṇe nava, adhipatiyā dasa…pe…  sahajāte ekādasa, aññamaññe satta…pe…  āsevane dve, kamme nava, vipāke tīṇi…pe…  indriye nava…pe…  avigate terasa. (Saṃkhittaṃ.)
 
 1739\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
-
-
-

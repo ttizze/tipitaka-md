@@ -1,12 +1,4 @@
-
-
 # Adhipati
-
-
-
-
-
-
 
 (75.)
 
@@ -27,6 +19,3 @@
 (77.)
 
 1788\. Ganthasampayutto ca ganthavippayutto ca dhammā ganthasampayuttassa dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  diṭṭhigatavippayuttalobhasahagate khandhe ca lobhañca garuṃ katvā ganthasampayuttakā khandhā uppajjanti. (Mūlā pucchitabbā) Diṭṭhigatavippayuttalobhasahagate khandhe ca lobhañca garuṃ katvā diṭṭhigatavippayutto lobho uppajjati. (Mūlā pucchitabbā) Diṭṭhigatavippayuttalobhasahagate khandhe ca lobhañca garuṃ katvā diṭṭhigatavippayuttalobhasahagatā khandhā ca lobho ca uppajjanti. (3)
-
-
-

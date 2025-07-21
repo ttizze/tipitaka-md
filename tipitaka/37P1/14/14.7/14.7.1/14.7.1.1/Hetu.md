@@ -1,11 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
 
 (13.)
 
@@ -14,6 +7,3 @@
 2189\. Mahaggatārammaṇo dhammo mahaggatārammaṇassa dhammassa hetupaccayena paccayo—  mahaggatārammaṇā hetū sampayuttakānaṃ khandhānaṃ hetupaccayena paccayo. Paṭisandhikkhaṇe…pe… . (1)
 
 2190\. Appamāṇārammaṇo dhammo appamāṇārammaṇassa dhammassa hetupaccayena paccayo—  appamāṇārammaṇā hetū sampayuttakānaṃ khandhānaṃ hetupaccayena paccayo. (1)
-
-
-

@@ -1,11 +1,4 @@
-
-
 # Sahetu-indriyaghaṭanā
-
-
-
-
-
 
 (481.)
 
@@ -26,6 +19,3 @@
 1633\. Magga hetu sahajāta nissaya vipāka indriya vippayutta atthi avigatanti naārammaṇe ekaṃ…pe…  novigate ekaṃ.
 
 1634\. Magga hetu sahajāta aññamañña nissaya vipāka indriya vippayutta atthi avigatanti naārammaṇe ekaṃ…pe…  novigate ekaṃ. [Savipāka—  5]
-
-
-

@@ -1,10 +1,4 @@
-
-
 # Hetu
-
-
-
-
 
 (1.)
 
@@ -45,6 +39,3 @@
 1539\. Hetuyā satta, ārammaṇe nava, adhipatiyā dasa, anantare satta…pe…  avigate terasa. (Saṃkhittaṃ.)
 
 1540\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
-
-
-

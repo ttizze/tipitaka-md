@@ -1,12 +1,4 @@
-
-
 # Napacchājātādi
-
-
-
-
-
-
 
 (66.)
 
@@ -17,6 +9,3 @@
 181\. Ahetukaṃ dhammaṃ paṭicca sahetuko dhammo uppajjati nakammapaccayā—  vicikicchāsahagataṃ uddhaccasahagataṃ mohaṃ paṭicca sampayuttakā cetanā. (2)
 
 182\. Sahetukañca ahetukañca dhammaṃ paṭicca sahetuko dhammo uppajjati nakammapaccayā—  vicikicchāsahagate uddhaccasahagate khandhe ca mohañca paṭicca sampayuttakā cetanā…  navipākapaccayā. (Paṭisandhi natthi.)
-
-
-

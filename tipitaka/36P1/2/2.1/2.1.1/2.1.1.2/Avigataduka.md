@@ -1,11 +1,4 @@
-
-
 # Avigataduka
-
-
-
-
-
 
 (33.)
 
@@ -15,10 +8,4 @@
 
 204\. (Ekekaṃ paccayaṃ mūlakaṃ kātuna sajjhāyantena gaṇetabbāti.)
 
-  
 Anulomaṃ.
-
-
-
-
-

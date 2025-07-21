@@ -1,12 +1,4 @@
-
-
 # Atthi
-
-
-
-
-
-
 
 (83.)
 
@@ -21,6 +13,3 @@
 (84.)
 
 2527\. Citto ca nocitto ca dhammā nocittassa dhammassa atthipaccayena paccayo—  sahajātaṃ, purejātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ. **Sahajāto**—  nocitto eko khandho ca cittañca dvinnaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ atthipaccayena paccayo; dve khandhā ca…pe… . **Sahajātaṃ**—  cittañca vatthuñca nocittānaṃ khandhānaṃ atthipaccayena paccayo (paṭisandhikkhaṇepi dve). **Sahajātaṃ**—  cittañca sampayuttakā ca khandhā cittasamuṭṭhānānaṃ rūpānaṃ atthipaccayena paccayo. **Sahajātaṃ**—  cittañca mahābhūtā ca cittasamuṭṭhānānaṃ rūpānaṃ atthipaccayena paccayo (paṭisandhikkhaṇepi dve). **Pacchājātaṃ**—  cittañca sampayuttakā ca khandhā purejātassa imassa kāyassa atthipaccayena paccayo. **Pacchājātaṃ**—  cittañca sampayuttakā ca khandhā kabaḷīkāro āhāro ca imassa kāyassa atthipaccayena paccayo. **Pacchājātaṃ**—  cittañca sampayuttakā ca khandhā rūpajīvitindriyañca kaṭattārūpānaṃ atthipaccayena paccayo. (1)
-
-
-

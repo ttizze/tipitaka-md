@@ -1,10 +1,4 @@
-
-
 # Hetu
-
-
-
-
 
 (19.)
 
@@ -17,6 +11,3 @@
 1505\. Nahetuyā tīṇi (sabbattha tīṇi), nakamme tīṇi, navipāke tīṇi, naāhāre tīṇi…pe…  novigate tīṇi. (Saṃkhittaṃ.)
 
 1506\. (Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
-
-
-

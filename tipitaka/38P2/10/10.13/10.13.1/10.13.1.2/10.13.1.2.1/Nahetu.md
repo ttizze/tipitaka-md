@@ -1,12 +1,4 @@
-
-
 # Nahetu
-
-
-
-
-
-
 
 (375.)
 
@@ -19,6 +11,3 @@
 3259\. Noupādā dhammaṃ paṭicca upādā ca noupādā ca dhammā uppajjanti nahetupaccayā—  ahetukaṃ noupādā ekaṃ khandhaṃ paṭicca tayo khandhā upādā ca noupādā ca cittasamuṭṭhānaṃ rūpaṃ…pe…  dve khandhe…pe…  ahetukapaṭisandhikkhaṇe…pe… . (3)
 
 3260\. Upādā ca noupādā ca dhammaṃ paṭicca noupādā dhammo uppajjati nahetupaccayā—  ahetukapaṭisandhikkhaṇe noupādā ekaṃ khandhañca vatthuñca paṭicca tayo khandhā…pe…  dve khandhe ca…pe… . (1)
-
-
-

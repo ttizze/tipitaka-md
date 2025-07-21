@@ -1,11 +1,4 @@
-
-
 # Nahetu
-
-
-
-
-
 
 (44.)
 
@@ -16,6 +9,3 @@
 (45.)
 
 1216\. Nahetuyā dve, naārammaṇe pañca, naadhipatiyā nava…pe…  novigate pañca. (Saṃkhittaṃ. Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ.)
-
-
-

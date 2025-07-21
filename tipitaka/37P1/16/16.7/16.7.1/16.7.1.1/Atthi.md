@@ -1,11 +1,4 @@
-
-
 # Atthi
-
-
-
-
-
 
 (56.)
 
@@ -30,6 +23,3 @@
 2406\. Micchattaniyato ca aniyato ca dhammā aniyatassa dhammassa atthipaccayena paccayo—  sahajātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ. **Sahajātā**—  micchattaniyatā khandhā ca mahābhūtā ca cittasamuṭṭhānānaṃ rūpānaṃ atthipaccayena paccayo. **Pacchājātā**—  micchattaniyatā khandhā ca kabaḷīkāro āhāro ca imassa kāyassa atthipaccayena paccayo. **Pacchājātā**—  micchattaniyatā khandhā ca rūpajīvitindriyañca kaṭattārūpānaṃ atthipaccayena paccayo. (2)
 
 2407\. Sammattaniyato ca aniyato ca dhammā sammattaniyatassa dhammassa atthipaccayena paccayo…pe… . (Dve pañhā micchattaniyatasadisā.)
-
-
-

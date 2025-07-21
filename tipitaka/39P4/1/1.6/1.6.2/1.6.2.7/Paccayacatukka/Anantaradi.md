@@ -1,12 +1,4 @@
-
-
 # Anantarādi
-
-
-
-
-
-
 
 (100.)
 
@@ -25,6 +17,3 @@
 342\. Nahetupaccayā ārammaṇe ekavīsa. (Saṃkhittaṃ.)
 
 343\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
-
-
-

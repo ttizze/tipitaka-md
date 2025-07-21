@@ -1,10 +1,4 @@
-
-
 # Nonatthi-novigataduka
-
-
-
-
 
 (98.)
 
@@ -15,6 +9,3 @@
 * [Terasaka](Nonatthi-novigataduka/Terasaka.md)
 * [Pannarasaka](Nonatthi-novigataduka/Pannarasaka.md)
 * [Ekavīsaka](Nonatthi-novigataduka/Ekavisaka.md)
-
-
-

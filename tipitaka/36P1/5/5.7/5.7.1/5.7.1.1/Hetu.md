@@ -1,11 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
 
 (51.)
 
@@ -22,6 +15,3 @@
 2611\. Anupādinnaanupādāniyo dhammo anupādinnupādāniyassa dhammassa hetupaccayena paccayo—  anupādinnaanupādāniyā hetū cittasamuṭṭhānānaṃ rūpānaṃ hetupaccayena paccayo. (2)
 
 2612\. Anupādinnaanupādāniyo dhammo anupādinnupādāniyassa ca anupādinnaanupādāniyassa ca dhammassa hetupaccayena paccayo—  anupādinnaanupādāniyā hetū sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo. (3)
-
-
-

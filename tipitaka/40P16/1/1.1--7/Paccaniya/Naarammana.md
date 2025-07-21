@@ -1,10 +1,4 @@
-
-
 # Naārammaṇa
-
-
-
-
 
 (2.)
 
@@ -13,6 +7,3 @@
 7\. Naārammaṇe nava, naadhipatiyā terasa…pe…  napurejāte terasa…pe…  navippayutte nava…pe…  novigate nava.
 
 8\. (Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ vitthāretabbaṃ.)
-
-
-

@@ -1,12 +1,4 @@
-
-
 # Purejātādi
-
-
-
-
-
-
 
 (57.)
 
@@ -31,6 +23,3 @@
 (61.)
 
 102\. Nahetu abyākato dhammo nahetussa abyākatassa dhammassa āhārapaccayena paccayo…  indriyapaccayena paccayo…  jhānapaccayena paccayo…  maggapaccayena paccayo…  sampayuttapaccayena paccayo.
-
-
-

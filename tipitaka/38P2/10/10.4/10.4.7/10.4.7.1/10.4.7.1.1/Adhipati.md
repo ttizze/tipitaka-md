@@ -1,12 +1,4 @@
-
-
 # Adhipati
-
-
-
-
-
-
 
 (166.)
 
@@ -19,6 +11,3 @@
 (167.)
 
 2724\. Cittavippayutto dhammo cittasampayuttassa dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  ariyā nibbānaṃ garuṃ katvā paccavekkhanti. Nibbānaṃ gotrabhussa, vodānassa, maggassa, phalassa, adhipatipaccayena paccayo; cakkhuṃ…pe…  vatthuṃ cittavippayutte khandhe garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā rāgo uppajjati, diṭṭhi uppajjati. (1)
-
-
-

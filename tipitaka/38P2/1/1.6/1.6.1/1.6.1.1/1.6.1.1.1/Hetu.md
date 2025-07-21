@@ -1,12 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
-
 
 (159.)
 
@@ -31,6 +23,3 @@
 447\. Nahetuṃ sahetukañca nahetuṃ ahetukañca dhammaṃ paṭicca nahetu ahetuko dhammo uppajjati hetupaccayā—  nahetū sahetuke khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe…pe… . (2)
 
 448\. Nahetuṃ sahetukañca nahetuṃ ahetukañca dhammaṃ paṭicca nahetu sahetuko ca nahetu ahetuko ca dhammā uppajjanti hetupaccayā—  paṭisandhikkhaṇe nahetuṃ sahetukaṃ ekaṃ khandhañca vatthuñca paṭicca tayo khandhā…pe…  dve khandhe…pe…  nahetū sahetuke khandhe ca mahābhūte ca paṭicca kaṭattārūpaṃ. (3)
-
-
-

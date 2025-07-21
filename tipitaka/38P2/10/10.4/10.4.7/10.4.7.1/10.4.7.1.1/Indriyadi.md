@@ -1,12 +1,4 @@
-
-
 # Indriyādi
-
-
-
-
-
-
 
 (174.)
 
@@ -19,6 +11,3 @@
 2739\. Cittasampayutto ca cittavippayutto ca dhammā cittasampayuttassa dhammassa indriyapaccayena paccayo—  cakkhundriyañca upekkhindriyañca cakkhuviññāṇasahagatānaṃ khandhānaṃ indriyapaccayena paccayo…pe…  kāyindriyañca sukhindriyañca…pe…  kāyindriyañca dukkhindriyañca kāyaviññāṇasahagatānaṃ khandhānaṃ indriyapaccayena paccayo. (1)
 
 2740\. Jhānapaccayena paccayo…  tīṇi…  maggapaccayena paccayo…  tīṇi…  sampayuttapaccayena paccayo…  ekaṃ.
-
-
-

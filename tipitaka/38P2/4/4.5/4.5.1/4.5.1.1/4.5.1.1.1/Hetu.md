@@ -1,12 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
-
 
 (100.)
 
@@ -31,6 +23,3 @@
 1578\. Saññojanañceva saññojanasampayuttañca saññojanasampayuttañceva no ca saññojanañca dhammaṃ paṭicca saññojanasampayutto ceva no ca saññojano dhammo uppajjati hetupaccayā—  saññojanasampayuttañceva no ca saññojanaṃ ekaṃ khandhañca saññojane ca paṭicca tayo khandhā…pe…  dve khandhe ca…pe… . (2)
 
 1579\. Saññojanañceva saññojanasampayuttañca saññojanasampayuttañceva no ca saññojanañca dhammaṃ paṭicca saññojano ceva saññojanasampayutto ca saññojanasampayutto ceva no ca saññojano ca dhammā uppajjanti hetupaccayā—  saññojanasampayuttañceva no ca saññojanaṃ ekaṃ khandhañca kāmarāgasaññojanañca paṭicca tayo khandhā diṭṭhisaññojanaṃ avijjāsaññojanaṃ…pe…  dve khandhe ca…pe… . (Cakkaṃ.) (3)
-
-
-

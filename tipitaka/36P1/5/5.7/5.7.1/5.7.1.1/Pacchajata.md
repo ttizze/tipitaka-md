@@ -1,11 +1,4 @@
-
-
 # Pacchājāta
-
-
-
-
-
 
 (66.)
 
@@ -28,6 +21,3 @@
 2676\. Anupādinnaanupādāniyo dhammo anupādinnupādāniyassa dhammassa pacchājātapaccayena paccayo—  pacchājātā anupādinnaanupādāniyā khandhā purejātassa imassa anupādinnupādāniyassa kāyassa pacchājātapaccayena paccayo. (2)
 
 2677\. Anupādinnaanupādāniyo dhammo upādinnupādāniyassa ca anupādinnupādāniyassa ca dhammassa pacchājātapaccayena paccayo—  pacchājātā anupādinnaanupādāniyā khandhā purejātassa imassa upādinnupādāniyassa ca anupādinnupādāniyassa ca kāyassa pacchājātapaccayena paccayo. (3)
-
-
-

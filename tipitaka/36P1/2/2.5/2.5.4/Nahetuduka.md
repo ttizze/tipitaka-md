@@ -1,10 +1,4 @@
-
-
 # Nahetuduka
-
-
-
-
 
 (248.)
 
@@ -14,6 +8,3 @@
 * [Catukka](Nahetuduka/Catukka.md)
 * [Sattaka](Nahetuduka/Sattaka.md)
 * [Dasaka](Nahetuduka/Dasaka.md)
-
-
-

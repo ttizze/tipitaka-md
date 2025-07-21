@@ -1,10 +1,4 @@
-
-
 # Hetu
-
-
-
-
 
 (64.)
 
@@ -25,6 +19,3 @@
 1909\. Hetuyā dve…pe…  avigate dve. (Saṃkhittaṃ.)
 
 1910\. (Sahajātavārepi…pe…  pañhāvārepi sabbattha vitthāro.)
-
-
-

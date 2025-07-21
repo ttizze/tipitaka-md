@@ -1,12 +1,4 @@
-
-
 # Upanissaya
-
-
-
-
-
-
 
 (82.)
 
@@ -23,6 +15,3 @@
 (84.)
 
 1799\. Ganthasampayutto ca ganthavippayutto ca dhammā ganthasampayuttassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  diṭṭhigatavippayuttalobhasahagatā khandhā ca lobho ca domanassasahagatā khandhā ca paṭighañca ganthasampayuttakānaṃ khandhānaṃ upanissayapaccayena paccayo. (Mūlaṃ kātabbaṃ.) Diṭṭhigatavippayuttalobhasahagatā khandhā ca lobho ca domanassasahagatā khandhā ca paṭighañca ganthavippayuttānaṃ khandhānaṃ diṭṭhigatavippayuttalobhassa ca paṭighassa ca upanissayapaccayena paccayo. (Mūlaṃ pucchitabbaṃ.) Diṭṭhigatavippayuttalobhasahagatā khandhā ca lobho ca domanassasahagatā khandhā ca paṭighañca diṭṭhigatavippayuttalobhasahagatānaṃ khandhānaṃ lobhassa ca domanassasahagatānaṃ khandhānaṃ paṭighassa ca upanissayapaccayena paccayo. (3)
-
-
-

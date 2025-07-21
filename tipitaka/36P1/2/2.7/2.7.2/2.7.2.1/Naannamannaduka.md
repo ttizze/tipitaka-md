@@ -1,11 +1,4 @@
-
-
 # Naaññamaññaduka
-
-
-
-
-
 
 (401.)
 
@@ -13,6 +6,3 @@
 
 * [Catukka](Naannamannaduka/Catukka.md)
 * [Aṭṭhaka](Naannamannaduka/Atthaka.md)
-
-
-

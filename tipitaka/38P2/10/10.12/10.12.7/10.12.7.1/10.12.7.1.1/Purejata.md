@@ -1,12 +1,4 @@
-
-
 # Purejāta
-
-
-
-
-
-
 
 (345.)
 
@@ -31,6 +23,3 @@
 3179\. Ajjhattiko ca bāhiro ca dhammā bāhirassa dhammassa purejātapaccayena paccayo—  **ārammaṇapurejātaṃ, vatthupurejātaṃ**. Cakkhāyatanañca vatthu ca bāhirānaṃ khandhānaṃ purejātapaccayena paccayo…pe…  kāyāyatanañca vatthu ca bāhirānaṃ khandhānaṃ purejātapaccayena paccayo; rūpāyatanañca cakkhāyatanañca cakkhuviññāṇasahagatānaṃ khandhānaṃ purejātapaccayena paccayo…pe…  phoṭṭhabbāyatanañca kāyāyatanañca kāyaviññāṇasahagatānaṃ khandhānaṃ purejātapaccayena paccayo. (2)
 
 3180\. Ajjhattiko ca bāhiro ca dhammā ajjhattikassa ca bāhirassa ca dhammassa purejātapaccayena paccayo—  **ārammaṇapurejātaṃ, vatthupurejātaṃ**. Cakkhāyatanañca vatthu ca cittassa sampayuttakānañca khandhānaṃ purejātapaccayena paccayo…pe…  kāyāyatanañca vatthu ca…pe…  rūpāyatanañca cakkhāyatanañca cakkhuviññāṇassa sampayuttakānañca khandhānaṃ purejātapaccayena paccayo…pe…  phoṭṭhabbāyatanañca…pe… . (3)
-
-
-

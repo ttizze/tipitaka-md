@@ -1,10 +1,4 @@
-
-
 # Paccanīyuddhāra
-
-
-
-
 
 (138.)
 
@@ -29,6 +23,3 @@
 2664\. Cetasiko ca acetasiko ca dhammā acetasikassa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo…  pacchājātapaccayena paccayo. (2)
 
 2665\. Cetasiko ca acetasiko ca dhammā cetasikassa ca acetasikassa ca dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo. (3)
-
-
-

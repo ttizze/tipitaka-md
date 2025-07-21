@@ -1,11 +1,4 @@
-
-
 # Adhipati
-
-
-
-
-
 
 (277.)
 
@@ -34,6 +27,3 @@
 852\. Abyākato dhammo kusalassa dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  sekkhā phalaṃ garuṃ katvā paccavekkhanti, nibbānaṃ garuṃ katvā paccavekkhanti. Nibbānaṃ gotrabhussa, vodānassa, maggassa adhipatipaccayena paccayo. (2)
 
 853\. Abyākato dhammo akusalassa dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  cakkhuṃ garuṃ katvā assādeti abhinandati; taṃ garuṃ katvā rāgo uppajjati, diṭṭhi uppajjati. Sotaṃ…  ghānaṃ…  jivhaṃ…  kāyaṃ…  rūpe…  sadde…  gandhe…  rase…  phoṭṭhabbe…  vatthuṃ…  vipākābyākate kiriyābyākate khandhe garuṃ katvā assādeti abhinandati; taṃ garuṃ katvā rāgo uppajjati, diṭṭhi uppajjati. (3)
-
-
-

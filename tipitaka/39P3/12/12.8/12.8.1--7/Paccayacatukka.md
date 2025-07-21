@@ -1,10 +1,4 @@
-
-
 # Paccayacatukka
-
-
-
-
 
 (28.)
 
@@ -31,8 +25,3 @@
 ---
 
 2371\. Kilesagocchakakusalattikaṃ niṭṭhitaṃ.
-
-
-
-
-

@@ -1,12 +1,4 @@
-
-
 # Upanissaya
-
-
-
-
-
-
 
 (106.)
 
@@ -31,6 +23,3 @@
 293\. Sahetuko ca ahetuko ca dhammā ahetukassa dhammassa upanissayapaccayena paccayo—  anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  vicikicchāsahagatā uddhaccasahagatā khandhā ca moho ca ahetukānaṃ khandhānaṃ mohassa ca upanissayapaccayena paccayo. (2)
 
 294\. Sahetuko ca ahetuko ca dhammā sahetukassa ca ahetukassa ca dhammassa upanissayapaccayena paccayo—  anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  vicikicchāsahagatā uddhaccasahagatā khandhā ca moho ca vicikicchāsahagatānaṃ uddhaccasahagatānaṃ khandhānaṃ mohassa ca upanissayapaccayena paccayo. (3)
-
-
-

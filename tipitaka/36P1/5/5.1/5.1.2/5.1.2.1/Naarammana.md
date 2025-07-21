@@ -1,11 +1,4 @@
-
-
 # Naārammaṇa
-
-
-
-
-
 
 (14.)
 
@@ -20,6 +13,3 @@
 2484\. Anupādinnupādāniyañca anupādinnaanupādāniyañca dhammaṃ paṭicca anupādinnupādāniyo dhammo uppajjati naārammaṇapaccayā—  anupādinnaanupādāniye khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
 
 2485\. Upādinnupādāniyañca anupādinnupādāniyañca dhammaṃ paṭicca anupādinnupādāniyo dhammo uppajjati naārammaṇapaccayā—  upādinnupādāniye khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
-
-
-

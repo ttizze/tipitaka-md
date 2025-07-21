@@ -1,10 +1,4 @@
-
-
 # Navippayuttaduka
-
-
-
-
 
 (192.)
 
@@ -12,6 +6,3 @@
 
 * [Tika](Navippayuttaduka/Tika.md)
 * [Catukka](Navippayuttaduka/Catukka.md)
-
-
-

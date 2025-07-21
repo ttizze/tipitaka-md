@@ -1,11 +1,4 @@
-
-
 # Hetu-ārammaṇa
-
-
-
-
-
 
 (6.)
 
@@ -36,8 +29,3 @@
 ---
 
 1116\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
-
-
-
-
-

@@ -1,12 +1,4 @@
-
-
 # Suddha
-
-
-
-
-
-
 
 (42.)
 
@@ -15,8 +7,6 @@
 ---
 
 115\. Anulomaṃ.
-
-
 
 (43.)
 
@@ -41,6 +31,3 @@
 123\. Hetu ca nahetu ca dhammā nahetussa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo pacchājātapaccayena paccayo. (2)
 
 124\. Hetu ca nahetu ca dhammā hetussa ca nahetussa ca dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo. (3)
-
-
-

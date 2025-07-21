@@ -1,10 +1,4 @@
-
-
 # Atthidukādi
-
-
-
-
 
 (247.)
 
@@ -14,13 +8,6 @@
 
 791\. (Yathā ārammaṇamūlakaṃ, evaṃ vitthāretabbaṃ.)
 
-
-
 ---
 
 792\. Anulomapaccanīyaṃ.
-
-
-
-
-

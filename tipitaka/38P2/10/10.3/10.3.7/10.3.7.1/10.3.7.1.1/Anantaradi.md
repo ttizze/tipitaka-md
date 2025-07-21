@@ -1,12 +1,4 @@
-
-
 # Anantarādi
-
-
-
-
-
-
 
 (125.)
 
@@ -21,6 +13,3 @@
 2624\. Cetasiko ca acetasiko ca dhammā cetasikassa dhammassa anantarapaccayena paccayo…  tīṇi. (Āvajjanāpi vuṭṭhānampi natthi.)
 
 2625\. Samanantarapaccayena paccayo…  nava, sahajātapaccayena paccayo…  nava (paṭiccavārasadisaṃ), aññamaññapaccayena paccayo…  nava (paṭiccavārasadisaṃ), nissayapaccayena paccayo…  nava. (Paccayavārasadisaṃ.)
-
-
-

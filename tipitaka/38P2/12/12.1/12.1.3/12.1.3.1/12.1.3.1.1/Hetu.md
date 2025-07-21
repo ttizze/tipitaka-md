@@ -1,12 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
-
 
 (10.)
 
@@ -27,6 +19,3 @@
 3840\. Kilesañca nokilesañca dhammaṃ paccayā kileso ca nokileso ca dhammā uppajjanti hetupaccayā—  nokilesaṃ ekaṃ khandhañca lobhañca paccayā tayo khandhā moho diṭṭhi thinaṃ uddhaccaṃ ahirikaṃ anottappaṃ cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe ca…pe…  (cakkaṃ). Lobhañca vatthuñca paccayā moho diṭṭhi thinaṃ uddhaccaṃ ahirikaṃ anottappaṃ sampayuttakā ca khandhā. (Cakkaṃ.) (3)
 
 3841\. (Ārammaṇapaccaye nokilesamūle pañca viññāṇā kātabbā.)
-
-
-

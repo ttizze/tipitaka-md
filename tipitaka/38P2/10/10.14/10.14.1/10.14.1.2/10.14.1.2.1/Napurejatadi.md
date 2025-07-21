@@ -1,12 +1,4 @@
-
-
 # Napurejātādi
-
-
-
-
-
-
 
 (424.)
 
@@ -17,6 +9,3 @@
 3395\. Anupādinnaṃ dhammaṃ paṭicca anupādinno dhammo uppajjati napurejātapaccayā—  arūpe anupādinnaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe…pe…  anupādinne khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ, ekaṃ mahābhūtaṃ…pe… . (Yāva asaññasattā.) (1)
 
 3396\. Upādinnañca anupādinnañca dhammaṃ paṭicca anupādinno dhammo uppajjati napurejātapaccayā—  upādinne khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ…  napacchājātapaccayā…  naāsevanapaccayā. (1)
-
-
-

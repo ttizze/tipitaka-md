@@ -1,10 +1,4 @@
-
-
 # Paccanīyuddhāra
-
-
-
-
 
 (45.)
 
@@ -23,6 +17,3 @@
 2416\. Sārammaṇo ca anārammaṇo ca dhammā sārammaṇassa dhammassa sahajātaṃ, purejātaṃ. (1)
 
 2417\. Sārammaṇo ca anārammaṇo ca dhammā anārammaṇassa dhammassa sahajātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ. (2)
-
-
-

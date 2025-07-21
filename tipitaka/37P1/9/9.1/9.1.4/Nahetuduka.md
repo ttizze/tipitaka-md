@@ -1,10 +1,4 @@
-
-
 # Nahetuduka
-
-
-
-
 
 (34.)
 
@@ -14,13 +8,6 @@
 
 856\. (Evaṃ anumajjantena gaṇetabbaṃ.)
 
-  
 Paccanīyānulomaṃ.
 
-  
 Paṭiccavāro.
-
-
-
-
-

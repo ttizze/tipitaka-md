@@ -1,10 +1,4 @@
-
-
 # Paccayacatukka
-
-
-
-
 
 (27.)
 
@@ -43,6 +37,3 @@
 1789\. Hetuyā dasa…pe…  avigate dasa. (Saṃkhittaṃ.)
 
 1790\. (Sahajātavārepi…pe…  pañhāvārepi tattakāva pañhā.)
-
-
-

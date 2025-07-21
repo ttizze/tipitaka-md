@@ -1,12 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
-
 
 (1.)
 
@@ -29,6 +21,3 @@
 1709\. Nahetuyā tīṇi, naadhipatiyā nava…pe…  nakamme tīṇi…pe…  navippayutte nava. (Saṃkhittaṃ.)
 
 1710\. (Sahajātavāropi…pe…  sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
-
-
-

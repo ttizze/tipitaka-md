@@ -1,5 +1,3 @@
-
-
 # Gaṇanā hetumūlakā
 
 * [Duka](Ganana+hetumulaka/Duka.md)
@@ -7,6 +5,3 @@
 * [Dvādasaka](Ganana+hetumulaka/Dvadasaka.md)
 * [Terasaka](Ganana+hetumulaka/Terasaka.md)
 * [Bāvīsaka](Ganana+hetumulaka/Bavisaka.md)
-
-
-

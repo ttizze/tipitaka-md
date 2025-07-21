@@ -1,11 +1,4 @@
-
-
 # Purejāta
-
-
-
-
-
 
 (64.)
 
@@ -24,6 +17,3 @@
 2667\. Upādinnupādāniyo ca anupādinnupādāniyo ca dhammā upādinnupādāniyassa dhammassa purejātapaccayena paccayo—  **ārammaṇapurejātaṃ, vatthupurejātaṃ**. Anupādinnupādāniyaṃ rūpāyatanañca cakkhāyatanañca cakkhuviññāṇassa purejātapaccayena paccayo…pe…  anupādinnupādāniyaṃ phoṭṭhabbāyatanañca kāyāyatanañca kāyaviññāṇassa purejātapaccayena paccayo. Anupādinnupādāniyaṃ rūpāyatanañca vatthu ca upādinnupādāniyānaṃ khandhānaṃ purejātapaccayena paccayo…pe…  anupādinnupādāniyaṃ phoṭṭhabbāyatanañca vatthu ca upādinnupādāniyānaṃ khandhānaṃ purejātapaccayena paccayo. (1)
 
 2668\. Upādinnupādāniyo ca anupādinnupādāniyo ca dhammā anupādinnupādāniyassa dhammassa purejātapaccayena paccayo—  **ārammaṇapurejātaṃ, vatthupurejātaṃ**. Anupādinnupādāniyaṃ rūpāyatanañca vatthu ca anupādinnupādāniyānaṃ khandhānaṃ purejātapaccayena paccayo…pe…  anupādinnupādāniyaṃ phoṭṭhabbāyatanañca vatthu ca anupādinnupādāniyānaṃ khandhānaṃ purejātapaccayena paccayo. (2)
-
-
-

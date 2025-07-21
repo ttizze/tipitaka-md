@@ -1,11 +1,4 @@
-
-
 # Napurejāta
-
-
-
-
-
 
 (40.)
 
@@ -18,6 +11,3 @@
 227\. Kusalañca abyākatañca dhammaṃ paṭicca abyākato dhammo uppajjati napurejātapaccayā—  kusale khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
 
 228\. Akusalañca abyākatañca dhammaṃ paṭicca abyākato dhammo uppajjati napurejātapaccayā—  akusale khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
-
-
-

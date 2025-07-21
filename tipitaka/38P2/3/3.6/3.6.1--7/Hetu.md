@@ -1,10 +1,4 @@
-
-
 # Hetu
-
-
-
-
 
 (131.)
 
@@ -18,13 +12,6 @@
 
 1320\. Āsavavippayuttasāsavadukaṃ niṭṭhitaṃ.
 
-
-
 ---
 
 1321\. Āsavagocchakaṃ niṭṭhitaṃ.
-
-
-
-
-

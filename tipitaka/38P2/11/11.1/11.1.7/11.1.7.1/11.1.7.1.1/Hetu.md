@@ -1,12 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
-
 
 (17.)
 
@@ -21,6 +13,3 @@
 (19.)
 
 3573\. Upādāno ca noupādāno ca dhammā upādānassa dhammassa hetupaccayena paccayo—  upādānā ca noupādānā ca hetū sampayuttakānaṃ upādānānaṃ hetupaccayena paccayo. (Mūlaṃ kātabbaṃ.) Upādānā ca noupādānā ca hetū sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo. (Mūlaṃ kātabbaṃ.) Upādānā ca noupādānā ca hetū sampayuttakānaṃ khandhānaṃ upādānānañca cittasamuṭṭhānānaṃ rūpānaṃ hetupaccayena paccayo. (3)
-
-
-

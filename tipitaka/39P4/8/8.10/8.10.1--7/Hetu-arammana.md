@@ -1,10 +1,4 @@
-
-
 # Hetu-ārammaṇa
-
-
-
-
 
 (34.)
 
@@ -47,6 +41,3 @@
 1813\. Hetuyā satta, ārammaṇe satta, adhipatiyā dasa, anantare cha…pe…  avigate terasa. (Saṃkhittaṃ.)
 
 1814\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
-
-
-

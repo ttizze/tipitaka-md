@@ -1,12 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
-
 
 (318.)
 
@@ -31,6 +23,3 @@
 3104\. Ajjhattikañca bāhirañca dhammaṃ paṭicca bāhiro dhammo uppajjati hetupaccayā—  bāhiraṃ ekaṃ khandhañca cittañca paṭicca dve khandhā cittasamuṭṭhānañca rūpaṃ, dve khandhe ca…pe…  cittañca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe bāhiraṃ ekaṃ khandhañca cittañca paṭicca dve khandhā bāhiraṃ kaṭattā ca rūpaṃ, dve khandhe ca…pe…  cittañca mahābhūte ca paṭicca bāhiraṃ kaṭattārūpaṃ, paṭisandhikkhaṇe cittañca vatthuñca paṭicca bāhirā khandhā. (2)
 
 3105\. Ajjhattikañca bāhirañca dhammaṃ paṭicca ajjhattiko ca bāhiro ca dhammā uppajjanti hetupaccayā—  paṭisandhikkhaṇe bāhiraṃ ekaṃ khandhañca cittañca paṭicca dve khandhā ajjhattikañca bāhirañca kaṭattārūpaṃ, dve khandhe ca…pe… . (3)
-
-
-

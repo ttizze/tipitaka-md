@@ -1,11 +1,4 @@
-
-
 # Vipāka
-
-
-
-
-
 
 (116.)
 
@@ -40,6 +33,3 @@
 506\. Savitakkasavicāro ca avitakkavicāramatto ca dhammā avitakkaavicārassa dhammassa vipākapaccayena paccayo—  vipākā savitakkasavicārā khandhā ca vitakko ca cittasamuṭṭhānānaṃ rūpānaṃ vipākapaccayena paccayo. Paṭisandhikkhaṇe…pe… . (2)
 
 507\. Savitakkasavicāro ca avitakkavicāramatto ca dhammā savitakkasavicārassa ca avitakkaavicārassa ca dhammassa vipākapaccayena paccayo—  vipāko savitakkasavicāro eko khandho ca vitakko ca tiṇṇannaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ vipākapaccayena paccayo. Paṭisandhikkhaṇe…pe… . (3)
-
-
-

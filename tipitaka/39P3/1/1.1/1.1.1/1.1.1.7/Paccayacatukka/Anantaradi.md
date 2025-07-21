@@ -1,12 +1,4 @@
-
-
 # Anantarādi
-
-
-
-
-
-
 
 (15.)
 
@@ -23,6 +15,3 @@
 (17.)
 
 30\. Nahetu kusalo dhammo nahetussa kusalassa dhammassa kammapaccayena paccayo. Nahetu kusalo dhammo hetussa kusalassa dhammassa kammapaccayena paccayo. Nahetu kusalo dhammo hetussa kusalassa ca nahetussa kusalassa ca dhammassa kammapaccayena paccayo. (3)
-
-
-

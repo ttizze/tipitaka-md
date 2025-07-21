@@ -1,12 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
-
 
 (15.)
 
@@ -19,6 +11,3 @@
 (16.)
 
 1360\. Nosaññojano dhammo nosaññojanassa dhammassa hetupaccayena paccayo—  nosaññojanā hetū sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo; paṭisandhikkhaṇe…pe… . (1)
-
-
-

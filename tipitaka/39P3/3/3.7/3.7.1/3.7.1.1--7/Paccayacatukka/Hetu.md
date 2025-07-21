@@ -1,12 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
-
 
 (59.)
 
@@ -28,13 +20,6 @@
 
 1589\. Kenaciviññeyyadukakusalattikaṃ niṭṭhitaṃ.
 
-
-
 ---
 
 1590\. Cūḷantaradukaṃ niṭṭhitaṃ.
-
-
-
-
-

@@ -1,11 +1,4 @@
-
-
 # Atthi
-
-
-
-
-
 
 (83.)
 
@@ -40,6 +33,3 @@
 2131\. Paritto ca mahaggato ca dhammā parittassa dhammassa atthipaccayena paccayo—  sahajātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ. **Sahajātā**—  mahaggatā khandhā ca mahābhūtā ca cittasamuṭṭhānānaṃ rūpānaṃ atthipaccayena paccayo. Paṭisandhikkhaṇe mahaggatā khandhā ca mahābhūtā ca kaṭattārūpānaṃ atthipaccayena paccayo. **Pacchājātā**—  mahaggatā khandhā ca kabaḷīkāro āhāro ca imassa kāyassa atthipaccayena paccayo. **Pacchājātā**—  mahaggatā khandhā ca rūpajīvitindriyañca kaṭattārūpānaṃ atthipaccayena paccayo. (1)
 
 2132\. Paritto ca mahaggato ca dhammā mahaggatassa dhammassa atthipaccayena paccayo—  sahajātaṃ, purejātaṃ. **Sahajāto**—  mahaggato eko khandho ca vatthu ca tiṇṇannaṃ khandhānaṃ atthipaccayena paccayo…pe…  dve khandhā…pe…  paṭisandhikkhaṇe mahaggato eko khandho ca vatthu ca tiṇṇannaṃ khandhānaṃ atthipaccayena paccayo…pe…  dve khandhā ca vatthu ca…pe…  natthipaccayena paccayo…  vigatapaccayena paccayo…  avigatapaccayena paccayo. (2)
-
-
-

@@ -1,12 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
-
 
 (140.)
 
@@ -25,6 +17,3 @@
 872\. Lokiyañca lokuttarañca dhammaṃ paccayā lokuttaro dhammo uppajjati hetupaccayā—  lokuttaraṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe…pe… . (2)
 
 873\. Lokiyañca lokuttarañca dhammaṃ paccayā lokiyo ca lokuttaro ca dhammā uppajjanti hetupaccayā—  lokuttaraṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe…pe…  lokuttare khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ. (Saṃkhittaṃ.) (3)
-
-
-

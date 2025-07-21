@@ -1,10 +1,4 @@
-
-
 # Hetu
-
-
-
-
 
 (25.)
 
@@ -25,6 +19,3 @@
 381\. Appamāṇaṃ abyākataṃ dhammaṃ paṭicca appamāṇo abyākato dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
 
 382\. Hetuyā terasa, ārammaṇe pañca, adhipatiyā nava…pe…  aññamaññe satta…pe…  purejāte tīṇi, āsevane dve, kamme terasa…pe…  avigate terasa. (Saṃkhittaṃ.)
-
-
-

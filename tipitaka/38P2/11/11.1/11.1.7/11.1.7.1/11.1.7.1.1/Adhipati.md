@@ -1,12 +1,4 @@
-
-
 # Adhipati
-
-
-
-
-
-
 
 (21.)
 
@@ -21,6 +13,3 @@
 3582\. Noupādāno dhammo upādānassa ca noupādānassa ca dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati, sahajātādhipati. **Ārammaṇādhipati**—  dānaṃ…pe…  sīlaṃ…pe…  uposathakammaṃ…pe…  pubbe…pe…  jhānaṃ…pe…  cakkhuṃ…pe…  vatthuṃ noupādāne khandhe garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā upādānā ca sampayuttakā ca khandhā uppajjanti. **Sahajātādhipati**—  noupādānādhipati sampayuttakānaṃ khandhānaṃ upādānānañca cittasamuṭṭhānānaṃ rūpānaṃ adhipatipaccayena paccayo. (3)
 
 3583\. Upādāno ca noupādāno ca dhammā upādānassa dhammassa adhipatipaccayena paccayo…  tīṇi…  ārammaṇādhipati…  tīṇi. (Ārabbha kātabbā, ārammaṇādhipatiyeva.)
-
-
-

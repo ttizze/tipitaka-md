@@ -1,11 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
 
 (15.)
 
@@ -17,8 +10,6 @@
 
 3565\. Anulomaṃ.
 
-
-
 (16.)
 
 3566\. Noupādānaṃ dhammaṃ saṃsaṭṭho noupādāno dhammo uppajjati nahetupaccayā—  ahetukaṃ noupādānaṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā…pe…  dve khandhe…pe…  ahetukapaṭisandhikkhaṇe…pe…  vicikicchāsahagate uddhaccasahagate khandhe saṃsaṭṭho vicikicchāsahagato uddhaccasahagato moho.
@@ -28,8 +19,3 @@
 ---
 
 3568\. Paccanīyaṃ.
-
-
-
-
-

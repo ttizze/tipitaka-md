@@ -1,11 +1,4 @@
-
-
 # Kamma
-
-
-
-
-
 
 (40.)
 
@@ -32,6 +25,3 @@
 756\. Upekkhāsahagato dhammo pītisahagatassa ca sukhasahagatassa ca dhammassa kammapaccayena paccayo. **Nānākkhaṇikā**—  upekkhāsahagatā cetanā…pe… . (4)
 
 757\. Pītisahagato ca sukhasahagato ca dhammā pītisahagatassa dhammassa. (Cattāri kātabbāni, pītisahagataṃ anumajjantena vibhajitabbaṃ.) (4)
-
-
-

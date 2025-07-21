@@ -1,11 +1,4 @@
-
-
 # Aññamañña
-
-
-
-
-
 
 (59.)
 
@@ -14,6 +7,3 @@
 2642\. Anupādinnupādāniyo dhammo anupādinnupādāniyassa dhammassa aññamaññapaccayena paccayo—  anupādinnupādāniyo eko khandho tiṇṇannaṃ khandhānaṃ…pe…  dve khandhā dvinnaṃ khandhānaṃ aññamaññapaccayena paccayo. Ekaṃ mahābhūtaṃ…pe…  bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ ekaṃ mahābhūtaṃ…pe… . (1)
 
 2643\. Anupādinnaanupādāniyo dhammo anupādinnaanupādāniyassa dhammassa aññamaññapaccayena paccayo—  anupādinnaanupādāniyo eko khandho tiṇṇannaṃ khandhānaṃ…pe…  dve khandhā dvinnaṃ khandhānaṃ…pe… . (1)
-
-
-

@@ -1,11 +1,4 @@
-
-
 # Upanissaya
-
-
-
-
-
 
 (102.)
 
@@ -48,6 +41,3 @@
 2345\. Nevavipākanavipākadhammadhammo vipākadhammadhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo …pe… .
 
 2346\. **Pakatūpanissayo**—  utuṃ upanissāya dānaṃ deti…pe…  saṃghaṃ bhindati. Bhojanaṃ…  senāsanaṃ upanissāya dānaṃ deti…pe…  saṃghaṃ bhindati. Utu…  bhojanaṃ…  senāsanaṃ saddhāya…pe…  patthanāya upanissayapaccayena paccayo. (3)
-
-
-

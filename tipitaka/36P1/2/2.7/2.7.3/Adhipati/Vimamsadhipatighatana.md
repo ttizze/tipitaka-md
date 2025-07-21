@@ -1,11 +1,4 @@
-
-
 # Vīmaṃsādhipatighaṭanā
-
-
-
-
-
 
 (426.)
 
@@ -24,8 +17,3 @@
 ---
 
 1334\. Adhipatimūlakaṃ.
-
-
-
-
-

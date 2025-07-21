@@ -1,11 +1,4 @@
-
-
 # Adhipati
-
-
-
-
-
 
 (17.)
 
@@ -26,6 +19,3 @@
 2203\. Appamāṇārammaṇo dhammo parittārammaṇassa dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  sekkhā gotrabhuṃ garuṃ katvā paccavekkhanti, vodānaṃ garuṃ katvā paccavekkhanti, maggapaccavekkhaṇaṃ garuṃ katvā paccavekkhanti, phalapaccavekkhaṇaṃ garuṃ katvā paccavekkhanti, nibbānapaccavekkhaṇaṃ garuṃ katvā paccavekkhanti. (2)
 
 2204\. Appamāṇārammaṇo dhammo mahaggatārammaṇassa dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  sekkhā appamāṇārammaṇaṃ cetopariyañāṇaṃ garuṃ katvā paccavekkhanti. Pubbenivāsānussatiñāṇaṃ…pe…  anāgataṃsañāṇaṃ garuṃ katvā paccavekkhanti. (3)
-
-
-

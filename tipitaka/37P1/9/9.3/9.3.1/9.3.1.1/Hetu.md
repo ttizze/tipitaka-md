@@ -1,11 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
 
 (36.)
 
@@ -40,6 +33,3 @@
 870\. Bhāvanāya pahātabbañca nevadassanena nabhāvanāya pahātabbañca dhammaṃ paccayā nevadassanena nabhāvanāya pahātabbo dhammo uppajjati hetupaccayā—  bhāvanāya pahātabbe khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ. (2)
 
 871\. Bhāvanāya pahātabbañca nevadassanena nabhāvanāya pahātabbañca dhammaṃ paccayā bhāvanāya pahātabbo ca nevadassanena nabhāvanāya pahātabbo ca dhammā uppajjanti hetupaccayā—  bhāvanāya pahātabbaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe ca vatthuñca…pe…  bhāvanāya pahātabbe khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ. (3)
-
-
-

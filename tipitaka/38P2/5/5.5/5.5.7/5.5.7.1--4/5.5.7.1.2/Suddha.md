@@ -1,12 +1,4 @@
-
-
 # Suddha
-
-
-
-
-
-
 
 (116.)
 
@@ -17,8 +9,3 @@
 ---
 
 1882\. Ganthaganthasampayuttadukaṃ niṭṭhitaṃ.
-
-
-
-
-

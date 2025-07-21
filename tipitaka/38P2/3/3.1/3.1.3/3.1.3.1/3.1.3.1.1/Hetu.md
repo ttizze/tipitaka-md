@@ -1,12 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
-
 
 (10.)
 
@@ -25,6 +17,3 @@
 997\. Āsavañca noāsavañca dhammaṃ paccayā noāsavo dhammo uppajjati hetupaccayā—  noāsavaṃ ekaṃ khandhañca āsave ca paccayā tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  āsavañca vatthuñca paccayā noāsavā khandhā. (2)
 
 998\. Āsavañca noāsavañca dhammaṃ paccayā āsavo ca noāsavo ca dhammā uppajjanti hetupaccayā—  noāsavaṃ ekaṃ khandhañca kāmāsavañca paccayā tayo khandhā diṭṭhāsavo avijjāsavo cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  (cakkaṃ). Kāmāsavañca vatthuñca paccayā diṭṭhāsavo avijjāsavo sampayuttakā ca khandhā. (Cakkaṃ. Saṃkhittaṃ.) (3)
-
-
-

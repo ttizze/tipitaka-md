@@ -1,12 +1,4 @@
-
-
 # Naārammaṇādi
-
-
-
-
-
-
 
 (52.)
 
@@ -17,6 +9,3 @@
 3656\. Upādānasampayuttañca upādānavippayuttañca dhammaṃ paṭicca upādānavippayutto dhammo uppajjati naārammaṇapaccayā—  upādānasampayutte khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ, diṭṭhigatavippayuttalobhasahagate khandhe ca lobhañca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
 
 3657\. Naadhipatipaccayā…  naanantarapaccayā…  nasamanantarapaccayā…  naupanissayapaccayā.
-
-
-

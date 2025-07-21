@@ -1,4 +1,3 @@
-
 * [1 Khandhavibhaṅga](30Vbh/1.md)
 * [2 Āyatanavibhaṅga](30Vbh/2.md)
 * [3 Dhātuvibhaṅga](30Vbh/3.md)
@@ -17,4 +16,3 @@
 * [16 Ñāṇavibhaṅga](30Vbh/16.md)
 * [17 Khuddakavatthuvibhaṅga](30Vbh/17.md)
 * [18 Dhammahadayavibhaṅga](30Vbh/18.md)
-

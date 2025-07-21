@@ -1,12 +1,4 @@
-
-
 # Adhipati
-
-
-
-
-
-
 
 (114.)
 
@@ -17,6 +9,3 @@
 807\. Arūpī dhammo rūpissa dhammassa adhipatipaccayena paccayo. **Sahajātādhipati**—  arūpī adhipati cittasamuṭṭhānānaṃ rūpānaṃ adhipatipaccayena paccayo. (2)
 
 808\. Arūpī dhammo rūpissa ca arūpissa ca dhammassa adhipatipaccayena paccayo. **Sahajātādhipati**—  arūpī adhipati sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ adhipatipaccayena paccayo. (3)
-
-
-

@@ -1,11 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
 
 (12.)
 
@@ -18,6 +11,3 @@
 1610\. Hetuyā dve, ārammaṇe dve, adhipatiyā tīṇi, anantare dve…pe…  nissaye dve, upanissaye cattāri, āsevane dve…pe…  avigate dve. (Saṃkhittaṃ.)
 
 1611\. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
-
-
-

@@ -1,11 +1,4 @@
-
-
 # Ārammaṇa
-
-
-
-
-
 
 (2.)
 
@@ -16,6 +9,3 @@
 2631\. Anāgato dhammo paccuppannassa dhammassa ārammaṇapaccayena paccayo—  anāgataṃ cakkhuṃ…pe…  vatthuṃ…  anāgate khandhe aniccato…pe…  domanassaṃ uppajjati. Anāgatā khandhā iddhividhañāṇassa, cetopariyañāṇassa, anāgataṃsañāṇassa, āvajjanāya ārammaṇapaccayena paccayo. (1)
 
 2632\. Paccuppanno dhammo paccuppannassa dhammassa ārammaṇapaccayena paccayo—  paccuppannaṃ cakkhuṃ…pe…  kāyaṃ…  rūpe…  sadde…  gandhe…  rase…  phoṭṭhabbe…  vatthuṃ…  paccuppanne khandhe aniccato…pe…  domanassaṃ uppajjati, dibbena cakkhunā rūpaṃ passati, dibbāya sotadhātuyā saddaṃ suṇāti, rūpāyatanaṃ cakkhuviññāṇassa…pe…  phoṭṭhabbāyatanaṃ kāyaviññāṇassa…pe…  paccuppannā khandhā iddhividhañāṇassa, āvajjanāya ārammaṇapaccayena paccayo. (1)
-
-
-

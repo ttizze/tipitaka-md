@@ -1,11 +1,4 @@
-
-
 # Cittādhipatighaṭanā
-
-
-
-
-
 
 (424.)
 
@@ -20,6 +13,3 @@
 1320\. Adhipati sahajāta aññamañña nissaya vipāka āhāra indriya sampayutta atthi avigatanti nahetuyā ekaṃ, naārammaṇe ekaṃ, naanantare ekaṃ, nasamanantare ekaṃ, naupanissaye ekaṃ, napurejāte ekaṃ, napacchājāte ekaṃ, naāsevane ekaṃ, nakamme ekaṃ, najhāne ekaṃ, namagge ekaṃ, navippayutte ekaṃ, nonatthiyā ekaṃ, novigate ekaṃ.
 
 1321\. Adhipati sahajāta nissaya vipāka āhāra indriya vippayutta atthi avigatanti nahetuyā ekaṃ, naārammaṇe ekaṃ, naanantare ekaṃ, nasamanantare ekaṃ, naaññamaññe ekaṃ, naupanissaye ekaṃ, napurejāte ekaṃ, napacchājāte ekaṃ, naāsevane ekaṃ, nakamme ekaṃ, najhāne ekaṃ, namagge ekaṃ, nasampayutte ekaṃ, nonatthiyā ekaṃ, novigate ekaṃ. [Savipāka—  3]
-
-
-

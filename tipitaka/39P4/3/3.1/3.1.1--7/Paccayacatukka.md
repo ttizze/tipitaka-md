@@ -1,10 +1,4 @@
-
-
 # Paccayacatukka
-
-
-
-
 
 (1.)
 
@@ -29,6 +23,3 @@
 (3.)
 
 1099\. Hetuyā nava, ārammaṇe tīṇi, adhipatiyā nava…pe…  vipāke ekaṃ…pe…  avigate nava. (Saṃkhittaṃ.)
-
-
-

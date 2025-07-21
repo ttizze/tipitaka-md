@@ -1,10 +1,4 @@
-
-
 # Nahetuduka
-
-
-
-
 
 (201.)
 
@@ -14,15 +8,8 @@
 
 691\. Nissayavāre paccanīyānulomaṃ.
 
-
-
 692\. (Paccayattaṃ nāma nissayattaṃ, nissayattaṃ nāma paccayattaṃ.)
 
 ---
 
 693\. Nissayavāro.
-
-
-
-
-

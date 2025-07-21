@@ -1,12 +1,4 @@
-
-
 # Nahetu
-
-
-
-
-
-
 
 (47.)
 
@@ -17,6 +9,3 @@
 3938\. Asaṃkiliṭṭhaṃ dhammaṃ paccayā saṃkiliṭṭho dhammo uppajjati nahetupaccayā—  vatthuṃ paccayā vicikicchāsahagato uddhaccasahagato moho. (2)
 
 3939\. Saṃkiliṭṭhañca asaṃkiliṭṭhañca dhammaṃ paccayā saṃkiliṭṭho dhammo uppajjati nahetupaccayā—  vicikicchāsahagate uddhaccasahagate khandhe ca vatthuñca paccayā vicikicchāsahagato uddhaccasahagato moho. (1)
-
-
-

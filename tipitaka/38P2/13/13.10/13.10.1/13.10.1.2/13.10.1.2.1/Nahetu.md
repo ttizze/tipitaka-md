@@ -1,12 +1,4 @@
-
-
 # Nahetu
-
-
-
-
-
-
 
 (179.)
 
@@ -27,6 +19,3 @@
 4474\. Upekkhāsahagatañca naupekkhāsahagatañca dhammaṃ paṭicca naupekkhāsahagato dhammo uppajjati nahetupaccayā—  ahetuke upekkhāsahagate khandhe ca upekkhañca paṭicca cittasamuṭṭhānaṃ rūpaṃ, ahetuke upekkhāsahagate khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ; ahetukapaṭisandhikkhaṇe upekkhāsahagate khandhe ca upekkhañca paṭicca kaṭattārūpaṃ, ahetukapaṭisandhikkhaṇe upekkhāsahagate khandhe ca mahābhūte ca paṭicca kaṭattārūpaṃ, ahetukapaṭisandhikkhaṇe upekkhāsahagate khandhe ca vatthuñca paṭicca upekkhā. (2)
 
 4475\. Upekkhāsahagatañca naupekkhāsahagatañca dhammaṃ paṭicca upekkhāsahagato ca naupekkhāsahagato ca dhammā uppajjanti nahetupaccayā—  ahetukaṃ upekkhāsahagataṃ ekaṃ khandhañca upekkhañca paṭicca dve khandhā cittasamuṭṭhānañca rūpaṃ, dve khandhe…pe…  ahetukaṃ upekkhāsahagataṃ ekaṃ khandhañca upekkhañca paṭicca dve khandhā, dve khandhe…pe…  ahetuke upekkhāsahagate khandhe ca upekkhañca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ; ahetukapaṭisandhikkhaṇe upekkhāsahagataṃ ekaṃ khandhañca upekkhañca paṭicca dve khandhā kaṭattā ca rūpaṃ, dve khandhe…pe…  ahetukapaṭisandhikkhaṇe upekkhāsahagataṃ ekaṃ khandhañca upekkhañca paṭicca dve khandhā, dve khandhe…pe…  ahetuke upekkhāsahagate khandhe ca upekkhañca mahābhūte ca paṭicca kaṭattārūpaṃ; ahetukapaṭisandhikkhaṇe upekkhāsahagataṃ ekaṃ khandhañca vatthuñca paṭicca dve khandhā upekkhā ca, dve khandhe…pe…  (Saṃkhittaṃ.) (3)
-
-
-

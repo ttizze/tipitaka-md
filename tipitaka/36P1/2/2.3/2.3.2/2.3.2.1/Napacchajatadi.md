@@ -1,11 +1,4 @@
-
-
 # Napacchājātādi
-
-
-
-
-
 
 (146.)
 
@@ -14,8 +7,3 @@
 ---
 
 528\. (Yathā anulome sahajātapaccayaṃ, evaṃ vitthāretabbaṃ.)
-
-
-
-
-

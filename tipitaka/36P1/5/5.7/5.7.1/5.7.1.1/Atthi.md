@@ -1,11 +1,4 @@
-
-
 # Atthi
-
-
-
-
-
 
 (82.)
 
@@ -66,6 +59,3 @@
 2763\. Upādinnupādāniyo ca anupādinnupādāniyo ca dhammā upādinnupādāniyassa ca anupādinnupādāniyassa ca dhammassa atthipaccayena paccayo…  **āhāraṃ…** upādinnupādāniyo ca anupādinnupādāniyo ca kabaḷīkāro āhāro upādinnupādāniyassa ca anupādinnupādāniyassa ca kāyassa atthipaccayena paccayo. (3)
 
 2764\. Upādinnupādāniyo ca anupādinnupādāniyo ca anupādinnaanupādāniyo ca dhammā upādinnupādāniyassa dhammassa atthipaccayena paccayo—  pacchājātaṃ, āhāraṃ, indriyaṃ. **Pacchājātā**—  anupādinnaanupādāniyā khandhā ca anupādinnaanupādāniyo kabaḷīkāro āhāro ca rūpajīvitindriyañca kaṭattārūpānaṃ atthipaccayena paccayo. (1)
-
-
-

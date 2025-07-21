@@ -1,11 +1,4 @@
-
-
 # Upanissaya
-
-
-
-
-
 
 (61.)
 
@@ -30,6 +23,3 @@
 2660\. Anupādinnaanupādāniyo dhammo upādinnupādāniyassa dhammassa upanissayapaccayena paccayo—  anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  phalasamāpatti kāyikassa sukhassa upanissayapaccayena paccayo. (2)
 
 2661\. Anupādinnaanupādāniyo dhammo anupādinnupādāniyassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  ariyā maggaṃ upanissāya anuppannaṃ samāpattiṃ uppādenti, uppannaṃ samāpattiṃ samāpajjanti, saṅkhāre aniccato dukkhato anattato vipassanti. Maggo ariyānaṃ atthappaṭisambhidāya dhammappaṭisambhidāya niruttippaṭisambhidāya paṭibhānappaṭisambhidāya ṭhānāṭṭhānakosallassa upanissayapaccayena paccayo. (3)
-
-
-

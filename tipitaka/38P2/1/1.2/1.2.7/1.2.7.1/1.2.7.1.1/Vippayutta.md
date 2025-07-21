@@ -1,12 +1,4 @@
-
-
 # Vippayutta
-
-
-
-
-
-
 
 (115.)
 
@@ -19,6 +11,3 @@
 321\. Ahetuko dhammo sahetukassa ca ahetukassa ca dhammassa vippayuttapaccayena paccayo. **Purejātaṃ**—  vatthu vicikicchāsahagatānaṃ uddhaccasahagatānaṃ khandhānaṃ mohassa ca vippayuttapaccayena paccayo. (3)
 
 322\. Sahetuko ca ahetuko ca dhammā ahetukassa dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, pacchājātaṃ. **Sahajātā**—  vicikicchāsahagatā uddhaccasahagatā khandhā ca moho ca cittasamuṭṭhānānaṃ rūpānaṃ vippayuttapaccayena paccayo. **Pacchājātā**—  vicikicchāsahagatā uddhaccasahagatā khandhā ca moho ca purejātassa imassa kāyassa vippayuttapaccayena paccayo. (1)
-
-
-

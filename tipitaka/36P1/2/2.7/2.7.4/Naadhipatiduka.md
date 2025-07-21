@@ -1,10 +1,4 @@
-
-
 # Naadhipatiduka
-
-
-
-
 
 (497.)
 
@@ -14,13 +8,6 @@
 
 1713\. (Yathā nahetumūlakaṃ, evaṃ vitthāretabbaṃ.)
 
-
-
 ---
 
 1714\. Naadhipatimūlakaṃ.
-
-
-
-
-

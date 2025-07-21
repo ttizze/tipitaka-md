@@ -1,11 +1,4 @@
-
-
 # Naārammaṇa
-
-
-
-
-
 
 (54.)
 
@@ -20,6 +13,3 @@
 1217\. Dassanena pahātabbahetukañca nevadassanena nabhāvanāya pahātabbahetukañca dhammaṃ paccayā nevadassanena nabhāvanāya pahātabbahetuko dhammo uppajjati naārammaṇapaccayā—  dassanena pahātabbahetuke khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ; vicikicchāsahagate khandhe ca mohañca paccayā cittasamuṭṭhānaṃ rūpaṃ. (1)
 
 1218\. Bhāvanāya pahātabbahetukañca nevadassanena nabhāvanāya pahātabbahetukañca dhammaṃ paccayā nevadassanena nabhāvanāya pahātabbahetuko dhammo uppajjati naārammaṇapaccayā—  bhāvanāya pahātabbahetuke khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ; uddhaccasahagate khandhe ca mohañca paccayā cittasamuṭṭhānaṃ rūpaṃ. (1)
-
-
-

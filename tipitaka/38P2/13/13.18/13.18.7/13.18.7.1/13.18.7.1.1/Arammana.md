@@ -1,12 +1,4 @@
-
-
 # Ārammaṇa
-
-
-
-
-
-
 
 (350.)
 
@@ -15,6 +7,3 @@
 (351.)
 
 4815\. Araṇo dhammo araṇassa dhammassa ārammaṇapaccayena paccayo; dānaṃ…pe…  sīlaṃ…pe…  uposathakammaṃ katvā taṃ paccavekkhati, pubbe…pe…  jhānā…pe…  ariyā maggā vuṭṭhahitvā maggaṃ paccavekkhanti, phalaṃ…pe…  nibbānaṃ paccavekkhanti; nibbānaṃ gotrabhussa, vodānassa, maggassa, phalassa, āvajjanāya ārammaṇapaccayena paccayo. Cakkhuṃ…pe…  vatthuṃ araṇe khandhe aniccato…pe…  vipassati, dibbena cakkhunā rūpaṃ passati…pe…  anāgataṃsañāṇassa, āvajjanāya ārammaṇapaccayena paccayo. Araṇo dhammo saraṇassa dhammassa ārammaṇapaccayena paccayo—  dānaṃ…pe…  sīlaṃ…pe…  uposathakammaṃ katvā taṃ assādeti abhinandati, taṃ ārabbha rāgo uppajjati…pe…  pubbe…pe…  jhānā…pe…  cakkhuṃ…pe…  vatthuṃ, araṇe khandhe assādeti abhinandati, taṃ ārabbha rāgo uppajjati…pe…  domanassaṃ uppajjati. (2)
-
-
-

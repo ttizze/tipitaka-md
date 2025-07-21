@@ -1,11 +1,4 @@
-
-
 # Paccanīya
-
-
-
-
-
 
 (27.)
 
@@ -16,6 +9,3 @@
 1310\. Naadhipatipaccayā hetuyā ekaṃ. (Saṃkhittaṃ.)
 
 1311\. (Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
-
-
-

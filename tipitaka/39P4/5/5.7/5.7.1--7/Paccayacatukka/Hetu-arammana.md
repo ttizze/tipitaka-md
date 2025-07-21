@@ -1,11 +1,4 @@
-
-
 # Hetu-ārammaṇa
-
-
-
-
-
 
 (32.)
 
@@ -30,8 +23,3 @@
 ---
 
 1432\. Kusalattikamahantaradukaṃ niṭṭhitaṃ.
-
-
-
-
-

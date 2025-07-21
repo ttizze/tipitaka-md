@@ -1,10 +1,4 @@
-
-
 # Paccayacatukka
-
-
-
-
 
 (11.)
 
@@ -31,6 +25,3 @@
 2633\. Araṇaṃ anupādinnaanupādāniyaṃ dhammaṃ paṭicca araṇo anupādinnaanupādāniyo dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
 
 2634\. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ. Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
-
-
-

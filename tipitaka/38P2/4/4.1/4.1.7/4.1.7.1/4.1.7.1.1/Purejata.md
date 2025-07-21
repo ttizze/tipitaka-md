@@ -1,12 +1,4 @@
-
-
 # Purejāta
-
-
-
-
-
-
 
 (24.)
 
@@ -15,6 +7,3 @@
 1380\. Nosaññojano dhammo saññojanassa dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ. **Ārammaṇapurejātaṃ**—  cakkhuṃ…pe…  vatthuṃ assādeti abhinandati, taṃ ārabbha rāgo uppajjati…pe…  domanassaṃ uppajjati. **Vatthupurejātaṃ**—  vatthu saññojanānaṃ purejātapaccayena paccayo. (2)
 
 1381\. Nosaññojano dhammo saññojanassa ca nosaññojanassa ca dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ. **Ārammaṇapurejātaṃ**—  cakkhuṃ…pe…  vatthuṃ assādeti abhinandati, taṃ ārabbha saññojanā ca sampayuttakā ca khandhā uppajjanti. **Vatthupurejātaṃ**—  vatthu saññojanānaṃ sampayuttakānañca khandhānaṃ purejātapaccayena paccayo. (3)
-
-
-

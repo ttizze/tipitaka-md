@@ -1,12 +1,4 @@
-
-
 # Atthyādi
-
-
-
-
-
-
 
 (30.)
 
@@ -31,6 +23,3 @@
 3900\. Kileso ca nokileso ca dhammā kilesassa ca nokilesassa ca dhammassa atthipaccayena paccayo—  sahajātaṃ, purejātaṃ. **Sahajāto**—  nokileso eko khandho ca lobho ca tiṇṇannaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ mohassa ca, diṭṭhiyā, thinassa, uddhaccassa, ahirikassa, anottappassa atthipaccayena paccayo…pe…  dve khandhā ca…pe… . **Sahajāto**—  lobho ca vatthu ca mohassa, diṭṭhiyā, thinassa, uddhaccassa, ahirikassa, anottappassa sampayuttakānañca khandhānaṃ atthipaccayena paccayo. (Cakkaṃ.) (3)
 
 3901\. Natthipaccayena paccayo…  vigatapaccayena paccayo…  avigatapaccayena paccayo.
-
-
-

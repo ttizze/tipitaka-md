@@ -1,10 +1,4 @@
-
-
 # Paccayacatukka
-
-
-
-
 
 (1.)
 
@@ -59,6 +53,3 @@
 1819\. Hetuyā ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
 
 1820\. (Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
-
-
-

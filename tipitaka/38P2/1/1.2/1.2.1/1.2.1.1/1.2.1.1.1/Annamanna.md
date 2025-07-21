@@ -1,12 +1,4 @@
-
-
 # Aññamañña
-
-
-
-
-
-
 
 (58.)
 
@@ -23,6 +15,3 @@
 160\. Ahetukaṃ dhammaṃ paṭicca sahetuko dhammo uppajjati aññamaññapaccayā—  vicikicchāsahagataṃ uddhaccasahagataṃ mohaṃ paṭicca sampayuttakā khandhā; paṭisandhikkhaṇe vatthuṃ paṭicca sahetukā khandhā. (2)
 
 161\. Sahetukañca ahetukañca dhammaṃ paṭicca sahetuko dhammo uppajjati aññamaññapaccayā—  vicikicchāsahagataṃ uddhaccasahagataṃ ekaṃ khandhañca mohañca paṭicca tayo khandhā…pe…  dve khandhe…pe…  paṭisandhikkhaṇe sahetukaṃ ekaṃ khandhañca vatthuñca paṭicca tayo khandhā…pe…  dve khandhe…pe… . (1)
-
-
-

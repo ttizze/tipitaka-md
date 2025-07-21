@@ -1,11 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
 
 (29.)
 
@@ -16,6 +9,3 @@
 1947\. Hetuyā nava, ārammaṇe nava…pe…  avigate nava. (Saṃkhittaṃ.)
 
 1948\. (Sahajātavārepi…pe…  pañhāvārepi sabbattha nava.)
-
-
-

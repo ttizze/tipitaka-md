@@ -1,11 +1,4 @@
-
-
 # Atthi
-
-
-
-
-
 
 (26.)
 
@@ -40,6 +33,3 @@
 2905\. Saṃkiliṭṭhasaṃkilesiko ca asaṃkiliṭṭhasaṃkilesiko ca dhammā saṃkiliṭṭhasaṃkilesikassa dhammassa atthipaccayena paccayo—  sahajātaṃ, purejātaṃ. **Sahajāto**—  saṃkiliṭṭhasaṃkilesiko eko khandho ca vatthu ca tiṇṇannaṃ khandhānaṃ atthipaccayena paccayo…  dve khandhā…pe… . (1)
 
 2906\. Saṃkiliṭṭhasaṃkilesiko ca asaṃkiliṭṭhasaṃkilesiko ca dhammā asaṃkiliṭṭhasaṃkilesikassa dhammassa atthipaccayena paccayo—  sahajātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ. **Sahajātā**—  saṃkiliṭṭhasaṃkilesikā khandhā ca mahābhūtā ca cittasamuṭṭhānānaṃ rūpānaṃ atthipaccayena paccayo. **Pacchājātā**—  saṃkiliṭṭhasaṃkilesikā khandhā ca kabaḷīkāro āhāro ca purejātassa imassa kāyassa atthipaccayena paccayo. **Pacchājātā**—  saṃkiliṭṭhasaṃkilesikā khandhā ca rūpajīvitindriyañca kaṭattārūpānaṃ atthipaccayena paccayo. (2)
-
-
-

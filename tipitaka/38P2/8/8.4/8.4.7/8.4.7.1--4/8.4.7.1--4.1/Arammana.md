@@ -1,12 +1,4 @@
-
-
 # Ārammaṇa
-
-
-
-
-
-
 
 (91.)
 
@@ -23,8 +15,3 @@
 ---
 
 2088\. Nīvaraṇanīvaraṇiyadukaṃ niṭṭhitaṃ.
-
-
-
-
-

@@ -1,11 +1,4 @@
-
-
 # Noatthiduka
-
-
-
-
-
 
 (410.)
 
@@ -16,6 +9,3 @@
 * [Ekādasaka](Noatthiduka/Ekadasaka.md)
 * [Sattarasaka](Noatthiduka/Sattarasaka.md)
 * [Ekavīsaka](Noatthiduka/Ekavisaka.md)
-
-
-

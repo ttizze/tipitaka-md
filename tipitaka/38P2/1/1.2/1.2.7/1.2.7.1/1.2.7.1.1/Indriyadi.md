@@ -1,12 +1,4 @@
-
-
 # Indriyādi
-
-
-
-
-
-
 
 (114.)
 
@@ -21,6 +13,3 @@
 316\. Sahetuko dhammo sahetukassa dhammassa maggapaccayena paccayo…  tīṇi.
 
 317\. Sahetuko dhammo sahetukassa dhammassa sampayuttapaccayena paccayo. (Paṭiccavāre sampayuttasadisā cha pañhā.)
-
-
-

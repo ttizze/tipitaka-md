@@ -1,12 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
-
 
 (192.)
 
@@ -27,6 +19,3 @@
 724\. Naadhipatiyā sattarasa, napurejāte sattarasa…pe…  naāsevane nava, navipāke sattarasa, navippayutte sattarasa. (Saṃkhittaṃ.)
 
 725\. (Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ vitthāretabbaṃ.)
-
-
-

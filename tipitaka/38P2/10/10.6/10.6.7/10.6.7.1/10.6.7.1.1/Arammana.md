@@ -1,12 +1,4 @@
-
-
 # Ārammaṇa
-
-
-
-
-
-
 
 (211.)
 
@@ -21,6 +13,3 @@
 2839\. Nocittasamuṭṭhāno dhammo cittasamuṭṭhānassa ca nocittasamuṭṭhānassa ca dhammassa ārammaṇapaccayena paccayo—  ariyā maggā…pe…  nibbānaṃ paccavekkhanti (paṭhamagamanasadisaṃ), nocittasamuṭṭhāne khandhe aniccato…pe…  vipassati assādeti abhinandati, taṃ ārabbha cittañca sampayuttakā ca khandhā uppajjanti. Dibbena cakkhunā rūpaṃ passati, dibbāya sotadhātuyā saddaṃ suṇāti. Rūpāyatanaṃ cakkhuviññāṇassa sampayuttakānañca khandhānaṃ…pe…  phoṭṭhabbāyatanaṃ…pe…  nocittasamuṭṭhānā khandhā iddhividhañāṇassa, cetopariyañāṇassa, pubbenivāsānussatiñāṇassa anāgataṃsañāṇassa, āvajjanāya ārammaṇapaccayena paccayo. (3)
 
 2840\. Cittasamuṭṭhāno ca nocittasamuṭṭhāno ca dhammā cittasamuṭṭhānassa dhammassa ārammaṇapaccayena paccayo…  tīṇi. (Ārabbha kātabbā.)
-
-
-

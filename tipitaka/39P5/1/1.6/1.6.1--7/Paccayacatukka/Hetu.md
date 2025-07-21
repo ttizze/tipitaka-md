@@ -1,11 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
 
 (34.)
 
@@ -54,6 +47,3 @@
 115\. Hetuyā tīṇi…pe…  vipāke ekaṃ…pe…  avigate tīṇi. (Saṃkhittaṃ.)
 
 116\. (Sahajātavārampi…pe…  pañhāvārampi vitthāretabbaṃ.)
-
-
-

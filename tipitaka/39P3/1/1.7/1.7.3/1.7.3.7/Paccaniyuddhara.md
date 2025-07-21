@@ -1,11 +1,4 @@
-
-
 # Paccanīyuddhāra
-
-
-
-
-
 
 (256.)
 
@@ -24,8 +17,3 @@
 ---
 
 518\. Hetudukapītittikaṃ niṭṭhitaṃ.
-
-
-
-
-

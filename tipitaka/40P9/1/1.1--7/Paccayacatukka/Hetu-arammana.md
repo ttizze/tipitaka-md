@@ -1,10 +1,4 @@
-
-
 # Hetu-ārammaṇa
-
-
-
-
 
 (3.)
 
@@ -35,6 +29,3 @@
 17\. Nahetuṃ naabyākatañca nanahetuṃ naabyākatañca dhammaṃ paṭicca nahetu naabyākato dhammo uppajjati hetupaccayā. Nahetuṃ naabyākatañca nanahetuṃ naabyākatañca dhammaṃ paṭicca nanahetu naabyākato dhammo uppajjati hetupaccayā. Nahetuṃ naabyākatañca nanahetuṃ naabyākatañca dhammaṃ paṭicca nahetu naabyākato ca nanahetu naabyākato ca dhammā uppajjanti hetupaccayā. (3) (Saṃkhittaṃ.)
 
 18\. Hetuyā nava…pe…  avigate nava. (Sabbattha nava.)
-
-
-

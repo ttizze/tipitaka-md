@@ -1,12 +1,4 @@
-
-
 # Adhipati
-
-
-
-
-
-
 
 (342.)
 
@@ -17,6 +9,3 @@
 3164\. Bāhiro dhammo bāhirassa dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati, sahajātādhipati. Ārammaṇādhipati—  dānaṃ datvā…pe…  tīṇi. (Dve adhipatī tiṇṇampi kātabbā.) (3)
 
 3165\. Ajjhattiko ca bāhiro ca dhammā ajjhattikassa dhammassa adhipatipaccayena paccayo…  tīṇi. (Tiṇṇampi ekāyeva adhipati.)
-
-
-

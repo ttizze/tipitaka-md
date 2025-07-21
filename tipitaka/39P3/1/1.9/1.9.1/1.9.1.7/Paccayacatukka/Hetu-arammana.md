@@ -1,12 +1,4 @@
-
-
 # Hetu-ārammaṇa
-
-
-
-
-
-
 
 (286.)
 
@@ -17,6 +9,3 @@
 (287.)
 
 586\. Hetuyā tīṇi, ārammaṇe nava, adhipatiyā nava…pe…  upanissaye nava, āsevane nava, kamme tīṇi, āhāre tīṇi…pe…  magge tīṇi, sampayutte nava…pe…  avigate nava. (Saṃkhittaṃ.)
-
-
-

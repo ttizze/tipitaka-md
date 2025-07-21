@@ -1,12 +1,4 @@
-
-
 # Āhāra
-
-
-
-
-
-
 
 (94.)
 
@@ -19,6 +11,3 @@
 (95.)
 
 1227\. Āsavavippayutto dhammo āsavavippayuttassa dhammassa āhārapaccayena paccayo—  āsavavippayuttā āhārā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ āhārapaccayena paccayo; paṭisandhikkhaṇe…pe… . **Kabaḷīkāro āhāro**—  imassa kāyassa āhārapaccayena paccayo. (1)
-
-
-

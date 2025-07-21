@@ -1,11 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
 
 (90.)
 
@@ -24,6 +17,3 @@
 2278\. Vipākadhammadhammo vipākadhammadhammassa ca nevavipākanavipākadhammadhammassa ca hetupaccayena paccayo—  vipākadhammadhammā hetū sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo. (3)
 
 2279\. Nevavipākanavipākadhammadhammo nevavipākanavipākadhammadhammassa hetupaccayena paccayo—  nevavipākanavipākadhammadhammā hetū sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo.
-
-
-

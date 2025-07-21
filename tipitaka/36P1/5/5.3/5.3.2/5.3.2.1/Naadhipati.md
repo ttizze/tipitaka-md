@@ -1,11 +1,4 @@
-
-
 # Naadhipati
-
-
-
-
-
 
 (38.)
 
@@ -24,6 +17,3 @@
 2565\. Upādinnupādāniyañca anupādinnaanupādāniyañca dhammaṃ paccayā anupādinnaanupādāniyo dhammo uppajjati na adhipatipaccayā—  anupādinnaanupādāniye khandhe ca vatthuñca paccayā anupādinnaanupādāniyā adhipati. (1)
 
 2566\. Upādinnupādāniyañca anupādinnupādāniyañca dhammaṃ paccayā anupādinnupādāniyo dhammo uppajjati naadhipatipaccayā—  upādinnupādāniye khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ; anupādinnupādāniyaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe ca vatthuñca paccayā dve khandhā. (1)
-
-
-

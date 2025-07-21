@@ -1,11 +1,4 @@
-
-
 # Āsevana
-
-
-
-
-
 
 (70.)
 
@@ -16,6 +9,3 @@
 2216\. Nevavipākanavipākadhammadhammaṃ paccayā vipākadhammadhammo uppajjati āsevanapaccayā—  vatthuṃ paccayā vipākadhammadhammā khandhā. (2)
 
 2217\. Vipākadhammadhammañca nevavipākanavipākadhammadhammañca dhammaṃ paccayā vipākadhammadhammo uppajjati āsevanapaccayā—  vipākadhammadhammaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā, tayo khandhe ca vatthuñca paccayā eko khandho, dve khandhe ca vatthuñca paccayā dve khandhā. (1)
-
-
-

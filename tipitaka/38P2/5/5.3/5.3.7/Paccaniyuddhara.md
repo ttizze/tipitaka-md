@@ -1,10 +1,4 @@
-
-
 # Paccanīyuddhāra
-
-
-
-
 
 (97.)
 
@@ -29,6 +23,3 @@
 1836\. Ganthasampayutto ca ganthavippayutto ca dhammā ganthavippayuttassa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo…  pacchājātapaccayena paccayo. (2)
 
 1837\. Ganthasampayutto ca ganthavippayutto ca dhammā ganthasampayuttassa ca ganthavippayuttassa ca dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo. (3)
-
-
-

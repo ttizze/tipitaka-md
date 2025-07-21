@@ -1,11 +1,4 @@
-
-
 # Anantara
-
-
-
-
-
 
 (83.)
 
@@ -44,6 +37,3 @@
 1312\. Dassanena pahātabbahetuko ca nevadassanena nabhāvanāya pahātabbahetuko ca dhammā dassanena pahātabbahetukassa ca nevadassanena nabhāvanāya pahātabbahetukassa ca dhammassa anantarapaccayena paccayo—  purimā purimā vicikicchāsahagatā khandhā ca moho ca pacchimānaṃ pacchimānaṃ vicikicchāsahagatānaṃ khandhānaṃ mohassa ca anantarapaccayena paccayo. (3)
 
 1313\. Bhāvanāya pahātabbahetuko ca nevadassanena nabhāvanāya pahātabbahetuko ca dhammā bhāvanāya pahātabbahetukassa dhammassa anantarapaccayena paccayo…  tīṇi. (Dassanena sadisaṃ gamanaṃ.)
-
-
-

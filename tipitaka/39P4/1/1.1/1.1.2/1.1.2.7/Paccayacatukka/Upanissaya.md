@@ -1,12 +1,4 @@
-
-
 # Upanissaya
-
-
-
-
-
-
 
 (23.)
 
@@ -27,6 +19,3 @@
 78\. Nahetupaccayā ārammaṇe nava. (Saṃkhittaṃ.)
 
 79\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
-
-
-

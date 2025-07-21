@@ -1,12 +1,4 @@
-
-
 # Ārammaṇa
-
-
-
-
-
-
 
 (43.)
 
@@ -23,6 +15,3 @@
 1432\. Saññojanavippayuttaṃ dhammaṃ paṭicca saññojanasampayutto dhammo uppajjati ārammaṇapaccayā—  uddhaccasahagataṃ mohaṃ paṭicca sampayuttakā khandhā. (2)
 
 1433\. Saññojanasampayuttañca saññojanavippayuttañca dhammaṃ paṭicca saññojanasampayutto dhammo uppajjati ārammaṇapaccayā—  uddhaccasahagataṃ ekaṃ khandhañca mohañca paṭicca tayo khandhā…pe…  dve khandhe…pe… . (1)
-
-
-

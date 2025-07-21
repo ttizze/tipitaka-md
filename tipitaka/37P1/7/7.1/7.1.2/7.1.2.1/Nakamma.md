@@ -1,11 +1,4 @@
-
-
 # Nakamma
-
-
-
-
-
 
 (39.)
 
@@ -22,6 +15,3 @@
 177\. Avitakkavicāramattañca avitakkaavicārañca dhammaṃ paṭicca avitakkavicāramatto dhammo uppajjati nakammapaccayā—  avitakkavicāramatte khandhe ca vicārañca paṭicca avitakkavicāramattā cetanā. (1)
 
 178\. Savitakkasavicārañca avitakkavicāramattañca dhammaṃ paṭicca savitakkasavicāro dhammo uppajjati nakammapaccayā—  savitakkasavicāre khandhe ca vitakkañca paṭicca savitakkasavicārā cetanā. (1)
-
-
-

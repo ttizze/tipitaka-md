@@ -1,12 +1,4 @@
-
-
 # Purejāta
-
-
-
-
-
-
 
 (217.)
 
@@ -31,6 +23,3 @@
 2862\. Cittasamuṭṭhāno ca nocittasamuṭṭhāno ca dhammā nocittasamuṭṭhānassa dhammassa purejātapaccayena paccayo—  **ārammaṇapurejātaṃ, vatthupurejātaṃ**. Cittasamuṭṭhānaṃ rūpāyatanañca cakkhāyatanañca cakkhuviññāṇassa…pe…  cittasamuṭṭhānaṃ phoṭṭhabbāyatanañca kāyāyatanañca kāyaviññāṇassa purejātapaccayena paccayo; cittasamuṭṭhānaṃ rūpāyatanañca vatthu ca cittassa purejātapaccayena paccayo…pe…  cittasamuṭṭhānaṃ phoṭṭhabbāyatanañca vatthu ca…pe… . (2)
 
 2863\. Cittasamuṭṭhāno ca nocittasamuṭṭhāno ca dhammā cittasamuṭṭhānassa ca nocittasamuṭṭhānassa ca dhammassa purejātapaccayena paccayo—  **ārammaṇapurejātaṃ, vatthupurejātaṃ**. Cittasamuṭṭhānaṃ rūpāyatanañca cakkhāyatanañca cakkhuviññāṇassa sampayuttakānañca khandhānaṃ purejātapaccayena paccayo…pe…  cittasamuṭṭhānaṃ phoṭṭhabbāyatanaṃ ca…pe…  cittasamuṭṭhānaṃ rūpāyatanañca vatthu ca cittassa sampayuttakānañca khandhānaṃ purejātapaccayena paccayo…pe…  cittasamuṭṭhānaṃ phoṭṭhabbāyatanañca vatthu ca…pe… . (3)
-
-
-

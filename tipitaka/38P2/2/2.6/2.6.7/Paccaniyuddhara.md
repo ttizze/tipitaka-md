@@ -1,10 +1,4 @@
-
-
 # Paccanīyuddhāra
-
-
-
-
 
 (171.)
 
@@ -23,6 +17,3 @@
 942\. Lokiyo ca lokuttaro ca dhammā lokiyassa dhammassa sahajātaṃ…  pacchājātaṃ…  āhāraṃ…  indriyaṃ. (1)
 
 943\. Lokiyo ca lokuttaro ca dhammā lokuttarassa dhammassa sahajātaṃ…  purejātaṃ. (2)
-
-
-

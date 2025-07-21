@@ -1,12 +1,4 @@
-
-
 # Adhipati
-
-
-
-
-
-
 
 (213.)
 
@@ -19,6 +11,3 @@
 2844\. Nocittasamuṭṭhāno dhammo cittasamuṭṭhānassa ca nocittasamuṭṭhānassa ca dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  ariyā maggā…pe…  nibbānaṃ garuṃ katvā paccavekkhanti…pe…  nocittasamuṭṭhāne khandhe garuṃ katvā…pe…  cittañca sampayuttakā ca khandhā uppajjanti. (3)
 
 2845\. Cittasamuṭṭhāno ca nocittasamuṭṭhāno ca dhammā cittasamuṭṭhānassa dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati…  tīṇi. (Ārammaṇādhipatiyeva.)
-
-
-

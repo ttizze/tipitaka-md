@@ -1,10 +1,4 @@
-
-
 # Hetu
-
-
-
-
 
 (30.)
 
@@ -25,6 +19,3 @@
 396\. Majjhimaṃ abyākatañca paṇītaṃ abyākatañca dhammaṃ paṭicca majjhimo abyākato dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
 
 397\. Hetuyā pañca, ārammaṇe dve…pe…  āsevane ekaṃ…pe…  avigate pañca. (Sabbattha vitthāro.)
-
-
-

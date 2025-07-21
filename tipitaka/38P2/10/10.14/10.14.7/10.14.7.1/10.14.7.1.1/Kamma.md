@@ -1,12 +1,4 @@
-
-
 # Kamma
-
-
-
-
-
-
 
 (457.)
 
@@ -19,6 +11,3 @@
 3478\. Anupādinno dhammo anupādinnassa dhammassa kammapaccayena paccayo—  anupādinnā cetanā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo. (1)
 
 3479\. Anupādinno dhammo upādinnassa dhammassa kammapaccayena paccayo. **Nānākkhaṇikā**—  anupādinnā cetanā vipākānaṃ khandhānaṃ kaṭattā ca rūpānaṃ kammapaccayena paccayo. (2)
-
-
-

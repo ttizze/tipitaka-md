@@ -1,12 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
-
 
 (10.)
 
@@ -19,6 +11,3 @@
 1257\. Hetuyā dve…pe…  āsevane ekaṃ…pe…  vipāke ekaṃ…pe…  avigate dve. (Saṃkhittaṃ.)
 
 1258\. (Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ.)
-
-
-

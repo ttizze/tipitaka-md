@@ -1,12 +1,4 @@
-
-
 # Adhipati
-
-
-
-
-
-
 
 (73.)
 
@@ -23,6 +15,3 @@
 2495\. Nocitto dhammo cittassa dhammassa adhipatipaccayena paccayo. (Dvepi gamanā paṭhamagamanasadisaṃ ninnānākaraṇaṃ. Ārammaṇādhipati sahajātādhipati kātabbā.) (2)
 
 2496\. Citto ca nocitto ca dhammā cittassa dhammassa adhipatipaccayena paccayo…  ārammaṇādhipati. (Tīṇipi garukārammaṇā kātabbā, ārammaṇādhipatiyeva.)
-
-
-

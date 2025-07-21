@@ -1,12 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
-
 
 (434.)
 
@@ -19,6 +11,3 @@
 3416\. Anupādinnaṃ dhammaṃ paccayā anupādinno dhammo uppajjati hetupaccayā—  anupādinnaṃ ekaṃ khandhaṃ paccayā tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  ekaṃ mahābhūtaṃ…pe…  mahābhūte paccayā cittasamuṭṭhānaṃ rūpaṃ upādārūpaṃ. (1)
 
 3417\. Upādinnañca anupādinnañca dhammaṃ paccayā anupādinno dhammo uppajjati hetupaccayā—  upādinne khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ, anupādinnaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe ca…pe… . (1)
-
-
-

@@ -1,12 +1,4 @@
-
-
 # Atthi
-
-
-
-
-
-
 
 (307.)
 
@@ -25,6 +17,3 @@
 3076\. Cittasaṃsaṭṭhasamuṭṭhāno ca nocittasaṃsaṭṭhasamuṭṭhāno ca dhammā nocittasaṃsaṭṭhasamuṭṭhānassa dhammassa atthipaccayena paccayo—  sahajātaṃ, purejātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ. **Sahajātā**—  cakkhuviññāṇasahagatā khandhā ca cakkhāyatanañca cakkhuviññāṇassa atthipaccayena paccayo…pe…  kāyaviññāṇasahagatā…pe…  cittasaṃsaṭṭhasamuṭṭhānā khandhā ca cittañca cittasaṃsaṭṭhasamuṭṭhānānaṃ rūpānaṃ atthipaccayena paccayo, cittasaṃsaṭṭhasamuṭṭhānā khandhā ca mahābhūtā ca cittasaṃsaṭṭhasamuṭṭhānānaṃ rūpānaṃ atthipaccayena paccayo, cittasaṃsaṭṭhasamuṭṭhānā khandhā ca vatthu ca cittassa atthipaccayena paccayo (paṭisandhikkhaṇe tīṇi kātabbā). **Pacchājātā**—  cittasaṃsaṭṭhasamuṭṭhānā khandhā ca cittañca purejātassa imassa nocittasaṃsaṭṭhasamuṭṭhānassa kāyassa atthipaccayena paccayo. **Pacchājātā**—  cittasaṃsaṭṭhasamuṭṭhānā khandhā ca cittañca kabaḷīkāro āhāro ca imassa nocittasaṃsaṭṭhasamuṭṭhānassa kāyassa atthipaccayena paccayo. **Pacchājātā**—  cittasaṃsaṭṭhasamuṭṭhānā khandhā ca cittañca rūpajīvitindriyañca kaṭattārūpānaṃ atthipaccayena paccayo. (2)
 
 3077\. Cittasaṃsaṭṭhasamuṭṭhāno ca nocittasaṃsaṭṭhasamuṭṭhāno ca dhammā cittasaṃsaṭṭhasamuṭṭhānassa ca nocittasaṃsaṭṭhasamuṭṭhānassa ca dhammassa atthipaccayena paccayo—  sahajātaṃ, purejātaṃ. **Sahajāto**—  cakkhuviññāṇasahagato eko khandho ca cakkhāyatanañca dvinnaṃ khandhānaṃ cakkhuviññāṇassa ca atthipaccayena paccayo, dve khandhā ca…pe…  kāyaviññāṇasahagato…pe… . **Sahajāto**—  cittasaṃsaṭṭhasamuṭṭhāno eko khandho ca cittañca dvinnaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ atthipaccayena paccayo, dve khandhā ca…pe…  cittasaṃsaṭṭhasamuṭṭhāno eko khandho ca vatthu ca dvinnaṃ khandhānaṃ cittassa ca atthipaccayena paccayo, dve khandhā ca…pe… . (Paṭisandhikkhaṇe dvepi kātabbā.) (3)
-
-
-

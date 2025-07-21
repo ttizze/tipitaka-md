@@ -1,11 +1,4 @@
-
-
 # Anantara
-
-
-
-
-
 
 (36.)
 
@@ -30,6 +23,3 @@
 2537\. Maggārammaṇo ca maggādhipati ca dhammā maggādhipatissa dhammassa anantarapaccayena paccayo—  purimā purimā maggārammaṇā ca maggādhipatī ca khandhā pacchimānaṃ pacchimānaṃ maggādhipatīnaṃ khandhānaṃ anantarapaccayena paccayo. (2)
 
 2538\. Maggārammaṇo ca maggādhipati ca dhammā maggārammaṇassa ca maggādhipatissa ca dhammassa anantarapaccayena paccayo—  purimā purimā maggārammaṇā ca maggādhipatī ca khandhā pacchimānaṃ pacchimānaṃ maggārammaṇānañca maggādhipatīnañca khandhānaṃ anantarapaccayena paccayo. (3)
-
-
-

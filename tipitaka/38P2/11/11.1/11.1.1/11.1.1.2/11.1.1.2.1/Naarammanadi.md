@@ -1,12 +1,4 @@
-
-
 # Naārammaṇādi
-
-
-
-
-
-
 
 (7.)
 
@@ -17,6 +9,3 @@
 3541\. Upādānañca noupādānaṃ ca dhammaṃ paṭicca noupādāno dhammo uppajjati naārammaṇapaccayā—  upādāne ca sampayuttake ca khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ, upādāne ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
 
 3542\. Naadhipatipaccayā…  naanantarapaccayā…pe…  naupanissayapaccayā.
-
-
-

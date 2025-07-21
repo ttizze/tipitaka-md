@@ -1,10 +1,4 @@
-
-
 # Hetu
-
-
-
-
 
 (58.)
 
@@ -19,6 +13,3 @@
 1885\. Hetuyā ekaṃ, ārammaṇe tīṇi, adhipatiyā tīṇi…pe…  upanissaye tīṇi…pe…  kamme dve…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
 
 1886\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
-
-
-

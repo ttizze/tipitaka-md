@@ -1,11 +1,4 @@
-
-
 # Āsevana
-
-
-
-
-
 
 (290.)
 
@@ -14,6 +7,3 @@
 940\. Akusalo dhammo akusalassa dhammassa āsevanapaccayena paccayo—  purimā purimā akusalā khandhā pacchimānaṃ pacchimānaṃ akusalānaṃ khandhānaṃ āsevanapaccayena paccayo. (1)
 
 941\. Abyākato dhammo abyākatassa dhammassa āsevanapaccayena paccayo—  purimā purimā kiriyābyākatā khandhā pacchimānaṃ pacchimānaṃ kiriyābyākatānaṃ khandhānaṃ āsevanapaccayena paccayo. (1)
-
-
-

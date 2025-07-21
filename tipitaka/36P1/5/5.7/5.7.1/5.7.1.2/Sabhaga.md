@@ -1,11 +1,4 @@
-
-
 # Sabhāga
-
-
-
-
-
 
 2767\. Hetupaccayā adhipatiyā cattāri, sahajāte satta, aññamaññe tīṇi, nissaye satta, vipāke cha, indriye satta, magge satta, sampayutte tīṇi, vippayutte cattāri, atthiyā satta, avigate satta. (Saṃkhittaṃ.)
 
@@ -14,8 +7,3 @@
 ---
 
 2769\. Anulomaṃ.
-
-
-
-
-

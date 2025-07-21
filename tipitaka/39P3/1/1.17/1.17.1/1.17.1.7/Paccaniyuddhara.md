@@ -1,11 +1,4 @@
-
-
 # Paccanīyuddhāra
-
-
-
-
-
 
 (479.)
 
@@ -24,8 +17,3 @@
 ---
 
 1061\. Hetudukauppannattikaṃ niṭṭhitaṃ.
-
-
-
-
-

@@ -1,12 +1,4 @@
-
-
 # Anantara
-
-
-
-
-
-
 
 (142.)
 
@@ -33,6 +25,3 @@
 405\. Hetu ceva sahetuko ca sahetuko ceva na ca hetu ca dhammā sahetukassa ceva na ca hetussa dhammassa anantarapaccayena paccayo—  purimā purimā hetū ca sampayuttakā ca khandhā pacchimānaṃ pacchimānaṃ sahetukānañceva na ca hetūnaṃ khandhānaṃ anantarapaccayena paccayo. (2)
 
 406\. Hetu ceva sahetuko ca sahetuko ceva na ca hetu ca dhammā hetussa ceva sahetukassa ca sahetukassa ceva na ca hetussa ca dhammassa anantarapaccayena paccayo—  purimā purimā hetū ca sampayuttakā ca khandhā pacchimānaṃ pacchimānaṃ hetūnaṃ sampayuttakānañca khandhānaṃ anantarapaccayena paccayo. (3)
-
-
-

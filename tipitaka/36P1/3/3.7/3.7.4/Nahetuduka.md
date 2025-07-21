@@ -1,10 +1,4 @@
-
-
 # Nahetuduka
-
-
-
-
 
 (88.)
 
@@ -13,6 +7,3 @@
 * [Tika](Nahetuduka/Tika.md)
 * [Chakka](Nahetuduka/Chakka.md)
 * [Navaka](Nahetuduka/Navaka.md)
-
-
-

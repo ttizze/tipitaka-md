@@ -1,9 +1,4 @@
-
-
 # Paccanīyuddhāra
-
-
-
 
 (92.)
 
@@ -23,19 +18,10 @@
 
 201\. Dhammapaccanīyānulome dukadukapaṭṭhānaṃ niṭṭhitaṃ.
 
-
-
 ---
 
 202\. Paccanīyānulomapaṭṭhānaṃ niṭṭhitaṃ.
 
-
-
 ---
 
 203\. Paṭṭhānapakaraṇaṃ niṭṭhitaṃ.
-
-
-
-
-

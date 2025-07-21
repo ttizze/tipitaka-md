@@ -1,11 +1,4 @@
-
-
 # Paccanīyuddhāra
-
-
-
-
-
 
 (45.)
 
@@ -24,8 +17,3 @@
 ---
 
 1361\. Hetusampayuttadukakusalattikaṃ niṭṭhitaṃ.
-
-
-
-
-

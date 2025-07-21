@@ -1,12 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
-
 
 (80.)
 
@@ -31,6 +23,3 @@
 4024\. Kilesañceva saṃkiliṭṭhañca saṃkiliṭṭhañceva no ca kilesañca dhammaṃ paṭicca saṃkiliṭṭho ceva no ca kileso dhammo uppajjati hetupaccayā—  saṃkiliṭṭhañceva no ca kilesaṃ ekaṃ khandhañca kilese ca paṭicca tayo khandhā…pe…  dve khandhe ca…pe… . (2)
 
 4025\. Kilesañceva saṃkiliṭṭhañca saṃkiliṭṭhañceva no ca kilesañca dhammaṃ paṭicca kileso ceva saṃkiliṭṭho ca saṃkiliṭṭho ceva no ca kileso ca dhammā uppajjanti hetupaccayā—  saṃkiliṭṭhañceva no ca kilesaṃ ekaṃ khandhañca lobhañca paṭicca tayo khandhā moho diṭṭhi thinaṃ uddhaccaṃ ahirikaṃ anottappaṃ…pe…  dve khandhe ca…pe… . (Cakkaṃ.) (3)
-
-
-

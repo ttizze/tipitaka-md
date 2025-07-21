@@ -1,12 +1,4 @@
-
-
 # Purejāta
-
-
-
-
-
-
 
 (81.)
 
@@ -15,6 +7,3 @@
 4246\. Nadassanena pahātabbahetuko dhammo dassanena pahātabbahetukassa dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ. **Ārammaṇapurejātaṃ**—  cakkhuṃ…pe…  vatthuṃ assādeti abhinandati, taṃ ārabbha dassanena pahātabbahetuko rāgo uppajjati, diṭṭhi…pe…  vicikicchā…pe…  dassanena pahātabbahetukaṃ domanassaṃ uppajjati. (Vatthupurejātaṃ saṃkhittaṃ.) (2)
 
 4247\. Nadassanena pahātabbahetuko dhammo dassanena pahātabbahetukassa ca nadassanena pahātabbahetukassa ca dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ. **Ārammaṇapurejātaṃ**—  cakkhuṃ…pe…  vatthuṃ ārabbha vicikicchāsahagatā khandhā ca moho ca uppajjanti. (Vatthupurejātaṃ saṃkhittaṃ.) (3)
-
-
-

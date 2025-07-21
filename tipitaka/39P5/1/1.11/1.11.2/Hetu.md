@@ -1,10 +1,4 @@
-
-
 # Hetu
-
-
-
-
 
 (53.)
 
@@ -21,6 +15,3 @@
 173\. Abyākataṃ appamāṇaṃ dhammaṃ paṭicca abyākato appamāṇo dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
 
 174\. Hetuyā dve…pe…  āsevane ekaṃ…pe…  vipāke ekaṃ…pe…  avigate dve. (Saṃkhittaṃ. Sahajātavārepi…pe…  pañhāvārepi sabbattha vitthāro.)
-
-
-

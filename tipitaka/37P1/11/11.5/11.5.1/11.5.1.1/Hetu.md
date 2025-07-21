@@ -1,11 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
 
 (37.)
 
@@ -14,6 +7,3 @@
 1544\. Apacayagāmiṃ dhammaṃ saṃsaṭṭho apacayagāmī dhammo uppajjati hetupaccayā—  apacayagāmiṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā…pe…  dve khandhe…pe… . (1)
 
 1545\. Nevācayagāmināpacayagāmiṃ dhammaṃ saṃsaṭṭho nevācayagāmināpacayagāmī dhammo uppajjati hetupaccayā—  nevācayagāmināpacayagāmiṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā…pe…  dve khandhe…pe…  paṭisandhikkhaṇe…pe… . (1)
-
-
-

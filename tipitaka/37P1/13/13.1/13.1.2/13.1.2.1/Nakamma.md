@@ -1,11 +1,4 @@
-
-
 # Nakamma
-
-
-
-
-
 
 (22.)
 
@@ -14,6 +7,3 @@
 1937\. Mahaggataṃ dhammaṃ paṭicca mahaggato dhammo uppajjati nakammapaccayā—  mahaggate khandhe paṭicca mahaggatā cetanā. (1)
 
 1938\. Appamāṇaṃ dhammaṃ paṭicca appamāṇo dhammo uppajjati nakammapaccayā—  kusale appamāṇe khandhe paṭicca appamāṇā cetanā. (1)
-
-
-

@@ -1,12 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
-
 
 (37.)
 
@@ -21,6 +13,3 @@
 1194\. Naadhipatiyā dve…pe…  naāsevane nakamme navipāke ekaṃ, navippayutte dve. (Saṃkhittaṃ.)
 
 1195\. (Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ.)
-
-
-

@@ -1,10 +1,4 @@
-
-
 # Paccayacatukka
-
-
-
-
 
 (51.)
 
@@ -19,6 +13,3 @@
 1671\. Kusalaṃ aniyataṃ dhammaṃ paṭicca kusalo aniyato dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
 
 1672\. Hetuyā nava, ārammaṇe tīṇi…pe…  avigate nava. (Saṃkhittaṃ.) (Sahajātavārampi…pe…  pañhāvārampi evaṃ vitthāretabbaṃ.)
-
-
-

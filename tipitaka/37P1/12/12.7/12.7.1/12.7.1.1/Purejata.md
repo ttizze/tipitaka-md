@@ -1,11 +1,4 @@
-
-
 # Purejāta
-
-
-
-
-
 
 (56.)
 
@@ -14,6 +7,3 @@
 1809\. Nevasekkhanāsekkho dhammo sekkhassa dhammassa purejātapaccayena paccayo. **Vatthupurejātaṃ**—  vatthu sekkhānaṃ khandhānaṃ purejātapaccayena paccayo. (2)
 
 1810\. Nevasekkhanāsekkho dhammo asekkhassa dhammassa purejātapaccayena paccayo. **Vatthupurejātaṃ**—  vatthu asekkhānaṃ khandhānaṃ purejātapaccayena paccayo. (3)
-
-
-

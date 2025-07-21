@@ -1,12 +1,4 @@
-
-
 # Ārammaṇa
-
-
-
-
-
-
 
 (98.)
 
@@ -31,6 +23,3 @@
 270\. Sahetuko ca ahetuko ca dhammā ahetukassa dhammassa ārammaṇapaccayena paccayo—  vicikicchāsahagate uddhaccasahagate khandhe ca mohañca ārabbha ahetukā khandhā ca moho ca uppajjanti. (2)
 
 271\. Sahetuko ca ahetuko ca dhammā sahetukassa ca ahetukassa ca dhammassa ārammaṇapaccayena paccayo—  vicikicchāsahagate uddhaccasahagate khandhe ca mohañca ārabbha vicikicchāsahagatā uddhaccasahagatā khandhā ca moho ca uppajjanti. (3)
-
-
-

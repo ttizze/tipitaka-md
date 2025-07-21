@@ -1,11 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
 
 (18.)
 
@@ -34,6 +27,3 @@
 1713\. Sekkhañca nevasekkhanāsekkhañca dhammaṃ paccayā sekkho ca nevasekkhanāsekkho ca dhammā uppajjanti hetupaccayā—  sekkhaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhā. Sekkhe khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ. (3)
 
 1714\. Asekkhañca nevasekkhanāsekkhañca dhammaṃ paccayā…  tīṇi. (Sekkhasadisā.)
-
-
-

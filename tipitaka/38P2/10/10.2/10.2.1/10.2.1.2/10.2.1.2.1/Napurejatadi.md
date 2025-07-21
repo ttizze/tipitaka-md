@@ -1,12 +1,4 @@
-
-
 # Napurejātādi
-
-
-
-
-
-
 
 (56.)
 
@@ -23,8 +15,3 @@
 ---
 
 2447\. Napacchājātapaccayā…  naāsevanapaccayā… .
-
-
-
-
-

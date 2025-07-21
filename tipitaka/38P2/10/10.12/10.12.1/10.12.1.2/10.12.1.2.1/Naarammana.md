@@ -1,12 +1,4 @@
-
-
 # Naārammaṇa
-
-
-
-
-
-
 
 (326.)
 
@@ -29,6 +21,3 @@
 3128\. Ajjhattikañca bāhirañca dhammaṃ paṭicca bāhiro dhammo uppajjati naārammaṇapaccayā—  bāhire khandhe ca cittañca paṭicca cittasamuṭṭhānaṃ rūpaṃ, cittañca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (Paṭisandhikkhaṇe dve kātabbā.)
 
 3129\. Ajjhattikañca bāhirañca dhammaṃ paṭicca ajjhattiko ca bāhiro ca dhammā uppajjanti naārammaṇapaccayā—  paṭisandhikkhaṇe cittañca sampayuttake ca khandhe paṭicca ajjhattikañca bāhirañca kaṭattārūpaṃ. (Saṃkhittaṃ.) (3)
-
-
-

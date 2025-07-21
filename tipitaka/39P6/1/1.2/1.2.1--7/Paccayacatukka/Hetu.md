@@ -1,11 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
 
 (12.)
 
@@ -46,6 +39,3 @@
 40\. Hetuyā ekaṃ, ārammaṇe cattāri…pe…  avigate cattāri. (Saṃkhittaṃ.)
 
 41\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
-
-
-

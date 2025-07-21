@@ -1,12 +1,4 @@
-
-
 # Ārammaṇa
-
-
-
-
-
-
 
 (220.)
 
@@ -27,6 +19,3 @@
 843\. Nahetupaccayā ārammaṇe nava. (Saṃkhittaṃ.)
 
 844\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
-
-
-

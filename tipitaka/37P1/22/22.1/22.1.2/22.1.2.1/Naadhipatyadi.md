@@ -1,11 +1,4 @@
-
-
 # Naadhipatyādi
-
-
-
-
-
 
 (5.)
 
@@ -16,6 +9,3 @@
 2879\. Bahiddhārammaṇaṃ dhammaṃ paṭicca bahiddhārammaṇo dhammo uppajjati napurejātapaccayā—  arūpe bahiddhārammaṇaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe… . Paṭisandhikkhaṇe…pe…  napacchājātapaccayā…  naāsevanapaccayā…  (sahajātasadisaṃ) nakammapaccayā—  ajjhattārammaṇe khandhe paṭicca ajjhattārammaṇā cetanā.
 
 2880\. Bahiddhārammaṇaṃ dhammaṃ paṭicca bahiddhārammaṇo dhammo uppajjati nakammapaccayā—  bahiddhārammaṇe khandhe paṭicca bahiddhārammaṇā cetanā.
-
-
-

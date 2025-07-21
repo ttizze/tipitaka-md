@@ -1,10 +1,4 @@
-
-
 # Hetu
-
-
-
-
 
 (316.)
 
@@ -13,8 +7,3 @@
 ---
 
 3094\. Cittasaṃsaṭṭhasamuṭṭhānasahabhūdukaṃ niṭṭhitaṃ.
-
-
-
-
-

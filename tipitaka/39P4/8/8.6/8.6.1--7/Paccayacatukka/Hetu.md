@@ -1,11 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
 
 (23.)
 
@@ -34,6 +27,3 @@
 1774\. Hetuyā sattatiṃsa, ārammaṇe ekavīsa, adhipatiyā tevīsa…pe…  aññamaññe aṭṭhavīsa…pe…  purejāte āsevane ekādasa…pe…  avigate sattatiṃsa. (Saṃkhittaṃ.)
 
 1775\. (Sahajātavārampi…pe…  pañhāvārampi vitthāretabbaṃ.)
-
-
-

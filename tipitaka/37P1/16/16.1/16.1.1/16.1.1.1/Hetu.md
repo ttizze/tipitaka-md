@@ -1,11 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
 
 (1.)
 
@@ -28,6 +21,3 @@
 2268\. Micchattaniyatañca aniyatañca dhammaṃ paṭicca aniyato dhammo uppajjati hetupaccayā—  micchattaniyate khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
 
 2269\. Sammattaniyatañca aniyatañca dhammaṃ paṭicca aniyato dhammo uppajjati hetupaccayā—  sammattaniyate khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
-
-
-

@@ -1,10 +1,4 @@
-
-
 # Paccayacatukka
-
-
-
-
 
 (1.)
 
@@ -39,6 +33,3 @@
 (5.)
 
 1447\. Hetuyā cattāri, ārammaṇe nava, adhipatiyā dasa…pe…  avigate terasa. (Saṃkhittaṃ. Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
-
-
-

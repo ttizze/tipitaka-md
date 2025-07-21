@@ -1,11 +1,4 @@
-
-
 # Paccayacatukka
-
-
-
-
-
 
 (51.)
 
@@ -36,6 +29,3 @@
 167\. Hetuyā satta, ārammaṇe nava, adhipatiyā nava…pe…  avigate terasa. (Saṃkhittaṃ.)
 
 168\. (Yathā kusalattike pañhāvāraṃ evaṃ vitthāretabbaṃ.)
-
-
-

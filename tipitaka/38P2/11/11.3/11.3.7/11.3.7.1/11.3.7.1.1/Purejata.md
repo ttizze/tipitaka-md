@@ -1,12 +1,4 @@
-
-
 # Purejāta
-
-
-
-
-
-
 
 (79.)
 
@@ -15,6 +7,3 @@
 3718\. Upādānavippayutto dhammo upādānasampayuttassa dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ. **Ārammaṇapurejātaṃ**—  cakkhuṃ…pe…  vatthuṃ assādeti abhinandati, taṃ ārabbha rāgo uppajjati, diṭṭhi uppajjati. Vatthupurejātaṃ—  vatthu upādānasampayuttakānaṃ khandhānaṃ purejātapaccayena paccayo. (2)
 
 3719\. Upādānavippayutto dhammo upādānasampayuttassa ca upādānavippayuttassa ca dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ. **Ārammaṇapurejātaṃ**—  cakkhuṃ…pe…  vatthuṃ ārabbha diṭṭhigatavippayuttalobhasahagatā khandhā ca lobho ca uppajjanti. **Vatthupurejātaṃ**—  vatthu diṭṭhigatavippayuttalobhasahagatānaṃ khandhānaṃ lobhassa ca purejātapaccayena paccayo. (3)
-
-
-

@@ -1,11 +1,4 @@
-
-
 # Āhārādi
-
-
-
-
-
 
 (81.)
 
@@ -20,6 +13,3 @@
 2118\. Mahaggato dhammo parittassa dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, pacchājātaṃ. **Sahajātā**—  mahaggatā khandhā cittasamuṭṭhānānaṃ rūpānaṃ vippayuttapaccayena paccayo. Paṭisandhikkhaṇe…pe…  **pacchājātā**—  mahaggatā khandhā purejātassa imassa kāyassa vippayuttapaccayena paccayo. (1)
 
 2119\. Appamāṇo dhammo parittassa dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, pacchājātaṃ. **Sahajātā**—  appamāṇā khandhā cittasamuṭṭhānānaṃ rūpānaṃ vippayuttapaccayena paccayo. **Pacchājātā**—  appamāṇā khandhā purejātassa imassa kāyassa vippayuttapaccayena paccayo. (1)
-
-
-

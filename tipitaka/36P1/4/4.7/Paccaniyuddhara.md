@@ -1,9 +1,4 @@
-
-
 # Paccanīyuddhāra
-
-
-
 
 (121.)
 
@@ -38,6 +33,3 @@
 2422\. Vipākadhammadhammo ca nevavipākanavipākadhammadhammo ca dhammā vipākadhammadhammassa sahajātaṃ…  purejātaṃ. (1)
 
 2423\. Vipākadhammadhammo ca nevavipākanavipākadhammadhammo ca dhammā nevavipākanavipākadhammadhammassa sahajātaṃ…  pacchājātaṃ…  āhāraṃ…  indriyaṃ. (2)
-
-
-

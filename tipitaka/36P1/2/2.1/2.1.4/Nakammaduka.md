@@ -1,10 +1,4 @@
-
-
 # Nakammaduka
-
-
-
-
 
 (90.)
 
@@ -12,6 +6,3 @@
 
 * [Tika](Nakammaduka/Tika.md)
 * [Catukka](Nakammaduka/Catukka.md)
-
-
-

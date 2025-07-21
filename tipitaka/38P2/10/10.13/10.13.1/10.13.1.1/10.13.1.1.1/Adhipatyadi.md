@@ -1,12 +1,4 @@
-
-
 # Adhipatyādi
-
-
-
-
-
-
 
 (372.)
 
@@ -17,6 +9,3 @@
 3248\. Noupādā dhammaṃ paṭicca upādā ca noupādā ca dhammā uppajjanti adhipatipaccayā—  noupādā ekaṃ khandhaṃ paṭicca tayo khandhā upādā ca noupādā ca cittasamuṭṭhānaṃ rūpaṃ…pe…  dve khandhe…pe… . (3)
 
 3249\. Anantarapaccayā tīṇi, samanantarapaccayā tīṇi, sahajātapaccayā pañca.
-
-
-

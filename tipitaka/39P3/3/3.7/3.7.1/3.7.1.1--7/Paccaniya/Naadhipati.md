@@ -1,12 +1,4 @@
-
-
 # Naadhipati
-
-
-
-
-
-
 
 (57.)
 
@@ -17,6 +9,3 @@
 1581\. Naadhipatiyā nava, napurejāte nava, napacchājāte nava, naāsevane nava, nakamme nava, navipāke nava…pe…  navippayutte nava. (Saṃkhittaṃ.)
 
 1582\. (Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
-
-
-

@@ -1,10 +1,4 @@
-
-
 # Hetu
-
-
-
-
 
 (9.)
 
@@ -19,6 +13,3 @@
 (11.)
 
 1607\. Naadhipatiyā dve…pe…  naāsevane ekaṃ…pe…  navippayutte dve. (Saṃkhittaṃ. Paccanīyaṃ. Sahajātavārepi…pe…  sampayuttavārepi sabbattha dve.)
-
-
-

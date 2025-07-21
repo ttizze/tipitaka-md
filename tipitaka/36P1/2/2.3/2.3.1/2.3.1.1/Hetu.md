@@ -1,11 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
 
 (108.)
 
@@ -34,6 +27,3 @@
 (112.)
 
 429\. Akusalañca abyākatañca dhammaṃ paccayā akusalo dhammo uppajjati hetupaccayā—  akusalaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā, tayo khandhe ca vatthuñca paccayā eko khandho, dve khandhe ca vatthuñca paccayā dve khandhā. Akusalañca abyākatañca dhammaṃ paccayā abyākato dhammo uppajjati hetupaccayā—  akusale khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ. Akusalañca abyākatañca dhammaṃ paccayā akusalo ca abyākato ca dhammā uppajjanti hetupaccayā—  akusalaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā, tayo khandhe ca vatthuñca paccayā eko khandho, dve khandhe ca vatthuñca paccayā dve khandhā, akusale khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ. (3)
-
-
-

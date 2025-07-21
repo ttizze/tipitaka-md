@@ -1,12 +1,4 @@
-
-
 # Atthyādi
-
-
-
-
-
-
 
 (132.)
 
@@ -23,6 +15,3 @@
 4366\. Savitakko ca avitakko ca dhammā savitakkassa ca avitakkassa ca dhammassa atthipaccayena paccayo—  sahajātaṃ, purejātaṃ. **Sahajāto**—  savitakko eko khandho ca vitakko ca tiṇṇannaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ atthipaccayena paccayo…pe…  dve khandhā ca…pe… . **Sahajāto**—  savitakko eko khandho ca vatthu ca tiṇṇannaṃ khandhānaṃ vitakkassa ca atthipaccayena paccayo…pe…  dve khandhā ca…pe… . (Paṭisandhiyāpi dve.) (3)
 
 4367\. Natthipaccayena paccayo…  vigatapaccayena paccayo…  avigatapaccayena paccayo.
-
-
-

@@ -1,11 +1,4 @@
-
-
 # Sajhānaghaṭanā
-
-
-
-
-
 
 (478.)
 
@@ -26,6 +19,3 @@
 1609\. Magga sahajāta nissaya vipāka jhāna vippayutta atthi avigatanti nahetuyā ekaṃ…pe…  novigate ekaṃ.
 
 1610\. Magga sahajāta aññamañña nissaya vipāka jhāna vippayutta atthi avigatanti nahetuyā ekaṃ…pe…  novigate ekaṃ. [Savipāka—  5]
-
-
-

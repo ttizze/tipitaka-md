@@ -1,12 +1,4 @@
-
-
 # Nahetu-naadhipati
-
-
-
-
-
-
 
 (33.)
 
@@ -23,6 +15,3 @@
 1331\. Nahetupaccayā ārammaṇe ekaṃ. (Saṃkhittaṃ.)
 
 1332\. (Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
-
-
-

@@ -1,12 +1,4 @@
-
-
 # Ārammaṇa
-
-
-
-
-
-
 
 (70.)
 
@@ -23,6 +15,3 @@
 (72.)
 
 4230\. Dassanena pahātabbahetuko ca nadassanena pahātabbahetuko ca dhammā dassanena pahātabbahetukassa dhammassa ārammaṇapaccayena paccayo—  vicikicchāsahagate khandhe ca mohañca ārabbha dassanena pahātabbahetukā khandhā uppajjanti. (Mūlaṃ kātabbaṃ.) Vicikicchāsahagate khandhe ca mohañca ārabbha nadassanena pahātabbahetukā khandhā ca moho ca uppajjanti. (Mūlaṃ kātabbaṃ.) Vicikicchāsahagate khandhe ca mohañca ārabbha vicikicchāsahagatā khandhā ca moho ca uppajjanti. (3)
-
-
-

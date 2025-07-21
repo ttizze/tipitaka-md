@@ -1,12 +1,4 @@
-
-
 # Āhāra
-
-
-
-
-
-
 
 (35.)
 
@@ -15,6 +7,3 @@
 93\. Nahetu dhammo hetussa dhammassa āhārapaccayena paccayo—  nahetū āhārā sampayuttakānaṃ hetūnaṃ āhārapaccayena paccayo; paṭisandhikkhaṇe…pe… . (2)
 
 94\. Nahetu dhammo hetussa ca nahetussa ca dhammassa āhārapaccayena paccayo—  nahetū āhārā sampayuttakānaṃ khandhānaṃ hetūnaṃ cittasamuṭṭhānānañca rūpānaṃ āhārapaccayena paccayo; paṭisandhikkhaṇe…pe… . (3)
-
-
-

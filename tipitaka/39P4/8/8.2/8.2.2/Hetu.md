@@ -1,10 +1,4 @@
-
-
 # Hetu
-
-
-
-
 
 (5.)
 
@@ -27,6 +21,3 @@
 1723\. Hetuyā dve, ārammaṇe cha, adhipatiyā cattāri, anantare samanantare satta, sahajāte aññamaññe nissaye tīṇi, upanissaye nava, āsevane dve, kamme pañca, vipāke āhāre indriye tīṇi, jhāne magge dve, sampayutte tīṇi…pe…  avigate tīṇi. (Saṃkhittaṃ.)
 
 1724\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
-
-
-

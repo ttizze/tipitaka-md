@@ -1,12 +1,4 @@
-
-
 # Upanissaya
-
-
-
-
-
-
 
 (159.)
 
@@ -21,6 +13,3 @@
 4425\. Appītiko dhammo sappītikassa ca appītikassa ca dhammassa upanissayapaccayena paccayo (tīṇi upanissayā). Appītikaṃ saddhaṃ upanissāya sappītikena cittena dānaṃ deti…pe…  samāpattiṃ uppādeti, mānaṃ jappeti, diṭṭhiṃ gaṇhāti; appītikaṃ sīlaṃ…pe…  senāsanaṃ pītiṃ upanissāya sappītikena cittena dānaṃ deti…pe…  samāpattiṃ uppādeti; sappītikena cittena adinnaṃ ādiyati…pe…  (dutiyavārasadisaṃ) nigamaghātaṃ karoti; appītikā saddhā…pe…  senāsanaṃ pīti ca sappītikāya saddhāya…pe…  paññāya…  rāgassa…  mohassa…  mānassa…  diṭṭhiyā…  patthanāya…  maggassa, phalasamāpattiyā pītiyā ca upanissayapaccayena paccayo. (3)
 
 4426\. Sappītiko ca appītiko ca dhammā sappītikassa dhammassa upanissayapaccayena paccayo (tīṇipi upanissayā). Sappītikā khandhā ca pīti ca sappītikānaṃ khandhānaṃ upanissayapaccayena paccayo. (Mūlaṃ kātabbaṃ.) Sappītikā khandhā ca pīti ca appītikānaṃ khandhānaṃ pītiyā ca upanissayapaccayena paccayo. (Mūlaṃ kātabbaṃ.) Sappītikā khandhā ca pīti ca sappītikānaṃ khandhānaṃ pītiyā ca upanissayapaccayena paccayo. (3)
-
-
-

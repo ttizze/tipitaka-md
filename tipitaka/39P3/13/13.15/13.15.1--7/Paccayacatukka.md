@@ -1,10 +1,4 @@
-
-
 # Paccayacatukka
-
-
-
-
 
 (94.)
 
@@ -43,6 +37,3 @@
 2585\. Aniyataṃ abyākataṃ dhammaṃ paṭicca aniyato abyākato dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
 
 2586\. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ. Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
-
-
-

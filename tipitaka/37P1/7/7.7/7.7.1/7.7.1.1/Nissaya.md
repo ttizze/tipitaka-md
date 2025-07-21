@@ -1,11 +1,4 @@
-
-
 # Nissaya
-
-
-
-
-
 
 (98.)
 
@@ -48,6 +41,3 @@
 425\. Savitakkasavicāro ca avitakkavicāramatto ca dhammā savitakkasavicārassa dhammassa…pe…  avitakkaavicārassa dhammassa…pe…  savitakkasavicārassa ca avitakkaavicārassa ca dhammassa…pe…  tīṇi.
 
 426\. Savitakkasavicāro ca avitakkavicāramatto ca avitakkaavicāro ca dhammā savitakkasavicārassa dhammassa…pe…  avitakkaavicārassa dhammassa nissayapaccayena paccayo. (Dve vārā vitthāretabbā.)
-
-
-

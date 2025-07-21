@@ -1,12 +1,4 @@
-
-
 # Ārammaṇa
-
-
-
-
-
-
 
 (87.)
 
@@ -23,6 +15,3 @@
 241\. Ahetukaṃ dhammaṃ saṃsaṭṭho sahetuko dhammo uppajjati ārammaṇapaccayā—  vicikicchāsahagataṃ uddhaccasahagataṃ mohaṃ saṃsaṭṭhā vicikicchāsahagatā uddhaccasahagatā khandhā. (2)
 
 242\. Sahetukañca ahetukañca dhammaṃ saṃsaṭṭho sahetuko dhammo uppajjati ārammaṇapaccayā—  vicikicchāsahagataṃ uddhaccasahagataṃ ekaṃ khandhañca mohañca saṃsaṭṭhā tayo khandhā…pe…  dve khandhe…pe… . (1)
-
-
-

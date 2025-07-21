@@ -1,12 +1,4 @@
-
-
 # Nahetu
-
-
-
-
-
-
 
 (438.)
 
@@ -21,6 +13,3 @@
 3429\. Anupādinnaṃ dhammaṃ paccayā anupādinno dhammo uppajjati nahetupaccayā—  ahetukaṃ anupādinnaṃ ekaṃ khandhaṃ paccayā tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  ekaṃ mahābhūtaṃ…pe…  bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…pe…  vicikicchāsahagate uddhaccasahagate khandhe paccayā vicikicchāsahagato uddhaccasahagato moho. (1)
 
 3430\. Upādinnañca anupādinnañca dhammaṃ paccayā anupādinno dhammo uppajjati nahetupaccayā—  ahetuke upādinne khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ, ahetukaṃ anupādinnaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe ca…pe…  vicikicchāsahagate uddhaccasahagate khandhe ca vatthuñca paccayā vicikicchāsahagato uddhaccasahagato moho. (1) (Saṃkhittaṃ.)
-
-
-

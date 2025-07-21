@@ -1,12 +1,4 @@
-
-
 # Nahetu
-
-
-
-
-
-
 
 (5.)
 
@@ -17,6 +9,3 @@
 3821\. Nokilesaṃ dhammaṃ paṭicca kileso dhammo uppajjati nahetupaccayā—  vicikicchāsahagate uddhaccasahagate khandhe paṭicca vicikicchāsahagato uddhaccasahagato moho. (2)
 
 3822\. Kilesañca nokilesañca dhammaṃ paṭicca kileso dhammo uppajjati nahetupaccayā—  vicikicchāsahagate khandhe ca vicikicchañca paṭicca vicikicchāsahagato moho, uddhaccasahagate khandhe ca uddhaccañca paṭicca uddhaccasahagato moho. (1)
-
-
-

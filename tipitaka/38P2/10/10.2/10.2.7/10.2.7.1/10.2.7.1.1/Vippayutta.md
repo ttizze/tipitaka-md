@@ -1,12 +1,4 @@
-
-
 # Vippayutta
-
-
-
-
-
-
 
 (82.)
 
@@ -19,6 +11,3 @@
 2521\. Nocitto dhammo cittassa ca nocittassa ca dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, purejātaṃ. **Sahajātaṃ**—  paṭisandhikkhaṇe vatthu cittassa sampayuttakānañca khandhānaṃ vippayuttapaccayena paccayo. **Purejātaṃ**—  cakkhāyatanaṃ cakkhuviññāṇassa sampayuttakānañca khandhānaṃ vippayuttapaccayena paccayo…pe…  kāyāyatanaṃ kāyaviññāṇassa sampayuttakānañca khandhānaṃ…pe…  vatthu cittassa ca sampayuttakānañca khandhānaṃ vippayuttapaccayena paccayo. (3)
 
 2522\. Citto ca nocitto ca dhammā nocittassa dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, pacchājātaṃ. (Saṃkhittaṃ.) (1)
-
-
-

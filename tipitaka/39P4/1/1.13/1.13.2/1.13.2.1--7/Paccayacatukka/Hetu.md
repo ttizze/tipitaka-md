@@ -1,12 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
-
 
 (170.)
 
@@ -25,6 +17,3 @@
 633\. Nahetupaccayā ārammaṇe tīṇi. (Saṃkhittaṃ.)
 
 634\. (Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ vitthāretabbaṃ.)
-
-
-

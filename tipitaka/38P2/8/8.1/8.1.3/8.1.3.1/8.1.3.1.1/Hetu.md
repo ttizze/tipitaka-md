@@ -1,12 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
-
 
 (13.)
 
@@ -25,6 +17,3 @@
 1921\. Nīvaraṇañca nonīvaraṇañca dhammaṃ paccayā nonīvaraṇo dhammo uppajjati hetupaccayā—  nonīvaraṇaṃ ekaṃ khandhañca nīvaraṇañca paccayā tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  nīvaraṇañca vatthuñca paccayā sampayuttakā khandhā, nīvaraṇañca sampayuttake ca khandhe paccayā cittasamuṭṭhānaṃ rūpaṃ, nīvaraṇe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ. (2)
 
 1922\. Nīvaraṇañca nonīvaraṇañca dhammaṃ paccayā nīvaraṇo ca nonīvaraṇo ca dhammā uppajjanti hetupaccayā—  nonīvaraṇaṃ ekaṃ khandhañca kāmacchandanīvaraṇañca paccayā tayo khandhā thinamiddhanīvaraṇaṃ uddhaccanīvaraṇaṃ avijjānīvaraṇaṃ…pe…  dve khandhe…pe…  (cakkaṃ). Kāmacchandanīvaraṇañca vatthuñca paccayā thinamiddhanīvaraṇaṃ uddhaccanīvaraṇaṃ avijjānīvaraṇaṃ sampayuttakā ca khandhā. (Cakkaṃ. Saṃkhittaṃ.) (3)
-
-
-

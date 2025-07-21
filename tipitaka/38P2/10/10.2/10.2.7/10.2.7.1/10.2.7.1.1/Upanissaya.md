@@ -1,12 +1,4 @@
-
-
 # Upanissaya
-
-
-
-
-
-
 
 (77.)
 
@@ -17,6 +9,3 @@
 2505\. Nocitto dhammo cittassa dhammassa upanissayapaccayena paccayo. (Ime dvepi pūretukāmena sabbattha kātabbā, paṭhamagamanasadisaṃ ninnānākaraṇaṃ.)
 
 2506\. Citto ca nocitto ca dhammā cittassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  cittañca sampayuttakā ca khandhā cittassa upanissayapaccayena paccayo…  tīṇi.
-
-
-

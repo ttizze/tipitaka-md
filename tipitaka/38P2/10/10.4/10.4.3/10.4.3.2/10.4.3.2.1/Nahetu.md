@@ -1,12 +1,4 @@
-
-
 # Nahetu
-
-
-
-
-
-
 
 (158.)
 
@@ -19,6 +11,3 @@
 2706\. Cittavippayuttaṃ dhammaṃ paccayā cittasampayutto ca cittavippayutto ca dhammā uppajjanti nahetupaccayā—  vatthuṃ paccayā ahetukā cittasampayuttakā khandhā, mahābhūte paccayā cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe…pe… . (3)
 
 2707\. Cittasampayuttañca cittavippayuttañca dhammaṃ paccayā cittasampayutto dhammo uppajjati nahetupaccayā—  cakkhuviññāṇasahagataṃ ekaṃ khandhañca cakkhāyatanañca paccayā dve khandhā, dve khandhe ca…pe…  kāyaviññāṇasahagataṃ ekaṃ khandhañca kāyāyatanañca paccayā dve khandhā, dve khandhe ca…pe…  ahetukaṃ cittasampayuttaṃ ekaṃ khandhañca vatthuñca paccayā dve khandhā, dve khandhe ca…pe…  ahetukapaṭisandhikkhaṇe…pe…  vicikicchāsahagate uddhaccasahagate khandhe ca vatthuñca paccayā vicikicchāsahagato uddhaccasahagato moho. (Evaṃ dve pañhā pavattipaṭisandhi kātabbā. Saṃkhittaṃ.)
-
-
-

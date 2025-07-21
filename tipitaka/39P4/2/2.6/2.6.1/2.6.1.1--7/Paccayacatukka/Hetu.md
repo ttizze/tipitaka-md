@@ -1,12 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
-
 
 (36.)
 
@@ -23,6 +15,3 @@
 1073\. Naadhipatiyā tīṇi…pe…  navippayutte tīṇi. (Saṃkhittaṃ.)
 
 1074\. (Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ.)
-
-
-

@@ -1,12 +1,4 @@
-
-
 # Naārammaṇa
-
-
-
-
-
-
 
 (422.)
 
@@ -17,6 +9,3 @@
 3390\. Anupādinnaṃ dhammaṃ paṭicca anupādinno dhammo uppajjati naārammaṇapaccayā—  anupādinne khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ, ekaṃ mahābhūtaṃ…pe…  bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ ekaṃ mahābhūtaṃ…pe…  mahābhūte paṭicca upādārūpaṃ. (1)
 
 3391\. Upādinnañca anupādinnañca dhammaṃ paṭicca anupādinno dhammo uppajjati naārammaṇapaccayā—  upādinne khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
-
-
-

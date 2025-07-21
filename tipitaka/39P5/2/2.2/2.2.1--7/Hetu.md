@@ -1,10 +1,4 @@
-
-
 # Hetu
-
-
-
-
 
 (5.)
 
@@ -27,6 +21,3 @@
 316\. Vipākaṃ abyākatañca nevavipākanavipākadhammadhammaṃ abyākatañca dhammaṃ paṭicca vipāko abyākato dhammo uppajjati hetupaccayā…  tīṇi. (Saṃkhittaṃ.)
 
 317\. Hetuyā nava, ārammaṇe cattāri, adhipatiyā pañca…pe…  aññamaññe cha…pe…  upanissaye cattāri, purejāte dve, āsevane ekaṃ…pe…  sampayutte cattāri…pe…  avigate nava. (Saṃkhittaṃ. Sabbattha vitthāro.)
-
-
-

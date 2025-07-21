@@ -1,12 +1,4 @@
-
-
 # Hetu-ārammaṇa
-
-
-
-
-
-
 
 (14.)
 
@@ -21,6 +13,3 @@
 (15.)
 
 987\. Hetuyā tīṇi, ārammaṇe ekaṃ, adhipatiyā ekaṃ…pe…  avigate tīṇi. (Saṃkhittaṃ.)
-
-
-

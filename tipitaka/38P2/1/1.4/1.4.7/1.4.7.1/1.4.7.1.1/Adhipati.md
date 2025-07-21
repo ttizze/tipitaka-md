@@ -1,12 +1,4 @@
-
-
 # Adhipati
-
-
-
-
-
-
 
 (139.)
 
@@ -31,6 +23,3 @@
 395\. Hetu ceva sahetuko ca sahetuko ceva na ca hetu ca dhammā sahetukassa ceva na ca hetussa dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  hetuñca sampayuttake ca khandhe garuṃ katvā sahetukā ceva na ca hetū khandhā uppajjanti. (2)
 
 396\. Hetu ceva sahetuko ca sahetuko ceva na ca hetu ca dhammā hetussa ceva sahetukassa ca sahetukassa ceva na ca hetussa ca dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  hetuñca sampayuttake ca khandhe garuṃ katvā hetū ca sampayuttakā ca khandhā uppajjanti. (3)
-
-
-

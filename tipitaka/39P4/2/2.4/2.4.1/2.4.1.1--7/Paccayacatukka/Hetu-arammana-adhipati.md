@@ -1,12 +1,4 @@
-
-
 # Hetu-ārammaṇa-adhipati
-
-
-
-
-
-
 
 (22.)
 
@@ -41,8 +33,3 @@
 ---
 
 1023\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
-
-
-
-
-

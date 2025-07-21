@@ -1,12 +1,4 @@
-
-
 # Hetu-ārammaṇādi
-
-
-
-
-
-
 
 (104.)
 
@@ -41,6 +33,3 @@
 363\. Nahetupaccayā ārammaṇe soḷasa. (Saṃkhittaṃ.)
 
 364\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
-
-
-

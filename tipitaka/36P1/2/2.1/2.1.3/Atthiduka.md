@@ -1,10 +1,4 @@
-
-
 # Atthiduka
-
-
-
-
 
 (80.)
 
@@ -12,6 +6,3 @@
 
 * [Tika](Atthiduka/Tika.md)
 * [Catukka](Atthiduka/Catukka.md)
-
-
-

@@ -1,11 +1,4 @@
-
-
 # Anantara
-
-
-
-
-
 
 (20.)
 
@@ -30,6 +23,3 @@
 2212\. Appamāṇārammaṇo dhammo parittārammaṇassa dhammassa anantarapaccayena paccayo—  maggapaccavekkhaṇaṃ parittārammaṇassa vuṭṭhānassa…  phalapaccavekkhaṇaṃ parittārammaṇassa vuṭṭhānassa…  nibbānapaccavekkhaṇaṃ parittārammaṇassa vuṭṭhānassa…  appamāṇārammaṇaṃ cetopariyañāṇaṃ parittārammaṇassa vuṭṭhānassa…  pubbenivāsānussatiñāṇaṃ parittārammaṇassa vuṭṭhānassa…  anāgataṃsañāṇaṃ parittārammaṇassa vuṭṭhānassa…  phalaṃ parittārammaṇassa vuṭṭhānassa anantarapaccayena paccayo. (2)
 
 2213\. Appamāṇārammaṇo dhammo mahaggatārammaṇassa dhammassa anantarapaccayena paccayo—  maggapaccavekkhaṇaṃ mahaggatārammaṇassa vuṭṭhānassa…  phalapaccavekkhaṇaṃ mahaggatārammaṇassa vuṭṭhānassa…  nibbānapaccavekkhaṇaṃ mahaggatārammaṇassa vuṭṭhānassa…  phalaṃ mahaggatārammaṇassa vuṭṭhānassa anantarapaccayena paccayo. (3)
-
-
-

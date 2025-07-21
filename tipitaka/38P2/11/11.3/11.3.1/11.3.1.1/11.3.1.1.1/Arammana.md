@@ -1,12 +1,4 @@
-
-
 # Ārammaṇa
-
-
-
-
-
-
 
 (48.)
 
@@ -23,6 +15,3 @@
 3650\. Upādānavippayuttaṃ dhammaṃ paṭicca upādānasampayutto dhammo uppajjati ārammaṇapaccayā—  diṭṭhigatavippayuttaṃ lobhaṃ paṭicca sampayuttakā khandhā. (2)
 
 3651\. Upādānasampayuttañca upādānavippayuttañca dhammaṃ paṭicca upādānasampayutto dhammo uppajjati ārammaṇapaccayā—  diṭṭhigatavippayuttalobhasahagataṃ ekaṃ khandhañca lobhañca paṭicca tayo khandhā…pe…  dve khandhe ca…pe… . (3) (Saṃkhittaṃ.)
-
-
-

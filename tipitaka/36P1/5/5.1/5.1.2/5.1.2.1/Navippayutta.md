@@ -1,11 +1,4 @@
-
-
 # Navippayutta
-
-
-
-
-
 
 (24.)
 
@@ -14,6 +7,3 @@
 2507\. Anupādinnupādāniyaṃ dhammaṃ paṭicca anupādinnupādāniyo dhammo uppajjati navippayuttapaccayā—  arūpe anupādinnupādāniyaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ ekaṃ mahābhūtaṃ paṭicca…pe… . (1)
 
 2508\. Anupādinnaanupādāniyaṃ dhammaṃ paṭicca anupādinnaanupādāniyo dhammo uppajjati navippayuttapaccayā—  arūpe anupādinnaanupādāniyaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe paṭicca dve khandhā. (1)
-
-
-

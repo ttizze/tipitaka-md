@@ -1,12 +1,4 @@
-
-
 # Purejāta
-
-
-
-
-
-
 
 (161.)
 
@@ -15,6 +7,3 @@
 4428\. Appītiko dhammo sappītikassa dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ. **Ārammaṇapurejātaṃ**—  cakkhuṃ…pe…  vatthuṃ sappītikena cittena aniccato…pe…  vipassati, assādeti abhinandati, taṃ ārabbha sappītiko rāgo uppajjati, diṭṭhi uppajjati. **Vatthupurejātaṃ**—  vatthu sappītikānaṃ khandhānaṃ purejātapaccayena paccayo. (2)
 
 4429\. Appītiko dhammo sappītikassa ca appītikassa ca dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ. **Ārammaṇapurejātaṃ**—  cakkhuṃ…pe…  vatthuṃ sappītikena cittena aniccato…pe…  vipassati assādeti abhinandati, taṃ ārabbha pīti ca sampayuttakā khandhā ca uppajjanti. **Vatthupurejātaṃ**—  vatthu sappītikānaṃ khandhānaṃ pītiyā ca purejātapaccayena paccayo. (3)
-
-
-

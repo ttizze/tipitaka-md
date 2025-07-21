@@ -1,8 +1,4 @@
-
-
 # Katipucchāvāra
-
-
 
 (271.)
 
@@ -70,27 +66,18 @@
 
 1178\. Katipucchāvāro niṭṭhito.
 
-
-
 ---
 
 1179\. Tassuddānaṃ
-
-
 
 1180\. _Āpatti āpattikkhandhā,_  
 _vinītā sattadhā puna;_  
 _Vinītāgāravā ceva,_  
 _gāravā mūlameva ca._  
 
-
 1181\. _Puna vinītā vipatti,_  
 _samuṭṭhānā vivādanā;_  
 _Anuvādā sāraṇīyaṃ,_  
 _bhedādhikaraṇena ca;_  
 _Satteva samathā vuttā,_  
-_padā sattarasā imeti._  
-
-
-
-
+_padā sattarasā imeti._

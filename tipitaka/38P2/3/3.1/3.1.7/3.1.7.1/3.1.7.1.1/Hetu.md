@@ -1,12 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
-
 
 (16.)
 
@@ -25,6 +17,3 @@
 1014\. Noāsavo dhammo āsavassa ca noāsavassa ca dhammassa hetupaccayena paccayo—  noāsavā hetū sampayuttakānaṃ khandhānaṃ āsavānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo. (3)
 
 1015\. Āsavo ca noāsavo ca dhammā noāsavassa dhammassa hetupaccayena paccayo—  āsavā ca noāsavā ca hetū sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo. (1)
-
-
-

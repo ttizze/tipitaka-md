@@ -1,10 +1,4 @@
-
-
 # Nakammaduka
-
-
-
-
 
 (251.)
 
@@ -12,6 +6,3 @@
 
 * [Tika](Nakammaduka/Tika.md)
 * [Pañcaka](Nakammaduka/Pancaka.md)
-
-
-

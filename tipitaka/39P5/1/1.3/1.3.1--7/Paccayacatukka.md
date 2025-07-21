@@ -1,10 +1,4 @@
-
-
 # Paccayacatukka
-
-
-
-
 
 (18.)
 
@@ -61,6 +55,3 @@
 66\. Abyākataṃ anupādinnaanupādāniyaṃ dhammaṃ paṭicca abyākato anupādinnaanupādāniyo dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
 
 67\. Hetuyā dve…pe…  āsevane ekaṃ…pe…  vipāke ekaṃ…pe…  avigate dve. (Saṃkhittaṃ, sahajātavārampi…pe…  pañhāvārampi sabbattha vitthāro.)
-
-
-

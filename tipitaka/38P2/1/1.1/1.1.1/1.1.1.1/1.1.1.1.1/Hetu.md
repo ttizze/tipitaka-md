@@ -1,12 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
-
 
 (1.)
 
@@ -31,6 +23,3 @@
 9\. Hetuñca nahetuñca dhammaṃ paṭicca nahetu dhammo uppajjati hetupaccayā—  nahetuṃ ekaṃ khandhañca hetuñca paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe ca hetuñca paṭicca dve khandhā cittasamuṭṭhānañca rūpaṃ; paṭisandhikkhaṇe…pe…  paṭisandhikkhaṇe vatthuñca hetuñca paṭicca sampayuttakā khandhā. (2)
 
 10\. Hetuñca nahetuñca dhammaṃ paṭicca hetu ca nahetu ca dhammā uppajjanti hetupaccayā—  nahetuṃ ekaṃ khandhañca alobhañca paṭicca tayo khandhā adoso amoho ca cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe ca alobhañca paṭicca dve khandhā adoso amoho ca cittasamuṭṭhānañca rūpaṃ. (Cakkaṃ.) Nahetuṃ ekaṃ khandhañca lobhañca paṭicca tayo khandhā moho ca cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  paṭisandhikkhaṇe…pe…  vatthuñca alobhañca paṭicca adoso amoho sampayuttakā ca khandhā. (3)
-
-
-

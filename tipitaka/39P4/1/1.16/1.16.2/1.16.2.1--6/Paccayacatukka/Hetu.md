@@ -1,12 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
-
 
 (197.)
 
@@ -23,6 +15,3 @@
 (198.)
 
 752\. Hetuyā sattarasa, ārammaṇe sattarasa…pe…  avigate sattarasa. (Saṃkhittaṃ.)
-
-
-

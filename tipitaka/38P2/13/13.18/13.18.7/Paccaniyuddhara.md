@@ -1,10 +1,4 @@
-
-
 # Paccanīyuddhāra
-
-
-
-
 
 (363.)
 
@@ -15,6 +9,3 @@
 4834\. Araṇo dhammo araṇassa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo…  purejātapaccayena paccayo…  pacchājātapaccayena paccayo…  kammapaccayena paccayo…  āhārapaccayena paccayo…  indriyapaccayena paccayo. Araṇo dhammo saraṇassa dhammassa ārammaṇapaccayena paccayo…  upanissayapaccayena paccayo…  purejātapaccayena paccayo. (2)
 
 4835\. Saraṇo ca araṇo ca dhammā saraṇassa dhammassa sahajātaṃ, purejātaṃ. Saraṇo ca araṇo ca dhammā araṇassa dhammassa sahajātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ. (2)
-
-
-

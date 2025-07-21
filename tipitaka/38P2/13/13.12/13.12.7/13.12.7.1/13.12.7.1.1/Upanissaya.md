@@ -1,12 +1,4 @@
-
-
 # Upanissaya
-
-
-
-
-
-
 
 (252.)
 
@@ -19,6 +11,3 @@
 4629\. Narūpāvacaro dhammo narūpāvacarassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  narūpāvacaraṃ saddhaṃ upanissāya dānaṃ…pe…  sīlaṃ…pe…  uposathakammaṃ karoti; narūpāvacaraṃ jhānaṃ…pe…  vipassanaṃ…pe…  maggaṃ…pe…  samāpattiṃ uppādeti, mānaṃ jappeti, diṭṭhiṃ gaṇhāti; narūpāvacaraṃ sīlaṃ…pe…  paññaṃ, rāgaṃ…pe…  bhojanaṃ, senāsanaṃ upanissāya dānaṃ deti…pe…  pāṇaṃ hanati…pe…  saṃghaṃ bhindati; narūpāvacarā saddhā…pe…  paññā…  rāgo…pe…  senāsanaṃ narūpāvacarāya saddhāya…pe…  paññāya…  rāgassa…pe…  patthanāya…  kāyikassa sukhassa…  kāyikassa dukkhassa…  maggassa, phalasamāpattiyā upanissayapaccayena paccayo. (1)
 
 4630\. Narūpāvacaro dhammo rūpāvacarassa dhammassa upanissayapaccayena paccayo—  anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  narūpāvacaraṃ saddhaṃ upanissāya rūpāvacaraṃ jhānaṃ…pe…  abhiññaṃ…pe…  samāpattiṃ uppādeti; narūpāvacaraṃ sīlaṃ…pe…  senāsanaṃ upanissāya rūpāvacaraṃ jhānaṃ…pe…  abhiññaṃ…pe…  samāpattiṃ uppādeti; narūpāvacarā saddhā…pe…  senāsanaṃ rūpāvacarāya saddhāya…pe…  paññāya upanissayapaccayena paccayo, paṭhamassa jhānassa parikammaṃ paṭhamassa jhānassa upanissayapaccayena paccayo…pe…  catutthassa jhānassa…pe…  dibbassa cakkhussa parikammaṃ…pe…  dibbāya sotadhātuyā…pe…  iddhividhañāṇassa…pe…  cetopariyañāṇassa…pe…  pubbenivāsānussatiñāṇassa…pe…  yathākammūpagañāṇassa…pe…  anāgataṃsañāṇassa parikammaṃ anāgataṃsañāṇassa upanissayapaccayena paccayo. (2)
-
-
-

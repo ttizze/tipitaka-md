@@ -1,11 +1,4 @@
-
-
 # Nahetu
-
-
-
-
-
 
 (104.)
 
@@ -16,8 +9,3 @@
 ---
 
 413\. (Yathā paṭiccavāre, evaṃ vitthāretabbaṃ.)
-
-
-
-
-

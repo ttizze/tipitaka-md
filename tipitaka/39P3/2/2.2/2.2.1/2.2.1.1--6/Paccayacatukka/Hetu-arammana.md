@@ -1,12 +1,4 @@
-
-
 # Hetu-ārammaṇa
-
-
-
-
-
-
 
 (1.)
 
@@ -17,6 +9,3 @@
 (2.)
 
 1245\. Hetuyā ekaṃ, ārammaṇe ekaṃ, adhipatiyā ekaṃ, anantare ekaṃ, samanantare ekaṃ, sahajāte ekaṃ, aññamaññe ekaṃ, nissaye ekaṃ, upanissaye ekaṃ, purejāte ekaṃ, āsevane ekaṃ, kamme ekaṃ, āhāre ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
-
-
-

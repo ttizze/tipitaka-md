@@ -1,5 +1,3 @@
-
-
 # Āhāra
 
 * [Āhāraduka](Ahara/Aharaduka.md)
@@ -8,6 +6,3 @@
 * [Sakammaghaṭanā](Ahara/Sakammaghatana.md)
 * [Saindriyaghaṭanā](Ahara/Saindriyaghatana.md)
 * [Sādhipati-indriyaghaṭanā](Ahara/Sadhipati-indriyaghatana.md)
-
-
-

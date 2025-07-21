@@ -1,11 +1,4 @@
-
-
 # Pacchājāta
-
-
-
-
-
 
 (41.)
 
@@ -14,6 +7,3 @@
 3025\. Anidassanaappaṭigho dhammo sanidassanasappaṭighassa dhammassa pacchājātapaccayena paccayo—  pacchājātā anidassanaappaṭighā khandhā purejātassa imassa sanidassanasappaṭighassa kāyassa pacchājātapaccayena paccayo. (2)
 
 3026\. (Evaṃ satta pañhā vibhajitabbā, tividharūpasaṅgaho.) (7)
-
-
-

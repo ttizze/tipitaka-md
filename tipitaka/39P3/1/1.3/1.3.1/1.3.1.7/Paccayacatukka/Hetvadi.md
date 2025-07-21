@@ -1,12 +1,4 @@
-
-
 # Hetvādi
-
-
-
-
-
-
 
 (113.)
 
@@ -23,6 +15,3 @@
 (115.)
 
 200\. Hetu vipāko dhammo hetussa vipākassa dhammassa adhipatipaccayena paccayo…  tīṇi (sahajātādhipatiyeva labbhati, ārammaṇādhipati natthi)…pe… .
-
-
-

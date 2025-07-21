@@ -1,11 +1,4 @@
-
-
 # Indriya
-
-
-
-
-
 
 (129.)
 
@@ -14,8 +7,3 @@
 ---
 
 483\. (Indriyapaccayā yathā kammapaccayā, evaṃ vitthāretabbaṃ.)
-
-
-
-
-

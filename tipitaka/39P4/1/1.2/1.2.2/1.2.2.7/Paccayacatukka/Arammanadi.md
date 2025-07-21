@@ -1,12 +1,4 @@
-
-
 # Ārammaṇādi
-
-
-
-
-
-
 
 (32.)
 
@@ -23,6 +15,3 @@
 109\. Dukkhāya vedanāya sampayutto nahetu dhammo dukkhāya vedanāya sampayuttassa nahetussa dhammassa adhipatipaccayena paccayo. (1)
 
 110\. Adukkhamasukhāya vedanāya sampayutto nahetu dhammo adukkhamasukhāya vedanāya sampayuttassa nahetussa dhammassa adhipatipaccayena paccayo. Adukkhamasukhāya vedanāya sampayutto nahetu dhammo sukhāya vedanāya sampayuttassa nahetussa dhammassa adhipatipaccayena paccayo. (2)
-
-
-

@@ -1,11 +1,4 @@
-
-
 # Upanissaya
-
-
-
-
-
 
 (72.)
 
@@ -30,6 +23,3 @@
 2093\. Appamāṇo dhammo parittassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  appamāṇaṃ saddhaṃ upanissāya dānaṃ deti, sīlaṃ…pe…  uposathakammaṃ…  vipassanaṃ uppādeti. Appamāṇaṃ sīlaṃ…pe…  paññaṃ upanissāya dānaṃ deti, sīlaṃ…pe…  uposathakammaṃ…  vipassanaṃ…  appamāṇā saddhā…pe…  paññā parittāya saddhāya…pe…  paññāya…pe…  kāyikassa sukhassa, kāyikassa dukkhassa upanissayapaccayena paccayo. Phalasamāpatti kāyikassa sukhassa upanissayapaccayena paccayo. Ariyā maggaṃ upanissāya saṅkhāre aniccato…pe…  vipassanti, maggo ariyānaṃ atthappaṭisambhidāya…pe…  paṭibhānappaṭisambhidāya…  ṭhānāṭhānakosallassa upanissayapaccayena paccayo. (2)
 
 2094\. Appamāṇo dhammo mahaggatassa dhammassa upanissayapaccayena paccayo—  anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  appamāṇaṃ saddhaṃ upanissāya mahaggataṃ jhānaṃ uppādeti, abhiññaṃ uppādeti, samāpattiṃ uppādeti, appamāṇaṃ sīlaṃ…pe…  paññaṃ upanissāya mahaggataṃ jhānaṃ uppādeti, abhiññaṃ uppādeti, samāpattiṃ uppādeti. Appamāṇā saddhā…pe…  paññā mahaggatāya saddhāya…pe…  paññāya upanissayapaccayena paccayo, ariyā maggaṃ upanissāya anuppannaṃ samāpattiṃ uppādenti, uppannaṃ samāpajjanti. (3)
-
-
-

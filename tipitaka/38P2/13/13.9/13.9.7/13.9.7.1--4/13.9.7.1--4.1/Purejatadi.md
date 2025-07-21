@@ -1,12 +1,4 @@
-
-
 # Purejātādi
-
-
-
-
-
-
 
 (174.)
 
@@ -17,6 +9,3 @@
 4460\. Nasukhasahagato dhammo sukhasahagatassa ca nasukhasahagatassa ca dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ. **Ārammaṇapurejātaṃ**—  cakkhuṃ…pe…  vatthuṃ sukhasahagatena cittena aniccato…pe…  vipassati, assādeti abhinandati, taṃ ārabbha sukhañca sampayuttakā khandhā ca uppajjanti. **Vatthupurejātaṃ**—  vatthu sukhasahagatānaṃ khandhānaṃ sukhassa ca purejātapaccayena paccayo. (3)
 
 4461\. Pacchājātapaccayena paccayo…  tīṇi…  āsevanapaccayena paccayo…  nava.
-
-
-

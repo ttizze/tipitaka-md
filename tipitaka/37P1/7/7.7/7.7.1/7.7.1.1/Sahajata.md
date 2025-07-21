@@ -1,11 +1,4 @@
-
-
 # Sahajāta
-
-
-
-
-
 
 (85.)
 
@@ -80,6 +73,3 @@
 380\. Savitakkasavicāro ca avitakkavicāramatto ca avitakkaavicāro ca dhammā savitakkasavicārassa dhammassa sahajātapaccayena paccayo—  paṭisandhikkhaṇe savitakkasavicāro eko khandho ca vitakko ca vatthu ca tiṇṇannaṃ khandhānaṃ sahajātapaccayena paccayo…pe…  dve khandhā ca vitakko ca vatthu ca dvinnaṃ khandhānaṃ sahajātapaccayena paccayo. (1)
 
 381\. Savitakkasavicāro ca avitakkavicāramatto ca avitakkaavicāro ca dhammā avitakkaavicārassa dhammassa sahajātapaccayena paccayo—  savitakkasavicārā khandhā ca vitakko ca mahābhūtā ca cittasamuṭṭhānānaṃ rūpānaṃ sahajātapaccayena paccayo. Paṭisandhikkhaṇe savitakkasavicārā khandhā ca vitakko ca mahābhūtā ca kaṭattārūpānaṃ sahajātapaccayena paccayo. (2)
-
-
-

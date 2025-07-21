@@ -1,12 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
-
 
 (85.)
 
@@ -95,6 +87,3 @@
 313\. Savitakkasavicāraṃ nahetuñca avitakkavicāramattaṃ nahetuñca avitakkaavicāraṃ nahetuñca dhammaṃ paṭicca avitakkaavicāro nahetu dhammo uppajjati hetupaccayā (dve).
 
 314\. Savitakkasavicāraṃ nahetuñca avitakkavicāramattaṃ nahetuñca avitakkaavicāraṃ nahetuñca dhammaṃ paṭicca savitakkasavicāro nahetu ca avitakkaavicāro nahetu ca dhammā uppajjanti hetupaccayā (tīṇi).
-
-
-

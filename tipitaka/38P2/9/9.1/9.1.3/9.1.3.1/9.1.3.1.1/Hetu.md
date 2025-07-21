@@ -1,12 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
-
 
 (10.)
 
@@ -21,6 +13,3 @@
 (11.)
 
 2148\. Parāmāsañca noparāmāsañca dhammaṃ paccayā noparāmāso dhammo uppajjati hetupaccayā—  noparāmāsaṃ ekaṃ khandhañca parāmāsañca paccayā tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe ca…pe…  parāmāsañca sampayuttake ca khandhe paccayā cittasamuṭṭhānaṃ rūpaṃ, parāmāsañca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ, parāmāsañca vatthuñca paccayā noparāmāsā khandhā. (Saṃkhittaṃ.) (1)
-
-
-

@@ -1,10 +1,4 @@
-
-
 # Vippayuttaduka
-
-
-
-
 
 (246.)
 
@@ -13,6 +7,3 @@
 * [Tika](Vippayuttaduka/Tika.md)
 * [Catukka](Vippayuttaduka/Catukka.md)
 * [Dvādasaka](Vippayuttaduka/Dvadasaka.md)
-
-
-

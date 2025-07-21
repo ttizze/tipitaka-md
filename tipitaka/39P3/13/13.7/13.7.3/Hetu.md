@@ -1,10 +1,4 @@
-
-
 # Hetu
-
-
-
-
 
 (51.)
 
@@ -27,6 +21,3 @@
 (54.)
 
 2498\. Hetuyā cattāri, ārammaṇe nava, adhipatiyā nava, anantare nava…pe…  (sabbattha nava), upanissaye nava, purejāte tīṇi, pacchājāte tīṇi, āsevane nava, kamme cattāri, vipāke nava, āhāre cattāri, indriye cattāri, jhāne nava, magge cattāri, sampayutte cha, vippayutte pañca, atthiyā nava…pe…  avigate nava. (Saṃkhittaṃ.)
-
-
-

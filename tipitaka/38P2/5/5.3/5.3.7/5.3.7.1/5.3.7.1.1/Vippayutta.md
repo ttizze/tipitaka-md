@@ -1,12 +1,4 @@
-
-
 # Vippayutta
-
-
-
-
-
-
 
 (91.)
 
@@ -21,6 +13,3 @@
 (92.)
 
 1817\. Ganthasampayutto ca ganthavippayutto ca dhammā ganthavippayuttassa dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, pacchājātaṃ. **Sahajātā**—  diṭṭhigatavippayuttalobhasahagatā khandhā ca lobho ca cittasamuṭṭhānānaṃ rūpānaṃ vippayuttapaccayena paccayo; domanassasahagatā khandhā ca paṭighañca cittasamuṭṭhānānaṃ rūpānaṃ vippayuttapaccayena paccayo. **Pacchājātā**—  diṭṭhigatavippayuttalobhasahagatā khandhā ca lobho ca domanassasahagatā khandhā ca paṭighañca purejātassa imassa kāyassa vippayuttapaccayena paccayo. (1)
-
-
-

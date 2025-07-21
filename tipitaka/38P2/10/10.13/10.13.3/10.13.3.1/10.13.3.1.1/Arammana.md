@@ -1,12 +1,4 @@
-
-
 # Ārammaṇa
-
-
-
-
-
-
 
 (387.)
 
@@ -15,6 +7,3 @@
 3290\. Noupādā dhammaṃ paccayā noupādā dhammo uppajjati ārammaṇapaccayā…  ekaṃ. (Paṭiccasadisaṃ.) (1)
 
 3291\. Upādā dhammañca noupādā dhammañca dhammaṃ paccayā noupādā dhammo uppajjati ārammaṇapaccayā—  cakkhuviññāṇasahagataṃ ekaṃ khandhañca cakkhāyatanañca paccayā tayo khandhā…pe…  dve khandhe ca…pe…  kāyaviññāṇasahagataṃ…pe…  noupādā ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe ca…pe…  paṭisandhikkhaṇe…pe…  (Saṃkhittaṃ.) (1)
-
-
-

@@ -1,11 +1,4 @@
-
-
 # Upanissaya
-
-
-
-
-
 
 (34.)
 
@@ -18,6 +11,3 @@
 2826\. Bahiddhā dhammo bahiddhā dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  paro bahiddhā saddhaṃ…pe…  patthanaṃ, kāyikaṃ sukhaṃ…pe…  senāsanaṃ upanissāya dānaṃ deti…pe…  saṃghaṃ bhindati bahiddhā saddhā…pe…  senāsanaṃ bahiddhā saddhāya…pe…  phalasamāpattiyā upanissayapaccayena paccayo. (1)
 
 2827\. Bahiddhā dhammo ajjhattassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  bahiddhā saddhaṃ…pe…  senāsanaṃ upanissāya dānaṃ deti…pe…  saṃghaṃ bhindati. Bahiddhā saddhā…pe…  senāsanaṃ ajjhattāya saddhāya…pe…  phalasamāpattiyā upanissayapaccayena paccayo. (2)
-
-
-

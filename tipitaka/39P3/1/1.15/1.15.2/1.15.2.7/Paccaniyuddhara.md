@@ -1,11 +1,4 @@
-
-
 # Paccanīyuddhāra
-
-
-
-
-
 
 (443.)
 
@@ -20,6 +13,3 @@
 965\. Nahetupaccayā adhipatiyā tīṇi. (Saṃkhittaṃ.)
 
 966\. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
-
-
-

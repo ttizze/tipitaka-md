@@ -1,10 +1,4 @@
-
-
 # Hetu-ārammaṇa
-
-
-
-
 
 (17.)
 
@@ -41,6 +35,3 @@
 43\. Nahetuyā aṭṭhārasa, naārammaṇe pannarasa. Naadhipatiyā tevīsa…pe…  nakamme cha, navipāke ekādasa, naāhāre naindriye tīṇi, najhāne cha, namagge pannarasa…pe…  navippayutte nava…pe…  novigate pannarasa.
 
 44\. (Sahajātavārampi paccayavārampi nissayavārampi saṃsaṭṭhavārampi sampayuttavārampi vitthāretabbaṃ.)
-
-
-

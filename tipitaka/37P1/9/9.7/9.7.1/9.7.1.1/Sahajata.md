@@ -1,11 +1,4 @@
-
-
 # Sahajāta
-
-
-
-
-
 
 (79.)
 
@@ -18,6 +11,3 @@
 976\. Dassanena pahātabbo ca nevadassanena nabhāvanāya pahātabbo ca dhammā nevadassanena nabhāvanāya pahātabbassa dhammassa sahajātapaccayena paccayo—  dassanena pahātabbā khandhā ca mahābhūtā ca cittasamuṭṭhānānaṃ rūpānaṃ sahajātapaccayena paccayo. (1)
 
 977\. Bhāvanāya pahātabbo ca nevadassanena nabhāvanāya pahātabbo ca dhammā nevadassanena nabhāvanāya pahātabbassa dhammassa sahajātapaccayena paccayo—  bhāvanāya pahātabbā khandhā ca mahābhūtā ca cittasamuṭṭhānānaṃ rūpānaṃ sahajātapaccayena paccayo. (1)
-
-
-

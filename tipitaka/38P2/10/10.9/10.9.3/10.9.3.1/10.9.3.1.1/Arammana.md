@@ -1,12 +1,4 @@
-
-
 # Ārammaṇa
-
-
-
-
-
-
 
 (291.)
 
@@ -25,6 +17,3 @@
 3041\. Cittasaṃsaṭṭhasamuṭṭhānañca nocittasaṃsaṭṭhasamuṭṭhānañca dhammaṃ paccayā nocittasaṃsaṭṭhasamuṭṭhāno dhammo uppajjati ārammaṇapaccayā—  cakkhuviññāṇasahagate khandhe ca cakkhāyatanañca paccayā cakkhuviññāṇaṃ…pe…  kāyaviññāṇasahagate…pe…  cittasaṃsaṭṭhasamuṭṭhāne khandhe ca vatthuñca paccayā cittaṃ. (Paṭisandhikkhaṇe ekaṃ kātabbaṃ.) (2)
 
 3042\. Cittasaṃsaṭṭhasamuṭṭhānañca nocittasaṃsaṭṭhasamuṭṭhānañca dhammaṃ paccayā cittasaṃsaṭṭhasamuṭṭhāno ca nocittasaṃsaṭṭhasamuṭṭhāno ca dhammā uppajjanti ārammaṇapaccayā—  cittasaṃsaṭṭhasamuṭṭhānaṃ ekaṃ khandhañca vatthuñca paccayā dve khandhā cittañca, dve khandhe…pe… . (Paṭisandhikkhaṇe ekaṃ kātabbaṃ, saṃkhittaṃ.) (3)
-
-
-

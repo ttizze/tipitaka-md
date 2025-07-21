@@ -1,12 +1,4 @@
-
-
 # Nahetvādi
-
-
-
-
-
-
 
 (389.)
 
@@ -19,8 +11,3 @@
 ---
 
 3296\. Naārammaṇapaccayā tīṇi, naāsevanapaccayā pañca.
-
-
-
-
-

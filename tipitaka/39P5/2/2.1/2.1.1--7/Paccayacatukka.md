@@ -1,10 +1,4 @@
-
-
 # Paccayacatukka
-
-
-
-
 
 (1.)
 
@@ -39,6 +33,3 @@
 308\. Adukkhamasukhāya vedanāya sampayuttaṃ abyākataṃ dhammaṃ paṭicca adukkhamasukhāya vedanāya sampayutto abyākato dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
 
 309\. Hetuyā dve, ārammaṇe tīṇi…pe…  āsevane dve…pe…  avigate tīṇi. (Saṃkhittaṃ.)
-
-
-

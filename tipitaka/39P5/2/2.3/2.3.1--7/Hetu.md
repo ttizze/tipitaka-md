@@ -1,10 +1,4 @@
-
-
 # Hetu
-
-
-
-
 
 (8.)
 
@@ -29,6 +23,3 @@
 326\. Upādinnupādāniyaṃ abyākatañca anupādinnupādāniyaṃ abyākatañca dhammaṃ paṭicca anupādinnupādāniyo abyākato dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
 
 327\. Hetuyā nava, ārammaṇe tīṇi, adhipatiyā pañca…pe…  āsevane ekaṃ…pe…  avigate nava. (Sabbattha vitthāro.)
-
-
-

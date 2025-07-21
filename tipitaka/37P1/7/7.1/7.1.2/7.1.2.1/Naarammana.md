@@ -1,11 +1,4 @@
-
-
 # Naārammaṇa
-
-
-
-
-
 
 (29.)
 
@@ -24,6 +17,3 @@
 140\. Savitakkasavicārañca avitakkavicāramattañca dhammaṃ paṭicca avitakkaavicāro dhammo uppajjati naārammaṇapaccayā—  savitakkasavicāre khandhe ca vitakkañca paṭicca cittasamuṭṭhānaṃ rūpaṃ. Paṭisandhikkhaṇe…pe… . (1)
 
 141\. Savitakkasavicārañca avitakkavicāramattañca avitakkaavicārañca dhammaṃ paṭicca avitakkaavicāro dhammo uppajjati naārammaṇapaccayā—  savitakkasavicāre khandhe ca vitakkañca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. Paṭisandhikkhaṇe…pe…  kaṭattārūpaṃ. (1)
-
-
-

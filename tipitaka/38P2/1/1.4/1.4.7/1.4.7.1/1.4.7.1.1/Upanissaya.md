@@ -1,12 +1,4 @@
-
-
 # Upanissaya
-
-
-
-
-
-
 
 (146.)
 
@@ -17,6 +9,3 @@
 410\. (Sahetuko ceva na ca hetumūlake iminākārena vitthāretabbā avasesā dve pañhā.)
 
 411\. Hetu ceva sahetuko ca sahetuko ceva na ca hetu ca dhammā hetussa ceva sahetukassa ca dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  hetū ca sampayuttakā ca khandhā hetūnaṃ upanissayapaccayena paccayo. (Dve mūlāni pucchitabbāni) Hetū ca sampayuttakā ca khandhā sahetukānañceva na ca hetūnaṃ khandhānaṃ upanissayapaccayena paccayo. (Mūlaṃ pucchitabbaṃ.) Hetū ca sampayuttakā ca khandhā hetūnaṃ sampayuttakānañca khandhānaṃ upanissayapaccayena paccayo. (1)
-
-
-

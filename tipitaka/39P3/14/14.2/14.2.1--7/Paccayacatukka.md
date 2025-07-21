@@ -1,10 +1,4 @@
-
-
 # Paccayacatukka
-
-
-
-
 
 (1.)
 
@@ -43,8 +37,3 @@
 ---
 
 2618\. Saraṇadukavedanāttikaṃ niṭṭhitaṃ.
-
-
-
-
-

@@ -1,10 +1,4 @@
-
-
 # Napacchājātaduka
-
-
-
-
 
 (504.)
 
@@ -12,6 +6,3 @@
 
 * [Navaka](Napacchajataduka/Navaka.md)
 * [Dasaka](Napacchajataduka/Dasaka.md)
-
-
-

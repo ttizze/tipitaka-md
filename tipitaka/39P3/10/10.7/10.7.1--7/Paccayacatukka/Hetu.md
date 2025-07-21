@@ -1,11 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
 
 (53.)
 
@@ -44,6 +37,3 @@
 (58.)
 
 2130\. Hetuyā nava, ārammaṇe nava…pe…  avigate nava. (Saṃkhittaṃ. Yathā cetasikadukamūlā tīṇi gamanā, evaṃ imepi tīṇi gamanā kātabbā. Sahajātavārampi…pe…  pañhāvārampi vitthāretabbaṃ.)
-
-
-

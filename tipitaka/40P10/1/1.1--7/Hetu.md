@@ -1,9 +1,4 @@
-
-
 # Hetu
-
-
-
 
 (1.)
 
@@ -46,6 +41,3 @@
 14\. Nakusalaṃ nanahetuñca naakusalaṃ nanahetuñca dhammaṃ paṭicca nakusalo nanahetu dhammo uppajjati hetupaccayā…  tīṇi. (Saṃkhittaṃ.)
 
 15\. Hetuyā catuvīsa, ārammaṇe catuvīsa…pe…  vipāke nava…pe…  avigate catuvīsa. (Sabbattha vitthāro.)
-
-
-

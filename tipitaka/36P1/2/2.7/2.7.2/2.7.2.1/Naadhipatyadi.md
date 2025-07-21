@@ -1,11 +1,4 @@
-
-
 # Naadhipatyādi
-
-
-
-
-
 
 (399.)
 
@@ -14,8 +7,3 @@
 ---
 
 1195\. (Yathā nahetumūlakaṃ, evaṃ vitthāretabbaṃ.)
-
-
-
-
-

@@ -1,10 +1,4 @@
-
-
 # Hetu
-
-
-
-
 
 (22.)
 
@@ -33,6 +27,3 @@
 1637\. Hetuyā pañca, ārammaṇe nava, adhipatiyā ekaṃ, anantare samanantare nava, sahajāte aññamaññe nissaye pañca, upanissaye āsevane nava, kamme āhāre indriye jhāne magge tīṇi, sampayutte pañca…pe…  avigate pañca. (Saṃkhittaṃ.)
 
 1638\. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
-
-
-

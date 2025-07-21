@@ -1,11 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
 
 (69.)
 
@@ -22,6 +15,3 @@
 2480\. Hetuyā pañca, ārammaṇe pañca, adhipatiyā pañca (sabbattha pañca), avigate pañca. (Saṃkhittaṃ.)
 
 2481\. Nahetuyā pañca, naadhipatiyā pañca, napurejāte pañca, napacchājāte pañca, naāsevane pañca, nakamme tīṇi, navipāke pañca, najhāne pañca, namagge pañca, navippayutte pañca.
-
-
-

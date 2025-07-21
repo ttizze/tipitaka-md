@@ -1,11 +1,4 @@
-
-
 # Nahetuduka
-
-
-
-
-
 
 (48.)
 
@@ -15,10 +8,4 @@
 
 130\. Paccanīyānulomaṃ.
 
-  
 Hetudukaṃ niṭṭhitaṃ.
-
-
-
-
-

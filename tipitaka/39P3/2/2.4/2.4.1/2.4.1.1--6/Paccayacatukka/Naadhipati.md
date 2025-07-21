@@ -1,12 +1,4 @@
-
-
 # Naadhipati
-
-
-
-
-
-
 
 (49.)
 
@@ -21,6 +13,3 @@
 1369\. Naadhipatipaccayā hetuyā nava. (Saṃkhittaṃ.)
 
 1370\. (Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
-
-
-

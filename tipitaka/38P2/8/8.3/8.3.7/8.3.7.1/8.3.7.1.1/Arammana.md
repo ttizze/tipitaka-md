@@ -1,12 +1,4 @@
-
-
 # Ārammaṇa
-
-
-
-
-
-
 
 (67.)
 
@@ -19,6 +11,3 @@
 2034\. Nīvaraṇavippayutto dhammo nīvaraṇavippayuttassa dhammassa ārammaṇapaccayena paccayo—  dānaṃ…pe…  sīlaṃ…pe…  uposathakammaṃ katvā taṃ paccavekkhati, pubbe suciṇṇāni…pe…  jhānā vuṭṭhahitvā jhānaṃ…pe…  ariyā maggā vuṭṭhahitvā maggaṃ…pe…  phalaṃ…pe…  nibbānaṃ…pe…  nibbānaṃ gotrabhussa, vodānassa, maggassa, phalassa, āvajjanāya ārammaṇapaccayena paccayo; cakkhuṃ…pe…  vatthuṃ nīvaraṇavippayutte khandhe aniccato dukkhato anattato vipassati, dibbena cakkhunā rūpaṃ passati. (Yāva āvajjanāya.) (1)
 
 2035\. Nīvaraṇavippayutto dhammo nīvaraṇasampayuttassa dhammassa ārammaṇapaccayena paccayo—  dānaṃ…pe…  sīlaṃ…pe…  uposathakammaṃ…pe…  pubbe…pe…  jhānā…pe…  cakkhuṃ…pe…  vatthuṃ nīvaraṇavippayutte khandhe assādeti abhinandati, taṃ ārabbha rāgo uppajjati, diṭṭhi…pe…  vicikicchā…pe…  uddhaccaṃ…pe…  domanassaṃ uppajjati. (2)
-
-
-

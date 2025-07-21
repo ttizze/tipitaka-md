@@ -1,11 +1,4 @@
-
-
 # Napurejāta
-
-
-
-
-
 
 (16.)
 
@@ -30,6 +23,3 @@
 1921\. Parittañca mahaggatañca dhammaṃ paṭicca mahaggato dhammo uppajjati napurejātapaccayā—  paṭisandhikkhaṇe mahaggataṃ ekaṃ khandhañca vatthuñca paṭicca tayo khandhā…pe… . (2)
 
 1922\. Parittañca mahaggatañca dhammaṃ paṭicca paritto ca mahaggato ca dhammā uppajjanti napurejātapaccayā—  paṭisandhikkhaṇe mahaggataṃ ekaṃ khandhañca vatthuñca paṭicca tayo khandhā…pe…  dve khandhe…pe…  mahaggate khandhe ca mahābhūte ca paṭicca kaṭattārūpaṃ. (3)
-
-
-

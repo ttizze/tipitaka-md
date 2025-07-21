@@ -1,11 +1,4 @@
-
-
 # Upanissaya
-
-
-
-
-
 
 (287.)
 
@@ -78,6 +71,3 @@
 926\. Kāyikaṃ dukkhaṃ…pe…  utuṃ…pe…  bhojanaṃ…pe…  senāsanaṃ upanissāya pāṇaṃ hanati…  (Saṃkhittaṃ.) Saṃghaṃ bhindati.
 
 927\. Kāyikaṃ sukhaṃ…  kāyikaṃ dukkhaṃ…  utu…  bhojanaṃ…  senāsanaṃ rāgassa…  dosassa…  mohassa…  mānassa…  diṭṭhiyā…  patthanāya upanissayapaccayena paccayo. (3)
-
-
-

@@ -1,11 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
 
 (25.)
 
@@ -30,6 +23,3 @@
 1165\. Nahetuyā dve, naadhipatiyā tīṇi…pe…  navipāke tīṇi, najhāne nakamme ekaṃ, navippayutte tīṇi. (Saṃkhittaṃ.)
 
 1166\. (Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ.)
-
-
-

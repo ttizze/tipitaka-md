@@ -1,12 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
-
 
 (201.)
 
@@ -25,6 +17,3 @@
 2811\. Cittasamuṭṭhānañca nocittasamuṭṭhānañca dhammaṃ paccayā nocittasamuṭṭhāno dhammo uppajjati hetupaccayā—  cittasamuṭṭhāne khandhe ca vatthuñca paccayā cittaṃ. (Paṭisandhikkhaṇe tīṇipi kātabbā paṭiccavārasadisā.) (2)
 
 2812\. Cittasamuṭṭhānañca nocittasamuṭṭhānañca dhammaṃ paccayā cittasamuṭṭhāno ca nocittasamuṭṭhāno ca dhammā uppajjanti hetupaccayā—  cittasamuṭṭhānaṃ ekaṃ khandhañca vatthuñca paccayā dve khandhā cittañca, dve khandhe…pe… . (Paṭisandhikkhaṇe dvepi kātabbā paṭiccavārasadisā.) (3)
-
-
-

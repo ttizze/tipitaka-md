@@ -1,11 +1,4 @@
-
-
 # Purejāta
-
-
-
-
-
 
 (124.)
 
@@ -22,6 +15,3 @@
 462\. Kusalañca abyākatañca dhammaṃ paccayā kusalo dhammo uppajjati purejātapaccayā—  kusalaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe ca vatthuñca paccayā dve khandhā, vatthuṃ purejātapaccayā. (1)
 
 463\. Akusalañca abyākatañca dhammaṃ paccayā akusalo dhammo uppajjati purejātapaccayā—  akusalaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe ca vatthuñca paccayā dve khandhā, vatthuṃ purejātapaccayā. (1)
-
-
-

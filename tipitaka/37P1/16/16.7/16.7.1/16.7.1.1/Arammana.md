@@ -1,11 +1,4 @@
-
-
 # Ārammaṇa
-
-
-
-
-
 
 (37.)
 
@@ -20,6 +13,3 @@
 2352\. Aniyato dhammo micchattaniyatassa dhammassa ārammaṇapaccayena paccayo—  rūpajīvitindriyaṃ mātughātikammassa…  pitughātikammassa…  arahantaghātikammassa…  ruhiruppādakammassa ārammaṇapaccayena paccayo. Yaṃ vatthuṃ parāmasantassa micchattaniyatā khandhā uppajjanti, taṃ vatthu micchattaniyatānaṃ khandhānaṃ ārammaṇapaccayena paccayo. (2)
 
 2353\. Aniyato dhammo sammattaniyatassa dhammassa ārammaṇapaccayena paccayo—  nibbānaṃ maggassa ārammaṇapaccayena paccayo. (3)
-
-
-

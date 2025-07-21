@@ -1,10 +1,4 @@
-
-
 # Hetu
-
-
-
-
 
 (30.)
 
@@ -55,8 +49,3 @@
 ---
 
 1525\. Kusalattikakilesagocchakaṃ niṭṭhitaṃ.
-
-
-
-
-

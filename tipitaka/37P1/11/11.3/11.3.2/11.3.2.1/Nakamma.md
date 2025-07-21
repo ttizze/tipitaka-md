@@ -1,11 +1,4 @@
-
-
 # Nakamma
-
-
-
-
-
 
 (32.)
 
@@ -22,6 +15,3 @@
 1532\. Ācayagāmiñca nevācayagāmināpacayagāmiñca dhammaṃ paccayā ācayagāmī dhammo uppajjati nakammapaccayā—  ācayagāmī khandhe ca vatthuñca paccayā ācayagāmī cetanā. (1)
 
 1533\. Apacayagāmiñca nevācayagāmināpacayagāmiñca dhammaṃ paccayā apacayagāmī dhammo uppajjati nakammapaccayā—  apacayagāmī khandhe ca vatthuñca paccayā apacayagāmī cetanā. (1)
-
-
-

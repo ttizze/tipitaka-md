@@ -1,10 +1,4 @@
-
-
 # Vipākaduka
-
-
-
-
 
 (172.)
 
@@ -13,6 +7,3 @@
 * [Tika](Vipakaduka/Tika.md)
 * [Dvādasaka](Vipakaduka/Dvadasaka.md)
 * [Tevīsaka](Vipakaduka/Tevisaka.md)
-
-
-

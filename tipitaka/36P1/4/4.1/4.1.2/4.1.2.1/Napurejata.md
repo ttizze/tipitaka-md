@@ -1,11 +1,4 @@
-
-
 # Napurejāta
-
-
-
-
-
 
 (34.)
 
@@ -38,6 +31,3 @@
 (37.)
 
 2119\. Vipākadhammadhammañca nevavipākanavipākadhammadhammañca dhammaṃ paṭicca nevavipākanavipākadhammadhammo uppajjati napurejātapaccayā—  vipākadhammadhamme khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ.
-
-
-

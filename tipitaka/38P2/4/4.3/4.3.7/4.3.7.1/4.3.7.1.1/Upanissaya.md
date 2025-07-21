@@ -1,12 +1,4 @@
-
-
 # Upanissaya
-
-
-
-
-
-
 
 (77.)
 
@@ -31,6 +23,3 @@
 1514\. Saññojanasampayutto ca saññojanavippayutto ca dhammā saññojanavippayuttassa dhammassa upanissayapaccayena paccayo—  anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  uddhaccasahagatā khandhā ca moho ca saññojanavippayuttānaṃ khandhānaṃ mohassa ca upanissayapaccayena paccayo. (2)
 
 1515\. Saññojanasampayutto ca saññojanavippayutto ca dhammā saññojanasampayuttassa ca saññojanavippayuttassa ca dhammassa upanissayapaccayena paccayo—  anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  uddhaccasahagatā khandhā ca moho ca uddhaccasahagatānaṃ khandhānaṃ mohassa ca upanissayapaccayena paccayo. (3)
-
-
-

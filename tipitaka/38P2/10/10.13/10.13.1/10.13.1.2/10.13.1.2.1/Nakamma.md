@@ -1,12 +1,4 @@
-
-
 # Nakamma
-
-
-
-
-
-
 
 (377.)
 
@@ -15,6 +7,3 @@
 3266\. Noupādā dhammaṃ paṭicca upādā dhammo uppajjati nakammapaccayā—  bāhire āhārasamuṭṭhāne utusamuṭṭhāne mahābhūte paṭicca upādārūpaṃ. (2)
 
 3267\. Noupādā dhammaṃ paṭicca upādā ca noupādā ca dhammā uppajjanti nakammapaccayā—  bāhiraṃ āhārasamuṭṭhānaṃ utusamuṭṭhānaṃ ekaṃ mahābhūtaṃ paṭicca tayo mahābhūtā upādā ca rūpaṃ…pe…  dve mahābhūte…pe… . (3)
-
-
-

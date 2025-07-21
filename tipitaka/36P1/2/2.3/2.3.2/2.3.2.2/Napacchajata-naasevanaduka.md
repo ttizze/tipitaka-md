@@ -1,11 +1,4 @@
-
-
 # Napacchājāta-naāsevanaduka
-
-
-
-
-
 
 (157.)
 
@@ -13,6 +6,3 @@
 
 * [Tika](Napacchajata-naasevanaduka/Tika.md)
 * [Catukka](Napacchajata-naasevanaduka/Catukka.md)
-
-
-

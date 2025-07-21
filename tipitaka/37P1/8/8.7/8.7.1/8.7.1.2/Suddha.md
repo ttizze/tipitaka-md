@@ -1,11 +1,4 @@
-
-
 # Suddha
-
-
-
-
-
 
 (45.)
 
@@ -15,13 +8,6 @@
 
 762\. (Kusalattikaṃ anulomaṃ anumajjantena gaṇetabbaṃ.)
 
-
-
 ---
 
 763\. Anulomaṃ.
-
-
-
-
-

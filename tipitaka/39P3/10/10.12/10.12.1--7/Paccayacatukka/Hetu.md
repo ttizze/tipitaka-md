@@ -1,11 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
 
 (84.)
 
@@ -56,6 +49,3 @@
 (91.)
 
 2201\. Hetuyā tīṇi, ārammaṇe nava, adhipatiyā nava (ajjhattiko bāhirassa gamanakāle sahajātādhipati, majjhe tīsupi sahajātādhipati), anantare nava, sahajāte nava, aññamaññe pañca, nissaye nava, upanissaye nava, purejāte nava (ārammaṇapurejātampi vatthupurejātampi), pacchājāte nava, āsevane nava, kamme tīṇi, vipāke nava, āhāre nava (tiṇṇannaṃ kabaḷīkāro āhāro), indriye nava (tiṇṇannaṃ rūpajīvitindriyaṃ), jhāne magge tīṇi, sampayutte pañca, vippayutte nava, atthiyā nava…pe…  avigate nava. (Saṃkhittaṃ.)
-
-
-

@@ -1,10 +1,4 @@
-
-
 # Hetu
-
-
-
-
 
 (14.)
 
@@ -19,6 +13,3 @@
 1730\. Hetuyā pañca, ārammaṇe dve, adhipatiyā pañca…pe…  avigate pañca. (Saṃkhittaṃ.)
 
 1731\. Cūḷantaraduke lokiyadukasadisaṃ. (Sahajātavāropi…pe…  sampayuttavāropi vitthāretabbā.)
-
-
-

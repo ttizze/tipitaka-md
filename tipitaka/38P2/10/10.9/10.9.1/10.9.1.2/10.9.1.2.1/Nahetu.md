@@ -1,12 +1,4 @@
-
-
 # Nahetu
-
-
-
-
-
-
 
 (282.)
 
@@ -31,6 +23,3 @@
 3021\. Cittasaṃsaṭṭhasamuṭṭhānañca nocittasaṃsaṭṭhasamuṭṭhānañca dhammaṃ paṭicca nocittasaṃsaṭṭhasamuṭṭhāno dhammo uppajjati nahetupaccayā—  ahetuke cittasaṃsaṭṭhasamuṭṭhāne khandhe ca cittañca paṭicca cittasamuṭṭhānaṃ rūpaṃ, ahetuke cittasaṃsaṭṭhasamuṭṭhāne khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ; ahetukapaṭisandhikkhaṇe cittasaṃsaṭṭhasamuṭṭhāne khandhe ca cittañca paṭicca kaṭattārūpaṃ, ahetukapaṭisandhikkhaṇe cittasaṃsaṭṭhasamuṭṭhāne khandhe ca mahābhūte ca paṭicca kaṭattārūpaṃ, ahetukapaṭisandhikkhaṇe cittasaṃsaṭṭhasamuṭṭhāne khandhe ca vatthuñca paṭicca cittaṃ. (2)
 
 3022\. Cittasaṃsaṭṭhasamuṭṭhānañca nocittasaṃsaṭṭhasamuṭṭhānañca dhammaṃ paṭicca cittasaṃsaṭṭhasamuṭṭhāno ca nocittasaṃsaṭṭhasamuṭṭhāno ca dhammā uppajjanti nahetupaccayā—  ahetukaṃ cittasaṃsaṭṭhasamuṭṭhānaṃ ekaṃ khandhañca cittañca paṭicca dve khandhā cittasamuṭṭhānañca rūpaṃ, dve khandhe…pe… . (Ahetukapaṭisandhikkhaṇe dvepi kātabbā.) (3)
-
-
-

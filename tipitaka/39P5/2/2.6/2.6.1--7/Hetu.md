@@ -1,10 +1,4 @@
-
-
 # Hetu
-
-
-
-
 
 (14.)
 
@@ -35,6 +29,3 @@
 355\. Upekkhāsahagataṃ abyākataṃ dhammaṃ paṭicca upekkhāsahagato abyākato dhammo uppajjati hetupaccayā. (1)
 
 356\. Pītisahagataṃ abyākatañca sukhasahagataṃ abyākatañca dhammaṃ paṭicca pītisahagato abyākato dhammo uppajjati hetupaccayā…  tīṇi. (Sabbattha dasa. Sabbattha vitthāro.)
-
-
-

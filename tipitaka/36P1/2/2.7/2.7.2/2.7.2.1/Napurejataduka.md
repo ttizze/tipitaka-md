@@ -1,11 +1,4 @@
-
-
 # Napurejātaduka
-
-
-
-
-
 
 (404.)
 
@@ -15,6 +8,3 @@
 * [Aṭṭhaka](Napurejataduka/Atthaka.md)
 * [Dasaka](Napurejataduka/Dasaka.md)
 * [Ekādasaka](Napurejataduka/Ekadasaka.md)
-
-
-

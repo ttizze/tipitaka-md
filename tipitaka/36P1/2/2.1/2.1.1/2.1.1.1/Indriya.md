@@ -1,11 +1,4 @@
-
-
 # Indriya
-
-
-
-
-
 
 (14.)
 
@@ -14,6 +7,3 @@
 161\. Akusalaṃ dhammaṃ paṭicca…  tīṇi.
 
 162\. Abyākataṃ dhammaṃ paṭicca…pe…  asaññasattānaṃ ekaṃ mahābhūtaṃ paṭicca…pe… . (Indriyapaccayaṃ kammapaccayasadisaṃ.)
-
-
-

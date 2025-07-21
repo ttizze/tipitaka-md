@@ -1,11 +1,4 @@
-
-
 # Sahajāta
-
-
-
-
-
 
 (58.)
 
@@ -26,6 +19,3 @@
 2639\. Anupādinnupādāniyo ca anupādinnaanupādāniyo ca dhammā anupādinnupādāniyassa dhammassa sahajātapaccayena paccayo—  anupādinnaanupādāniyā khandhā ca mahābhūtā ca cittasamuṭṭhānānaṃ rūpānaṃ sahajātapaccayena paccayo. (1)
 
 2640\. Upādinnupādāniyo ca anupādinnupādāniyo ca dhammā anupādinnupādāniyassa dhammassa sahajātapaccayena paccayo—  upādinnupādāniyā khandhā ca mahābhūtā ca cittasamuṭṭhānānaṃ rūpānaṃ sahajātapaccayena paccayo. (1)
-
-
-

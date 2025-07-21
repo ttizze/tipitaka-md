@@ -1,10 +1,4 @@
-
-
 # Paccanīyuddhāra
-
-
-
-
 
 (41.)
 
@@ -29,6 +23,3 @@
 1080\. Āsavo ca noāsavo ca dhammā noāsavassa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo…  pacchājātapaccayena paccayo. (2)
 
 1081\. Āsavo ca noāsavo ca dhammā āsavassa ca noāsavassa ca dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo. (3)
-
-
-

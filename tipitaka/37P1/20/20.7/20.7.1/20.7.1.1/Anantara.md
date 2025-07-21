@@ -1,11 +1,4 @@
-
-
 # Anantara
-
-
-
-
-
 
 (26.)
 
@@ -26,6 +19,3 @@
 2716\. Paccuppannārammaṇo dhammo paccuppannārammaṇassa dhammassa anantarapaccayena paccayo—  purimā purimā paccuppannārammaṇā khandhā pacchimānaṃ pacchimānaṃ paccuppannārammaṇānaṃ khandhānaṃ anantarapaccayena paccayo. Paccuppannārammaṇaṃ paṭisandhicittaṃ paccuppannārammaṇassa bhavaṅgassa…pe…  paccuppannārammaṇaṃ bhavaṅgaṃ paccuppannārammaṇassa bhavaṅgassa anantarapaccayena paccayo. (1)
 
 2717\. Paccuppannārammaṇo dhammo atītārammaṇassa dhammassa anantarapaccayena paccayo—  paccuppannārammaṇaṃ paṭisandhicittaṃ atītārammaṇassa bhavaṅgassa…pe…  paccuppannārammaṇaṃ bhavaṅgaṃ atītārammaṇassa bhavaṅgassa…pe…  paccuppannārammaṇā khandhā atītārammaṇassa vuṭṭhānassa anantarapaccayena paccayo. (2)
-
-
-

@@ -1,12 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
-
 
 (45.)
 
@@ -31,6 +23,3 @@
 3644\. Upādānasampayuttañca upādānavippayuttañca dhammaṃ paṭicca upādānavippayutto dhammo uppajjati hetupaccayā—  upādānasampayutte khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ, diṭṭhigatavippayuttalobhasahagate khandhe ca lobhañca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (2)
 
 3645\. Upādānasampayuttañca upādānavippayuttañca dhammaṃ paṭicca upādānasampayutto ca upādānavippayutto ca dhammā uppajjanti hetupaccayā—  diṭṭhigatavippayuttalobhasahagataṃ ekaṃ khandhañca lobhañca paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe ca…pe… . (3)
-
-
-

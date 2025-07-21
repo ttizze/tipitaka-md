@@ -1,11 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
 
 (43.)
 
@@ -70,6 +63,3 @@
 2116\. Hetuyā tīṇi, ārammaṇe nava, adhipatiyā nava, anantare nava (sabbattha nava), purejāte nava, pacchājāte nava, āsevane nava, kamme tīṇi, vipāke nava, āhāre nava (cittasamuṭṭhānamūlaṃ nocittasamuṭṭhānassa kabaḷīkāro āhāro kātabbo. Nocittasamuṭṭhāno cittasamuṭṭhānassa kabaḷīkāro āhāro ghaṭane majjhe kabaḷīkāro āhāro), indriye nava (rūpajīvitindriyaṃ ekaṃ), jhāne tīṇi, magge tīṇi, sampayutte pañca, vippayutte nava, atthiyā nava, natthiyā nava, vigate nava, avigate nava. (Saṃkhittaṃ.)
 
 2117\. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
-
-
-

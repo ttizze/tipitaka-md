@@ -1,11 +1,4 @@
-
-
 # Navippayuttaduka
-
-
-
-
-
 
 (409.)
 
@@ -15,6 +8,3 @@
 * [Dasaka](Navippayuttaduka/Dasaka.md)
 * [Ekādasaka](Navippayuttaduka/Ekadasaka.md)
 * [Aṭṭhārasaka](Navippayuttaduka/Attharasaka.md)
-
-
-

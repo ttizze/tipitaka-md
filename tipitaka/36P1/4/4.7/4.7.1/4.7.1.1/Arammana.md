@@ -1,11 +1,4 @@
-
-
 # Ārammaṇa
-
-
-
-
-
 
 (92.)
 
@@ -30,6 +23,3 @@
 2287\. Nevavipākanavipākadhammadhammo vipākassa dhammassa ārammaṇapaccayena paccayo—  nibbānaṃ phalassa ārammaṇapaccayena paccayo. Sekkhā vā puthujjanā vā cakkhuṃ aniccato dukkhato anattato vipassanti, assādenti abhinandanti; taṃ ārabbha rāgo uppajjati…pe…  domanassaṃ uppajjati. Kusalākusale niruddhe vipāko tadārammaṇatā uppajjati. Sotaṃ…  ghānaṃ…  jivhaṃ…  kāyaṃ…  rūpe…  sadde…  gandhe…  rase…  phoṭṭhabbe…  vatthuṃ…  nevavipākanavipākadhammadhamme khandhe aniccato dukkhato anattato vipassanti, assādenti abhinandanti; taṃ ārabbha rāgo uppajjati…pe…  domanassaṃ uppajjati. Kusalākusale niruddhe vipāko tadārammaṇatā uppajjati. Rūpāyatanaṃ cakkhuviññāṇassa…pe…  phoṭṭhabbāyatanaṃ kāyaviññāṇassa ārammaṇapaccayena paccayo. (2)
 
 2288\. Nevavipākanavipākadhammadhammo vipākadhammadhammassa ārammaṇapaccayena paccayo—  sekkhā nibbānaṃ paccavekkhanti; nibbānaṃ gotrabhussa, vodānassa, maggassa ārammaṇapaccayena paccayo. Sekkhā vā puthujjanā vā cakkhuṃ aniccato dukkhato anattato vipassanti, assādenti abhinandanti; taṃ ārabbha rāgo uppajjati…pe…  domanassaṃ uppajjati. Sotaṃ…pe…  nevavipākanavipākadhammadhamme khandhe aniccato dukkhato anattato vipassanti, assādenti abhinandanti…pe…  dibbena cakkhunā rūpaṃ passanti, dibbāya sotadhātuyā saddaṃ suṇanti, cetopariyañāṇena nevavipākanavipākadhammadhammacittasamaṅgissa cittaṃ jānanti. Nevavipākanavipākadhammadhammā khandhā iddhividhañāṇassa, cetopariyañāṇassa, pubbenivāsānussatiñāṇassa, anāgataṃsañāṇassa ārammaṇapaccayena paccayo. (3)
-
-
-

@@ -1,10 +1,4 @@
-
-
 # Napurejātaduka
-
-
-
-
 
 (503.)
 
@@ -12,6 +6,3 @@
 
 * [Catukka](Napurejataduka/Catukka.md)
 * [Navaka](Napurejataduka/Navaka.md)
-
-
-

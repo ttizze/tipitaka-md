@@ -1,12 +1,4 @@
-
-
 # Nahetu-naārammaṇa
-
-
-
-
-
-
 
 947\. Abyākataṃ ahetukaṃ dhammaṃ paṭicca abyākato ahetuko dhammo uppajjati nahetupaccayā. (1)
 
@@ -25,6 +17,3 @@
 953\. Nahetupaccayā ārammaṇe ekaṃ. (Saṃkhittaṃ.)
 
 954\. (Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ.)
-
-
-

@@ -1,11 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
 
 (49.)
 
@@ -19,8 +12,6 @@
 
 3945\. Anulomaṃ.
 
-
-
 (50.)
 
 3946\. Saṃkiliṭṭhaṃ dhammaṃ saṃsaṭṭho saṃkiliṭṭho dhammo uppajjati nahetupaccayā—  vicikicchāsahagate uddhaccasahagate khandhe saṃsaṭṭho vicikicchāsahagato uddhaccasahagato moho. (1)
@@ -32,8 +23,3 @@
 ---
 
 3949\. Paccanīyaṃ.
-
-
-
-
-

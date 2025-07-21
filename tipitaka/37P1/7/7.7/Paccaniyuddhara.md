@@ -1,9 +1,4 @@
-
-
 # Paccanīyuddhāra
-
-
-
 
 (139.)
 
@@ -90,8 +85,3 @@
 ---
 
 629\. Paccanīyuddhāro.
-
-
-
-
-

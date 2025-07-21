@@ -1,11 +1,4 @@
-
-
 # Vipāka
-
-
-
-
-
 
 (72.)
 
@@ -16,8 +9,3 @@
 ---
 
 2221\. Vipākañca nevavipākanavipākadhammadhammañca…  tīṇi.
-
-
-
-
-

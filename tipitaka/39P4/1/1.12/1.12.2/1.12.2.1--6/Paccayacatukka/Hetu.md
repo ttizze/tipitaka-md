@@ -1,12 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
-
 
 (162.)
 
@@ -23,6 +15,3 @@
 (163.)
 
 596\. Hetuyā terasa, ārammaṇe pañca, adhipatiyā nava…pe…  sahajāte terasa, aññamaññe satta…pe…  purejāte āsevane tīṇi…pe…  vigate pañca, avigate terasa. (Saṃkhittaṃ.)
-
-
-

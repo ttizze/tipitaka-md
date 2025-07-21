@@ -1,11 +1,4 @@
-
-
 # Kamma
-
-
-
-
-
 
 (126.)
 
@@ -22,6 +15,3 @@
 476\. Kusalañca abyākatañca dhammaṃ paccayā kusalo dhammo…pe…  abyākato dhammo…pe…  kusalo ca abyākato ca dhammā uppajjanti kammapaccayā…pe… .
 
 477\. Akusalañca abyākatañca dhammaṃ paccayā akusalo dhammo…pe…  abyākato dhammo…pe…  akusalo ca abyākato ca dhammā uppajjanti kammapaccayā, akusalaṃ ekaṃ khandhañca vatthuñca paccayā…pe…  akusale khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ. (1)
-
-
-

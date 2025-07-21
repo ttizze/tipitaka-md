@@ -1,10 +1,4 @@
-
-
 # Hetu-ārammaṇa
-
-
-
-
 
 (51.)
 
@@ -15,6 +9,3 @@
 (52.)
 
 140\. Hetuyā cha, ārammaṇe nava, adhipatiyā dvādasa, anantare tīṇi…pe…  sahajāte aṭṭhārasa, aññamaññe terasa, nissaye aṭṭhārasa, upanissaye nava, purejāte aṭṭhārasa, pacchājāte cha, āsevane tīṇi, kamme vipāke āhāre cha, indriye nava, jhāne magge cha, sampayutte tīṇi, vippayutte nava…pe…  avigate sattavīsa. (Pañhāvāraṃ vitthāretabbaṃ.)
-
-
-

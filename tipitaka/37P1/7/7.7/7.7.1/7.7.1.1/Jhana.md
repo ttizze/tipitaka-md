@@ -1,11 +1,4 @@
-
-
 # Jhāna
-
-
-
-
-
 
 (121.)
 
@@ -36,6 +29,3 @@
 533\. Savitakkasavicāro ca avitakkavicāramatto ca dhammā avitakkaavicārassa dhammassa jhānapaccayena paccayo—  savitakkasavicārāni jhānaṅgāni vitakko ca cittasamuṭṭhānānaṃ rūpānaṃ jhānapaccayena paccayo. Paṭisandhikkhaṇe…pe… . (2)
 
 534\. Savitakkasavicāro ca avitakkavicāramatto ca dhammā savitakkasavicārassa ca avitakkaavicārassa ca dhammassa jhānapaccayena paccayo—  savitakkasavicārāni jhānaṅgāni vitakko ca sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ jhānapaccayena paccayo. Paṭisandhikkhaṇe…pe… . (3)
-
-
-

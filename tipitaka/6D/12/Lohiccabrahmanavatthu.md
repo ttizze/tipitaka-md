@@ -1,8 +1,4 @@
-
-
 # Lohiccabrāhmaṇavatthu
-
-
 
 (501.)
 
@@ -37,6 +33,3 @@
 872\. Atha kho bhagavā pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya saddhiṃ bhikkhusaṃghena yena sālavatikā tenupasaṅkami. Tena kho pana samayena rosikā nhāpito bhagavantaṃ piṭṭhito piṭṭhito anubandho hoti. Atha kho rosikā nhāpito bhagavantaṃ etadavoca—  “lohiccassa, bhante, brāhmaṇassa evarūpaṃ pāpakaṃ diṭṭhigataṃ uppannaṃ—  ‘idha samaṇo vā brāhmaṇo vā kusalaṃ dhammaṃ adhigaccheyya, kusalaṃ dhammaṃ adhigantvā na parassa āroceyya—  kiñhi paro parassa karissati. Seyyathāpi nāma purāṇaṃ bandhanaṃ chinditvā aññaṃ navaṃ bandhanaṃ kareyya; evaṃ sampadamidaṃ pāpakaṃ lobhadhammaṃ vadāmi—  kiñhi paro parassa karissatī’ti. Sādhu, bhante, bhagavā lohiccaṃ brāhmaṇaṃ etasmā pāpakā diṭṭhigatā vivecetū”ti. “Appeva nāma siyā, rosike, appeva nāma siyā, rosike”ti.
 
 873\. Atha kho bhagavā yena lohiccassa brāhmaṇassa nivesanaṃ tenupasaṅkami; upasaṅkamitvā paññatte āsane nisīdi. Atha kho lohicco brāhmaṇo buddhappamukhaṃ bhikkhusaṃghaṃ paṇītena khādanīyena bhojanīyena sahatthā santappesi sampavāresi.
-
-
-

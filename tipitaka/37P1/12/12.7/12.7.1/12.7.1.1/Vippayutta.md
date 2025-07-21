@@ -1,11 +1,4 @@
-
-
 # Vippayutta
-
-
-
-
-
 
 (64.)
 
@@ -18,6 +11,3 @@
 1831\. Nevasekkhanāsekkho dhammo sekkhassa dhammassa vippayuttapaccayena paccayo. **Purejātaṃ**—  vatthu sekkhānaṃ khandhānaṃ vippayuttapaccayena paccayo. (2)
 
 1832\. Nevasekkhanāsekkho dhammo asekkhassa dhammassa vippayuttapaccayena paccayo. **Purejātaṃ**—  vatthu asekkhānaṃ khandhānaṃ vippayuttapaccayena paccayo. (3)
-
-
-

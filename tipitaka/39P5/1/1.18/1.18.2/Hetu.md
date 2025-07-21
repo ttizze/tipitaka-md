@@ -1,10 +1,4 @@
-
-
 # Hetu
-
-
-
-
 
 (74.)
 
@@ -21,6 +15,3 @@
 250\. Hetuyā tīṇi, ārammaṇe nava, adhipatiyā pañca…pe…  avigate tīṇi. (Saṃkhittaṃ.)
 
 251\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
-
-
-

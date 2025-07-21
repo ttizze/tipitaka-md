@@ -1,11 +1,4 @@
-
-
 # Ārammaṇa
-
-
-
-
-
 
 (77.)
 
@@ -58,6 +51,3 @@
 1296\. Bhāvanāya pahātabbahetuko ca nevadassanena nabhāvanāya pahātabbahetuko ca dhammā dassanena pahātabbahetukassa ca nevadassanena nabhāvanāya pahātabbahetukassa ca dhammassa ārammaṇapaccayena paccayo—  uddhaccasahagate khandhe ca mohañca ārabbha vicikicchāsahagatā khandhā ca moho ca uppajjanti. (4)
 
 1297\. Bhāvanāya pahātabbahetuko ca nevadassanena nabhāvanāya pahātabbahetuko ca dhammā bhāvanāya pahātabbahetukassa ca nevadassanena nabhāvanāya pahātabbahetukassa ca dhammassa ārammaṇapaccayena paccayo—  uddhaccasahagate khandhe ca mohañca ārabbha uddhaccasahagatā khandhā ca moho ca uppajjanti. (5)
-
-
-

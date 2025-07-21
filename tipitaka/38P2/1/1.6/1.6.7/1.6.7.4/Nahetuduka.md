@@ -1,11 +1,4 @@
-
-
 # Nahetuduka
-
-
-
-
-
 
 (201.)
 
@@ -15,16 +8,8 @@
 
 543\. Paccanīyānulomaṃ.
 
-  
 Nahetusahetukadukaṃ niṭṭhitaṃ.
-
-
 
 ---
 
 544\. Hetugocchakaṃ niṭṭhitaṃ.
-
-
-
-
-

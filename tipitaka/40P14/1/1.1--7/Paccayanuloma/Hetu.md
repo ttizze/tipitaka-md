@@ -1,10 +1,4 @@
-
-
 # Hetu
-
-
-
-
 
 (1.)
 
@@ -15,6 +9,3 @@
 4\. Hetuñca nahetuñca dhammaṃ paṭicca nahetu dhammo uppajjati hetupaccayā. Hetuñca nahetuñca dhammaṃ paṭicca nanahetu dhammo uppajjati hetupaccayā. Hetuñca nahetuñca dhammaṃ paṭicca nahetu ca nanahetu ca dhammā uppajjanti hetupaccayā. (3) (Saṃkhittaṃ.)
 
 5\. Hetuyā nava, ārammaṇe nava…pe…  avigate nava. (Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ.)
-
-
-

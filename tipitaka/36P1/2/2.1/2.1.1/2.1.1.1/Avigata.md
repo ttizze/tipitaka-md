@@ -1,11 +1,4 @@
-
-
 # Avigata
-
-
-
-
-
 
 (20.)
 
@@ -14,8 +7,3 @@
 ---
 
 173\. (Ime tevīsatipaccayā sajjhāyantena vitthāretabbā.)
-
-
-
-
-

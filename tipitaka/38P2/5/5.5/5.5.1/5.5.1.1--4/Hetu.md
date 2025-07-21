@@ -1,11 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
 
 (107.)
 
@@ -39,8 +32,6 @@
 
 1863\. Anulomaṃ.
 
-
-
 (111.)
 
 1864\. Ganthañceva ganthasampayuttañca dhammaṃ paṭicca gantho ceva ganthasampayutto ca dhammo uppajjati naadhipatipaccayā. (Saṃkhittaṃ.)
@@ -50,8 +41,3 @@
 ---
 
 1866\. Paccanīyaṃ.
-
-
-
-
-

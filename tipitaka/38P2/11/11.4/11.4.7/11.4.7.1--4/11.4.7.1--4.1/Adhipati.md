@@ -1,12 +1,4 @@
-
-
 # Adhipati
-
-
-
-
-
-
 
 (100.)
 
@@ -17,8 +9,3 @@
 ---
 
 3776\. Upādānaupādāniyadukaṃ niṭṭhitaṃ.
-
-
-
-
-

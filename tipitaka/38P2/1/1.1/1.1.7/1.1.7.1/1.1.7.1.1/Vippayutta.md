@@ -1,12 +1,4 @@
-
-
 # Vippayutta
-
-
-
-
-
-
 
 (38.)
 
@@ -19,6 +11,3 @@
 102\. Nahetu dhammo hetussa ca nahetussa ca dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, purejātaṃ. **Sahajātaṃ**—  paṭisandhikkhaṇe vatthu hetūnaṃ sampayuttakānañca khandhānaṃ vippayuttapaccayena paccayo. **Purejātaṃ**—  vatthu hetūnaṃ sampayuttakānañca khandhānaṃ vippayuttapaccayena paccayo. (3)
 
 103\. Hetū ca nahetū ca dhammā nahetussa dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, pacchājātaṃ. **Sahajātā**—  hetū ca sampayuttakā ca khandhā cittasamuṭṭhānānaṃ rūpānaṃ vippayuttapaccayena paccayo; paṭisandhikkhaṇe hetū ca sampayuttakā ca khandhā kaṭattārūpānaṃ vippayuttapaccayena paccayo. **Pacchājātā**—  hetū ca sampayuttakā ca khandhā purejātassa imassa kāyassa vippayuttapaccayena paccayo. (1)
-
-
-

@@ -1,12 +1,4 @@
-
-
 # Adhipati
-
-
-
-
-
-
 
 (70.)
 
@@ -17,6 +9,3 @@
 704\. Appaṭigho dhammo sappaṭighassa dhammassa adhipatipaccayena paccayo. **Sahajātādhipati**—  appaṭighādhipati sappaṭighānaṃ cittasamuṭṭhānānaṃ rūpānaṃ adhipatipaccayena paccayo. (2)
 
 705\. Appaṭigho dhammo sappaṭighassa ca appaṭighassa ca dhammassa adhipatipaccayena paccayo. **Sahajātādhipati**—  appaṭighādhipati sampayuttakānaṃ khandhānaṃ sappaṭighānañca appaṭighānañca cittasamuṭṭhānānaṃ rūpānaṃ adhipatipaccayena paccayo. (3)
-
-
-

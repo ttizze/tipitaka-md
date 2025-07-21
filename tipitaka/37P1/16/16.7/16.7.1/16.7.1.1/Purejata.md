@@ -1,11 +1,4 @@
-
-
 # Purejāta
-
-
-
-
-
 
 (48.)
 
@@ -14,6 +7,3 @@
 2376\. Aniyato dhammo micchattaniyatassa dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ. **Ārammaṇapurejātaṃ**—  rūpajīvitindriyaṃ mātughātikammassa…  pitughātikammassa…  arahantaghātikammassa…  ruhiruppādakammassa purejātapaccayena paccayo. **Vatthupurejātaṃ**—  vatthu micchattaniyatānaṃ khandhānaṃ purejātapaccayena paccayo. (2)
 
 2377\. Aniyato dhammo sammattaniyatassa dhammassa purejātapaccayena paccayo. **Vatthupurejātaṃ**—  vatthu sammattaniyatānaṃ khandhānaṃ purejātapaccayena paccayo. (3)
-
-
-

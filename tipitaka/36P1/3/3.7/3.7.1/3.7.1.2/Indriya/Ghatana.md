@@ -1,12 +1,4 @@
-
-
 # Ghaṭanā
-
-
-
-
-
-
 
 1982\. Indriya sahajāta aññamañña nissaya sampayutta atthi avigatanti tīṇi. Indriya sahajāta aññamañña nissaya vipāka sampayutta atthi avigatanti tīṇi.
 
@@ -23,6 +15,3 @@
 1988\. Indriya hetu sahajāta aññamañña nissaya magga sampayutta atthi avigatanti dve. Indriya hetu sahajāta aññamañña nissaya vipāka magga sampayuttaatthi avigatanti dve.
 
 1989\. Indriya hetu adhipati sahajāta aññamañña nissaya magga sampayutta atthi avigatanti dve. Indriya hetu adhipati sahajāta aññamañña nissaya vipāka magga sampayutta atthi avigatanti dve.
-
-
-

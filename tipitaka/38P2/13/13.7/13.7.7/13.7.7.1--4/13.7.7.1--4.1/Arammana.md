@@ -1,12 +1,4 @@
-
-
 # Ārammaṇa
-
-
-
-
-
-
 
 (150.)
 
@@ -25,6 +17,3 @@
 4406\. Sappītiko ca appītiko ca dhammā sappītikassa dhammassa ārammaṇapaccayena paccayo—  sappītike khandhe ca pītiñca ārabbha sappītikā khandhā uppajjanti. (Mūlaṃ kātabbaṃ.) Sappītike khandhe ca pītiñca ārabbha appītikā khandhā ca pīti ca uppajjanti.
 
 4407\. (Mūlaṃ kātabbaṃ.) Sappītike khandhe ca pītiñca ārabbha sappītikā khandhā ca pīti ca uppajjanti. (3)
-
-
-

@@ -1,10 +1,4 @@
-
-
 # Hetu
-
-
-
-
 
 (317.)
 
@@ -13,8 +7,3 @@
 ---
 
 3096\. Cittasaṃsaṭṭhasamuṭṭhānānuparivattidukaṃ niṭṭhitaṃ.
-
-
-
-
-

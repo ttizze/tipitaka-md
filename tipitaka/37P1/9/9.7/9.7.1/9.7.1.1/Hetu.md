@@ -1,11 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
 
 (69.)
 
@@ -24,6 +17,3 @@
 945\. Bhāvanāya pahātabbo dhammo bhāvanāya pahātabbassa ca nevadassanena nabhāvanāya pahātabbassa ca dhammassa…pe…  bhāvanāya pahātabbā hetū sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo. (3)
 
 946\. Nevadassanena nabhāvanāya pahātabbo dhammo nevadassanena nabhāvanāya pahātabbassa dhammassa…pe…  nevadassanena nabhāvanāya pahātabbā hetū sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo. Paṭisandhikkhaṇe nevadassanena nabhāvanāya pahātabbā hetū sampayuttakānaṃ khandhānaṃ kaṭattā ca rūpānaṃ hetupaccayena paccayo. (1)
-
-
-

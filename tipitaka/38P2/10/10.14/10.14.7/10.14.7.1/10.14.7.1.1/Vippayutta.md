@@ -1,12 +1,4 @@
-
-
 # Vippayutta
-
-
-
-
-
-
 
 (462.)
 
@@ -23,6 +15,3 @@
 3500\. Anupādinno dhammo upādinnassa dhammassa vippayuttapaccayena paccayo. **Pacchājātā**—  anupādinnā khandhā purejātassa imassa upādinnassa kāyassa vippayuttapaccayena paccayo. (2)
 
 3501\. Anupādinno dhammo upādinnassa ca anupādinnassa ca dhammassa vippayuttapaccayena paccayo. **Pacchājātā**—  anupādinnā khandhā purejātassa imassa upādinnassa ca anupādinnassa ca kāyassa vippayuttapaccayena paccayo. (3)
-
-
-

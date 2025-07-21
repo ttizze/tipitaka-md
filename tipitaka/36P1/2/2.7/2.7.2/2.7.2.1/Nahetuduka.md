@@ -1,11 +1,4 @@
-
-
 # Nahetuduka
-
-
-
-
-
 
 (397.)
 
@@ -20,6 +13,3 @@
 * [Ekādasaka](Nahetuduka/Ekadasaka.md)
 * [Dvādasaka](Nahetuduka/Dvadasaka.md)
 * [Cuddasaka](Nahetuduka/Cuddasaka.md)
-
-
-

@@ -1,10 +1,4 @@
-
-
 # Nasahajātaduka
-
-
-
-
 
 (499.)
 
@@ -12,6 +6,3 @@
 
 * [Pañcaka](Nasahajataduka/Pancaka.md)
 * [Navaka](Nasahajataduka/Navaka.md)
-
-
-

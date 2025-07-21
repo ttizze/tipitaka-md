@@ -1,11 +1,4 @@
-
-
 # Nahetuduka
-
-
-
-
-
 
 (102.)
 
@@ -14,8 +7,3 @@
 ---
 
 1841\. Ganthasampayuttadukaṃ niṭṭhitaṃ.
-
-
-
-
-

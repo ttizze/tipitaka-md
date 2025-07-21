@@ -1,5 +1,3 @@
-
-
 # Hetu
 
 * [Suddha](Hetu/Suddha.md)
@@ -7,6 +5,3 @@
 * [Sāmaññaghaṭanā](Hetu/Samannaghatana.md)
 * [Saindriya-maggaghaṭanā](Hetu/Saindriya-maggaghatana.md)
 * [Sādhipati-indriya-maggaghaṭanā](Hetu/Sadhipati-indriya-maggaghatana.md)
-
-
-

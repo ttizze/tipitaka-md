@@ -1,12 +1,4 @@
-
-
 # Ārammaṇādi
-
-
-
-
-
-
 
 (20.)
 
@@ -31,6 +23,3 @@
 70\. Akusalo nahetu dhammo akusalassa nahetussa dhammassa anantarapaccayena paccayo. Akusalo nahetu dhammo abyākatassa nahetussa dhammassa anantarapaccayena paccayo. (2)
 
 71\. Abyākato nahetu dhammo abyākatassa nahetussa dhammassa anantarapaccayena paccayo…  tīṇi…pe… .
-
-
-

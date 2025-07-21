@@ -1,11 +1,4 @@
-
-
 # Atthi
-
-
-
-
-
 
 (46.)
 
@@ -24,6 +17,3 @@
 2853\. Ajjhatto dhammo ca bahiddhā dhammo ca ajjhattassa dhammassa atthipaccayena paccayo—  purejātaṃ, āhāraṃ. **Purejātaṃ**—  bahiddhā rūpāyatanañca ajjhattaṃ cakkhu ca ajjhattassa cakkhuviññāṇassa…pe…  bahiddhā phoṭṭhabbāyatanañca ajjhattaṃ kāyāyatanañca ajjhattassa kāyaviññāṇassa atthipaccayena paccayo. Bahiddhā rūpāyatanañca ajjhattaṃ vatthu ca…pe…  bahiddhā phoṭṭhabbāyatanañca ajjhattaṃ vatthu ca ajjhattānaṃ khandhānaṃ atthipaccayena paccayo. **Āhāraṃ**—  ajjhatto kabaḷīkāro āhāro ca bahiddhā kabaḷīkāro āhāro ca ajjhattassa kāyassa atthipaccayena paccayo. (1)
 
 2854\. Ajjhatto dhammo ca bahiddhā dhammo ca bahiddhā dhammassa atthipaccayena paccayo—  purejātaṃ, āhāraṃ. **Purejātaṃ**—  ajjhattaṃ rūpāyatanañca bahiddhā cakkhāyatanañca bahiddhā cakkhuviññāṇassa atthipaccayena paccayo…pe…  ajjhattaṃ phoṭṭhabbāyatanañca bahiddhā kāyāyatanañca bahiddhā kāyaviññāṇassa atthipaccayena paccayo. Ajjhattaṃ rūpāyatanañca bahiddhā vatthu ca bahiddhā khandhānaṃ atthipaccayena paccayo…pe…  ajjhattaṃ phoṭṭhabbāyatanañca bahiddhā vatthu ca bahiddhā khandhānaṃ atthipaccayena paccayo. **Āhāraṃ**—  ajjhatto kabaḷīkāro āhāro ca bahiddhā kabaḷīkāro āhāro ca bahiddhā kāyassa atthipaccayena paccayo. (2)
-
-
-

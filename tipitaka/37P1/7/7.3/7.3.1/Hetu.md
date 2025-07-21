@@ -1,10 +1,4 @@
-
-
 # Hetu
-
-
-
-
 
 (47.)
 
@@ -46,9 +40,4 @@
 
 217\. Hetupaccayo.
 
-
-
 218\. (Hetupaccayaṃ anumajjantena paccayavāro vitthāretabbo. Yathā paṭiccagaṇanā evaṃ gaṇetabbā. Adhipatiyā sattatiṃsa, purejāte ca āsevane ca ekavīsa, ayaṃ ettha viseso.)
-
-
-

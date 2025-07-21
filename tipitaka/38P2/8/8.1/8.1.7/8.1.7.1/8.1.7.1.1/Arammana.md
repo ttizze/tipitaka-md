@@ -1,12 +1,4 @@
-
-
 # Ārammaṇa
-
-
-
-
-
-
 
 (26.)
 
@@ -21,6 +13,3 @@
 1946\. Nonīvaraṇo dhammo nīvaraṇassa ca nonīvaraṇassa ca dhammassa ārammaṇapaccayena paccayo—  dānaṃ…pe…  sīlaṃ…pe…  uposathakammaṃ…pe…  pubbe suciṇṇāni…pe…  jhānā…pe…  cakkhuṃ…pe…  vatthuṃ nonīvaraṇe khandhe assādeti abhinandati, taṃ ārabbha nīvaraṇā ca sampayuttakā ca khandhā uppajjanti. (3)
 
 1947\. Nīvaraṇo ca nonīvaraṇo ca dhammā nīvaraṇassa dhammassa ārammaṇapaccayena paccayo…  tīṇi. (Ārabbha kātabbā.)
-
-
-

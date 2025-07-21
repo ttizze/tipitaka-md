@@ -1,11 +1,4 @@
-
-
 # Āsevana
-
-
-
-
-
 
 (125.)
 
@@ -22,6 +15,3 @@
 469\. Kusalañca abyākatañca dhammaṃ paccayā…pe… . (1)
 
 470\. Akusalañca abyākatañca dhammaṃ paccayā akusalo dhammo uppajjati āsevanapaccayā—  akusalaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe… .
-
-
-

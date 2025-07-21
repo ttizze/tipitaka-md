@@ -1,10 +1,4 @@
-
-
 # Nahetuduka
-
-
-
-
 
 (264.)
 
@@ -14,12 +8,6 @@
 
 830\. Paccanīyānulomaṃ.
 
-  
 Sampayuttavāro.
 
-
-
 831\. (Saṃsaṭṭhattaṃ nāma sampayuttattaṃ, sampayuttattaṃ nāma saṃsaṭṭhattaṃ.)
-
-
-

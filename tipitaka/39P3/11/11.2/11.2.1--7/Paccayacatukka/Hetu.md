@@ -1,11 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
 
 (10.)
 
@@ -36,6 +29,3 @@
 (14.)
 
 2263\. Hetuyā pañca, ārammaṇe dve…pe…  āsevane ekaṃ…pe…  avigate pañca. (Saṃkhittaṃ. Lokiyadukaabyākatasadisaṃ. Sahajātavārampi…pe…  pañhāvārampi vitthāretabbaṃ.)
-
-
-

@@ -1,11 +1,4 @@
-
-
 # Tevīsaka (savipāka)
-
-
-
-
-
 
 623\. Vippayuttapaccayā hetupaccayā…pe…  purejātapaccayā kammapaccayā vipākapaccayā āhārapaccayā. (Saṃkhittaṃ) Avigatapaccayā napacchājāte ekaṃ, naāsevane ekaṃ.
 
@@ -18,8 +11,3 @@
 ---
 
 627\. Paccayavāre anulomapaccanīyaṃ.
-
-
-
-
-

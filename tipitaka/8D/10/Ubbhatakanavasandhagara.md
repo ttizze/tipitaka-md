@@ -1,8 +1,4 @@
-
-
 # Ubbhatakanavasandhāgāra
-
-
 
 (297.)
 
@@ -21,6 +17,3 @@
 777\. Atha kho bhagavā acirapakkantesu pāveyyakesu mallesu tuṇhībhūtaṃ tuṇhībhūtaṃ bhikkhusaṃghaṃ anuviloketvā āyasmantaṃ sāriputtaṃ āmantesi—  “vigatathinamiddho kho, sāriputta, bhikkhusaṃgho. Paṭibhātu taṃ, sāriputta, bhikkhūnaṃ dhammīkathā. Piṭṭhi me āgilāyati. Tamahaṃ āyamissāmī”ti. “Evaṃ, bhante”ti kho āyasmā sāriputto bhagavato paccassosi.
 
 778\. Atha kho bhagavā catugguṇaṃ saṅghāṭiṃ paññāpetvā dakkhiṇena passena sīhaseyyaṃ kappesi pāde pādaṃ accādhāya, sato sampajāno uṭṭhānasaññaṃ manasi karitvā.
-
-
-

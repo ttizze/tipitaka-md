@@ -1,11 +1,4 @@
-
-
 # Vippayutta
-
-
-
-
-
 
 (49.)
 
@@ -16,6 +9,3 @@
 3045\. Anidassanaappaṭigho dhammo sanidassanasappaṭighassa dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, pacchājātaṃ. **Sahajātā**—  anidassanaappaṭighā khandhā sanidassanasappaṭighānaṃ cittasamuṭṭhānānaṃ rūpānaṃ vippayuttapaccayena paccayo. Paṭisandhikkhaṇe anidassanaappaṭighā khandhā sanidassanasappaṭighānaṃ kaṭattārūpānaṃ vippayuttapaccayena paccayo. **Pacchājātā**—  anidassanaappaṭighā khandhā purejātassa imassa sanidassanasappaṭighassa kāyassa vippayuttapaccayena paccayo. (2)
 
 3046\. (Avasesā pañca pañhā evaṃ vitthāretabbā. Sahajātā, pacchājātā.)
-
-
-

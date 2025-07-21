@@ -1,10 +1,4 @@
-
-
 # Nahetu
-
-
-
-
 
 (4.)
 
@@ -15,8 +9,3 @@
 ---
 
 2819\. (Yathā kusalattike vibhattaṃ, evaṃ vibhajitabbaṃ.)
-
-
-
-
-

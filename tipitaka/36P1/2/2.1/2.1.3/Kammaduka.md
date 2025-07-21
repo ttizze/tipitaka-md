@@ -1,10 +1,4 @@
-
-
 # Kammaduka
-
-
-
-
 
 (72.)
 
@@ -12,6 +6,3 @@
 
 * [Tika](Kammaduka/Tika.md)
 * [Catukka](Kammaduka/Catukka.md)
-
-
-

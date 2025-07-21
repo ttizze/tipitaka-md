@@ -1,11 +1,4 @@
-
-
 # Ārammaṇa
-
-
-
-
-
 
 (2.)
 
@@ -18,6 +11,3 @@
 (4.)
 
 2598\. Uppādī dhammo uppannassa dhammassa ārammaṇapaccayena paccayo—  uppādiṃ cakkhuṃ…pe…  kāyaṃ…  rūpe…  gandhe…  rase…  phoṭṭhabbe…  vatthuṃ…  uppādī khandhe aniccato dukkhato anattato…pe…  domanassaṃ uppajjati. Uppādī khandhā iddhividhañāṇassa, cetopariyañāṇassa, anāgataṃsañāṇassa, āvajjanāya ārammaṇapaccayena paccayo. (1)
-
-
-

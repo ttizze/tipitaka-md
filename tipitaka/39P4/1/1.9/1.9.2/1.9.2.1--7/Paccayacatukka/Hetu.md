@@ -1,12 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
-
 
 (127.)
 
@@ -17,6 +9,3 @@
 447\. Nevadassanena nabhāvanāya pahātabbahetukaṃ nahetuṃ dhammaṃ paṭicca nevadassanena nabhāvanāya pahātabbahetuko nahetu dhammo uppajjati hetupaccayā…  tīṇi. (Saṃkhittaṃ.)
 
 448\. Hetuyā nava, ārammaṇe tīṇi…pe…  avigate nava. (Saṃkhittaṃ.)
-
-
-

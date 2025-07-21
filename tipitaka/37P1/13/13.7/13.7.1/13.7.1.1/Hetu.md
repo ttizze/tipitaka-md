@@ -1,11 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
 
 (55.)
 
@@ -14,6 +7,3 @@
 2029\. Mahaggato dhammo mahaggatassa dhammassa hetupaccayena paccayo…  tīṇi. (Pavattipaṭisandhi kātabbā.)
 
 2030\. Appamāṇo dhammo appamāṇassa dhammassa hetupaccayena paccayo…  tīṇi.
-
-
-

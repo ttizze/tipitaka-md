@@ -1,11 +1,4 @@
-
-
 # Vippayutta
-
-
-
-
-
 
 (102.)
 
@@ -28,6 +21,3 @@
 1374\. Dassanena pahātabbahetuko ca nevadassanena nabhāvanāya pahātabbahetuko ca dhammā nevadassanena nabhāvanāya pahātabbahetukassa dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, pacchājātaṃ. **Sahajātā**—  vicikicchāsahagatā khandhā ca moho ca cittasamuṭṭhānānaṃ rūpānaṃ vippayuttapaccayena paccayo. **Pacchājātā**—  vicikicchāsahagatā khandhā ca moho ca purejātassa imassa kāyassa vippayuttapaccayena paccayo. (1)
 
 1375\. Bhāvanāya pahātabbahetuko ca nevadassanena nabhāvanāya pahātabbahetuko ca dhammā nevadassanena nabhāvanāya pahātabbahetukassa dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, pacchājātaṃ. **Sahajātā**—  uddhaccasahagatā khandhā ca moho ca cittasamuṭṭhānānaṃ rūpānaṃ…pe… . **Pacchājātā**—  uddhaccasahagatā khandhā ca moho ca purejātassa imassa kāyassa vippayuttapaccayena paccayo. (1)
-
-
-

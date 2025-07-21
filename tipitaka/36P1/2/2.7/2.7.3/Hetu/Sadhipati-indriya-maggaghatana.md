@@ -1,11 +1,4 @@
-
-
 # Sādhipati-indriya-maggaghaṭanā
-
-
-
-
-
 
 (417.)
 
@@ -24,8 +17,3 @@
 ---
 
 1295\. Hetumūlakaṃ.
-
-
-
-
-

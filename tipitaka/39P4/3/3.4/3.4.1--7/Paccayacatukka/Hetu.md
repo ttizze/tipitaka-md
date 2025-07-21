@@ -1,11 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
 
 (17.)
 
@@ -26,6 +19,3 @@
 1144\. Kusalaṃ appaṭighañca abyākataṃ appaṭighañca dhammaṃ paṭicca abyākato appaṭigho dhammo uppajjati hetupaccayā. (1)
 
 1145\. Akusalaṃ appaṭighañca abyākataṃ appaṭighañca dhammaṃ paṭicca abyākato appaṭigho dhammo uppajjati hetupaccayā. (1)
-
-
-

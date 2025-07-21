@@ -1,12 +1,4 @@
-
-
 # Anantarādi
-
-
-
-
-
-
 
 (211.)
 
@@ -19,6 +11,3 @@
 4557\. Nakāmāvacaro dhammo nakāmāvacarassa dhammassa anantarapaccayena paccayo—  purimā purimā nakāmāvacarā khandhā pacchimānaṃ pacchimānaṃ nakāmāvacarānaṃ khandhānaṃ anantarapaccayena paccayo; maggo phalassa, phalaṃ phalassa, nirodhā vuṭṭhahantassa, nevasaññānāsaññāyatanaṃ phalasamāpattiyā anantarapaccayena paccayo. Nakāmāvacaro dhammo kāmāvacarassa dhammassa anantarapaccayena paccayo—  nakāmāvacaraṃ cuticittaṃ kāmāvacarassa upapatticittassa, nakāmāvacaraṃ bhavaṅgaṃ āvajjanāya, nakāmāvacarā khandhā kāmāvacarassa vuṭṭhānassa anantarapaccayena paccayo… . (2)
 
 4558\. Samanantarapaccayena paccayo…  sahajātapaccayena paccayo…  satta…  aññamaññapaccayena paccayo…  cha…  nissayapaccayena paccayo…  satta.
-
-
-

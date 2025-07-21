@@ -1,12 +1,4 @@
-
-
 # Āhāra
-
-
-
-
-
-
 
 (350.)
 
@@ -29,6 +21,3 @@
 3191\. Ajjhattiko ca bāhiro ca dhammā bāhirassa dhammassa āhārapaccayena paccayo—  ajjhattikā ca bāhirā ca āhārā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ āhārapaccayena paccayo; paṭisandhikkhaṇe ajjhattikā ca bāhirā ca āhārā sampayuttakānaṃ khandhānaṃ bāhirānañca kaṭattārūpānaṃ āhārapaccayena paccayo. (2)
 
 3192\. Ajjhattiko ca bāhiro ca dhammā ajjhattikassa ca bāhirassa ca dhammassa āhārapaccayena paccayo—  paṭisandhikkhaṇe ajjhattikā ca bāhirā ca āhārā sampayuttakānaṃ khandhānaṃ ajjhattikānañca bāhirānañca kaṭattārūpānaṃ āhārapaccayena paccayo. (3)
-
-
-

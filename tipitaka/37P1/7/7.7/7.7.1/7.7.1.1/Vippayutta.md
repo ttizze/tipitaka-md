@@ -1,11 +1,4 @@
-
-
 # Vippayutta
-
-
-
-
-
 
 (127.)
 
@@ -30,6 +23,3 @@
 561\. Avitakkavicāramatto ca avitakkaavicāro ca dhammā avitakkaavicārassa dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, pacchājātaṃ. **Sahajātā**—  avitakkavicāramattā khandhā ca vicāro ca cittasamuṭṭhānānaṃ rūpānaṃ vippayuttapaccayena paccayo. Paṭisandhikkhaṇe avitakkavicāramattā khandhā ca vicāro ca kaṭattārūpānaṃ vippayuttapaccayena paccayo. **Pacchājātā**—  avitakkavicāramattā khandhā ca vicāro ca purejātassa imassa kāyassa vippayuttapaccayena paccayo. (1)
 
 562\. Savitakkasavicāro ca avitakkavicāramatto ca dhammā avitakkaavicārassa dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, pacchājātaṃ. **Sahajātā**—  savitakkasavicārā khandhā ca vitakko ca cittasamuṭṭhānānaṃ rūpānaṃ vippayuttapaccayena paccayo. Paṭisandhikkhaṇe savitakkasavicārā khandhā ca vitakko ca kaṭattārūpānaṃ vippayuttapaccayena paccayo. **Pacchājātā**—  savitakkasavicārā khandhā ca vitakko ca purejātassa imassa kāyassa vippayuttapaccayena paccayo. (1)
-
-
-

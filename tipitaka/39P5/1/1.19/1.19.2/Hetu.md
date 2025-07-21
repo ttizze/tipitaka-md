@@ -1,10 +1,4 @@
-
-
 # Hetu
-
-
-
-
 
 (80.)
 
@@ -31,6 +25,3 @@
 281\. Abyākato bahiddhā dhammo abyākatassa bahiddhā dhammassa hetupaccayena paccayo. (1) (Saṃkhittaṃ.)
 
 282\. Hetuyā satta, ārammaṇe nava, adhipatiyā dasa…pe…  avigate terasa. (Saṃkhittaṃ. Yathā kusalattike pañhāvāraṃ evaṃ vitthāretabbaṃ.)
-
-
-

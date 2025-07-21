@@ -1,12 +1,4 @@
-
-
 # Suddha
-
-
-
-
-
-
 
 (46.)
 
@@ -17,8 +9,3 @@
 ---
 
 4166\. Bhāvanāyapahātabbadukaṃ niṭṭhitaṃ.
-
-
-
-
-

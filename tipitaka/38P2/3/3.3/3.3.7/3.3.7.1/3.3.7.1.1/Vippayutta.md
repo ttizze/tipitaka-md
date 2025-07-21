@@ -1,12 +1,4 @@
-
-
 # Vippayutta
-
-
-
-
-
-
 
 (97.)
 
@@ -21,6 +13,3 @@
 1232\. Āsavavippayutto dhammo āsavasampayuttassa ca āsavavippayuttassa ca dhammassa vippayuttapaccayena paccayo. **Purejātaṃ**—  vatthu domanassasahagatānaṃ vicikicchāsahagatānaṃ uddhaccasahagatānaṃ khandhānaṃ mohassa ca vippayuttapaccayena paccayo. (2)
 
 1233\. Āsavasampayutto ca āsavavippayutto ca dhammā āsavavippayuttassa dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, pacchājātaṃ. **Sahajātā**—  domanassasahagatā vicikicchāsahagatā uddhaccasahagatā khandhā ca moho ca cittasamuṭṭhānānaṃ rūpānaṃ vippayuttapaccayena paccayo. **Pacchājātā**—  domanassasahagatā vicikicchāsahagatā uddhaccasahagatā khandhā ca moho ca purejātassa imassa kāyassa vippayuttapaccayena paccayo. (1)
-
-
-

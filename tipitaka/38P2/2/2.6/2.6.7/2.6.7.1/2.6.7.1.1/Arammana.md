@@ -1,12 +1,4 @@
-
-
 # Ārammaṇa
-
-
-
-
-
-
 
 (149.)
 
@@ -17,6 +9,3 @@
 891\. Lokuttaro dhammo lokuttarassa dhammassa ārammaṇapaccayena paccayo—  nibbānaṃ maggassa, phalassa ārammaṇapaccayena paccayo. (1)
 
 892\. Lokuttaro dhammo lokiyassa dhammassa ārammaṇapaccayena paccayo—  ariyā maggā vuṭṭhahitvā maggaṃ paccavekkhanti, phalaṃ paccavekkhanti, nibbānaṃ paccavekkhanti; nibbānaṃ gotrabhussa, vodānassa, āvajjanāya ārammaṇapaccayena paccayo; ariyā cetopariyañāṇena lokuttaracittasamaṅgissa cittaṃ jānanti, lokuttarā khandhā cetopariyañāṇassa, pubbenivāsānussatiñāṇassa, anāgataṃsañāṇassa, āvajjanāya ārammaṇapaccayena paccayo. (2)
-
-
-

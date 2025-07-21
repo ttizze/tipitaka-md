@@ -1,12 +1,4 @@
-
-
 # Atthi
-
-
-
-
-
-
 
 (34.)
 
@@ -31,6 +23,3 @@
 1699\. Gantho ca nogantho ca dhammā noganthassa dhammassa atthipaccayena paccayo—  sahajātaṃ, purejātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ. **Sahajāto**—  nogantho eko khandho ca gantho ca tiṇṇannaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ atthipaccayena paccayo…pe…  dve khandhā ca…pe… . **Sahajātā**—  ganthā ca vatthu ca noganthānaṃ khandhānaṃ atthipaccayena paccayo. **Sahajātā**—  ganthā ca mahābhūtā ca cittasamuṭṭhānānañca rūpānaṃ atthipaccayena paccayo. **Pacchājātā**—  ganthā ca sampayuttakā ca khandhā purejātassa imassa kāyassa atthipaccayena paccayo. **Pacchājātā**—  ganthā ca kabaḷīkāro āhāro ca imassa kāyassa atthipaccayena paccayo. **Pacchājātā**—  ganthā ca rūpajīvitindriyañca kaṭattārūpānaṃ atthipaccayena paccayo. (2)
 
 1700\. Gantho ca nogantho ca dhammā ganthassa ca noganthassa ca dhammassa atthipaccayena paccayo—  sahajātaṃ, purejātaṃ. **Sahajāto**—  nogantho eko khandho ca sīlabbataparāmāso kāyagantho ca tiṇṇannaṃ khandhānaṃ abhijjhākāyaganthassa ca cittasamuṭṭhānānañca rūpānaṃ atthipaccayena paccayo…pe… . **Sahajāto**—  sīlabbataparāmāso kāyagantho ca vatthu ca abhijjhākāyaganthassa ca sampayuttakānañca khandhānaṃ atthipaccayena paccayo. (Cakkaṃ.) (3)
-
-
-

@@ -1,11 +1,4 @@
-
-
 # Nissaya
-
-
-
-
-
 
 (81.)
 
@@ -28,6 +21,3 @@
 988\. Bhāvanāya pahātabbo ca nevadassanena nabhāvanāya pahātabbo ca dhammā bhāvanāya pahātabbassa dhammassa nissayapaccayena paccayo—  bhāvanāya pahātabbo eko khandho ca vatthu ca tiṇṇannaṃ khandhānaṃ nissayapaccayena paccayo…pe…  dve khandhā…pe… . (1)
 
 989\. Bhāvanāya pahātabbo ca nevadassanena nabhāvanāya pahātabbo ca dhammā nevadassanena nabhāvanāya pahātabbassa dhammassa nissayapaccayena paccayo—  bhāvanāya pahātabbā khandhā ca mahābhūtā ca cittasamuṭṭhānānaṃ rūpānaṃ nissayapaccayena paccayo. (2)
-
-
-

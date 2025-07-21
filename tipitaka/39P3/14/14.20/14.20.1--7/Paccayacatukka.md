@@ -1,10 +1,4 @@
-
-
 # Paccayacatukka
-
-
-
-
 
 (64.)
 
@@ -29,6 +23,3 @@
 2747\. Hetuyā pañca, ārammaṇe dve…pe…  avigate pañca. (Saṃkhittaṃ.)
 
 2748\. (Sahajātavārepi…pe…  pañhāvārepi sabbattha vitthāretabbo.)
-
-
-

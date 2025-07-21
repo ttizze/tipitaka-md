@@ -1,12 +1,4 @@
-
-
 # Nahetu
-
-
-
-
-
-
 
 (99.)
 
@@ -31,6 +23,3 @@
 2569\. Cetasikañca acetasikañca dhammaṃ paṭicca acetasiko dhammo uppajjati nahetupaccayā—  ahetuke cetasike khandhe ca cittañca paṭicca cittasamuṭṭhānaṃ rūpaṃ, ahetuke cetasike khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ; ahetukapaṭisandhikkhaṇe cetasike khandhe ca cittañca paṭicca kaṭattārūpaṃ, ahetukapaṭisandhikkhaṇe cetasike khandhe ca mahābhūte ca paṭicca kaṭattārūpaṃ, ahetukapaṭisandhikkhaṇe cetasike khandhe ca vatthuñca paṭicca cittaṃ. (2)
 
 2570\. Cetasikañca acetasikañca dhammaṃ paṭicca cetasiko ca acetasiko ca dhammā uppajjanti nahetupaccayā—  ahetukaṃ cetasikaṃ ekaṃ khandhañca cittañca paṭicca dve khandhā cittasamuṭṭhānañca rūpaṃ; ahetukapaṭisandhikkhaṇe cetasikaṃ ekaṃ khandhañca cittañca paṭicca dve khandhā kaṭattā ca rūpaṃ, ahetukapaṭisandhikkhaṇe cetasikaṃ ekaṃ khandhañca vatthuñca paṭicca dve khandhā cittañca, dve khandhe ca…pe… . (3)
-
-
-

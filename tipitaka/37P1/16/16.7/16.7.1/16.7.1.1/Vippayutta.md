@@ -1,11 +1,4 @@
-
-
 # Vippayutta
-
-
-
-
-
 
 (55.)
 
@@ -18,6 +11,3 @@
 2396\. Aniyato dhammo micchattaniyatassa dhammassa vippayuttapaccayena paccayo. **Purejātaṃ**—  vatthu micchattaniyatānaṃ khandhānaṃ vippayuttapaccayena paccayo. (2)
 
 2397\. Aniyato dhammo sammattaniyatassa dhammassa vippayuttapaccayena paccayo. **Purejātaṃ**—  vatthu sammattaniyatānaṃ khandhānaṃ vippayuttapaccayena paccayo. (3)
-
-
-

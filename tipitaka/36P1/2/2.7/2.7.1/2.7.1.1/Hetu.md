@@ -1,11 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
 
 (265.)
 
@@ -18,6 +11,3 @@
 (267.)
 
 834\. Abyākato dhammo abyākatassa dhammassa hetupaccayena paccayo—  vipākābyākatā kiriyābyākatā hetū sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo; paṭisandhikkhaṇe vipākābyākatā hetū sampayuttakānaṃ khandhānaṃ kaṭattā ca rūpānaṃ hetupaccayena paccayo. (1)
-
-
-

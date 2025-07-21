@@ -1,10 +1,4 @@
-
-
 # Nahetuduka
-
-
-
-
 
 (147.)
 
@@ -14,19 +8,10 @@
 
 637\. (Paccanīyānulomaṃ iminā kāraṇena vibhajitabbaṃ.)
 
-
-
 ---
 
 638\. Paccanīyānulomaṃ.
 
-
-
 ---
 
 639\. Vitakkattikaṃ niṭṭhitaṃ.
-
-
-
-
-

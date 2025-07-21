@@ -1,11 +1,4 @@
-
-
 # Anantara
-
-
-
-
-
 
 (48.)
 
@@ -28,6 +21,3 @@
 1796\. Nevasekkhanāsekkho dhammo sekkhassa dhammassa anantarapaccayena paccayo—  gotrabhu maggassa…  vodānaṃ maggassa…  anulomaṃ sekkhāya phalasamāpattiyā…  nirodhā vuṭṭhahantassa nevasaññānāsaññāyatanakusalaṃ sekkhāya phalasamāpattiyā anantarapaccayena paccayo. (2)
 
 1797\. Nevasekkhanāsekkho dhammo asekkhassa dhammassa anantarapaccayena paccayo—  anulomaṃ asekkhāya phalasamāpattiyā…  nirodhā vuṭṭhahantassa nevasaññānāsaññāyatanakiriyaṃ asekkhāya phalasamāpattiyā anantarapaccayena paccayo. (3)
-
-
-

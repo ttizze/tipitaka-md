@@ -1,12 +1,4 @@
-
-
 # Kamma-vipāka
-
-
-
-
-
-
 
 (81.)
 
@@ -21,6 +13,3 @@
 3726\. Upādānavippayutto dhammo upādānavippayuttassa dhammassa kammapaccayena paccayo—  sahajātā, nānākkhaṇikā. **Sahajātā**—  upādānavippayuttā cetanā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo; paṭisandhikkhaṇe…pe… . **Nānākkhaṇikā**—  upādānavippayuttā cetanā vipākānaṃ khandhānaṃ kaṭattā ca rūpānaṃ kammapaccayena paccayo. (1)
 
 3727\. Upādānavippayutto dhammo upādānavippayuttassa dhammassa vipākapaccayena paccayo—  vipāko upādānavippayutto eko…pe…  ekaṃ.
-
-
-

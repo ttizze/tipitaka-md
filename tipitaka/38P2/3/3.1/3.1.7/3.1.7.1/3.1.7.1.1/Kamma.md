@@ -1,12 +1,4 @@
-
-
 # Kamma
-
-
-
-
-
-
 
 (31.)
 
@@ -15,6 +7,3 @@
 1051\. Noāsavo dhammo āsavassa dhammassa kammapaccayena paccayo—  noāsavā cetanā sampayuttakānaṃ āsavānaṃ kammapaccayena paccayo. (2)
 
 1052\. Noāsavo dhammo āsavassa ca noāsavassa ca dhammassa kammapaccayena paccayo—  noāsavā cetanā sampayuttakānaṃ khandhānaṃ āsavānaṃ cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo. (3)
-
-
-

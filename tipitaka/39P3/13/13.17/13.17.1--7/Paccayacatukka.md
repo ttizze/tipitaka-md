@@ -1,10 +1,4 @@
-
-
 # Paccayacatukka
-
-
-
-
 
 (105.)
 
@@ -35,8 +29,3 @@
 ---
 
 2606\. Piṭṭhidukakusalattikaṃ niṭṭhitaṃ.
-
-
-
-
-

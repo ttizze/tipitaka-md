@@ -1,11 +1,4 @@
-
-
 # Purejāta
-
-
-
-
-
 
 (107.)
 
@@ -18,6 +11,3 @@
 455\. Avitakkaavicāro dhammo avitakkavicāramattassa ca avitakkaavicārassa ca dhammassa purejātapaccayena paccayo. **Vatthupurejātaṃ**—  vatthu avitakkavicāramattānaṃ khandhānaṃ vicārassa ca purejātapaccayena paccayo. (4)
 
 456\. Avitakkaavicāro dhammo savitakkasavicārassa ca avitakkavicāramattassa ca dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ. **Ārammaṇapurejātaṃ**—  cakkhuṃ aniccato dukkhato anattato vipassati assādeti abhinandati, taṃ ārabbha savitakkasavicārā khandhā ca vitakko ca uppajjanti. Sotaṃ…  ghānaṃ…  jivhaṃ…  kāyaṃ…  rūpe…  sadde…  gandhe…  rase…  phoṭṭhabbe…  vatthuṃ aniccato dukkhato anattato vipassati assādeti abhinandati, taṃ ārabbha savitakkasavicārā khandhā ca vitakko ca uppajjanti. **Vatthupurejātaṃ**—  vatthu savitakkasavicārānaṃ khandhānaṃ vitakkassa ca purejātapaccayena paccayo. (5)
-
-
-

@@ -1,12 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
-
 
 (176.)
 
@@ -31,6 +23,3 @@
 957\. Kenaci viññeyyañca kenaci naviññeyyañca dhammaṃ paṭicca kenaci naviññeyyo dhammo uppajjati hetupaccayā—  kenaci viññeyyañca kenaci naviññeyyañca ekaṃ khandhaṃ paṭicca kenaci naviññeyyā tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  paṭisandhikkhaṇe…pe…  khandhe paṭicca vatthu, vatthuṃ paṭicca khandhā, ekaṃ mahābhūtaṃ…pe…  mahābhūte paṭicca cittasamuṭṭhānaṃ rūpaṃ kaṭattārūpaṃ upādārūpaṃ. (2)
 
 958\. Kenaci viññeyyañca kenaci naviññeyyañca dhammaṃ paṭicca kenaci viññeyyo ca kenaci naviññeyyo ca dhammā uppajjanti hetupaccayā—  kenaci viññeyyañca kenaci naviññeyyañca ekaṃ khandhaṃ paṭicca kenaci viññeyyā ca kenaci naviññeyyā ca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  paṭisandhikkhaṇe…pe…  khandhe paṭicca vatthu, vatthuṃ paṭicca khandhā, ekaṃ mahābhūtaṃ…pe…  mahābhūte paṭicca cittasamuṭṭhānaṃ rūpaṃ kaṭattārūpaṃ upādārūpaṃ. (Saṃkhittaṃ.) (3)
-
-
-

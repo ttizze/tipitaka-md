@@ -1,10 +1,4 @@
-
-
 # Paccayacatukka
-
-
-
-
 
 (22.)
 
@@ -35,6 +29,3 @@
 (27.)
 
 2657\. Hetuyā dve, ārammaṇe dve…pe…  avigate dve. (Saṃkhittaṃ. Sahajātavārepi…pe…  pañhāvārepi vitthāretabbo.)
-
-
-

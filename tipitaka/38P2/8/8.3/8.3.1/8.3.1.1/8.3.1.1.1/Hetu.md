@@ -1,12 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
-
 
 (52.)
 
@@ -21,6 +13,3 @@
 1997\. Nīvaraṇavippayuttaṃ dhammaṃ paṭicca nīvaraṇavippayutto dhammo uppajjati hetupaccayā—  nīvaraṇavippayuttaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  paṭisandhikkhaṇe…pe… . (Yāva ajjhattikā mahābhūtā.) (1)
 
 1998\. Nīvaraṇasampayuttañca nīvaraṇavippayuttañca dhammaṃ paṭicca nīvaraṇavippayutto dhammo uppajjati hetupaccayā—  nīvaraṇasampayutte khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (Saṃkhittaṃ.)
-
-
-

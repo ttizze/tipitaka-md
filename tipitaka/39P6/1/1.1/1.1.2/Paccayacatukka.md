@@ -1,10 +1,4 @@
-
-
 # Paccayacatukka
-
-
-
-
 
 (9.)
 
@@ -31,6 +25,3 @@
 25\. Hetuyā ekaṃ, ārammaṇe cattāri, anantare cattāri…pe…  sahajāte tīṇi, aññamaññe ekaṃ, nissaye upanissaye cattāri, purejāte pacchājāte āsevane dve, kamme…pe…  jhāne ekaṃ, sampayutte ekaṃ, vippayutte tīṇi…pe…  avigate cattāri. (Saṃkhittaṃ.)
 
 26\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
-
-
-

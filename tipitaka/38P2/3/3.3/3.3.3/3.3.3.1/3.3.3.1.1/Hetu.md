@@ -1,12 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
-
 
 (66.)
 
@@ -25,6 +17,3 @@
 1149\. Āsavasampayuttañca āsavavippayuttañca dhammaṃ paccayā āsavavippayutto dhammo uppajjati hetupaccayā—  āsavasampayutte khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ, domanassasahagate vicikicchāsahagate uddhaccasahagate khandhe ca mohañca paccayā cittasamuṭṭhānaṃ rūpaṃ, domanassasahagate khandhe ca vatthuñca paccayā domanassasahagato moho. (2)
 
 1150\. Āsavasampayuttañca āsavavippayuttañca dhammaṃ paccayā āsavasampayutto ca āsavavippayutto ca dhammā uppajjanti hetupaccayā—  āsavasampayuttaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe…pe…  āsavasampayutte khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ, domanassasahagataṃ vicikicchāsahagataṃ uddhaccasahagataṃ ekaṃ khandhañca mohañca paccayā tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  domanassasahagataṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā moho ca…pe…  dve khandhe…pe… . (3)
-
-
-

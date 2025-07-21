@@ -1,11 +1,4 @@
-
-
 # Upanissaya
-
-
-
-
-
 
 (88.)
 
@@ -58,6 +51,3 @@
 1334\. Bhāvanāya pahātabbahetuko ca nevadassanena nabhāvanāya pahātabbahetuko ca dhammā dassanena pahātabbahetukassa ca nevadassanena nabhāvanāya pahātabbahetukassa ca dhammassa upanissayapaccayena paccayo. **Pakatūpanissayo**—  uddhaccasahagatā khandhā ca moho ca vicikicchāsahagatānaṃ khandhānaṃ mohassa ca upanissayapaccayena paccayo. (4)
 
 1335\. Bhāvanāya pahātabbahetuko ca nevadassanena nabhāvanāya pahātabbahetuko ca dhammā bhāvanāya pahātabbahetukassa ca nevadassanena nabhāvanāya pahātabbahetukassa ca dhammassa upanissayapaccayena paccayo—  anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  uddhaccasahagatā khandhā ca moho ca uddhaccasahagatānaṃ khandhānaṃ mohassa ca upanissayapaccayena paccayo. (5)
-
-
-

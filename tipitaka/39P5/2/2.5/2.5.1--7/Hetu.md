@@ -1,10 +1,4 @@
-
-
 # Hetu
-
-
-
-
 
 (11.)
 
@@ -35,6 +29,3 @@
 343\. Savitakkasavicāraṃ abyākataṃ dhammaṃ paṭicca savitakkasavicāro abyākato dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
 
 344\. Hetuyā sattatiṃsa, ārammaṇe ekavīsa…pe…  aññamaññe aṭṭhavīsa…pe…  purejāte āsevane ekādasa…pe…  avigate sattatiṃsa. (Saṃkhittaṃ.)
-
-
-

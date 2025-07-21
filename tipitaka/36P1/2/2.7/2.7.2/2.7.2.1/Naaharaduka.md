@@ -1,11 +1,4 @@
-
-
 # Naāhāraduka
-
-
-
-
-
 
 (407.)
 
@@ -18,6 +11,3 @@
 * [Terasaka](Naaharaduka/Terasaka.md)
 * [Pannarasaka](Naaharaduka/Pannarasaka.md)
 * [Aṭṭhārasaka](Naaharaduka/Attharasaka.md)
-
-
-

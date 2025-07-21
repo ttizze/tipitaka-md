@@ -1,11 +1,4 @@
-
-
 # Āhāra
-
-
-
-
-
 
 (119.)
 
@@ -22,6 +15,3 @@
 513\. Avitakkavicāramatto dhammo avitakkavicāramattassa ca avitakkaavicārassa ca dhammassa āhārapaccayena paccayo—  avitakkavicāramattā āhārā sampayuttakānaṃ khandhānaṃ vicārassa ca cittasamuṭṭhānānañca rūpānaṃ āhārapaccayena paccayo. Paṭisandhikkhaṇe…pe… . (3)
 
 514\. Avitakkaavicāro dhammo avitakkaavicārassa dhammassa āhārapaccayena paccayo—  avitakkaavicārā āhārā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ āhārapaccayena paccayo. Paṭisandhikkhaṇe…pe… . **Kabaḷīkāro āhāro**—  imassa kāyassa āhārapaccayena paccayo.
-
-
-

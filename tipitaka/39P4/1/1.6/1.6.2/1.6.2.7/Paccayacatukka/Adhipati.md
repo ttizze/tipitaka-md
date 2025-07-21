@@ -1,12 +1,4 @@
-
-
 # Adhipati
-
-
-
-
-
-
 
 (99.)
 
@@ -19,6 +11,3 @@
 335\. Avitakkavicāramatto nahetu ca avitakkaavicāro nahetu ca dhammā savitakkasavicārassa nahetussa dhammassa adhipatipaccayena paccayo…  tīṇi.
 
 336\. Savitakkasavicāro nahetu ca avitakkavicāramatto nahetu ca dhammā savitakkasavicārassa nahetussa dhammassa adhipatipaccayena paccayo…  tīṇi.
-
-
-

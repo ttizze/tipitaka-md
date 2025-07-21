@@ -1,11 +1,4 @@
-
-
 # Naadhipati
-
-
-
-
-
 
 (50.)
 
@@ -38,6 +31,3 @@
 231\. Avitakkavicāramattañca avitakkaavicārañca dhammaṃ paccayā avitakkavicāramatto dhammo uppajjati…pe…  avitakkavicāramatte khandhe ca vicārañca paccayā avitakkavicāramattā adhipati, avitakkavicāramatte khandhe ca vatthuñca paccayā avitakkavicāramattā adhipati, vipākaṃ avitakkavicāramattaṃ ekaṃ khandhañca vicārañca paccayā…pe…  vipākaṃ avitakkavicāramattaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe… .
 
 232\. (Paṭisandhikkhaṇe pañca pañhā kātabbā. Yattha avitakkavicāramattaṃ āgacchati tattha vipākaṃ kātabbaṃ. Naadhipatimūlake sattatiṃsa pañhā kātabbā.)
-
-
-

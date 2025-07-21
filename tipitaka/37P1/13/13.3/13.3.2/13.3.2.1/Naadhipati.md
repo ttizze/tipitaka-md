@@ -1,11 +1,4 @@
-
-
 # Naadhipati
-
-
-
-
-
 
 (35.)
 
@@ -36,6 +29,3 @@
 1986\. Parittañca mahaggatañca dhammaṃ paccayā mahaggato dhammo uppajjati naadhipatipaccayā—  mahaggate khandhe ca vatthuñca paccayā mahaggatādhipati, vipākaṃ mahaggataṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe…pe…  paṭisandhikkhaṇe…pe… . (2)
 
 1987\. Parittañca mahaggatañca dhammaṃ paccayā paritto ca mahaggato ca dhammā uppajjanti naadhipatipaccayā—  vipākaṃ mahaggataṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe…pe…  vipāke mahaggate khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ. Paṭisandhikkhaṇe vipākaṃ mahaggataṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe…pe…  vipāke mahaggate khandhe ca mahābhūte ca paccayā kaṭattārūpaṃ. (3)
-
-
-

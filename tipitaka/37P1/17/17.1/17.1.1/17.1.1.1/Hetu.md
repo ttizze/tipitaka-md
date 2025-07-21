@@ -1,11 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
 
 (1.)
 
@@ -50,6 +43,3 @@
 2445\. Maggahetukañca maggādhipatiñca dhammaṃ paṭicca maggādhipati dhammo uppajjati hetupaccayā—  maggahetukañca maggādhipatiñca ekaṃ khandhaṃ paṭicca maggādhipatī tayo khandhā…pe…  dve khandhe…pe… . (2)
 
 2446\. Maggahetukañca maggādhipatiñca dhammaṃ paṭicca maggahetuko ca maggādhipati ca dhammā uppajjanti hetupaccayā—  maggahetukañca maggādhipatiñca ekaṃ khandhaṃ paṭicca maggahetukā ca maggādhipatī ca tayo khandhā…pe…  dve khandhe…pe… . (3)
-
-
-

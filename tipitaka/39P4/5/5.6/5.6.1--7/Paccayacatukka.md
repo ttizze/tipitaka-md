@@ -1,10 +1,4 @@
-
-
 # Paccayacatukka
-
-
-
-
 
 (23.)
 
@@ -51,6 +45,3 @@
 1413\. Hetuyā satta, ārammaṇe nava, adhipatiyā dasa, anantare…pe…  sahajāte satta, aññamaññe tīṇi, nissaye upanissaye nava…pe…  vippayutte tīṇi…pe…  avigate ekādasa. (Saṃkhittaṃ.)
 
 1414\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
-
-
-

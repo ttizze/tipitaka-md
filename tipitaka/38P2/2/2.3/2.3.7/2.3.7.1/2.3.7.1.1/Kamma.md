@@ -1,12 +1,4 @@
-
-
 # Kamma
-
-
-
-
-
-
 
 (43.)
 
@@ -15,6 +7,3 @@
 634\. Anidassano dhammo sanidassanassa dhammassa kammapaccayena paccayo—  sahajātā, nānākkhaṇikā. (Vitthāretabbaṃ.) (2)
 
 635\. Anidassano dhammo sanidassanassa ca anidassanassa ca dhammassa kammapaccayena paccayo—  sahajātā, nānākkhaṇikā. (Vitthāretabbaṃ.) (3)
-
-
-

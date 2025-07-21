@@ -1,11 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
 
 (38.)
 
@@ -66,8 +59,3 @@
 ---
 
 1894\. Ganthagocchakakusalattikaṃ niṭṭhitaṃ.
-
-
-
-
-

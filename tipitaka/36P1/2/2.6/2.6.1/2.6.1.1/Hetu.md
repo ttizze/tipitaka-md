@@ -1,11 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
 
 (256.)
 
@@ -18,6 +11,3 @@
 (258.)
 
 820\. Abyākataṃ dhammaṃ sampayutto abyākato dhammo uppajjati hetupaccayā—  vipākābyākataṃ kiriyābyākataṃ ekaṃ khandhaṃ sampayuttā tayo khandhā, tayo khandhe sampayutto eko khandho, dve khandhe sampayuttā dve khandhā; paṭisandhikkhaṇe vipākābyākataṃ ekaṃ khandhaṃ sampayuttā tayo khandhā, tayo khandhe sampayutto eko khandho, dve khandhe sampayuttā dve khandhā. (Saṃkhittaṃ.) (1)
-
-
-

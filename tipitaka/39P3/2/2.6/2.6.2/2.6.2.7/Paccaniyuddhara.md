@@ -1,11 +1,4 @@
-
-
 # Paccanīyuddhāra
-
-
-
-
-
 
 (103.)
 
@@ -25,13 +18,6 @@
 
 1471\. Nahetusahetukadukakusalattikaṃ niṭṭhitaṃ.
 
-
-
 ---
 
 1472\. Hetugocchakaṃ niṭṭhitaṃ.
-
-
-
-
-

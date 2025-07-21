@@ -1,10 +1,4 @@
-
-
 # Hetu
-
-
-
-
 
 (33.)
 
@@ -19,6 +13,3 @@
 401\. Aniyataṃ akusalaṃ dhammaṃ paṭicca aniyato akusalo dhammo uppajjati hetupaccayā. (1) (Sabbattha dve. Sabbattha vitthāro.)
 
 402\. Aniyataṃ abyākataṃ dhammaṃ paṭicca aniyato abyākato dhammo uppajjati hetupaccayā. (Sabbattha ekaṃ.)
-
-
-

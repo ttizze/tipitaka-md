@@ -1,11 +1,4 @@
-
-
 # Navipāka
-
-
-
-
-
 
 (23.)
 
@@ -26,6 +19,3 @@
 1946\. Parittañca appamāṇañca dhammaṃ paṭicca paritto dhammo uppajjati navipākapaccayā—  kusale appamāṇe khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
 
 1947\. Parittañca mahaggatañca dhammaṃ paṭicca paritto dhammo uppajjati navipākapaccayā—  mahaggate khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
-
-
-

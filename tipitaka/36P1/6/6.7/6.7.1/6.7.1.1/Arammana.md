@@ -1,11 +1,4 @@
-
-
 # Ārammaṇa
-
-
-
-
-
 
 (9.)
 
@@ -14,8 +7,6 @@
 ---
 
 2833\. (Yathā kusalattike vibhattaṃ, evaṃ vibhajitabbaṃ.)
-
-
 
 2834\. Saṃkiliṭṭhasaṃkilesiko dhammo asaṃkiliṭṭhasaṃkilesikassa dhammassa ārammaṇapaccayena paccayo—  ariyā pahīne kilese paccavekkhanti, vikkhambhite kilese paccavekkhanti, pubbe samudāciṇṇe kilese jānanti, saṃkiliṭṭhasaṃkilesike khandhe aniccato dukkhato anattato vipassanti, cetopariyañāṇena saṃkiliṭṭhasaṃkilesikacittasamaṅgissa cittaṃ jānanti; sekkhā vā puthujjanā vā saṃkiliṭṭhasaṃkilesike khandhe aniccato dukkhato anattato vipassanti, kusale niruddhe vipāko tadārammaṇatā uppajjati; saṃkiliṭṭhasaṃkilesike khandhe assādenti abhinandanti…pe…  domanassaṃ uppajjati, akusale niruddhe vipāko tadārammaṇatā uppajjati. Saṃkiliṭṭhasaṃkilesikā khandhā cetopariyañāṇassa, pubbenivāsānussatiñāṇassa, yathākammupagañāṇassa, anāgataṃsañāṇassa, āvajjanāya ārammaṇapaccayena paccayo. (2)
 
@@ -28,6 +19,3 @@
 2837\. Asaṃkiliṭṭhaasaṃkilesiko dhammo asaṃkiliṭṭhaasaṃkilesikassa dhammassa ārammaṇapaccayena paccayo—  nibbānaṃ maggassa, phalassa ārammaṇapaccayena paccayo. (1)
 
 2838\. Asaṃkiliṭṭhaasaṃkilesiko dhammo asaṃkiliṭṭhasaṃkilesikassa dhammassa ārammaṇapaccayena paccayo—  ariyā maggā vuṭṭhahitvā maggaṃ paccavekkhanti, phalaṃ paccavekkhanti, nibbānaṃ paccavekkhanti. Nibbānaṃ gotrabhussa, vodānassa, āvajjanāya ārammaṇapaccayena paccayo. Ariyā cetopariyañāṇena asaṃkiliṭṭhaasaṃkilesikacittasamaṅgissa cittaṃ jānanti. Asaṃkiliṭṭhaasaṃkilesikā khandhā cetopariyañāṇassa, pubbenivāsānussatiñāṇassa, anāgataṃsañāṇassa, āvajjanāya ārammaṇapaccayena paccayo. (2)
-
-
-

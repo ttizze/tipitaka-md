@@ -1,12 +1,4 @@
-
-
 # Pacchājātādi
-
-
-
-
-
-
 
 (110.)
 
@@ -17,6 +9,3 @@
 300\. Sahetuko ca ahetuko ca dhammā ahetukassa dhammassa pacchājātapaccayena paccayo—  pacchājātā vicikicchāsahagatā uddhaccasahagatā khandhā ca moho ca purejātassa imassa kāyassa pacchājātapaccayena paccayo. (1)
 
 301\. Sahetuko dhammo sahetukassa dhammassa āsevanapaccayena paccayo. (Anantarasadisaṃ. Āvajjanampi bhavaṅgampi natthi, āsevanapaccaye vajjetabbā navapi.)
-
-
-

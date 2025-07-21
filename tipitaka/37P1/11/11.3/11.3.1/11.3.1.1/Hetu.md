@@ -1,11 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
 
 (18.)
 
@@ -38,6 +31,3 @@
 1482\. Ācayagāmiñca nevācayagāmināpacayagāmiñca dhammaṃ paccayā ācayagāmī ca nevācayagāmināpacayagāmī ca dhammā uppajjanti hetupaccayā—  ācayagāmiṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe…pe…  ācayagāmī khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ. (3)
 
 1483\. Apacayagāmiñca nevācayagāmināpacayagāmiñca dhammaṃ paccayā apacayagāmī dhammo…  tīṇi.
-
-
-

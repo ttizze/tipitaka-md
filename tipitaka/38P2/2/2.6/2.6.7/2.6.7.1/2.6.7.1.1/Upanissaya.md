@@ -1,12 +1,4 @@
-
-
 # Upanissaya
-
-
-
-
-
-
 
 (156.)
 
@@ -19,6 +11,3 @@
 904\. Lokuttaro dhammo lokuttarassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  paṭhamo maggo dutiyassa maggassa upanissayapaccayena paccayo…pe…  tatiyo maggo catutthassa maggassa upanissayapaccayena paccayo. (1)
 
 905\. Lokuttaro dhammo lokiyassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  ariyā maggaṃ upanissāya anuppannaṃ samāpattiṃ uppādenti, uppannaṃ samāpajjanti, saṅkhāre aniccato dukkhato anattato vipassanti, ariyānaṃ maggo…pe…  ṭhānāṭhānakosallassa upanissayapaccayena paccayo; phalasamāpatti kāyikassa sukhassa upanissayapaccayena paccayo. (2)
-
-
-

@@ -1,11 +1,4 @@
-
-
 # Kamma
-
-
-
-
-
 
 (51.)
 
@@ -24,6 +17,3 @@
 2389\. Sammattaniyato dhammo sammattaniyatassa ca aniyatassa ca dhammassa kammapaccayena paccayo—  sammattaniyatā cetanā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo. (3)
 
 2390\. Aniyato dhammo aniyatassa dhammassa kammapaccayena paccayo—  sahajātā, nānākkhaṇikā. **Sahajātā**—  aniyatā cetanā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo. Paṭisandhikkhaṇe…pe… . **Nānākkhaṇikā**—  aniyatā cetanā vipākānaṃ khandhānaṃ kaṭattā ca rūpānaṃ kammapaccayena paccayo. (1)
-
-
-

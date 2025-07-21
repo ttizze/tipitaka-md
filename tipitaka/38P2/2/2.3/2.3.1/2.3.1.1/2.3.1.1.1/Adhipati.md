@@ -1,12 +1,4 @@
-
-
 # Adhipati
-
-
-
-
-
-
 
 (20.)
 
@@ -15,6 +7,3 @@
 584\. Anidassanaṃ dhammaṃ paṭicca sanidassano dhammo uppajjati adhipatipaccayā—  anidassane khandhe paṭicca sanidassanaṃ cittasamuṭṭhānaṃ rūpaṃ, mahābhūte paṭicca sanidassanaṃ cittasamuṭṭhānaṃ rūpaṃ. (2)
 
 585\. Anidassanaṃ dhammaṃ paṭicca sanidassano ca anidassano ca dhammā uppajjanti adhipatipaccayā—  anidassanaṃ ekaṃ khandhaṃ paṭicca tayo khandhā sanidassanañca anidassanañca cittasamuṭṭhānaṃ rūpaṃ…pe…  dve khandhe…pe…  mahābhūte paṭicca sanidassanañca anidassanañca cittasamuṭṭhānaṃ rūpaṃ upādārūpaṃ. (3) (Saṃkhittaṃ, sabbe kātabbā.)
-
-
-

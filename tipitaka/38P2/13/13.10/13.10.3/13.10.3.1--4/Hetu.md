@@ -1,11 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
 
 (183.)
 
@@ -17,8 +10,6 @@
 
 4480\. Anulomaṃ.
 
-
-
 (184.)
 
 4481\. Upekkhāsahagataṃ dhammaṃ paccayā upekkhāsahagato dhammo uppajjati nahetupaccayā—  ahetukaṃ upekkhāsahagataṃ ekaṃ khandhaṃ paccayā dve khandhā, dve khandhe…pe…  ahetukapaṭisandhikkhaṇe…pe…  vicikicchāsahagate uddhaccasahagate khandhe paccayā vicikicchāsahagato uddhaccasahagato moho. (Evaṃ navapi pañhā pavattipaṭisandhiyo yathā savitakkadukassa evaṃ kātabbā. Tīṇiyeva moho, pavatte vatthupi kātabbā.)
@@ -28,8 +19,3 @@
 ---
 
 4483\. Paccanīyaṃ.
-
-
-
-
-

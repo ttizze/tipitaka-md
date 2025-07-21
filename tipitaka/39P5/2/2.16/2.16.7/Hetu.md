@@ -1,10 +1,4 @@
-
-
 # Hetu
-
-
-
-
 
 (37.)
 
@@ -15,6 +9,3 @@
 414\. Uppanno abyākato dhammo uppannassa abyākatassa dhammassa hetupaccayena paccayo. (Saṃkhittaṃ.)
 
 415\. Hetuyā ekaṃ, ārammaṇe tīṇi…pe…  upanissaye tīṇi…pe…  avigate ekaṃ. (Sabbattha vitthāro.)
-
-
-

@@ -1,12 +1,4 @@
-
-
 # Sahetādhipati-indriyaghaṭanā
-
-
-
-
-
-
 
 (372.)
 
@@ -17,8 +9,3 @@
 ---
 
 1129\. Maggamūlakaṃ.
-
-
-
-
-

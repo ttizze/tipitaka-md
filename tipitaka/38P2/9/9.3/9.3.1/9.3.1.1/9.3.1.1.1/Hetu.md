@@ -1,12 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
-
 
 (46.)
 
@@ -21,6 +13,3 @@
 2216\. Parāmāsavippayuttaṃ dhammaṃ paṭicca parāmāsavippayutto dhammo uppajjati hetupaccayā—  parāmāsavippayuttaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ …pe…  dve khandhe…pe…  paṭisandhikkhaṇe…pe…  khandhe paṭicca vatthu, vatthuṃ paṭicca khandhā, ekaṃ mahābhūtaṃ…pe… . (1)
 
 2217\. Parāmāsasampayuttañca parāmāsavippayuttañca dhammaṃ paṭicca parāmāsavippayutto dhammo uppajjati hetupaccayā—  parāmāsasampayutte khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (Saṃkhittaṃ.) (1)
-
-
-

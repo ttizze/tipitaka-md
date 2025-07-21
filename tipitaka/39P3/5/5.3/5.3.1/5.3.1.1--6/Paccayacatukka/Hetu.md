@@ -1,12 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
-
 
 (20.)
 
@@ -25,6 +17,3 @@
 (22.)
 
 1745\. Hetuyā tīṇi, ārammaṇe pañca, adhipatiyā ekaṃ…pe…  avigate pañca. (Saṃkhittaṃ, anulomaṃ.)
-
-
-

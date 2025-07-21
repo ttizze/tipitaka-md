@@ -1,11 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
 
 (115.)
 
@@ -21,8 +14,6 @@
 
 4319\. Anulomaṃ.
 
-
-
 4320\. Savitakkaṃ dhammaṃ saṃsaṭṭho savitakko dhammo uppajjati nahetupaccayā. (Evaṃ cha pañhā kātabbā anulomasadisā, ahetukāti niyāmetabbā, tīṇiyeva, moho uddharitabbo.)
 
 4321\. Nahetuyā cha, naadhipatiyā cha, napurejāte cha, napacchājāte cha, naāsevane cha, nakamme cattāri, navipāke cha, najhāne ekaṃ, namagge cha, navippayutte cha.
@@ -30,8 +21,3 @@
 ---
 
 4322\. Paccanīyaṃ.
-
-
-
-
-

@@ -1,11 +1,4 @@
-
-
 # Nahetu
-
-
-
-
-
 
 (142.)
 
@@ -16,6 +9,3 @@
 516\. Abyākataṃ dhammaṃ paccayā akusalo dhammo uppajjati nahetupaccayā—  vatthuṃ paccayā vicikicchāsahagato uddhaccasahagato moho. (2)
 
 517\. Akusalañca abyākatañca dhammaṃ paccayā akusalo dhammo uppajjati nahetupaccayā—  vicikicchāsahagate uddhaccasahagate khandhe ca vatthuñca paccayā vicikicchāsahagato uddhaccasahagato moho. (1)
-
-
-

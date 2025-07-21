@@ -1,12 +1,4 @@
-
-
 # Ārammaṇādi
-
-
-
-
-
-
 
 (35.)
 
@@ -27,6 +19,3 @@
 (37.)
 
 63\. Nahetu akusalo dhammo nahetussa akusalassa dhammassa kammapaccayena paccayo. Nahetu akusalo dhammo hetussa akusalassa dhammassa kammapaccayena paccayo. Nahetu akusalo dhammo hetussa akusalassa ca nahetussa akusalassa ca dhammassa kammapaccayena paccayo. (3)
-
-
-

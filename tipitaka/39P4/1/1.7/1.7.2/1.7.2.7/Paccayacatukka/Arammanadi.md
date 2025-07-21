@@ -1,12 +1,4 @@
-
-
 # Ārammaṇādi
-
-
-
-
-
-
 
 (110.)
 
@@ -49,6 +41,3 @@
 391\. Nahetupaccayā ārammaṇe soḷasa. (Saṃkhittaṃ.)
 
 392\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
-
-
-

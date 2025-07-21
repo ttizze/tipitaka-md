@@ -1,11 +1,4 @@
-
-
 # Naāsevanādi
-
-
-
-
-
 
 (32.)
 
@@ -18,6 +11,3 @@
 2335\. Sammattaniyataṃ dhammaṃ saṃsaṭṭho sammattaniyato dhammo uppajjati navippayuttapaccayā—  arūpe sammattaniyataṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā…pe…  dve khandhe…pe… . (1)
 
 2336\. Aniyataṃ dhammaṃ saṃsaṭṭho aniyato dhammo uppajjati navippayuttapaccayā—  arūpe aniyataṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā…pe…  dve khandhe…pe… . (1)
-
-
-

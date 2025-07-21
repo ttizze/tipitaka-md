@@ -1,12 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
-
 
 (247.)
 
@@ -25,6 +17,3 @@
 2934\. Cittasahabhuñca nocittasahabhuñca dhammaṃ paccayā nocittasahabhū dhammo uppajjati hetupaccayā—  cittasahabhū khandhe ca cittañca paccayā nocittasahabhu cittasamuṭṭhānaṃ rūpaṃ, cittasahabhū khandhe ca vatthuñca paccayā cittaṃ. Cittasahabhū khandhe ca mahābhūte ca paccayā nocittasahabhu cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe…pe… . (Paṭiccasadisaṃ, sabbe mahābhūtā.) (2)
 
 2935\. Cittasahabhuñca nocittasahabhuñca dhammaṃ paccayā cittasahabhū ca nocittasahabhū ca dhammā uppajjanti hetupaccayā—  cittasahabhuṃ ekaṃ khandhañca cittañca paccayā dve khandhā cittasahabhu ca nocittasahabhu ca cittasamuṭṭhānaṃ rūpaṃ, cittasahabhuṃ ekaṃ khandhañca vatthuñca paccayā dve khandhā cittañca, dve khandhe ca…pe…  paṭisandhikkhaṇe…pe… . (Paṭiccasadisaṃ, sabbe mahābhūtā.) (3)
-
-
-

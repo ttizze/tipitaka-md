@@ -1,12 +1,4 @@
-
-
 # Kamma
-
-
-
-
-
-
 
 (359.)
 
@@ -15,6 +7,3 @@
 4827\. Araṇo dhammo araṇassa dhammassa kammapaccayena paccayo—  sahajātā, nānākkhaṇikā. **Sahajātā**—  (Saṃkhittaṃ.) (1)
 
 4828\. Vipākapaccayena paccayo…  ekaṃ…  āhārapaccayena paccayo…  cattāri…  indriyapaccayena paccayo…  cattāri…  jhānapaccayena paccayo…  cattāri…  maggapaccayena paccayo…  cattāri…  sampayuttapaccayena paccayo…  dve…  vippayuttapaccayena paccayo…  tīṇi. (Arūpadukasadisā.)
-
-
-

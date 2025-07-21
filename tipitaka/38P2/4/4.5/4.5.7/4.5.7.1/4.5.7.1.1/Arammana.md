@@ -1,12 +1,4 @@
-
-
 # Ārammaṇa
-
-
-
-
-
-
 
 (107.)
 
@@ -19,6 +11,3 @@
 1593\. Saññojanasampayutto ceva no ca saññojano dhammo saññojanassa ceva saññojanasampayuttassa ca saññojanasampayuttassa ceva no ca saññojanassa ca dhammassa ārammaṇapaccayena paccayo—  saññojanasampayutte ceva no ca saññojane khandhe ārabbha saññojanā ca saññojanasampayuttakā ca khandhā uppajjanti. (3)
 
 1594\. Saññojano ceva saññojanasampayutto ca saññojanasampayutto ceva no ca saññojano ca dhammā saññojanassa ceva saññojanasampayuttassa ca dhammassa ārammaṇapaccayena paccayo…  tīṇi.
-
-
-

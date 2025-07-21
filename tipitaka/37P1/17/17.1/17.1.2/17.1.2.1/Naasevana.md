@@ -1,11 +1,4 @@
-
-
 # Naāsevana
-
-
-
-
-
 
 (15.)
 
@@ -30,6 +23,3 @@
 2476\. Maggārammaṇañca maggādhipatiñca dhammaṃ paṭicca maggādhipati dhammo uppajjati naāsevanapaccayā—  maggārammaṇañca maggādhipatiñca ekaṃ khandhaṃ paṭicca maggādhipatī tayo khandhā…pe…  dve khandhe…pe… . (2)
 
 2477\. Maggārammaṇañca maggādhipatiñca dhammaṃ paṭicca maggārammaṇo ca maggādhipati ca dhammā uppajjanti naāsevanapaccayā—  maggārammaṇañca maggādhipatiñca ekaṃ khandhaṃ paṭicca maggārammaṇā ca maggādhipatī ca tayo khandhā…pe…  dve khandhe…pe… . (3)
-
-
-

@@ -1,11 +1,4 @@
-
-
 # Ārammaṇa
-
-
-
-
-
 
 (30.)
 
@@ -16,6 +9,3 @@
 (31.)
 
 3006\. Anidassanaappaṭigho dhammo anidassanaappaṭighassa dhammassa ārammaṇapaccayena paccayo—  dānaṃ datvā sīlaṃ samādiyitvā uposathakammaṃ katvā taṃ paccavekkhati, pubbe suciṇṇāni paccavekkhati, jhānā…pe…  ariyā maggā vuṭṭhahitvā maggaṃ paccavekkhanti, phalaṃ paccavekkhanti, nibbānaṃ paccavekkhanti, nibbānaṃ gotrabhussa, vodānassa, maggassa, phalassa, āvajjanāya ārammaṇapaccayena paccayo. Ariyā pahīne kilese paccavekkhanti, vikkhambhite kilese paccavekkhanti, pubbe samudāciṇṇe kilese jānanti…pe…  vatthuṃ…  itthindriyaṃ…  purisindriyaṃ…  jīvitindriyaṃ…  āpodhātuṃ…  kabaḷīkāraṃ āhāraṃ…  anidassanaappaṭighe khandhe aniccato…pe…  domanassaṃ uppajjati, cetopariyañāṇena anidassanaappaṭighacittasamaṅgissa cittaṃ jānāti, ākāsānañcāyatanaṃ viññāṇañcāyatanassa ārammaṇapaccayena paccayo. Ākiñcaññāyatanaṃ nevasaññānāsaññāyatanassa…pe…  anidassanaappaṭighā khandhā iddhividhañāṇassa, cetopariyañāṇassa, pubbenivāsānussatiñāṇassa, yathākammūpagañāṇassa, anāgataṃsañāṇassa, āvajjanāya ārammaṇapaccayena paccayo. (1)
-
-
-

@@ -1,12 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
-
 
 (106.)
 
@@ -25,6 +17,3 @@
 2583\. Cetasikañca acetasikañca dhammaṃ paccayā acetasiko dhammo uppajjati hetupaccayā—  cetasike khandhe ca cittañca paccayā cittasamuṭṭhānaṃ rūpaṃ, cetasike khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ, cetasike khandhe ca vatthuñca paccayā cittaṃ. (Paṭisandhikkhaṇe tīṇipi kātabbā.) (2)
 
 2584\. Cetasikañca acetasikañca dhammaṃ paccayā cetasiko ca acetasiko ca dhammā uppajjanti hetupaccayā—  cetasikaṃ ekaṃ khandhañca cittañca paccayā dve khandhā cittasamuṭṭhānañca rūpaṃ, dve khandhe ca…pe…  cetasikaṃ ekaṃ khandhañca vatthuñca paccayā dve khandhā cittañca, dve khandhe ca…pe… . (Paṭisandhikkhaṇe dvepi kātabbā.) (3)
-
-
-

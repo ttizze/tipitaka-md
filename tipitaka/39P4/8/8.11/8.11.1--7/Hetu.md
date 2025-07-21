@@ -1,10 +1,4 @@
-
-
 # Hetu
-
-
-
-
 
 (39.)
 
@@ -45,6 +39,3 @@
 1828\. Hetuyā satta, ārammaṇe pañca, adhipatiyā nava, anantare aṭṭha…pe…  upanissaye aṭṭha…pe…  āsevane dve, kamme aṭṭha, vipāke satta…pe…  avigate terasa. (Saṃkhittaṃ.)
 
 1829\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
-
-
-

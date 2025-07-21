@@ -1,10 +1,4 @@
-
-
 # Hetu
-
-
-
-
 
 (6.)
 
@@ -19,6 +13,3 @@
 1544\. Kusalaṃ nabhāvanāya pahātabbaṃ dhammaṃ paṭicca kusalo nabhāvanāya pahātabbo dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
 
 1545\. Hetuyā nava, ārammaṇe tīṇi…pe…  avigate nava. (Saṃkhittaṃ.) (Sahajātavārampi…pe…  pañhāvārampi vitthāretabbaṃ.)
-
-
-

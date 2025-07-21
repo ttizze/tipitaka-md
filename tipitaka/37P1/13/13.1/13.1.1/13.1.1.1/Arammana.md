@@ -1,11 +1,4 @@
-
-
 # Ārammaṇa
-
-
-
-
-
 
 (5.)
 
@@ -18,6 +11,3 @@
 1882\. Appamāṇaṃ dhammaṃ paṭicca appamāṇo dhammo uppajjati ārammaṇapaccayā—  appamāṇaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe…pe… . (1)
 
 1883\. Parittañca mahaggatañca dhammaṃ paṭicca mahaggato dhammo uppajjati ārammaṇapaccayā—  paṭisandhikkhaṇe mahaggataṃ ekaṃ khandhañca vatthuñca paṭicca tayo khandhā…pe…  dve khandhe…pe… . (1)
-
-
-

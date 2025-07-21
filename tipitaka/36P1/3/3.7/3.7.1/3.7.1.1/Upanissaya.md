@@ -1,11 +1,4 @@
-
-
 # Upanissaya
-
-
-
-
-
 
 (53.)
 
@@ -48,6 +41,3 @@
 1932\. Adukkhamasukhāya vedanāya sampayutto dhammo dukkhāya vedanāya sampayuttassa dhammassa upanissayapaccayena paccayo—  anantarūpanissayo, pakatūpanissayo…pe… .
 
 1933\. **Pakatūpanissayo**—  adukkhamasukhāya vedanāya sampayuttaṃ saddhaṃ upanissāya attānaṃ ātāpeti paritāpeti, pariyiṭṭhimūlakaṃ dukkhaṃ paccanubhoti. Adukkhamasukhāya vedanāya sampayuttaṃ sīlaṃ…pe…  patthanaṃ upanissāya pāṇaṃ hanati. Dukkhāya vedanāya sampayuttena cittena adinnaṃ ādiyati…pe…  saṃghaṃ bhindati. Adukkhamasukhāya vedanāya sampayuttā saddhā…pe…  patthanā…  dosassa…  mohassa…  dukkhasahagatassa kāyaviññāṇassa…  dukkhāya vedanāya sampayuttakānaṃ khandhānaṃ upanissayapaccayena paccayo. (3)
-
-
-

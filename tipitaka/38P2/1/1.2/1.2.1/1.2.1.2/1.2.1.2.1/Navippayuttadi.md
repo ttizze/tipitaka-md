@@ -1,12 +1,4 @@
-
-
 # Navippayuttādi
-
-
-
-
-
-
 
 (68.)
 
@@ -21,6 +13,3 @@
 188\. Ahetukaṃ dhammaṃ paṭicca sahetuko dhammo uppajjati navippayuttapaccayā—  arūpe vicikicchāsahagataṃ uddhaccasahagataṃ mohaṃ paṭicca sampayuttakā khandhā. (2)
 
 189\. Sahetukañca ahetukañca dhammaṃ paṭicca sahetuko dhammo uppajjati navippayuttapaccayā—  arūpe vicikicchāsahagataṃ uddhaccasahagataṃ ekaṃ khandhañca mohañca paṭicca tayo khandhā…pe…  dve khandhe…pe…  nonatthipaccayā…  novigatapaccayā. (1)
-
-
-

@@ -1,12 +1,4 @@
-
-
 # Hetvādi
-
-
-
-
-
-
 
 (46.)
 
@@ -25,6 +17,3 @@
 (47.)
 
 1564\. Hetuyā dve, ārammaṇe dve, adhipatiyā tīṇi, anantare dve, samanantare dve, sahajāte dve…pe…  upanissaye cattāri, āsevane dve, kamme dve, āhāre dve…pe…  avigate dve. (Saṃkhittaṃ.)
-
-
-

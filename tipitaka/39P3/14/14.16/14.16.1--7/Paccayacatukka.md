@@ -1,10 +1,4 @@
-
-
 # Paccayacatukka
-
-
-
-
 
 (55.)
 
@@ -23,6 +17,3 @@
 2722\. Araṇaṃ maggādhipatiṃ dhammaṃ paṭicca araṇo maggādhipati dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
 
 2723\. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.) (Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
-
-
-

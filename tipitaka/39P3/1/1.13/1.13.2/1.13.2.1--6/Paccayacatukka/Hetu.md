@@ -1,12 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
-
 
 (389.)
 
@@ -19,6 +11,3 @@
 (390.)
 
 838\. Hetuyā nava, ārammaṇe nava, adhipatiyā nava…pe…  kamme nava, vipāke nava, āhāre nava…pe…  avigate nava. (Saṃkhittaṃ.)
-
-
-

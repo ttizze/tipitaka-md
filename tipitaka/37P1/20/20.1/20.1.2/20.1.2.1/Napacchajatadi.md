@@ -1,11 +1,4 @@
-
-
 # Napacchājātādi
-
-
-
-
-
 
 (11.)
 
@@ -14,6 +7,3 @@
 2678\. Anāgatārammaṇaṃ dhammaṃ paṭicca anāgatārammaṇo dhammo uppajjati nakammapaccayā—  anāgatārammaṇe khandhe paṭicca anāgatārammaṇā cetanā. (1)
 
 2679\. Paccuppannārammaṇaṃ dhammaṃ paṭicca paccuppannārammaṇo dhammo uppajjati nakammapaccayā—  paccuppannārammaṇe khandhe paṭicca paccuppannārammaṇā cetanā. (1)
-
-
-

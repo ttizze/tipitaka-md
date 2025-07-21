@@ -1,11 +1,4 @@
-
-
 # Upanissaya
-
-
-
-
-
 
 (40.)
 
@@ -58,6 +51,3 @@
 2559\. Maggahetuko ca maggādhipati ca dhammā maggārammaṇassa ca maggādhipatissa ca dhammassa upanissayapaccayena paccayo. **Ārammaṇūpanissayo**—  ariyā maggā vuṭṭhahitvā maggaṃ garuṃ katvā paccavekkhanti. (4)
 
 2560\. Maggahetuko ca maggādhipati ca dhammā maggahetukassa ca maggādhipatissa ca dhammassa upanissayapaccayena paccayo. **Pakatūpanissayo**—  paṭhamo maggo dutiyassa maggassa…pe…  tatiyo maggo catutthassa maggassa upanissayapaccayena paccayo. (5)
-
-
-

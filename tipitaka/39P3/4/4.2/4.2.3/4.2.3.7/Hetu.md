@@ -1,11 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
 
 (18.)
 
@@ -22,8 +15,3 @@
 ---
 
 1625\. Sāsavadukakusalattikaṃ niṭṭhitaṃ.
-
-
-
-
-

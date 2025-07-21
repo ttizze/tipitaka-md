@@ -1,11 +1,4 @@
-
-
 # Āsevana
-
-
-
-
-
 
 (28.)
 
@@ -22,6 +15,3 @@
 (30.)
 
 2229\. Appamāṇārammaṇo dhammo appamāṇārammaṇassa dhammassa āsevanapaccayena paccayo—  purimā purimā appamāṇārammaṇā khandhā pacchimānaṃ pacchimānaṃ appamāṇārammaṇānaṃ khandhānaṃ āsevanapaccayena paccayo. Gotrabhu maggassa…  vodānaṃ maggassa āsevanapaccayena paccayo. (1)
-
-
-

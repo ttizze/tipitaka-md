@@ -1,11 +1,4 @@
-
-
 # Nissayamissakaghaṭanā
-
-
-
-
-
 
 (436.)
 
@@ -20,6 +13,3 @@
 1370\. Nissaya adhipati vippayutta atthi avigatanti nahetuyā cattāri, naārammaṇe tīṇi, naanantare cattāri, nasamanantare cattāri, nasahajāte ekaṃ, naaññamaññe cattāri, naupanissaye tīṇi, napurejāte tīṇi, napacchājāte cattāri, naāsevane cattāri, nakamme cattāri, navipāke cattāri, naāhāre cattāri, naindriye cattāri, najhāne cattāri, namagge cattāri, nasampayutte cattāri, nonatthiyā cattāri, novigate cattāri.
 
 1371\. Nissaya indriya vippayutta atthi avigatanti nahetuyā tīṇi, naārammaṇe tīṇi, naadhipatiyā tīṇi, naanantare tīṇi, nasamanantare tīṇi, nasahajāte ekaṃ, naaññamaññe tīṇi, naupanissaye tīṇi, napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi, naāhāre tīṇi, najhāne tīṇi, namagge tīṇi, nasampayutte tīṇi, nonatthiyā tīṇi, novigate tīṇi.
-
-
-

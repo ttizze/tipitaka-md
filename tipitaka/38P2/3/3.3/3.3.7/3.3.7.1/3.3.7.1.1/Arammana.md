@@ -1,12 +1,4 @@
-
-
 # Ārammaṇa
-
-
-
-
-
-
 
 (77.)
 
@@ -31,6 +23,3 @@
 1187\. Āsavasampayutto ca āsavavippayutto ca dhammā āsavavippayuttassa dhammassa ārammaṇapaccayena paccayo—  domanassasahagate vicikicchāsahagate uddhaccasahagate khandhe ca mohañca ārabbha āsavavippayuttā khandhā ca moho ca uppajjanti. (2)
 
 1188\. Āsavasampayutto ca āsavavippayutto ca dhammā āsavasampayuttassa ca āsavavippayuttassa ca dhammassa ārammaṇapaccayena paccayo—  domanassasahagate vicikicchāsahagate uddhaccasahagate khandhe ca mohañca ārabbha domanassasahagatā vicikicchāsahagatā uddhaccasahagatā khandhā ca moho ca uppajjanti. (3)
-
-
-

@@ -1,10 +1,4 @@
-
-
 # Hetu
-
-
-
-
 
 (50.)
 
@@ -17,6 +11,3 @@
 (51.)
 
 1688\. Hetuyā pañca, ārammaṇe dve, adhipatiyā pañca…pe…  āsevane ekaṃ, kamme pañca, vipāke pañca…pe…  avigate pañca. (Saṃkhittaṃ.)
-
-
-

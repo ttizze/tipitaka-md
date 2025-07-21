@@ -1,11 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
 
 (26.)
 
@@ -18,6 +11,3 @@
 (27.)
 
 2292\. Hetuyā nava, ārammaṇe nava, adhipatiyā nava…pe…  avigate nava. (Saṃkhittaṃ.) (Imaṃ gamanaṃ upādānadukaakusalasadisaṃ. Idha pana hetupaccayā idaṃ nānaṃ. Sahajātavārepi…pe…  pañhāvārepi sabbattha nava.)
-
-
-

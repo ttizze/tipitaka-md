@@ -1,11 +1,4 @@
-
-
 # Nahetu
-
-
-
-
-
 
 (36.)
 
@@ -18,6 +11,3 @@
 2556\. Anupādinnupādāniyaṃ dhammaṃ paccayā anupādinnupādāniyo dhammo uppajjati nahetupaccayā—  ahetukaṃ anupādinnupādāniyaṃ ekaṃ khandhaṃ paccayā tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ ekaṃ mahābhūtaṃ…pe…  rūpaṃ; vicikicchāsahagate uddhaccasahagate khandhe paccayā vicikicchāsahagato uddhaccasahagato moho. (1)
 
 2557\. Upādinnupādāniyañca anupādinnupādāniyañca dhammaṃ paccayā anupādinnupādāniyo dhammo uppajjati nahetupaccayā—  ahetuke upādinnupādāniye khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ; ahetukaṃ anupādinnupādāniyaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe ca vatthuñca paccayā dve khandhā; vicikicchāsahagate uddhaccasahagate khandhe ca vatthuñca paccayā vicikicchāsahagato uddhaccasahagato moho. (1)
-
-
-

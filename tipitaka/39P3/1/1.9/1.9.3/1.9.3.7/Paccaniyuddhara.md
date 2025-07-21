@@ -1,11 +1,4 @@
-
-
 # Paccanīyuddhāra
-
-
-
-
-
 
 (304.)
 
@@ -24,8 +17,3 @@
 ---
 
 622\. Hetudukadassanenapahātabbahetukattikaṃ niṭṭhitaṃ.
-
-
-
-
-

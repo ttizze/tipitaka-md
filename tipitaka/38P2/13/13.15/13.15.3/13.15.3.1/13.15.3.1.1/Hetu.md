@@ -1,12 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
-
 
 (306.)
 
@@ -17,6 +9,3 @@
 (307.)
 
 4728\. Niyyānikañca aniyyānikañca dhammaṃ paccayā niyyāniko dhammo uppajjati hetupaccayā—  niyyānikaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe ca…pe… . Niyyānikañca aniyyānikañca dhammaṃ paccayā aniyyāniko dhammo uppajjati hetupaccayā—  niyyānike khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ. Niyyānikañca aniyyānikañca dhammaṃ paccayā niyyāniko ca aniyyāniko ca dhammā uppajjanti hetupaccayā—  niyyānikaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe ca…pe…  niyyānike khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ. (3)
-
-
-

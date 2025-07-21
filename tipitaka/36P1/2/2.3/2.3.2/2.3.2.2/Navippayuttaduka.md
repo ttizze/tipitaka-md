@@ -1,11 +1,4 @@
-
-
 # Navippayuttaduka
-
-
-
-
-
 
 (161.)
 
@@ -13,6 +6,3 @@
 
 * [Tika](Navippayuttaduka/Tika.md)
 * [Catukka](Navippayuttaduka/Catukka.md)
-
-
-

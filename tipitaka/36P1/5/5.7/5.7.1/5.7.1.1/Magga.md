@@ -1,11 +1,4 @@
-
-
 # Magga
-
-
-
-
-
 
 (78.)
 
@@ -22,6 +15,3 @@
 2725\. Anupādinnaanupādāniyo dhammo anupādinnupādāniyassa dhammassa maggapaccayena paccayo—  anupādinnaanupādāniyāni maggaṅgāni cittasamuṭṭhānānaṃ rūpānaṃ maggapaccayena paccayo. (2)
 
 2726\. Anupādinnaanupādāniyo dhammo anupādinnupādāniyassa ca anupādinnaanupādāniyassa ca dhammassa maggapaccayena paccayo—  anupādinnaanupādāniyāni maggaṅgāni sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ maggapaccayena paccayo. (3)
-
-
-

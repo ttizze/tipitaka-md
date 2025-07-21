@@ -1,11 +1,4 @@
-
-
 # Naāhāradukādi
-
-
-
-
-
 
 (160.)
 
@@ -18,6 +11,3 @@
 568\. Namaggapaccayā nahetuyā ekaṃ. (Sabbattha ekaṃ.)
 
 569\. Nasampayuttapaccayā. (Naārammaṇapaccayasadisaṃ.)
-
-
-

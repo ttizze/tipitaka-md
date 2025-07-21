@@ -1,12 +1,4 @@
-
-
 # Anantarādi
-
-
-
-
-
-
 
 (187.)
 
@@ -27,6 +19,3 @@
 4499\. Upekkhāsahagato ca naupekkhāsahagato ca dhammā upekkhāsahagatassa dhammassa anantarapaccayena paccayo—  purimā purimā upekkhāsahagatā khandhā ca upekkhā ca pacchimānaṃ pacchimānaṃ upekkhāsahagatānaṃ khandhānaṃ anantarapaccayena paccayo. (Mūlaṃ kātabbaṃ.) Purimā purimā upekkhāsahagatā khandhā ca upekkhā ca pacchimāya pacchimāya upekkhāya anantarapaccayena paccayo; upekkhāsahagataṃ cuticittañca upekkhā ca naupekkhāsahagatassa upapatticittassa…  āvajjanā ca upekkhā ca naupekkhāsahagatānaṃ khandhānaṃ…  vipākamanodhātu ca upekkhā ca naupekkhāsahagatāya vipākamanoviññāṇadhātuyā…  upekkhāsahagataṃ bhavaṅgañca upekkhā ca naupekkhāsahagatassa bhavaṅgassa…  upekkhāsahagataṃ kusalākusalañca upekkhā ca naupekkhāsahagatassa vuṭṭhānassa…  kiriyañca upekkhā ca vuṭṭhānassa…  phalañca upekkhā ca vuṭṭhānassa…  nirodhā vuṭṭhahantassa nevasaññānāsaññāyatanañca upekkhā ca naupekkhāsahagatāya phalasamāpattiyā anantarapaccayena paccayo. (Mūlaṃ kātabbaṃ.) Purimā purimā upekkhāsahagatā khandhā ca upekkhā ca pacchimānaṃ pacchimānaṃ upekkhāsahagatānaṃ khandhānaṃ upekkhāya ca anantarapaccayena paccayo. (3)
 
 4500\. Samanantarapaccayena paccayo…  sahajātapaccayena paccayo…  nava…  aññamaññapaccayena paccayo…  nava…  nissayapaccayena paccayo…  nava.
-
-
-

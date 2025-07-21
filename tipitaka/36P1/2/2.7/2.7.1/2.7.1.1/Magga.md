@@ -1,11 +1,4 @@
-
-
 # Magga
-
-
-
-
-
 
 (296.)
 
@@ -22,6 +15,3 @@
 976\. Akusalo dhammo akusalassa ca abyākatassa ca dhammassa maggapaccayena paccayo—  akusalāni maggaṅgāni sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ maggapaccayena paccayo. (3)
 
 977\. Abyākato dhammo abyākatassa dhammassa maggapaccayena paccayo—  vipākābyākatāni kiriyābyākatāni maggaṅgāni sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ maggapaccayena paccayo. Paṭisandhikkhaṇe vipākābyākatāni maggaṅgāni sampayuttakānaṃ khandhānaṃ kaṭattā ca rūpānaṃ maggapaccayena paccayo. (1)
-
-
-

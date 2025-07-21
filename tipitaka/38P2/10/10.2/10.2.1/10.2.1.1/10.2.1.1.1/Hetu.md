@@ -1,12 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
-
 
 (50.)
 
@@ -19,6 +11,3 @@
 2425\. Nocittaṃ dhammaṃ paṭicca citto ca nocitto ca dhammā uppajjanti hetupaccayā—  nocittaṃ ekaṃ khandhaṃ paṭicca dve khandhā cittañca cittasamuṭṭhānañca rūpaṃ, dve khandhe…pe…  paṭisandhikkhaṇe nocittaṃ ekaṃ khandhaṃ paṭicca dve khandhā cittañca kaṭattā ca rūpaṃ, dve khandhe paṭicca eko khandho cittañca kaṭattā ca rūpaṃ; paṭisandhikkhaṇe vatthuṃ paṭicca cittañca sampayuttakā ca khandhā. (3)
 
 2426\. Cittañca nocittañca dhammaṃ paṭicca nocitto dhammo uppajjati hetupaccayā—  nocittaṃ ekaṃ khandhañca cittañca paṭicca dve khandhā cittasamuṭṭhānañca rūpaṃ, dve khandhe ca…pe…  cittañca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe nocittaṃ ekaṃ khandhañca cittañca paṭicca dve khandhā kaṭattā ca rūpaṃ, dve khandhe…pe…  paṭisandhikkhaṇe cittañca vatthuñca paṭicca nocittā khandhā; paṭisandhikkhaṇe cittañca mahābhūte ca paṭicca kaṭattārūpaṃ. (1)
-
-
-

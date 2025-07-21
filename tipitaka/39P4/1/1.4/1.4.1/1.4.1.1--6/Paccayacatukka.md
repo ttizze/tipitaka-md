@@ -1,11 +1,4 @@
-
-
 # Paccayacatukka
-
-
-
-
-
 
 (51.)
 
@@ -22,6 +15,3 @@
 170\. Naadhipatiyā tīṇi, napurejāte tīṇi…pe…  naāsevane tīṇi, navipāke dve, navippayutte tīṇi. (Saṃkhittaṃ.)
 
 171\. (Sahajātavārampi…pe…  sampayuttavārampi vitthāretabbaṃ.)
-
-
-

@@ -1,11 +1,4 @@
-
-
 # Naāsevana
-
-
-
-
-
 
 (31.)
 
@@ -26,6 +19,3 @@
 1525\. Ācayagāmiñca nevācayagāmināpacayagāmiñca dhammaṃ paccayā ācayagāmī ca nevācayagāmināpacayagāmī ca dhammā uppajjanti naāsevanapaccayā—  ācayagāmiṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe…pe…  ācayagāmī khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ. (3)
 
 1526\. Apacayagāmiñca nevācayagāmināpacayagāmiñca dhammaṃ paccayā nevācayagāmināpacayagāmī dhammo uppajjati naāsevanapaccayā—  apacayagāmī khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ. (1)
-
-
-

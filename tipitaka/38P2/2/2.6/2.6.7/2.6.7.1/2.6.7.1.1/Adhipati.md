@@ -1,12 +1,4 @@
-
-
 # Adhipati
-
-
-
-
-
-
 
 (151.)
 
@@ -19,6 +11,3 @@
 895\. Lokuttaro dhammo lokiyassa dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati, sahajātādhipati. **Ārammaṇādhipati**—  ariyā maggā vuṭṭhahitvā maggaṃ garuṃ katvā paccavekkhanti, phalaṃ garuṃ katvā paccavekkhanti, nibbānaṃ garuṃ katvā paccavekkhanti; nibbānaṃ gotrabhussa, vodānassa adhipatipaccayena paccayo. **Sahajātādhipati**—  lokuttarādhipati cittasamuṭṭhānānaṃ rūpānaṃ adhipatipaccayena paccayo. (2)
 
 896\. Lokuttaro dhammo lokiyassa ca lokuttarassa ca dhammassa adhipatipaccayena paccayo. **Sahajātādhipati**—  lokuttarādhipati sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ adhipatipaccayena paccayo. (3)
-
-
-

@@ -1,12 +1,4 @@
-
-
 # Naadhipati
-
-
-
-
-
-
 
 (204.)
 
@@ -23,6 +15,3 @@
 384\. Naadhipatipaccayā hetuyā cha. (Saṃkhittaṃ.)
 
 385\. (Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
-
-
-

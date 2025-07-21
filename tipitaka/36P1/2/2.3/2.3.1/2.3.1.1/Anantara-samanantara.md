@@ -1,11 +1,4 @@
-
-
 # Anantara-samanantara
-
-
-
-
-
 
 (119.)
 
@@ -14,8 +7,3 @@
 ---
 
 443\. (Yathā ārammaṇapaccayaṃ, evaṃ vitthāretabbaṃ.)
-
-
-
-
-

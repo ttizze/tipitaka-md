@@ -1,10 +1,4 @@
-
-
 # Hetu
-
-
-
-
 
 (126.)
 
@@ -17,8 +11,3 @@
 ---
 
 352\. Hetusampayuttadukaṃ niṭṭhitaṃ.
-
-
-
-
-

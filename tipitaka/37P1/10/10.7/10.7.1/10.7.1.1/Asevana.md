@@ -1,11 +1,4 @@
-
-
 # Āsevana
-
-
-
-
-
 
 (95.)
 
@@ -18,6 +11,3 @@
 1349\. Bhāvanāya pahātabbahetuko dhammo bhāvanāya pahātabbahetukassa dhammassa (saṃkhittaṃ) tīṇi.
 
 1350\. Nevadassanena nabhāvanāya pahātabbahetuko dhammo…pe… . (Āsevanamūlake vuṭṭhānassapi āvajjanāyapi pahātabbaṃ, sattarasa pañhā paripuṇṇā, anantarasadisā.)
-
-
-

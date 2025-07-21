@@ -1,12 +1,4 @@
-
-
 # Kamma
-
-
-
-
-
-
 
 (23.)
 
@@ -19,6 +11,3 @@
 (24.)
 
 4114\. Nadassanena pahātabbo dhammo nadassanena pahātabbassa dhammassa kammapaccayena paccayo—  sahajātā, nānākkhaṇikā. **Sahajātā**—  nadassanena pahātabbā cetanā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo; paṭisandhikkhaṇe…pe… . **Nānākkhaṇikā**—  nadassanena pahātabbā cetanā vipākānaṃ khandhānaṃ kaṭattā ca rūpānaṃ kammapaccayena paccayo.
-
-
-

@@ -1,11 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
 
 (92.)
 
@@ -38,6 +31,3 @@
 2212\. Nahetuyā pañca, naārammaṇe tīṇi, naadhipatiyā pañca…pe…  napurejāte pañca…pe…  nakamme tīṇi, navipāke tīṇi, naāhāre tīṇi, naindriye tīṇi, najhāne tīṇi, namagge pañca, nasampayutte tīṇi, navippayutte tīṇi, nonatthiyā tīṇi, novigate tīṇi. (Saṃkhittaṃ.)
 
 2213\. (Sahajātavārampi…pe…  sampayuttavārampi vitthāretabbaṃ.)
-
-
-

@@ -1,12 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
-
 
 (53.)
 
@@ -23,8 +15,3 @@
 ---
 
 1577\. Lokiyadukakusalattikaṃ niṭṭhitaṃ.
-
-
-
-
-

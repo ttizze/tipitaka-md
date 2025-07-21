@@ -1,11 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
 
 (99.)
 
@@ -28,8 +21,3 @@
 ---
 
 407\. (Yathā paṭiccavāre evaṃ vitthāretabbaṃ.)
-
-
-
-
-

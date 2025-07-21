@@ -1,11 +1,4 @@
-
-
 # Naadhipati
-
-
-
-
-
 
 (9.)
 
@@ -50,6 +43,3 @@
 2466\. Maggahetukañca maggādhipatiñca dhammaṃ paṭicca maggādhipati dhammo uppajjati naadhipatipaccayā—  maggahetuke ca maggādhipatī ca khandhe paṭicca maggādhipati adhipati. (2)
 
 2467\. Maggahetukañca maggādhipatiñca dhammaṃ paṭicca maggahetuko ca maggādhipati ca dhammā uppajjanti naadhipatipaccayā—  maggahetuke ca maggādhipatī ca khandhe paṭicca maggahetuko ca maggādhipati ca adhipati. (3)
-
-
-

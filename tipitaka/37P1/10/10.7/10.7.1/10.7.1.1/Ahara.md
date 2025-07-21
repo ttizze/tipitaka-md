@@ -1,11 +1,4 @@
-
-
 # Āhāra
-
-
-
-
-
 
 (100.)
 
@@ -18,6 +11,3 @@
 1362\. Bhāvanāya pahātabbahetuko dhammo…  tīṇi. (Dassanena sadisaṃ.)
 
 1363\. Nevadassanena nabhāvanāya pahātabbahetuko dhammo nevadassanena nabhāvanāya pahātabbahetukassa dhammassa āhārapaccayena paccayo—  nevadassanena nabhāvanāya pahātabbahetukā āhārā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ āhārapaccayena paccayo. Paṭisandhikkhaṇe…pe… . **Kabaḷīkāro āhāro**—  imassa kāyassa āhārapaccayena paccayo.
-
-
-

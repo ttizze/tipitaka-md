@@ -1,12 +1,4 @@
-
-
 # Hetu-ārammaṇa
-
-
-
-
-
-
 
 (1.)
 
@@ -27,6 +19,3 @@
 (3.)
 
 8\. Hetuyā tīṇi, ārammaṇe tīṇi, adhipatiyā tīṇi, anantare tīṇi, samanantare tīṇi, sahajāte tīṇi, aññamaññe tīṇi, nissaye tīṇi, upanissaye tīṇi, purejāte tīṇi, āsevane tīṇi, kamme tīṇi, vipāke ekaṃ, āhāre tīṇi…pe…  avigate tīṇi. (Saṃkhittaṃ.)
-
-
-

@@ -1,11 +1,4 @@
-
-
 # Purejāta
-
-
-
-
-
 
 (288.)
 
@@ -24,6 +17,3 @@
 934\. Abyākato dhammo akusalassa dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ. **Ārammaṇapurejātaṃ**—  cakkhuṃ assādeti abhinandati, taṃ ārabbha rāgo uppajjati, diṭṭhi uppajjati, vicikicchā uppajjati, uddhaccaṃ uppajjati, domanassaṃ uppajjati. Sotaṃ…pe…  ghānaṃ…pe…  jivhaṃ…pe…  kāyaṃ…pe…  rūpe…pe…  sadde…pe…  gandhe…pe…  rase…pe…  phoṭṭhabbe…pe…  vatthuṃ assādeti abhinandati, taṃ ārabbha rāgo uppajjati…pe…  domanassaṃ uppajjati.
 
 935\. **Vatthupurejātaṃ**—  vatthu akusalānaṃ khandhānaṃ purejātapaccayena paccayo. (3)
-
-
-

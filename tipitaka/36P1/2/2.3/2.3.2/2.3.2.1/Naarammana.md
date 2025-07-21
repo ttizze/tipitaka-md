@@ -1,11 +1,4 @@
-
-
 # Naārammaṇa
-
-
-
-
-
 
 (143.)
 
@@ -14,8 +7,3 @@
 ---
 
 519\. (Yathā paṭiccavāre naārammaṇapaccayā, evaṃ vitthāretabbaṃ.)
-
-
-
-
-

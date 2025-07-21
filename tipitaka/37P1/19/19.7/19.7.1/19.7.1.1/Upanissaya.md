@@ -1,11 +1,4 @@
-
-
 # Upanissaya
-
-
-
-
-
 
 (8.)
 
@@ -14,6 +7,3 @@
 2640\. Anāgato dhammo paccuppannassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  anāgataṃ cakkhusampadaṃ patthayamāno…pe…  sotasampadaṃ…  ghānasampadaṃ jivhāsampadaṃ…  kāyasampadaṃ…  vaṇṇasampadaṃ…  saddasampadaṃ…  gandhasampadaṃ…  rasasampadaṃ…  phoṭṭhabbasampadaṃ…  patthayamāno…pe…  anāgate khandhe patthayamāno dānaṃ deti, sīlaṃ samādiyati, uposathakammaṃ…  anāgatā cakkhusampadā…pe…  vaṇṇasampadā…pe…  phoṭṭhabbasampadā…  anāgatā khandhā paccuppannāya saddhāya…pe…  paññāya, kāyikassa sukhassa, kāyikassa dukkhassa, maggassa, phalasamāpattiyā upanissayapaccayena paccayo. (1)
 
 2641\. Paccuppanno dhammo paccuppannassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  paccuppannaṃ utuṃ upanissāya jhānaṃ uppādeti, vipassanaṃ…pe…  paccuppannaṃ bhojanaṃ senāsanaṃ upanissāya jhānaṃ uppādeti…pe…  samāpattiṃ uppādeti. Paccuppannaṃ utu…  bhojanaṃ…  senāsanaṃ paccuppannāya saddhāya…pe…  paññāya kāyikassa…pe…  phalasamāpattiyā upanissayapaccayena paccayo. (1)
-
-
-

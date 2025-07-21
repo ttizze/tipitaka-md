@@ -1,10 +1,4 @@
-
-
 # Paccanīyuddhāra
-
-
-
-
 
 (87.)
 
@@ -29,6 +23,3 @@
 746\. Sappaṭigho ca appaṭigho ca dhammā appaṭighassa dhammassa sahajātaṃ, purejātaṃ. (2)
 
 747\. Sappaṭigho ca appaṭigho ca dhammā sappaṭighassa ca appaṭighassa ca dhammassa sahajātapaccayena paccayo. (3)
-
-
-

@@ -1,10 +1,4 @@
-
-
 # Paccayacatukka
-
-
-
-
 
 (6.)
 
@@ -61,6 +55,3 @@
 1466\. Hetuyā dve, ārammaṇe dve, adhipatiyā tīṇi, anantare dve…pe…  upanissaye cattāri…pe…  kamme tīṇi, vipāke ekaṃ…pe…  avigate dve. (Saṃkhittaṃ.)
 
 1467\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
-
-
-

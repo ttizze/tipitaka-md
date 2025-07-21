@@ -1,11 +1,4 @@
-
-
 # Hetusāmaññaghaṭanā
-
-
-
-
-
 
 (32.)
 
@@ -17,10 +10,4 @@
 
 2912\. (Yathā kusalattike, evaṃ vitthāretabbaṃ.)
 
-  
 Anulomaṃ.
-
-
-
-
-

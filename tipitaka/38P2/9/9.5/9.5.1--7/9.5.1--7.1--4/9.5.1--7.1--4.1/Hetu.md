@@ -1,12 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
-
 
 (90.)
 
@@ -20,13 +12,6 @@
 
 2315\. Parāmāsavippayuttaparāmaṭṭhadukaṃ niṭṭhitaṃ.
 
-
-
 ---
 
 2316\. Parāmāsagocchakaṃ niṭṭhitaṃ.
-
-
-
-
-

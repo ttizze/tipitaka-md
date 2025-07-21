@@ -1,12 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
-
 
 (218.)
 
@@ -23,6 +15,3 @@
 835\. Nahetuyā tīṇi, naadhipatiyā tīṇi, napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi, najhāne ekaṃ, namagge tīṇi, navippayutte dve. (Saṃkhittaṃ.)
 
 836\. (Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ vitthāretabbaṃ.)
-
-
-

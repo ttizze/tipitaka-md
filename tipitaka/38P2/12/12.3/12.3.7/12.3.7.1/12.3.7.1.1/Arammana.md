@@ -1,12 +1,4 @@
-
-
 # Ārammaṇa
-
-
-
-
-
-
 
 (52.)
 
@@ -19,6 +11,3 @@
 3957\. Asaṃkiliṭṭho dhammo asaṃkiliṭṭhassa dhammassa ārammaṇapaccayena paccayo—  dānaṃ…pe…  sīlaṃ…pe…  uposathakammaṃ…pe…  pubbe…pe…  jhānā vuṭṭhahitvā jhānaṃ paccavekkhati, ariyā maggā vuṭṭhahitvā maggaṃ paccavekkhanti…pe…  āvajjanāya ārammaṇapaccayena paccayo; cakkhuṃ…pe…  vatthuṃ asaṃkiliṭṭhe khandhe aniccato…pe…  vipassati, dibbena cakkhunā rūpaṃ passati…pe…  anāgataṃsañāṇassa, āvajjanāya ārammaṇapaccayena paccayo. (1)
 
 3958\. Asaṃkiliṭṭho dhammo saṃkiliṭṭhassa dhammassa ārammaṇapaccayena paccayo—  dānaṃ…pe…  sīlaṃ…pe…  jhānā vuṭṭhahitvā…pe…  cakkhuṃ…pe…  vatthuṃ asaṃkiliṭṭhe khandhe assādeti abhinandati, taṃ ārabbha rāgo…pe…  domanassaṃ uppajjati. (2)
-
-
-

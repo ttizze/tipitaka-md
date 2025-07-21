@@ -1,11 +1,4 @@
-
-
 # Navippayuttādi
-
-
-
-
-
 
 (29.)
 
@@ -30,6 +23,3 @@
 1135\. Dassanena pahātabbahetukañca nevadassanena nabhāvanāya pahātabbahetukañca dhammaṃ paṭicca dassanena pahātabbahetuko dhammo uppajjati navippayuttapaccayā—  arūpe vicikicchāsahagataṃ ekaṃ khandhañca mohañca paṭicca tayo khandhā…pe…  dve khandhā. (1)
 
 1136\. Bhāvanāya pahātabbahetukañca nevadassanena nabhāvanāya pahātabbahetukañca dhammaṃ paṭicca bhāvanāya pahātabbahetuko dhammo uppajjati navippayuttapaccayā—  arūpe uddhaccasahagataṃ ekaṃ khandhañca mohañca paṭicca tayo khandhā…pe…  dve khandhā…  nonatthipaccayā…  novigatapaccayā.
-
-
-

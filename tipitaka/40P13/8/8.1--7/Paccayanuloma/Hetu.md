@@ -1,10 +1,4 @@
-
-
 # Hetu
-
-
-
-
 
 (36.)
 
@@ -21,6 +15,3 @@
 89\. Hetuyā ekūnavīsa, ārammaṇe nava…pe…  vipāke tīṇi…pe…  avigate ekūnavīsa.
 
 90\. (Sahajātavārampi…pe…  sampayuttavārampi pañhāvārampi vitthāretabbaṃ.)
-
-
-

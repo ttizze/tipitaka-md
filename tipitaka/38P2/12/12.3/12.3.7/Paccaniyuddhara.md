@@ -1,10 +1,4 @@
-
-
 # Paccanīyuddhāra
-
-
-
-
 
 (68.)
 
@@ -23,6 +17,3 @@
 3994\. Saṃkiliṭṭho ca asaṃkiliṭṭho ca dhammā saṃkiliṭṭhassa dhammassa sahajātaṃ…  purejātaṃ. (1)
 
 3995\. Saṃkiliṭṭho ca asaṃkiliṭṭho ca dhammā asaṃkiliṭṭhassa dhammassa sahajātaṃ…  pacchājātaṃ…  āhāraṃ…  indriyaṃ. (2)
-
-
-

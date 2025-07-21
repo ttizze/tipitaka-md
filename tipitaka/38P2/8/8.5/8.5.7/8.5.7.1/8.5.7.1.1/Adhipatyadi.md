@@ -1,12 +1,4 @@
-
-
 # Adhipatyādi
-
-
-
-
-
-
 
 (102.)
 
@@ -19,6 +11,3 @@
 2115\. Nīvaraṇo ceva nīvaraṇasampayutto ca nīvaraṇasampayutto ceva no ca nīvaraṇo ca dhammā nīvaraṇassa ceva nīvaraṇasampayuttassa ca dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati…  tīṇi. (3)
 
 2116\. Anantarapaccayena paccayo (āvajjanāpi vuṭṭhānampi natthi, sabbattha purimā purimā kātabbā)…  samanantarapaccayena paccayo…  nava…  sahajātapaccayena paccayo…  nava…  aññamaññapaccayena paccayo…  nava…  nissayapaccayena paccayo…  nava…  upanissayapaccayena paccayo…  nava (ārammaṇasadisaṃ, vipāko natthi)…  āsevanapaccayena paccayo…  pañca.
-
-
-

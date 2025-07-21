@@ -1,11 +1,4 @@
-
-
 # Ārammaṇa
-
-
-
-
-
 
 (69.)
 
@@ -58,6 +51,3 @@
 301\. Savitakkasavicāro ca avitakkavicāramatto ca dhammā avitakkaavicārassa dhammassa ārammaṇapaccayena paccayo—  savitakkasavicārā khandhā ca vitakko ca cetopariyañāṇassa, pubbenivāsānussatiñāṇassa, yathākammūpagañāṇassa, anāgataṃsañāṇassa ārammaṇapaccayena paccayo. Savitakkasavicāre khandhe ca vitakkañca ārabbha avitakkaavicārā khandhā uppajjanti. (3)
 
 302\. Savitakkasavicāro ca avitakkavicāramatto ca dhammā savitakkasavicārassa ca avitakkavicāramattassa ca dhammassa ārammaṇapaccayena paccayo—  savitakkasavicāre khandhe ca vitakkañca ārabbha savitakkasavicārā khandhā ca vitakko ca uppajjanti. (4)
-
-
-

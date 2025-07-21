@@ -1,11 +1,4 @@
-
-
 # Adhipati
-
-
-
-
-
 
 (62.)
 
@@ -14,8 +7,6 @@
 ---
 
 2190\. Vipākadhammadhammaṃ paccayā…  tīṇi.
-
-
 
 2191\. Nevavipākanavipākadhammadhammaṃ paccayā nevavipākanavipākadhammadhammo uppajjati adhipatipaccayā—  nevavipākanavipākadhammadhammaṃ ekaṃ khandhaṃ paccayā tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe paccayā dve khandhā cittasamuṭṭhānañca rūpaṃ, ekaṃ mahābhūtaṃ paccayā tayo mahābhūtā…pe…  mahābhūte paccayā cittasamuṭṭhānaṃ rūpaṃ upādārūpaṃ, vatthuṃ paccayā nevavipākanavipākadhammadhammā khandhā. (1)
 
@@ -42,6 +33,3 @@
 2200\. Vipākadhammadhammañca nevavipākanavipākadhammadhammañca dhammaṃ paccayā nevavipākanavipākadhammadhammo uppajjati adhipatipaccayā—  vipākadhammadhamme khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ. (2)
 
 2201\. Vipākadhammadhammañca nevavipākanavipākadhammadhammañca dhammaṃ paccayā vipākadhammadhammo ca nevavipākanavipākadhammadhammo ca dhammā uppajjanti adhipatipaccayā—  vipākadhammadhammaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe ca vatthuñca paccayā dve khandhā, vipākadhammadhamme khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ. (3)
-
-
-

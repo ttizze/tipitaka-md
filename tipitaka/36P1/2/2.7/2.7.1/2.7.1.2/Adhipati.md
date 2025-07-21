@@ -1,5 +1,3 @@
-
-
 # Adhipati
 
 * [Adhipatisabhāga](Adhipati/Adhipatisabhaga.md)
@@ -9,6 +7,3 @@
 * [Cittādhipatighaṭanā](Adhipati/Cittadhipatighatana.md)
 * [Vīriyādhipatighaṭanā](Adhipati/Viriyadhipatighatana.md)
 * [Vīmaṃsādhipatighaṭanā](Adhipati/Vimamsadhipatighatana.md)
-
-
-

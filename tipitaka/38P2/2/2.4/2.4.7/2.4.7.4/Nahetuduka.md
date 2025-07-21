@@ -1,11 +1,4 @@
-
-
 # Nahetuduka
-
-
-
-
-
 
 (92.)
 
@@ -15,10 +8,4 @@
 
 753\. Paccanīyānulomaṃ.
 
-  
 Sappaṭighadukaṃ niṭṭhitaṃ.
-
-
-
-
-

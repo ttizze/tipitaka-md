@@ -1,11 +1,4 @@
-
-
 # Hetu-ārammaṇādi
-
-
-
-
-
 
 (32.)
 
@@ -36,8 +29,3 @@
 ---
 
 1328\. Kusalattikaāsavagocchakaṃ niṭṭhitaṃ.
-
-
-
-
-

@@ -1,11 +1,4 @@
-
-
 # Aññamañña
-
-
-
-
-
 
 (14.)
 
@@ -24,6 +17,3 @@
 2073\. Nevavipākanavipākadhammadhammaṃ paṭicca vipāko dhammo uppajjati aññamaññapaccayā—  paṭisandhikkhaṇe vatthuṃ paṭicca vipākā khandhā. (2)
 
 2074\. Vipākañca nevavipākanavipākadhammadhammañca dhammaṃ paṭicca vipāko dhammo uppajjati aññamaññapaccayā—  paṭisandhikkhaṇe vipākaṃ ekaṃ khandhañca vatthuñca paṭicca tayo khandhā…pe…  dve khandhe ca vatthuñca paṭicca dve khandhā. (1)
-
-
-

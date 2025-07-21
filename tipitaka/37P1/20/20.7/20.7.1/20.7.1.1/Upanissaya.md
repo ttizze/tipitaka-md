@@ -1,11 +1,4 @@
-
-
 # Upanissaya
-
-
-
-
-
 
 (31.)
 
@@ -30,6 +23,3 @@
 2727\. Paccuppannārammaṇo dhammo atītārammaṇassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  paccuppannārammaṇā aniccānupassanā, dukkhānupassanā, anattānupassanā atītārammaṇāya aniccānupassanāya, dukkhānupassanāya, anattānupassanāya upanissayapaccayena paccayo. (2)
 
 2728\. Paccuppannārammaṇo dhammo anāgatārammaṇassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  paccuppannārammaṇā aniccānupassanā, dukkhānupassanā, anattānupassanā anāgatārammaṇāya aniccānupassanāya, dukkhānupassanāya, anattānupassanāya upanissayapaccayena paccayo. (3)
-
-
-

@@ -1,11 +1,4 @@
-
-
 # Ārammaṇa
-
-
-
-
-
 
 (28.)
 
@@ -30,6 +23,3 @@
 2507\. Maggahetuko ca maggādhipati ca dhammā maggādhipatissa dhammassa ārammaṇapaccayena paccayo—  ariyā maggā vuṭṭhahitvā maggaṃ garuṃ katvā paccavekkhanti. (2)
 
 2508\. Maggahetuko ca maggādhipati ca dhammā maggārammaṇassa ca maggādhipatissa ca dhammassa ārammaṇapaccayena paccayo—  ariyā maggā vuṭṭhahitvā maggaṃ garuṃ katvā paccavekkhanti. (3)
-
-
-

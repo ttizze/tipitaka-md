@@ -1,12 +1,4 @@
-
-
 # Upanissaya
-
-
-
-
-
-
 
 (451.)
 
@@ -19,6 +11,3 @@
 3460\. Anupādinno dhammo anupādinnassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  saddhaṃ upanissāya dānaṃ deti, mānaṃ jappeti, diṭṭhiṃ gaṇhāti; sīlaṃ…pe…  patthanaṃ…  utuṃ…  bhojanaṃ…  senāsanaṃ upanissāya dānaṃ deti…pe…  saṃghaṃ bhindati; saddhā…pe…  patthanā…  utu…  bhojanaṃ…  senāsanaṃ saddhāya…pe…  patthanāya maggassa, phalasamāpattiyā upanissayapaccayena paccayo. (1)
 
 3461\. Anupādinno dhammo upādinnassa dhammassa upanissayapaccayena paccayo—  anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  saddhaṃ upanissāya attānaṃ ātāpeti paritāpeti, pariyiṭṭhimūlakaṃ dukkhaṃ paccanubhoti; sīlaṃ…pe…  patthanaṃ…  utuṃ…  bhojanaṃ…  senāsanaṃ upanissāya attānaṃ ātāpeti paritāpeti, pariyiṭṭhimūlakaṃ dukkhaṃ paccanubhoti; saddhā…pe…  senāsanaṃ kāyikassa sukhassa…  kāyikassa dukkhassa upanissayapaccayena paccayo. Kusalākusalaṃ kammaṃ vipākassa upanissayapaccayena paccayo. (2)
-
-
-

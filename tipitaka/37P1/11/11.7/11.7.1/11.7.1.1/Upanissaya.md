@@ -1,11 +1,4 @@
-
-
 # Upanissaya
-
-
-
-
-
 
 (54.)
 
@@ -30,6 +23,3 @@
 1596\. Nevācayagāmināpacayagāmī dhammo ācayagāmissa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  kāyikaṃ sukhaṃ upanissāya dānaṃ deti…pe…  samāpattiṃ uppādeti, pāṇaṃ hanati…pe…  saṃghaṃ bhindati. Kāyikaṃ dukkhaṃ…  utuṃ…  bhojanaṃ…  senāsanaṃ upanissāya dānaṃ deti…pe…  saṃghaṃ bhindati, kāyikaṃ sukhaṃ…pe…  senāsanaṃ ācayagāmiyā saddhāya…pe…  paññāya, rāgassa…pe…  patthanāya upanissayapaccayena paccayo. (2)
 
 1597\. Nevācayagāmināpacayagāmī dhammo apacayagāmissa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  kāyikaṃ sukhaṃ upanissāya maggaṃ uppādeti. Kāyikaṃ dukkhaṃ…pe…  senāsanaṃ upanissāya maggaṃ uppādeti, kāyikaṃ sukhaṃ, kāyikaṃ dukkhaṃ…pe…  senāsanaṃ maggassa upanissayapaccayena paccayo. (3)
-
-
-

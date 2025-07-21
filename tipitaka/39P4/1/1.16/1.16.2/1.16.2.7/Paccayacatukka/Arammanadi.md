@@ -1,12 +1,4 @@
-
-
 # Ārammaṇādi
-
-
-
-
-
-
 
 (200.)
 
@@ -27,6 +19,3 @@
 764\. Maggārammaṇo nahetu ca maggādhipati nahetu ca dhammā maggārammaṇassa nahetussa dhammassa adhipatipaccayena paccayo…  tīṇi.
 
 765\. Maggahetuko nahetu ca maggādhipati nahetu ca dhammā maggahetukassa nahetussa dhammassa adhipatipaccayena paccayo…  pañca.
-
-
-

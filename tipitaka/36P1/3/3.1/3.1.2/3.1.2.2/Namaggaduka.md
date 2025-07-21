@@ -1,11 +1,4 @@
-
-
 # Namaggaduka
-
-
-
-
-
 
 (23.)
 
@@ -13,6 +6,3 @@
 
 * [Tika](Namaggaduka/Tika.md)
 * [Pañcaka](Namaggaduka/Pancaka.md)
-
-
-

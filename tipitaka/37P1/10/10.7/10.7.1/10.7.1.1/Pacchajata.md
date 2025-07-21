@@ -1,11 +1,4 @@
-
-
 # Pacchājāta
-
-
-
-
-
 
 (94.)
 
@@ -18,6 +11,3 @@
 1344\. Dassanena pahātabbahetuko ca nevadassanena nabhāvanāya pahātabbahetuko ca dhammā nevadassanena nabhāvanāya pahātabbahetukassa dhammassa pacchājātapaccayena paccayo—  pacchājātā vicikicchāsahagatā khandhā ca moho ca purejātassa imassa kāyassa pacchājātapaccayena paccayo. (1)
 
 1345\. Bhāvanāya pahātabbahetuko ca nevadassanena nabhāvanāya pahātabbahetuko ca dhammā nevadassanena nabhāvanāya pahātabbahetukassa dhammassa pacchājātapaccayena paccayo—  pacchājātā uddhaccasahagatā khandhā ca moho ca purejātassa imassa kāyassa pacchājātapaccayena paccayo. (1)
-
-
-

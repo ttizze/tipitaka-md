@@ -1,12 +1,4 @@
-
-
 # Kamma
-
-
-
-
-
-
 
 (27.)
 
@@ -15,6 +7,3 @@
 3884\. Nokileso dhammo kilesassa dhammassa kammapaccayena paccayo—  nokilesā cetanā kilesānaṃ kammapaccayena paccayo. (2)
 
 3885\. Nokileso dhammo kilesassa ca nokilesassa ca dhammassa kammapaccayena paccayo—  nokilesā cetanā sampayuttakānaṃ khandhānaṃ kilesānaṃ cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo. (3)
-
-
-

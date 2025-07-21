@@ -1,10 +1,4 @@
-
-
 # Nissaya-upanissayaduka
-
-
-
-
 
 (69.)
 
@@ -13,8 +7,3 @@
 ---
 
 302\. (Nissayapaccayā yathā sahajātamūlakaṃ. Upanissayapaccayā yathā ārammaṇamūlakaṃ.)
-
-
-
-
-

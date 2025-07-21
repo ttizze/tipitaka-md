@@ -1,11 +1,4 @@
-
-
 # Upanissayaghaṭanā
-
-
-
-
-
 
 (440.)
 
@@ -26,8 +19,3 @@
 ---
 
 1395\. Upanissayamūlakaṃ.
-
-
-
-
-

@@ -1,11 +1,4 @@
-
-
 # Purejāta
-
-
-
-
-
 
 (39.)
 
@@ -22,6 +15,3 @@
 3022\. Anidassanasappaṭigho ca anidassanaappaṭigho ca dhammā anidassanaappaṭighassa dhammassa purejātapaccayena paccayo—  **ārammaṇapurejātaṃ, vatthupurejātaṃ**. Cakkhāyatanañca vatthu ca…pe…  phoṭṭhabbāyatanañca vatthu ca anidassanaappaṭighānaṃ khandhānaṃ purejātapaccayena paccayo. (1)
 
 3023\. Sanidassanasappaṭigho ca anidassanaappaṭigho ca dhammā anidassanaappaṭighassa dhammassa purejātapaccayena paccayo—  **ārammaṇapurejātaṃ, vatthupurejātaṃ**. Rūpāyatanañca cakkhāyatanañca cakkhuviññāṇassa purejātapaccayena paccayo. (1)
-
-
-

@@ -1,10 +1,4 @@
-
-
 # Hetu
-
-
-
-
 
 (51.)
 
@@ -25,6 +19,3 @@
 1862\. Sammattaniyataṃ araṇañca aniyataṃ araṇañca dhammaṃ paṭicca aniyato araṇo dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
 
 1863\. Hetuyā pañca, ārammaṇe dve…pe…  avigate pañca. (Saṃkhittaṃ.) (Sahajātavārampi…pe…  pañhāvārampi vitthāretabbaṃ.)
-
-
-

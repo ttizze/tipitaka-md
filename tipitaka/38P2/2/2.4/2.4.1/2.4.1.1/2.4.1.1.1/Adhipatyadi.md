@@ -1,12 +1,4 @@
-
-
 # Adhipatyādi
-
-
-
-
-
-
 
 (57.)
 
@@ -23,6 +15,3 @@
 673\. Appaṭighaṃ dhammaṃ paṭicca sappaṭigho dhammo uppajjati aññamaññapaccayā—  āpodhātuṃ paṭicca sappaṭighā mahābhūtā. (Ime ajjhattikabāhirā mahābhūtā kātabbā.) (2)
 
 674\. Sappaṭighañca appaṭighañca dhammaṃ paṭicca sappaṭigho dhammo uppajjati aññamaññapaccayā—  sappaṭighaṃ ekaṃ mahābhūtañca āpodhātuñca paṭicca dve mahābhūtā…pe…  nissayapaccayā…pe…  avigatapaccayā.
-
-
-

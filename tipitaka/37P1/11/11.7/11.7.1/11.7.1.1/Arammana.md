@@ -1,11 +1,4 @@
-
-
 # Ārammaṇa
-
-
-
-
-
 
 (46.)
 
@@ -26,6 +19,3 @@
 1570\. Nevācayagāmināpacayagāmī dhammo ācayagāmissa dhammassa ārammaṇapaccayena paccayo—  sekkhā phalaṃ paccavekkhanti, nibbānaṃ paccavekkhanti, nibbānaṃ gotrabhussa, vodānassa ārammaṇapaccayena paccayo. Sekkhā vā puthujjanā vā cakkhuṃ aniccato dukkhato anattato vipassanti, assādenti abhinandanti; taṃ ārabbha rāgo uppajjati…pe…  domanassaṃ uppajjati. Sotaṃ…pe…  vatthuṃ…  nevācayagāmināpacayagāmī khandhe aniccato dukkhato anattato vipassanti, assādenti abhinandanti; taṃ ārabbha rāgo uppajjati, diṭṭhi uppajjati, vicikicchā…pe…  uddhaccaṃ…pe…  domanassaṃ…pe…  dibbena cakkhunā rūpaṃ passanti, dibbāya sotadhātuyā saddaṃ suṇanti, cetopariyañāṇena nevācayagāmināpacayagāmicittasamaṅgissa cittaṃ jānanti, nevācayagāmināpacayagāmī khandhā iddhividhañāṇassa, cetopariyañāṇassa, pubbenivāsānussatiñāṇassa, anāgataṃsañāṇassa ārammaṇapaccayena paccayo. (2)
 
 1571\. Nevācayagāmināpacayagāmī dhammo apacayagāmissa dhammassa ārammaṇapaccayena paccayo—  nibbānaṃ maggassa ārammaṇapaccayena paccayo. (3)
-
-
-

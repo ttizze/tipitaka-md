@@ -1,12 +1,4 @@
-
-
 # Napurejāta
-
-
-
-
-
-
 
 (8.)
 
@@ -31,6 +23,3 @@
 26\. Hetuñca nahetuñca dhammaṃ paṭicca nahetu dhammo uppajjati napurejātapaccayā—  arūpe nahetuṃ ekaṃ khandhañca hetuñca paṭicca tayo khandhā…pe…  dve khandhe…pe…  nahetū khandhe ca hetuñca paṭicca cittasamuṭṭhānaṃ rūpaṃ, hetuñca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe…pe… . (2)
 
 27\. Hetuñca nahetuñca dhammaṃ paṭicca hetu ca nahetu ca dhammā uppajjanti napurejātapaccayā—  arūpe nahetuṃ ekaṃ khandhañca alobhañca paṭicca tayo khandhā adoso amoho ca…pe…  dve khandhe…pe…  (cakkaṃ). Nahetuṃ ekaṃ khandhañca lobhañca paṭicca tayo khandhā moho ca (cakkaṃ); paṭisandhikkhaṇe…pe… . (3)
-
-
-

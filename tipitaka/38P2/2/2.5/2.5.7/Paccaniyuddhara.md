@@ -1,10 +1,4 @@
-
-
 # Paccanīyuddhāra
-
-
-
-
 
 (129.)
 
@@ -21,6 +15,3 @@
 844\. Rūpī ca arūpī ca dhammā rūpissa dhammassa sahajātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ. (1)
 
 845\. Rūpī ca arūpī ca dhammā arūpissa dhammassa sahajātaṃ, purejātaṃ. (2)
-
-
-

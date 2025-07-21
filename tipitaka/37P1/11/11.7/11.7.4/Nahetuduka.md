@@ -1,10 +1,4 @@
-
-
 # Nahetuduka
-
-
-
-
 
 (75.)
 
@@ -14,13 +8,6 @@
 
 1653\. Paccanīyānulomaṃ.
 
-
-
 ---
 
 1654\. Ācayagāmittikaṃ niṭṭhitaṃ.
-
-
-
-
-

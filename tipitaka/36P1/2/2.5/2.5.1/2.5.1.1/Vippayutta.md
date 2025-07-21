@@ -1,11 +1,4 @@
-
-
 # Vippayutta
-
-
-
-
-
 
 (209.)
 
@@ -14,6 +7,3 @@
 706\. Akusalaṃ dhammaṃ…pe…  vatthuṃ vippayuttapaccayā.
 
 707\. Abyākataṃ dhammaṃ…pe…  vatthuṃ vippayuttapaccayā.
-
-
-

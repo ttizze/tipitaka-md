@@ -1,11 +1,4 @@
-
-
 # Adhipati
-
-
-
-
-
 
 (31.)
 
@@ -58,6 +51,3 @@
 2528\. Maggahetuko ca maggādhipati ca dhammā maggārammaṇassa ca maggādhipatissa ca dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  ariyā maggā vuṭṭhahitvā maggaṃ garuṃ katvā paccavekkhanti. (4)
 
 2529\. Maggahetuko ca maggādhipati ca dhammā maggahetukassa ca maggādhipatissa ca dhammassa adhipatipaccayena paccayo. **Sahajātādhipati**—  maggahetukā ca maggādhipatī ca adhipati sampayuttakānaṃ maggahetukānañca maggādhipatīnañca khandhānaṃ adhipatipaccayena paccayo. (5)
-
-
-

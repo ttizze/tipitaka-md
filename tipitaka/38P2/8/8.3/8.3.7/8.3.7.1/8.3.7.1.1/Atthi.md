@@ -1,12 +1,4 @@
-
-
 # Atthi
-
-
-
-
-
-
 
 (80.)
 
@@ -27,6 +19,3 @@
 2062\. Nīvaraṇasampayutto ca nīvaraṇavippayutto ca dhammā nīvaraṇasampayuttassa dhammassa atthipaccayena paccayo—  sahajātaṃ, purejātaṃ. **Sahajāto**—  nīvaraṇasampayutto eko khandho ca vatthu ca tiṇṇannaṃ khandhānaṃ atthipaccayena paccayo…pe…  dve khandhā ca vatthu ca dvinnaṃ khandhānaṃ atthipaccayena paccayo. (1)
 
 2063\. Nīvaraṇasampayutto ca nīvaraṇavippayutto ca dhammā nīvaraṇavippayuttassa dhammassa atthipaccayena paccayo—  sahajātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ. **Sahajātā**—  nīvaraṇasampayuttā khandhā ca mahābhūtā ca cittasamuṭṭhānānaṃ rūpānaṃ atthipaccayena paccayo. **Pacchājātā**—  nīvaraṇasampayuttā khandhā ca kabaḷīkāro āhāro ca imassa kāyassa atthipaccayena paccayo. **Pacchājātā**—  nīvaraṇasampayuttā khandhā ca rūpajīvitindriyañca kaṭattārūpānaṃ atthipaccayena paccayo. (2)
-
-
-

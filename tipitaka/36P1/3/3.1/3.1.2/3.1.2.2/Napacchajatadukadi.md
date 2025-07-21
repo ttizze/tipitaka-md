@@ -1,11 +1,4 @@
-
-
 # Napacchājātadukādi
-
-
-
-
-
 
 (20.)
 
@@ -13,6 +6,3 @@
 
 * [Tika](Napacchajatadukadi/Tika.md)
 * [Pañcaka](Napacchajatadukadi/Pancaka.md)
-
-
-

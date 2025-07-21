@@ -1,12 +1,4 @@
-
-
 # Ārammaṇa
-
-
-
-
-
-
 
 (37.)
 
@@ -19,6 +11,3 @@
 4148\. Nabhāvanāya pahātabbo dhammo nabhāvanāya pahātabbassa dhammassa ārammaṇapaccayena paccayo—  dānaṃ…pe…  sīlaṃ…pe…  uposathakammaṃ katvā taṃ paccavekkhati assādeti abhinandati, taṃ ārabbha nabhāvanāya pahātabbo rāgo uppajjati, diṭṭhi…pe…  vicikicchā…pe…  nabhāvanāya pahātabbaṃ domanassaṃ uppajjati, pubbe…pe…  jhānā…pe…  ariyā maggā vuṭṭhahitvā…pe…  phalassa, āvajjanāya ārammaṇapaccayena paccayo; ariyā nabhāvanāya pahātabbe pahīne kilese…pe…  cakkhuṃ…pe…  vatthuṃ nabhāvanāya pahātabbe khandhe aniccato…pe…  vipassati assādeti abhinandati, taṃ ārabbha nabhāvanāya pahātabbo rāgo uppajjati, diṭṭhi…pe…  vicikicchā…pe…  nabhāvanāya pahātabbaṃ domanassaṃ uppajjati; dibbena cakkhunā rūpaṃ passati…pe…  yathākammūpagañāṇassa, anāgataṃsañāṇassa, āvajjanāya ārammaṇapaccayena paccayo. (1)
 
 4149\. Nabhāvanāya pahātabbo dhammo bhāvanāya pahātabbassa dhammassa ārammaṇapaccayena paccayo—  dānaṃ…pe…  sīlaṃ…pe…  jhānaṃ…pe…  cakkhuṃ…pe…  vatthuṃ nabhāvanāya pahātabbe khandhe assādeti abhinandati, taṃ ārabbha bhāvanāya pahātabbo rāgo uppajjati, uddhaccaṃ uppajjati, bhāvanāya pahātabbaṃ domanassaṃ uppajjati. (2)
-
-
-

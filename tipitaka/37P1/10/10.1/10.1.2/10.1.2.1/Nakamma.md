@@ -1,11 +1,4 @@
-
-
 # Nakamma
-
-
-
-
-
 
 (25.)
 
@@ -24,6 +17,3 @@
 1124\. Dassanena pahātabbahetukañca nevadassanena nabhāvanāya pahātabbahetukañca dhammaṃ paṭicca dassanena pahātabbahetuko dhammo uppajjati nakammapaccayā—  vicikicchāsahagate khandhe ca mohañca paṭicca sampayuttakā cetanā. (1)
 
 1125\. Bhāvanāya pahātabbahetukañca nevadassanena nabhāvanāya pahātabbahetukañca dhammaṃ paṭicca bhāvanāya pahātabbahetuko dhammo uppajjati nakammapaccayā—  uddhaccasahagate khandhe ca mohañca paṭicca sampayuttakā cetanā. (1)
-
-
-

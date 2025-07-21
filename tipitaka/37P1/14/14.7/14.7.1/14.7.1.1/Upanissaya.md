@@ -1,11 +1,4 @@
-
-
 # Upanissaya
-
-
-
-
-
 
 (25.)
 
@@ -30,6 +23,3 @@
 2223\. Appamāṇārammaṇo dhammo parittārammaṇassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  appamāṇārammaṇaṃ saddhaṃ upanissāya dānaṃ deti, sīlaṃ samādiyati, uposathakammaṃ karoti, parittārammaṇaṃ jhānaṃ uppādeti, vipassanaṃ…  abhiññaṃ…  samāpattiṃ uppādeti. Appamāṇārammaṇaṃ sīlaṃ…pe…  paññaṃ upanissāya dānaṃ deti…pe…  samāpattiṃ uppādeti. Appamāṇārammaṇā saddhā…pe…  paññā parittārammaṇāya saddhāya…pe…  paññāya kāyikassa sukhassa, kāyikassa dukkhassa upanissayapaccayena paccayo. (2)
 
 2224\. Appamāṇārammaṇo dhammo mahaggatārammaṇassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  appamāṇārammaṇaṃ saddhaṃ upanissāya mahaggatārammaṇaṃ jhānaṃ uppādeti, vipassanaṃ…  abhiññaṃ…  samāpattiṃ uppādeti. Appamāṇārammaṇaṃ sīlaṃ…pe…  paññaṃ upanissāya mahaggatārammaṇaṃ jhānaṃ uppādeti, vipassanaṃ…  abhiññaṃ…  samāpattiṃ uppādeti. Appamāṇārammaṇā saddhā…pe…  paññā mahaggatārammaṇāya saddhāya…pe…  paññāya upanissayapaccayena paccayo. (3)
-
-
-

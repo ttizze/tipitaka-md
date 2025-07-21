@@ -1,12 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
-
 
 (115.)
 
@@ -19,6 +11,3 @@
 2602\. Acetasikaṃ dhammaṃ saṃsaṭṭho cetasiko dhammo uppajjati hetupaccayā—  cittaṃ saṃsaṭṭhā sampayuttakā khandhā; paṭisandhikkhaṇe…pe… . (1)
 
 2603\. Cetasikañca acetasikañca dhammaṃ saṃsaṭṭho cetasiko dhammo uppajjati hetupaccayā—  cetasikaṃ ekaṃ khandhañca cittañca saṃsaṭṭhā dve khandhā, dve khandhe ca…pe…  paṭisandhikkhaṇe…pe… . (1) (Saṃkhittaṃ.)
-
-
-

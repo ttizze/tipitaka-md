@@ -1,11 +1,4 @@
-
-
 # Āhāra
-
-
-
-
-
 
 (43.)
 
@@ -22,6 +15,3 @@
 2845\. Ajjhatto dhammo ca bahiddhā dhammo ca ajjhattassa dhammassa āhārapaccayena paccayo—  ajjhatto kabaḷīkāro āhāro ca bahiddhā kabaḷīkāro āhāro ca ajjhattassa kāyassa āhārapaccayena paccayo. (1)
 
 2846\. Ajjhatto dhammo ca bahiddhā dhammo ca bahiddhā dhammassa āhārapaccayena paccayo—  ajjhatto kabaḷīkāro āhāro ca bahiddhā kabaḷīkāro āhāro ca bahiddhā kāyassa āhārapaccayena paccayo. (2)
-
-
-

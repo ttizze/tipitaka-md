@@ -1,12 +1,4 @@
-
-
 # Ārammaṇa
-
-
-
-
-
-
 
 (21.)
 
@@ -21,6 +13,3 @@
 1661\. Nogantho dhammo ganthassa ca noganthassa ca dhammassa ārammaṇapaccayena paccayo—  dānaṃ datvā sīlaṃ…pe…  uposathakammaṃ katvā taṃ assādeti abhinandati, taṃ ārabbha ganthā ca sampayuttakā ca khandhā uppajjanti, pubbe suciṇṇāni…pe…  jhānā…pe…  cakkhuṃ…pe…  vatthuṃ noganthe khandhe assādeti abhinandati, taṃ ārabbha ganthā ca sampayuttakā ca khandhā uppajjanti. (3)
 
 1662\. Gantho ca nogantho ca dhammā ganthassa dhammassa ārammaṇapaccayena paccayo…  tīṇi. (Ārabbha kātabbā.)
-
-
-

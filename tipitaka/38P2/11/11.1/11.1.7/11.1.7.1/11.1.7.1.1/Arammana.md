@@ -1,12 +1,4 @@
-
-
 # Ārammaṇa
-
-
-
-
-
-
 
 (20.)
 
@@ -19,6 +11,3 @@
 3577\. Noupādāno dhammo upādānassa ca noupādānassa ca dhammassa ārammaṇapaccayena paccayo—  dānaṃ…pe…  sīlaṃ…pe…  uposathakammaṃ katvā…pe…  pubbe suciṇṇāni…pe…  jhānā vuṭṭhahitvā jhānaṃ…pe…  cakkhuṃ…pe…  vatthuṃ noupādāne khandhe assādeti abhinandati, taṃ ārabbha upādānā ca sampayuttakā ca khandhā uppajjanti. (3)
 
 3578\. Upādāno ca noupādāno ca dhammā upādānassa dhammassa ārammaṇapaccayena paccayo…  tīṇi. (Ārabbha kātabbā.)
-
-
-

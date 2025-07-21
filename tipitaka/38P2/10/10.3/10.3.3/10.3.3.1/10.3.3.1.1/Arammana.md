@@ -1,12 +1,4 @@
-
-
 # Ārammaṇa
-
-
-
-
-
-
 
 (108.)
 
@@ -25,6 +17,3 @@
 2590\. Cetasikañca acetasikañca dhammaṃ paccayā acetasiko dhammo uppajjati ārammaṇapaccayā—  cakkhuviññāṇasahagate khandhe ca cakkhāyatanañca paccayā cakkhuviññāṇaṃ…pe…  kāyaviññāṇasahagate…pe…  cetasike khandhe ca vatthuñca paccayā cittaṃ. (Paṭisandhikkhaṇe ekaṃ.) (2)
 
 2591\. Cetasikañca acetasikañca dhammaṃ paccayā cetasiko ca acetasiko ca dhammā uppajjanti ārammaṇapaccayā—  cakkhuviññāṇasahagataṃ ekaṃ khandhañca cakkhāyatanañca paccayā dve khandhā cakkhuviññāṇañca, dve khandhe ca…pe…  cetasikaṃ ekaṃ khandhañca vatthuñca paccayā dve khandhā cittañca, dve khandhe ca…pe… . (Paṭisandhikkhaṇe ekaṃ, saṃkhittaṃ.) (3)
-
-
-

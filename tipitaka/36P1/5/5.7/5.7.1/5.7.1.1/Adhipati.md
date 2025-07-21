@@ -1,11 +1,4 @@
-
-
 # Adhipati
-
-
-
-
-
 
 (55.)
 
@@ -18,6 +11,3 @@
 2622\. Anupādinnaanupādāniyo dhammo anupādinnupādāniyassa dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati, sahajātādhipati. **Ārammaṇādhipati**—  ariyā maggā vuṭṭhahitvā maggaṃ garuṃ katvā paccavekkhanti, phalaṃ garuṃ katvā paccavekkhanti, nibbānaṃ garuṃ katvā paccavekkhanti. Nibbānaṃ gotrabhussa, vodānassa adhipatipaccayena paccayo. **Sahajātādhipati**—  anupādinnaanupādāniyādhipati cittasamuṭṭhānānaṃ rūpānaṃ adhipatipaccayena paccayo. (2)
 
 2623\. Anupādinnaanupādāniyo dhammo anupādinnupādāniyassa ca anupādinnaanupādāniyassa ca dhammassa adhipatipaccayena paccayo. **Sahajātādhipati**—  anupādinnaanupādāniyādhipati sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ adhipatipaccayena paccayo. (3)
-
-
-

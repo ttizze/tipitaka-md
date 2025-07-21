@@ -1,12 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
-
 
 (124.)
 
@@ -37,6 +29,3 @@
 443\. Nahetupaccayā ārammaṇe aṭṭha. (Saṃkhittaṃ.)
 
 444\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
-
-
-

@@ -1,11 +1,4 @@
-
-
 # Naārammaṇa
-
-
-
-
-
 
 (11.)
 
@@ -18,6 +11,3 @@
 1900\. Parittañca appamāṇañca dhammaṃ paṭicca paritto dhammo uppajjati naārammaṇapaccayā—  appamāṇe khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
 
 1901\. Parittañca mahaggatañca dhammaṃ paṭicca paritto dhammo uppajjati naārammaṇapaccayā—  mahaggate khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. Paṭisandhikkhaṇe mahaggate khandhe ca mahābhūte ca paṭicca kaṭattārūpaṃ. (1)
-
-
-

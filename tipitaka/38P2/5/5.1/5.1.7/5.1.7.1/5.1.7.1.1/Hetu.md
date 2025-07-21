@@ -1,12 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
-
 
 (18.)
 
@@ -31,6 +23,3 @@
 1656\. Gantho ca nogantho ca dhammā noganthassa dhammassa hetupaccayena paccayo—  ganthā ca noganthā ca hetū sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo. (2)
 
 1657\. Gantho ca nogantho ca dhammā ganthassa ca noganthassa ca dhammassa hetupaccayena paccayo—  ganthā ca noganthā ca hetū sampayuttakānaṃ khandhānaṃ ganthānañca cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo. (3)
-
-
-

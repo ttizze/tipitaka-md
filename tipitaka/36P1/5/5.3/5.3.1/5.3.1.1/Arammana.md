@@ -1,11 +1,4 @@
-
-
 # Ārammaṇa
-
-
-
-
-
 
 (32.)
 
@@ -22,6 +15,3 @@
 2538\. Upādinnupādāniyañca anupādinnaanupādāniyañca dhammaṃ paccayā anupādinnaanupādāniyo dhammo uppajjati ārammaṇapaccayā—  anupādinnaanupādāniyaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe ca vatthuñca paccayā dve khandhā. (1)
 
 2539\. Upādinnupādāniyañca anupādinnupādāniyañca dhammaṃ paccayā anupādinnupādāniyo dhammo uppajjati ārammaṇapaccayā—  anupādinnupādāniyaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe ca vatthuñca paccayā dve khandhā. (1)
-
-
-

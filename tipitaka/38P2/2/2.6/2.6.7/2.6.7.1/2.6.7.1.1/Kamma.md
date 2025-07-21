@@ -1,12 +1,4 @@
-
-
 # Kamma
-
-
-
-
-
-
 
 (161.)
 
@@ -17,6 +9,3 @@
 914\. Lokuttaro dhammo lokiyassa dhammassa kammapaccayena paccayo—  lokuttarā cetanā cittasamuṭṭhānānaṃ rūpānaṃ kammapaccayena paccayo. (2)
 
 915\. Lokuttaro dhammo lokiyassa ca lokuttarassa ca dhammassa kammapaccayena paccayo—  lokuttarā cetanā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo. (3)
-
-
-

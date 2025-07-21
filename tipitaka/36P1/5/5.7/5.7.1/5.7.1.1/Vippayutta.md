@@ -1,11 +1,4 @@
-
-
 # Vippayutta
-
-
-
-
-
 
 (80.)
 
@@ -30,6 +23,3 @@
 2738\. Anupādinnaanupādāniyo dhammo anupādinnupādāniyassa dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, pacchājātaṃ. **Sahajātā**—  anupādinnaanupādāniyā khandhā cittasamuṭṭhānānaṃ rūpānaṃ vippayuttapaccayena paccayo. **Pacchājātā**—  anupādinnaanupādāniyā khandhā purejātassa imassa anupādinnupādāniyassa kāyassa vippayuttapaccayena paccayo. (2)
 
 2739\. Anupādinnaanupādāniyo dhammo upādinnupādāniyassa ca anupādinnupādāniyassa ca dhammassa vippayuttapaccayena paccayo. **Pacchājātā**—  anupādinnaanupādāniyā khandhā purejātassa imassa upādinnupādāniyassa ca anupādinnupādāniyassa ca kāyassa vippayuttapaccayena paccayo. (3)
-
-
-

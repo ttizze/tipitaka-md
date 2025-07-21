@@ -1,11 +1,4 @@
-
-
 # Tika
-
-
-
-
-
 
 2935\. Nahetupaccayā naārammaṇapaccayā adhipatiyā satta. (Saṃkhittaṃ.)
 
@@ -15,13 +8,6 @@
 
 2937\. Paccanīyānulomaṃ.
 
-
-
 ---
 
 2938\. Saṃkiliṭṭhattikaṃ niṭṭhitaṃ.
-
-
-
-
-

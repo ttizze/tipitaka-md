@@ -1,9 +1,4 @@
-
-
 # Paccanīyuddhāra
-
-
-
 
 (108.)
 
@@ -64,6 +59,3 @@
 1414\. Bhāvanāya pahātabbahetuko ca nevadassanena nabhāvanāya pahātabbahetuko ca dhammā bhāvanāya pahātabbahetukassa ca nevadassanena nabhāvanāya pahātabbahetukassa ca dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo. (5)
 
 1415\. (Idhāpi sahajātaṃ, purejātaṃ atthi. Ye te pañhā na likhitā, te pāḷiyaṃ gaṇentānaṃ byañjanena na samenti. Te pāḷiyaṃ na likhitā gaṇanā pākaṭā honti. Yadi saṃsayo uppajjati, anulome atthipaccaye pekkhitabbaṃ.)
-
-
-

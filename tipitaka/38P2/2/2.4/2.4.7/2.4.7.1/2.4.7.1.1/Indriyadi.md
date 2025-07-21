@@ -1,12 +1,4 @@
-
-
 # Indriyādi
-
-
-
-
-
-
 
 (81.)
 
@@ -15,6 +7,3 @@
 722\. Appaṭigho dhammo appaṭighassa dhammassa indriyapaccayena paccayo…  tīṇi (tīsupi jīvitindriyaṃ agge kātabbaṃ). (3)
 
 723\. Sappaṭigho ca appaṭigho ca dhammā appaṭighassa dhammassa indriyapaccayena paccayo—  cakkhundriyañca cakkhuviññāṇañca cakkhuviññāṇasahagatānaṃ khandhānaṃ indriyapaccayena paccayo…pe…  kāyindriyañca kāyaviññāṇañca kāyaviññāṇasahagatānaṃ khandhānaṃ indriyapaccayena paccayo…  jhānapaccayena paccayo…  tīṇi…  maggapaccayena paccayo…  tīṇi…  sampayuttapaccayena paccayo…  ekaṃ.
-
-
-

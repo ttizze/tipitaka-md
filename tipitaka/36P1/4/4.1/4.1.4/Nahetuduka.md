@@ -1,10 +1,4 @@
-
-
 # Nahetuduka
-
-
-
-
 
 (52.)
 
@@ -12,6 +6,3 @@
 
 * [Tika](Nahetuduka/Tika.md)
 * [Sattaka](Nahetuduka/Sattaka.md)
-
-
-

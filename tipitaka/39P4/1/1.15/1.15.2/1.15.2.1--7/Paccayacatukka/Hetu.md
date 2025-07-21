@@ -1,12 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
-
 
 (186.)
 
@@ -23,6 +15,3 @@
 (187.)
 
 698\. Hetuyā nava, ārammaṇe tīṇi, adhipatiyā nava…pe…  vipāke ekaṃ…pe…  avigate nava. (Saṃkhittaṃ.)
-
-
-

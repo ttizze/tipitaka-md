@@ -1,11 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
 
 (14.)
 
@@ -46,6 +39,3 @@
 1280\. Hetuyā pañca, ārammaṇe nava, adhipatiyā pañca, anantare…pe…  sahajāte satta, aññamaññe dve, nissaye dasa, upanissaye nava, purejāte pacchājāte āsevane tīṇi, kamme cattāri, vipāke ekaṃ, āhāre indriye jhāne magge cattāri, sampayutte dve, vippayutte pañca…pe…  avigate dasa. (Saṃkhittaṃ.)
 
 1281\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
-
-
-

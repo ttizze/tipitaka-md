@@ -1,12 +1,4 @@
-
-
 # Ārammaṇa
-
-
-
-
-
-
 
 (18.)
 
@@ -31,6 +23,3 @@
 51\. Hetu ca nahetu ca dhammā nahetussa dhammassa ārammaṇapaccayena paccayo—  hetuñca sampayuttake ca khandhe ārabbha nahetū khandhā uppajjanti. (2)
 
 52\. Hetu ca nahetu ca dhammā hetussa ca nahetussa ca dhammassa ārammaṇapaccayena paccayo—  hetuñca sampayuttake ca khandhe ārabbha hetū ca sampayuttakā ca khandhā uppajjanti. (3)
-
-
-

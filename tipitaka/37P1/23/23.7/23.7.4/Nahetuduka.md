@@ -1,10 +1,4 @@
-
-
 # Nahetuduka
-
-
-
-
 
 (66.)
 
@@ -14,22 +8,12 @@
 
 3100\. Paccanīyānulomaṃ.
 
-  
 Pañhāvāro niṭṭhito.
-
-
 
 ---
 
 3101\. Sanidassanasappaṭighattikaṃ niṭṭhitaṃ.
 
-
-
 ---
 
 3102\. Dhammānulome tikapaṭṭhānaṃ niṭṭhitaṃ.
-
-
-
-
-

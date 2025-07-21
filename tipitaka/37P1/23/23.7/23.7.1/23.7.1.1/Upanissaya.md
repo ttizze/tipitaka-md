@@ -1,11 +1,4 @@
-
-
 # Upanissaya
-
-
-
-
-
 
 (37.)
 
@@ -16,6 +9,3 @@
 (38.)
 
 3017\. Anidassanaappaṭigho dhammo anidassanaappaṭighassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  saddhaṃ upanissāya dānaṃ deti, sīlaṃ samādiyati, uposathakammaṃ…  jhānaṃ…  samāpattiṃ uppādeti, mānaṃ jappeti, diṭṭhiṃ gaṇhāti. Sīlaṃ…pe…  paññaṃ…  rāgaṃ…pe…  patthanaṃ, kāyikaṃ sukhaṃ…  kāyikaṃ dukkhaṃ…  bhojanaṃ upanissāya dānaṃ deti…pe…  saṃghaṃ bhindati. Saddhā…pe…  paññā, rāgo…pe…  patthanā, kāyikaṃ sukhaṃ…  kāyikaṃ dukkhaṃ…  bhojanaṃ saddhāya…pe…  paññāya, maggassa, phalasamāpattiyā upanissayapaccayena paccayo. (1)
-
-
-

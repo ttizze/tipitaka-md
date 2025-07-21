@@ -1,12 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
-
 
 (15.)
 
@@ -15,6 +7,3 @@
 (16.)
 
 1500\. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
-
-
-

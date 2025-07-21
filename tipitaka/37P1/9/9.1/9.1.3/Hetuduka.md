@@ -1,10 +1,4 @@
-
-
 # Hetuduka
-
-
-
-
 
 (33.)
 
@@ -14,10 +8,4 @@
 
 854\. (Evaṃ anumajjantena gaṇetabbaṃ.)
 
-  
 Anulomapaccanīyaṃ.
-
-
-
-
-

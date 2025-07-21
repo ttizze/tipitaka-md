@@ -1,11 +1,4 @@
-
-
 # Paccanīyuddhāra
-
-
-
-
-
 
 (77.)
 
@@ -20,6 +13,3 @@
 1419\. Nahetupaccayā ārammaṇe nava. (Saṃkhittaṃ.)
 
 1420\. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
-
-
-

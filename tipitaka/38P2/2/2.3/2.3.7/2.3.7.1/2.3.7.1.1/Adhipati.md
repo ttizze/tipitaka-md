@@ -1,12 +1,4 @@
-
-
 # Adhipati
-
-
-
-
-
-
 
 (36.)
 
@@ -17,6 +9,3 @@
 620\. Anidassano dhammo sanidassanassa dhammassa adhipatipaccayena paccayo. **Sahajātādhipati**—  anidassanādhipati sanidassanānaṃ cittasamuṭṭhānānaṃ rūpānaṃ adhipatipaccayena paccayo. (2)
 
 621\. Anidassano dhammo sanidassanassa ca anidassanassa ca dhammassa adhipatipaccayena paccayo. **Sahajātādhipati**—  anidassanādhipati sampayuttakānaṃ khandhānaṃ sanidassanānañca anidassanānañca cittasamuṭṭhānānañca rūpānaṃ adhipatipaccayena paccayo. (3)
-
-
-

@@ -1,10 +1,4 @@
-
-
 # Vipākaduka
-
-
-
-
 
 (73.)
 
@@ -14,6 +8,3 @@
 * [Catukka](Vipakaduka/Catukka.md)
 * [Pañcaka](Vipakaduka/Pancaka.md)
 * [Tevīsaka](Vipakaduka/Tevisaka.md)
-
-
-

@@ -1,12 +1,4 @@
-
-
 # Paccanīya-naadhipati
-
-
-
-
-
-
 
 (4.)
 
@@ -25,6 +17,3 @@
 14\. Naadhipatipaccayā hetuyā tīṇi. (Saṃkhittaṃ.)
 
 15\. (Sahajātavārepi paccayavārepi nissayavārepi saṃsaṭṭhavārepi sampayuttavārepi sabbattha tīṇi.)
-
-
-

@@ -1,11 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
 
 (30.)
 
@@ -18,6 +11,3 @@
 1315\. Hetuyā dve, ārammaṇe dve…pe…  āsevane ekaṃ…pe…  vipāke ekaṃ…pe…  avigate dve. (Saṃkhittaṃ.)
 
 1316\. (Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ.)
-
-
-

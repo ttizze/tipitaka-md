@@ -1,12 +1,4 @@
-
-
 # Adhipati
-
-
-
-
-
-
 
 (120.)
 
@@ -25,6 +17,3 @@
 4336\. Avitakko dhammo savitakkassa ca avitakkassa ca dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  ariyā avitakkā jhānā vuṭṭhahitvā…pe…  maggā vuṭṭhahitvā…pe…  phalā vuṭṭhahitvā phalaṃ garuṃ katvā paccavekkhanti, nibbānaṃ garuṃ katvā paccavekkhanti, nibbānaṃ gotrabhussa, vodānassa, savitakkassa maggassa, phalassa, vitakkassa ca adhipatipaccayena paccayo; cakkhuṃ…pe…  vatthuṃ avitakke khandhe ca vitakkañca garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā rāgo uppajjati, diṭṭhi uppajjati; avitakke khandhe ca vitakkañca garuṃ katvā savitakkā khandhā ca vitakko ca uppajjanti. (3)
 
 4337\. Savitakko ca avitakko ca dhammā savitakkassa dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  savitakke khandhe ca vitakkañca garuṃ katvā savitakkā khandhā uppajjanti. (Mūlaṃ kātabbaṃ.) Savitakke khandhe ca vitakkañca garuṃ katvā vitakko uppajjati. (Mūlaṃ kātabbaṃ.) Savitakke khandhe ca vitakkañca garuṃ katvā savitakkā khandhā ca vitakko ca uppajjanti. (3)
-
-
-

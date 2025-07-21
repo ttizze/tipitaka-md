@@ -1,16 +1,5 @@
-
-
 # Suddha
-
-
-
-
-
-
 
 (296.)
 
 4707\. Nahetuyā satta, naārammaṇe satta, naadhipatiyā satta, naanantare satta, nasamanantare satta, nasahajāte pañca, naaññamaññe pañca, nanissaye pañca, naupanissaye satta, napurejāte cha, napacchājāte satta…pe…  nasampayutte pañca, navippayutte cattāri, noatthiyā cattāri, nonatthiyā satta, novigate satta, noavigate cattāri.
-
-
-

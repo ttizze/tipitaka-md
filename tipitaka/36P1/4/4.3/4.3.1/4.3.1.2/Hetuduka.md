@@ -1,11 +1,4 @@
-
-
 # Hetuduka
-
-
-
-
-
 
 (74.)
 
@@ -15,13 +8,6 @@
 
 2225\. (Yathā kusalattike gaṇanā, evaṃ gaṇetabbaṃ.)
 
-
-
 ---
 
 2226\. Anulomaṃ.
-
-
-
-
-

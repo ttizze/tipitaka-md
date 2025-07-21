@@ -1,12 +1,4 @@
-
-
 # Anantarādi
-
-
-
-
-
-
 
 (20.)
 
@@ -21,6 +13,3 @@
 3870\. Kileso ca nokileso ca dhammā kilesassa dhammassa anantarapaccayena paccayo—  purimā purimā kilesā ca sampayuttakā ca khandhā pacchimānaṃ pacchimānaṃ kilesānaṃ anantarapaccayena paccayo. (Mūlaṃ kātabbaṃ.) Purimā purimā kilesā ca sampayuttakā ca khandhā pacchimānaṃ pacchimānaṃ nokilesānaṃ khandhānaṃ anantarapaccayena paccayo; kilesā ca sampayuttakā ca khandhā vuṭṭhānassa anantarapaccayena paccayo. (Mūlaṃ kātabbaṃ.) Purimā purimā kilesā ca sampayuttakā ca khandhā pacchimānaṃ pacchimānaṃ kilesānaṃ sampayuttakānañca khandhānaṃ anantarapaccayena paccayo. (3)
 
 3871\. Samanantarapaccayena paccayo, sahajātapaccayena paccayo, aññamaññapaccayena paccayo, nissayapaccayena paccayo.
-
-
-

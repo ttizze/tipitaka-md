@@ -1,12 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
-
 
 (11.)
 
@@ -25,6 +17,3 @@
 1640\. Ganthañca noganthañca dhammaṃ paccayā nogantho dhammo uppajjati hetupaccayā—  noganthaṃ ekaṃ khandhañca ganthe ca paccayā tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  ganthe ca vatthuñca paccayā noganthā khandhā. (2)
 
 1641\. Ganthañca noganthañca dhammaṃ paccayā gantho ca nogantho ca dhammā uppajjanti hetupaccayā—  noganthaṃ ekaṃ khandhañca sīlabbataparāmāsaṃ kāyaganthañca paccayā tayo khandhā abhijjhākāyagantho ca cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe… . (Cakkaṃ.) Sīlabbataparāmāsaṃ kāyaganthañca vatthuñca paccayā abhijjhākāyagantho ca sampayuttakā ca khandhā. (Cakkaṃ.) (3)
-
-
-

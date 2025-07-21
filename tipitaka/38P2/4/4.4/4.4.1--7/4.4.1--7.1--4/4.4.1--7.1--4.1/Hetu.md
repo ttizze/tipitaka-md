@@ -1,12 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
-
 
 (97.)
 
@@ -39,8 +31,3 @@
 ---
 
 1570\. Saññojanasaññojaniyadukaṃ niṭṭhitaṃ.
-
-
-
-
-

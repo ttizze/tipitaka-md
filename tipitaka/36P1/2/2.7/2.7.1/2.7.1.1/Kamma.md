@@ -1,11 +1,4 @@
-
-
 # Kamma
-
-
-
-
-
 
 (291.)
 
@@ -22,6 +15,3 @@
 947\. Akusalo dhammo akusalassa ca abyākatassa ca dhammassa kammapaccayena paccayo—  akusalā cetanā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo. (3)
 
 948\. Abyākato dhammo abyākatassa dhammassa kammapaccayena paccayo—  vipākābyākatā kiriyābyākatā cetanā sampayuttakānaṃ khandhānaṃ, cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo. Paṭisandhikkhaṇe vipākābyākatā cetanā sampayuttakānaṃ khandhānaṃ kaṭattā ca rūpānaṃ kammapaccayena paccayo. Cetanā vatthussa kammapaccayena paccayo. (1)
-
-
-

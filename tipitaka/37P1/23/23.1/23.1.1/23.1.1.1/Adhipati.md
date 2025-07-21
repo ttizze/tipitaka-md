@@ -1,11 +1,4 @@
-
-
 # Adhipati
-
-
-
-
-
 
 (5.)
 
@@ -26,8 +19,3 @@
 ---
 
 2957\. (Iminā kāraṇena sattapi pañhā vibhajitabbā.)
-
-
-
-
-

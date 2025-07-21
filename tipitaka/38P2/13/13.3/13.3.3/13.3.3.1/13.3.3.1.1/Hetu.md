@@ -1,12 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
-
 
 (57.)
 
@@ -25,6 +17,3 @@
 4194\. Dassanena pahātabbahetukañca nadassanena pahātabbahetukañca dhammaṃ paccayā nadassanena pahātabbahetuko dhammo uppajjati hetupaccayā—  dassanena pahātabbahetuke khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ, vicikicchāsahagate khandhe ca mohañca paccayā cittasamuṭṭhānaṃ rūpaṃ. (2)
 
 4195\. Dassanena pahātabbahetukañca nadassanena pahātabbahetukañca dhammaṃ paccayā dassanena pahātabbahetuko ca nadassanena pahātabbahetuko ca dhammā uppajjanti hetupaccayā—  dassanena pahātabbahetukaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe ca…pe…  dassanena pahātabbahetuke khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ, vicikicchāsahagataṃ ekaṃ khandhañca mohañca paccayā tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe ca…pe… . (3)
-
-
-

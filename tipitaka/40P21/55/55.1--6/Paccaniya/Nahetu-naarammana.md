@@ -1,10 +1,4 @@
-
-
 # Nahetu-naārammaṇa
-
-
-
-
 
 (139.)
 
@@ -17,6 +11,3 @@
 356\. Naārammaṇapaccayā hetuyā tīṇi. (Saṃkhittaṃ.)
 
 357\. (Sahajātavārampi paccayavārampi nissayavārampi saṃsaṭṭhavārampi sampayuttavārampi vitthāretabbaṃ.)
-
-
-

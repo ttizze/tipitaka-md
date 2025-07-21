@@ -1,12 +1,4 @@
-
-
 # Nakamma
-
-
-
-
-
-
 
 (55.)
 
@@ -17,6 +9,3 @@
 3668\. Upādānavippayuttaṃ dhammaṃ paṭicca upādānasampayutto dhammo uppajjati nakammapaccayā—  diṭṭhigatavippayuttaṃ lobhaṃ paṭicca sampayuttakā cetanā. (2)
 
 3669\. Upādānasampayuttañca upādānavippayuttañca dhammaṃ paṭicca upādānasampayutto dhammo uppajjati nakammapaccayā—  diṭṭhigatavippayuttalobhasahagate khandhe ca lobhañca paṭicca sampayuttakā cetanā. (1) (Saṃkhittaṃ.)
-
-
-

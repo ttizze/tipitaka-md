@@ -1,12 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
-
 
 (74.)
 
@@ -31,6 +23,3 @@
 1178\. Āsavasampayutto ca āsavavippayutto ca dhammā āsavavippayuttassa dhammassa hetupaccayena paccayo—  doso ca moho ca cittasamuṭṭhānānaṃ rūpānaṃ hetupaccayena paccayo. (2)
 
 1179\. Āsavasampayutto ca āsavavippayutto ca dhammā āsavasampayuttassa ca āsavavippayuttassa ca dhammassa hetupaccayena paccayo—  doso ca moho ca sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo. (3)
-
-
-

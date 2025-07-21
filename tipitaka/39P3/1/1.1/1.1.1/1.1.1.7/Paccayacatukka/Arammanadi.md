@@ -1,12 +1,4 @@
-
-
 # Ārammaṇādi
-
-
-
-
-
-
 
 (13.)
 
@@ -23,6 +15,3 @@
 24\. Nahetu kusalo dhammo nahetussa kusalassa dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati, sahajātādhipati…  tīṇi.
 
 25\. Hetu kusalo ca nahetu kusalo ca dhammā hetussa kusalassa dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati…  tīṇi.
-
-
-

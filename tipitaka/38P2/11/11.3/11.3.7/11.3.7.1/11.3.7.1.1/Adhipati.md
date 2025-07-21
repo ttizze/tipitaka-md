@@ -1,12 +1,4 @@
-
-
 # Adhipati
-
-
-
-
-
-
 
 (69.)
 
@@ -23,6 +15,3 @@
 (71.)
 
 3707\. Upādānasampayutto ca upādānavippayutto ca dhammā upādānasampayuttassa dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  diṭṭhigatavippayuttalobhasahagate khandhe ca lobhañca garuṃ katvā upādānasampayuttā khandhā uppajjanti. (Mūlaṃ kātabbaṃ.) Diṭṭhigatavippayuttalobhasahagate khandhe ca lobhañca garuṃ katvā diṭṭhigatavippayutto lobho uppajjati. (Mūlaṃ kātabbaṃ.) Diṭṭhigatavippayuttalobhasahagate khandhe ca lobhañca garuṃ katvā diṭṭhigatavippayuttalobhasahagatā khandhā ca lobho ca uppajjanti. (3)
-
-
-

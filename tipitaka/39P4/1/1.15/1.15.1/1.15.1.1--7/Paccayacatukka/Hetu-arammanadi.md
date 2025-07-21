@@ -1,12 +1,4 @@
-
-
 # Hetu-ārammaṇādi
-
-
-
-
-
-
 
 (182.)
 
@@ -27,6 +19,3 @@
 680\. Sammattaniyato hetu dhammo sammattaniyatassa hetussa dhammassa adhipatipaccayena paccayo. Sammattaniyato hetu dhammo aniyatassa hetussa dhammassa adhipatipaccayena paccayo. (2)
 
 681\. Aniyato hetu dhammo aniyatassa hetussa dhammassa adhipatipaccayena paccayo. (1)
-
-
-

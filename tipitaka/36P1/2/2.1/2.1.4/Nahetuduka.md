@@ -1,10 +1,4 @@
-
-
 # Nahetuduka
-
-
-
-
 
 (83.)
 
@@ -16,6 +10,3 @@
 * [Dvādasaka](Nahetuduka/Dvadasaka.md)
 * [Cuddasaka](Nahetuduka/Cuddasaka.md)
 * [Ekavīsaka](Nahetuduka/Ekavisaka.md)
-
-
-

@@ -1,12 +1,4 @@
-
-
 # Atthi
-
-
-
-
-
-
 
 (37.)
 
@@ -31,6 +23,3 @@
 1069\. Āsavo ca noāsavo ca dhammā noāsavassa dhammassa atthipaccayena paccayo—  sahajātaṃ, purejātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ. **Sahajāto**—  noāsavo eko khandho ca āsavā ca tiṇṇannaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ atthipaccayena paccayo. **Sahajātā**—  āsavā mahābhūtā ca cittasamuṭṭhānānaṃ rūpānaṃ atthipaccayena paccayo; āsavā ca vatthu ca noāsavānaṃ khandhānaṃ atthipaccayena paccayo. **Pacchājātā**—  āsavā ca kabaḷīkāro āhāro ca imassa kāyassa atthipaccayena paccayo. **Pacchājātā**—  āsavā ca rūpajīvitindriyañca kaṭattārūpānaṃ atthipaccayena paccayo. (2)
 
 1070\. Āsavo ca noāsavo ca dhammā āsavassa ca noāsavassa ca dhammassa atthipaccayena paccayo—  sahajātaṃ, purejātaṃ. **Sahajāto**—  noāsavo eko khandho ca kāmāsavo ca tiṇṇannaṃ khandhānaṃ diṭṭhāsavassa avijjāsavassa cittasamuṭṭhānānañca rūpānaṃ atthipaccayena paccayo…pe…  dve khandhā ca…pe…  (cakkaṃ). **Sahajāto**—  kāmāsavo ca vatthu ca diṭṭhāsavassa avijjāsavassa sampayuttakānañca khandhānaṃ atthipaccayena paccayo. (Cakkaṃ.) (3)
-
-
-

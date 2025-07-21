@@ -1,11 +1,4 @@
-
-
 # Vipāka
-
-
-
-
-
 
 (71.)
 
@@ -20,6 +13,3 @@
 2692\. Anupādinnaanupādāniyo dhammo anupādinnupādāniyassa dhammassa vipākapaccayena paccayo—  vipākā anupādinnaanupādāniyā khandhā cittasamuṭṭhānānaṃ rūpānaṃ vipākapaccayena paccayo. (2)
 
 2693\. Anupādinnaanupādāniyo dhammo anupādinnupādāniyassa ca anupādinnaanupādāniyassa ca dhammassa vipākapaccayena paccayo—  vipāko anupādinnaanupādāniyo eko khandho tiṇṇannaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ vipākapaccayena paccayo…pe…  dve khandhā dvinnaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ vipākapaccayena paccayo. (3)
-
-
-

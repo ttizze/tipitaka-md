@@ -1,11 +1,4 @@
-
-
 # Navipāka
-
-
-
-
-
 
 (11.)
 
@@ -20,6 +13,3 @@
 1690\. Nevasekkhanāsekkhaṃ dhammaṃ paṭicca nevasekkhanāsekkho dhammo uppajjati navipākapaccayā. (Paripuṇṇaṃ, paṭisandhi natthi.)
 
 1691\. Sekkhañca nevasekkhanāsekkhañca dhammaṃ paṭicca nevasekkhanāsekkho dhammo uppajjati navipākapaccayā—  sekkhe khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
-
-
-

@@ -1,11 +1,4 @@
-
-
 # Upanissaya
-
-
-
-
-
 
 (33.)
 
@@ -46,6 +39,3 @@
 740\. Pītisahagato ca sukhasahagato ca dhammā upekkhāsahagatassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  pītisahagatañca sukhasahagatañca saddhaṃ upanissāya upekkhāsahagatena cittena dānaṃ deti …pe…  abhiññaṃ uppādeti…pe…  diṭṭhiṃ gaṇhāti. Pītisahagatañca sukhasahagatañca sīlaṃ…pe…  patthanaṃ upanissāya upekkhāsahagatena cittena dānaṃ deti…pe…  nigamaghātaṃ karoti. Pītisahagatā ca sukhasahagatā ca saddhā…pe…  patthanā upekkhāsahagatāya saddhāya…pe…  patthanāya upanissayapaccayena paccayo. (3)
 
 741\. Pītisahagato ca sukhasahagato ca dhammā pītisahagatassa ca sukhasahagatassa ca dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  pītisahagatañca sukhasahagatañca saddhaṃ upanissāya pītisahagatena ca sukhasahagatena ca cittena dānaṃ deti, sīlaṃ samādiyati, uposathakammaṃ karoti. Pītisahagatañca sukhasahagatañca jhānaṃ uppādeti, vipassanaṃ uppādeti, maggaṃ uppādeti, samāpattiṃ uppādeti, mānaṃ jappeti, diṭṭhiṃ gaṇhāti. Pītisahagatañca sukhasahagatañca sīlaṃ…  sutaṃ…  cāgaṃ…  paññaṃ…  rāgaṃ…  mohaṃ…  mānaṃ…  diṭṭhiṃ…  patthanaṃ upanissāya pītisahagatena ca sukhasahagatena ca cittena dānaṃ deti, sīlaṃ samādiyati, uposathakammaṃ karoti. Pītisahagatañca sukhasahagatañca jhānaṃ uppādeti…pe…  samāpattiṃ uppādeti. Pītisahagatena ca sukhasahagatena ca cittena adinnaṃ ādiyati, musā bhaṇati, pisuṇaṃ bhaṇati, samphaṃ palapati, sandhiṃ chindati, nillopaṃ harati, ekāgārikaṃ karoti, paripanthe tiṭṭhati, paradāraṃ gacchati, gāmaghātaṃ karoti, nigamaghātaṃ karoti. Pītisahagatā ca sukhasahagatā ca saddhā…pe…  patthanā pītisahagatāya ca sukhasahagatāya ca saddhāya…pe…  patthanāya upanissayapaccayena paccayo. (4)
-
-
-

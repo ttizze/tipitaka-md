@@ -1,10 +1,4 @@
-
-
 # Nahetuduka
-
-
-
-
 
 (92.)
 
@@ -14,13 +8,6 @@
 
 2155\. Paccanīyānulomaṃ.
 
-
-
 ---
 
 2156\. Parittattikaṃ niṭṭhitaṃ.
-
-
-
-
-

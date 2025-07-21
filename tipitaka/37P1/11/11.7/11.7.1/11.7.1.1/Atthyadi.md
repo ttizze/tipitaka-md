@@ -1,11 +1,4 @@
-
-
 # Atthyādi
-
-
-
-
-
 
 (65.)
 
@@ -32,6 +25,3 @@
 1629\. Ācayagāmī ca nevācayagāmināpacayagāmī ca dhammā nevācayagāmināpacayagāmissa dhammassa atthipaccayena paccayo—  sahajātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ. **Sahajātā**—  ācayagāmī khandhā ca mahābhūtā ca cittasamuṭṭhānānaṃ rūpānaṃ atthipaccayena paccayo. **Pacchājātā**—  ācayagāmī khandhā ca kabaḷīkāro āhāro ca imassa kāyassa atthipaccayena paccayo. **Pacchājātā**—  ācayagāmī khandhā ca rūpajīvitindriyañca kaṭattārūpānaṃ atthipaccayena paccayo. (2)
 
 1630\. Apacayagāmī ca nevācayagāmināpacayagāmī ca dhammā apacayagāmissa dhammassa atthipaccayena paccayo (dve kātabbā dassitanayena), natthipaccayena paccayo, vigatapaccayena paccayo, avigatapaccayena paccayo.
-
-
-

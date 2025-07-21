@@ -1,11 +1,4 @@
-
-
 # Aññamañña
-
-
-
-
-
 
 (68.)
 
@@ -22,6 +15,3 @@
 2071\. Appamāṇo dhammo appamāṇassa dhammassa aññamaññapaccayena paccayo—  appamāṇo eko khandho tiṇṇannaṃ khandhānaṃ aññamaññapaccayena paccayo…pe…  dve khandhā…pe… . (1)
 
 2072\. Paritto ca mahaggato ca dhammā mahaggatassa dhammassa aññamaññapaccayena paccayo—  paṭisandhikkhaṇe mahaggato eko khandho ca vatthu ca tiṇṇannaṃ khandhānaṃ aññamaññapaccayena paccayo…pe… . (1)
-
-
-

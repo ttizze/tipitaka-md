@@ -1,11 +1,4 @@
-
-
 # Paccayacatukka
-
-
-
-
-
 
 (102.)
 
@@ -24,6 +17,3 @@
 349\. Naadhipatiyā dasa, napurejāte dasa, napacchājāte dasa, naāsevane dasa, navipāke dasa, navippayutte dasa. (Saṃkhittaṃ.)
 
 350\. (Sahajātavārampi…pe…  sampayuttavārampi vitthāretabbaṃ.)
-
-
-

@@ -1,10 +1,4 @@
-
-
 # Hetuduka
-
-
-
-
 
 (162.)
 
@@ -12,6 +6,3 @@
 
 * [Tika](Hetuduka/Tika.md)
 * [Ekādasaka](Hetuduka/Ekadasaka.md)
-
-
-

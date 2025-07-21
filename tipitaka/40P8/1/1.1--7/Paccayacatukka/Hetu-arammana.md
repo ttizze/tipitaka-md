@@ -1,10 +1,4 @@
-
-
 # Hetu-ārammaṇa
-
-
-
-
 
 (3.)
 
@@ -19,6 +13,3 @@
 (4.)
 
 11\. Hetuyā tīṇi, ārammaṇe nava…pe…  purejāte pacchājāte tīṇi…pe…  kamme tīṇi…pe…  jhāne tīṇi…pe…  vippayutte pañca…pe…  avigate nava. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
-
-
-

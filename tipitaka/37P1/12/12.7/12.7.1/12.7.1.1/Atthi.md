@@ -1,11 +1,4 @@
-
-
 # Atthi
-
-
-
-
-
 
 (65.)
 
@@ -32,6 +25,3 @@
 1841\. Sekkho ca nevasekkhanāsekkho ca dhammā nevasekkhanāsekkhassa dhammassa atthipaccayena paccayo—  sahajātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ. **Sahajātā**—  sekkhā khandhā ca mahābhūtā ca cittasamuṭṭhānānaṃ rūpānaṃ atthipaccayena paccayo. **Pacchājātā**—  sekkhā khandhā ca kabaḷīkāro āhāro ca imassa kāyassa atthipaccayena paccayo. **Pacchājātā**—  sekkhā khandhā ca rūpajīvitindriyañca kaṭattārūpānaṃ atthipaccayena paccayo. (2)
 
 1842\. Asekkho ca nevasekkhanāsekkho ca dhammā asekkhassa dhammassa atthipaccayena paccayo…pe… . (Dve pañhā kātabbā, sekkhasadisā.)
-
-
-

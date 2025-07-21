@@ -1,11 +1,4 @@
-
-
 # Nakamma
-
-
-
-
-
 
 (147.)
 
@@ -22,6 +15,3 @@
 534\. Kusalañca abyākatañca dhammaṃ paccayā kusalo dhammo uppajjati nakammapaccayā—  kusale khandhe ca vatthuñca paccayā kusalā cetanā. (1)
 
 535\. Akusalañca abyākatañca dhammaṃ paccayā akusalo dhammo uppajjati nakammapaccayā—  akusale khandhe ca vatthuñca paccayā akusalā cetanā. (1)
-
-
-

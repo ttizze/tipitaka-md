@@ -1,10 +1,4 @@
-
-
 # Paccayacatukka
-
-
-
-
 
 (28.)
 
@@ -23,6 +17,3 @@
 2662\. Araṇaṃ nevadassanena nabhāvanāya pahātabbaṃ dhammaṃ paṭicca araṇo nevadassanena nabhāvanāya pahātabbo dhammo uppajjati hetupaccayā.
 
 2663\. Hetuyā ekaṃ (sabbattha ekaṃ)…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
-
-
-

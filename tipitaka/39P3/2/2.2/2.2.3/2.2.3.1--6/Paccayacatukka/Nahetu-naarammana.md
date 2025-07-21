@@ -1,12 +1,4 @@
-
-
 # Nahetu-naārammaṇa
-
-
-
-
-
-
 
 (19.)
 
@@ -29,6 +21,3 @@
 1295\. Nahetupaccayā ārammaṇe ekaṃ. (Saṃkhittaṃ.)
 
 1296\. (Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
-
-
-

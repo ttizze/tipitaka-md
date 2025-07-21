@@ -1,11 +1,4 @@
-
-
 # Naāhārādi
-
-
-
-
-
 
 (149.)
 
@@ -14,8 +7,3 @@
 ---
 
 542\. (Avasesaṃ yathā paṭiccavāre paccanīyaṃ, evaṃ vitthāretabbaṃ.)
-
-
-
-
-

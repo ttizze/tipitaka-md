@@ -1,10 +1,4 @@
-
-
 # Hetu
-
-
-
-
 
 (35.)
 
@@ -19,6 +13,3 @@
 82\. Hetuyā aṭṭhavīsa, ārammaṇe catuvīsa…pe…  avigate aṭṭhavīsa.
 
 83\. (Sahajātavārampi…pe…  sampayuttavārampi pañhāvārampi sabbattha vitthāretabbaṃ.)
-
-
-

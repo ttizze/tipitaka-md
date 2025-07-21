@@ -1,12 +1,4 @@
-
-
 # Āhārādi
-
-
-
-
-
-
 
 (150.)
 
@@ -17,6 +9,3 @@
 419\. Sahetuko ceva na ca hetu dhammo sahetukassa ceva na ca hetussa dhammassa jhānapaccayena paccayo…  tīṇi.
 
 420\. Hetu ceva sahetuko ca dhammo hetussa ceva sahetukassa ca dhammassa maggapaccayena paccayo…  sampayuttapaccayena paccayo…  atthipaccayena paccayo…  natthipaccayena paccayo…  vigatapaccayena paccayo…  avigatapaccayena paccayo.
-
-
-

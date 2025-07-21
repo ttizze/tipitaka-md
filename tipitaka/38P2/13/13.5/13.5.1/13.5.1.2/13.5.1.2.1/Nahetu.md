@@ -1,12 +1,4 @@
-
-
 # Nahetu
-
-
-
-
-
-
 
 (106.)
 
@@ -19,6 +11,3 @@
 4298\. Avitakkaṃ dhammaṃ paṭicca savitakko ca avitakko ca dhammā uppajjanti nahetupaccayā. (Saṃkhittaṃ. Hetupaccayasadisaṃ. “Ahetukan”ti niyāmetabbaṃ.) (3)
 
 4299\. Savitakkañca avitakkañca dhammaṃ paṭicca savitakko dhammo uppajjati nahetupaccayā—  ahetukaṃ savitakkaṃ ekaṃ khandhañca vitakkañca paṭicca tayo khandhā…pe…  dve khandhe…pe…  ahetukapaṭisandhikkhaṇe savitakkaṃ ekaṃ khandhañca vitakkañca paṭicca tayo khandhā…pe…  dve khandhe…pe…  ahetukapaṭisandhikkhaṇe savitakkaṃ ekaṃ khandhañca vatthuñca vitakkañca paṭicca tayo khandhā…pe…  dve khandhe…pe…  vicikicchāsahagate uddhaccasahagate khandhe ca vitakkañca paṭicca vicikicchāsahagato uddhaccasahagato moho. (Avasesā dve pañhā hetupaccayasadisā ninnānā, ahetukanti niyāmetabbaṃ.) (3)
-
-
-

@@ -1,12 +1,4 @@
-
-
 # Ārammaṇa
-
-
-
-
-
-
 
 (341.)
 
@@ -19,6 +11,3 @@
 3160\. Bāhiro dhammo ajjhattikassa ca bāhirassa ca dhammassa ārammaṇapaccayena paccayo—  dānaṃ…pe…  sīlaṃ…pe…  uposathakammaṃ katvā taṃ paccavekkhati assādeti abhinandati, taṃ ārabbha cittañca sampayuttakā ca khandhā uppajjanti (saṃkhittaṃ, sabbaṃ kātabbaṃ). Bāhire khandhe aniccato…pe…  vipassati, assādeti abhinandati, taṃ ārabbha cittañca sampayuttakā ca khandhā uppajjanti. Dibbena cakkhunā rūpaṃ passati…pe…  rūpāyatanaṃ cakkhuviññāṇassa ca sampayuttakānañca khandhānaṃ…pe…  phoṭṭhabbāyatanaṃ…pe…  bāhirā khandhā iddhividhañāṇassa, cetopariyañāṇassa, pubbenivāsānussatiñāṇassa, yathākammūpagañāṇassa, anāgataṃsañāṇassa, āvajjanāya ārammaṇapaccayena paccayo. (3)
 
 3161\. Ajjhattiko ca bāhiro ca dhammā ajjhattikassa dhammassa ārammaṇapaccayena paccayo…  tīṇi.
-
-
-

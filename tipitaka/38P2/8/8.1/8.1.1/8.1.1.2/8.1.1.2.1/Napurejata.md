@@ -1,12 +1,4 @@
-
-
 # Napurejāta
-
-
-
-
-
-
 
 (8.)
 
@@ -21,6 +13,3 @@
 1910\. Nīvaraṇañca nonīvaraṇañca dhammaṃ paṭicca nonīvaraṇo dhammo uppajjati napurejātapaccayā—  arūpe nonīvaraṇaṃ ekaṃ khandhañca nīvaraṇe ca paṭicca tayo khandhā…pe…  dve khandhe ca…pe…  nīvaraṇe ca sampayuttake ca khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ, nīvaraṇe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (2)
 
 1911\. Nīvaraṇañca nonīvaraṇañca dhammaṃ paṭicca nīvaraṇo ca nonīvaraṇo ca dhammā uppajjanti napurejātapaccayā—  arūpe nonīvaraṇaṃ ekaṃ khandhañca kāmacchandanīvaraṇañca paṭicca tayo khandhā thinamiddhanīvaraṇaṃ uddhaccanīvaraṇaṃ avijjānīvaraṇaṃ. (Cakkaṃ. Saṃkhittaṃ.) (3)
-
-
-

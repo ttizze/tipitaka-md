@@ -1,9 +1,4 @@
-
-
 # Paccanīyuddhāra
-
-
-
 
 (98.)
 
@@ -40,6 +35,3 @@
 1046\. Bhāvanāya pahātabbo ca nevadassanena nabhāvanāya pahātabbo ca dhammā bhāvanāya pahātabbassa dhammassa sahajātaṃ, purejātaṃ. (1)
 
 1047\. Bhāvanāya pahātabbo ca nevadassanena nabhāvanāya pahātabbo ca dhammā nevadassanena nabhāvanāya pahātabbassa dhammassa sahajātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ. (2)
-
-
-

@@ -82,7 +82,6 @@ This work has been marked as dedicated to the public domain. See the CC0 Deed
 * [Peṭakopadesapāḷi](tipitaka/27Pe.md)
 * [Milindapañhapāḷi](tipitaka/28Mi.md)
 
-
 ## Abhidhammapiṭaka (Abhi)
 
 * [Dhammasaṅgaṇīpāḷi](tipitaka/29Dhs.md)

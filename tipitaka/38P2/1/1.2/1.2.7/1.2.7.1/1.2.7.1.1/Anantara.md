@@ -1,12 +1,4 @@
-
-
 # Anantara
-
-
-
-
-
-
 
 (102.)
 
@@ -31,6 +23,3 @@
 283\. Sahetuko ca ahetuko ca dhammā ahetukassa dhammassa anantarapaccayena paccayo—  purimā purimā vicikicchāsahagatā uddhaccasahagatā khandhā ca moho ca pacchimassa pacchimassa vicikicchāsahagatassa uddhaccasahagatassa mohassa anantarapaccayena paccayo; vicikicchāsahagatā uddhaccasahagatā khandhā ca moho ca ahetukassa vuṭṭhānassa anantarapaccayena paccayo. (2)
 
 284\. Sahetuko ca ahetuko ca dhammā sahetukassa ca ahetukassa ca dhammassa anantarapaccayena paccayo—  purimā purimā vicikicchāsahagatā uddhaccasahagatā khandhā ca moho ca pacchimānaṃ pacchimānaṃ vicikicchāsahagatānaṃ uddhaccasahagatānaṃ khandhānaṃ mohassa ca anantarapaccayena paccayo. (3)
-
-
-

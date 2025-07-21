@@ -1,10 +1,4 @@
-
-
 # Hetu-ārammaṇa
-
-
-
-
 
 (1.)
 
@@ -35,6 +29,3 @@
 13\. Nakusalañca naakusalañca dhammaṃ paṭicca abyākato dhammo uppajjati ārammaṇapaccayā…  ekaṃ. (Saṃkhittaṃ.)
 
 14\. Hetuyā aṭṭhārasa, ārammaṇe nava, adhipatiyā aṭṭhārasa…pe…  vipāke tīṇi…pe…  avigate aṭṭhārasa.
-
-
-

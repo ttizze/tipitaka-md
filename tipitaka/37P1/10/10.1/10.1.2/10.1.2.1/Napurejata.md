@@ -1,11 +1,4 @@
-
-
 # Napurejāta
-
-
-
-
-
 
 (21.)
 
@@ -32,6 +25,3 @@
 1116\. Dassanena pahātabbahetukañca nevadassanena nabhāvanāya pahātabbahetukañca dhammaṃ paṭicca nevadassanena nabhāvanāya pahātabbahetuko dhammo uppajjati napurejātapaccayā—  dassanena pahātabbahetuke khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ; vicikicchāsahagate khandhe ca mohañca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (2)
 
 1117\. Bhāvanāya pahātabbahetukañca nevadassanena nabhāvanāya pahātabbahetukañca dhammaṃ paṭicca bhāvanāya pahātabbahetuko dhammo uppajjati napurejātapaccayā. (Imepi dve kātabbā.)
-
-
-

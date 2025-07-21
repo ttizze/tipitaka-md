@@ -1,10 +1,4 @@
-
-
 # Hetu
-
-
-
-
 
 (35.)
 
@@ -27,6 +21,3 @@
 410\. Maggādhipatiṃ abyākataṃ dhammaṃ paṭicca maggādhipati abyākato dhammo uppajjati hetupaccayā…  tīṇi.
 
 411\. Maggārammaṇaṃ abyākatañca maggādhipatiṃ abyākatañca dhammaṃ paṭicca maggārammaṇo abyākato dhammo uppajjati hetupaccayā…  tīṇi. (Sabbattha nava. Sabbattha vitthāro.)
-
-
-

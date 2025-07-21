@@ -1,10 +1,4 @@
-
-
 # Paccayacatukka
-
-
-
-
 
 (25.)
 
@@ -35,6 +29,3 @@
 77\. Hetuyā dve…pe…  āsevane ekaṃ…pe…  vipāke ekaṃ…pe…  avigate dve. (Saṃkhittaṃ.)
 
 78\. (Sahajātavārepi…pe…  pañhāvārepi sabbattha vitthāretabbaṃ.)
-
-
-

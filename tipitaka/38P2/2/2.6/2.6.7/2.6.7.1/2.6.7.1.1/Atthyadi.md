@@ -1,12 +1,4 @@
-
-
 # Atthyādi
-
-
-
-
-
-
 
 (167.)
 
@@ -29,6 +21,3 @@
 933\. Lokiyo ca lokuttaro ca dhammā lokuttarassa dhammassa atthipaccayena paccayo—  sahajātaṃ, purejātaṃ. **Sahajāto**—  lokuttaro eko khandho ca vatthu ca tiṇṇannaṃ khandhānaṃ atthipaccayena paccayo…pe…  dve khandhā ca…pe… . (2)
 
 934\. Natthipaccayena paccayo…  vigatapaccayena paccayo…  avigatapaccayena paccayo. (2)
-
-
-

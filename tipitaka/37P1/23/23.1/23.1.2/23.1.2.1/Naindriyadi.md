@@ -1,11 +1,4 @@
-
-
 # Naindriyādi
-
-
-
-
-
 
 (24.)
 
@@ -17,13 +10,8 @@
 
 2991\. (Evaṃ sattapi pañhā vibhajitabbā.)
 
-
-
 (25.)
 
 2992\. Anidassanasappaṭighañca anidassanaappaṭighañca dhammaṃ paṭicca sanidassanasappaṭigho dhammo uppajjati najhānapaccayā—  bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ… , asaññasattānaṃ…pe…  anidassanasappaṭighe mahābhūte ca āpodhātuñca paṭicca sanidassanasappaṭighaṃ kaṭattārūpaṃ upādārūpaṃ.
 
 2993\. (Evaṃ sattapi pañhā vibhajitabbā), namaggapaccayā…  (nahetusadisaṃ kātabbaṃ. Paripuṇṇaṃ. Moho natthi). Nasampayuttapaccayā…  navippayuttapaccayā (paripuṇṇaṃ)…  nonatthipaccayā…  novigatapaccayā.
-
-
-

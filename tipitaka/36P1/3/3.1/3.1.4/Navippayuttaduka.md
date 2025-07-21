@@ -1,10 +1,4 @@
-
-
 # Navippayuttaduka
-
-
-
-
 
 (32.)
 
@@ -12,6 +6,3 @@
 
 * [Tika](Navippayuttaduka/Tika.md)
 * [Dasaka](Navippayuttaduka/Dasaka.md)
-
-
-

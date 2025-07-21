@@ -1,10 +1,4 @@
-
-
 # Hetu
-
-
-
-
 
 (20.)
 
@@ -21,6 +15,3 @@
 (22.)
 
 365\. Nevadassanena nabhāvanāya pahātabbahetukaṃ abyākataṃ dhammaṃ paṭicca nevadassanena nabhāvanāya pahātabbahetuko abyākato dhammo uppajjati hetupaccayā. (Sabbattha ekaṃ.)
-
-
-

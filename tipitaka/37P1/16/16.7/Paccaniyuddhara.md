@@ -1,9 +1,4 @@
-
-
 # Paccanīyuddhāra
-
-
-
 
 (59.)
 
@@ -34,6 +29,3 @@
 2421\. Sammattaniyato ca aniyato ca dhammā sammattaniyatassa dhammassa sahajātaṃ, purejātaṃ. (1)
 
 2422\. Sammattaniyato ca aniyato ca dhammā aniyatassa dhammassa sahajātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ. (2)
-
-
-

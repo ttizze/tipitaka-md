@@ -1,11 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
 
 (33.)
 
@@ -36,6 +29,3 @@
 1873\. Nahetupaccayā ārammaṇe nava. (Saṃkhittaṃ.)
 
 1874\. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
-
-
-

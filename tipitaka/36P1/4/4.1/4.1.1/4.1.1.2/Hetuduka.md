@@ -1,11 +1,4 @@
-
-
 # Hetuduka
-
-
-
-
-
 
 (21.)
 
@@ -14,8 +7,3 @@
 ---
 
 2086\. (Yathā kusalattikassa gaṇanā, evaṃ gaṇetabbaṃ.)
-
-
-
-
-

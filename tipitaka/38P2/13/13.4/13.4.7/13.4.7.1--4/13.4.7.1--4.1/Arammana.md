@@ -1,12 +1,4 @@
-
-
 # Ārammaṇa
-
-
-
-
-
-
 
 (95.)
 
@@ -19,6 +11,3 @@
 4271\. Nabhāvanāya pahātabbahetuko dhammo bhāvanāya pahātabbahetukassa dhammassa ārammaṇapaccayena paccayo—  dānaṃ…pe…  sīlaṃ…pe…  jhānaṃ…pe…  cakkhuṃ…pe…  vatthuṃ nabhāvanāya pahātabbahetuke khandhe ca mohañca assādeti abhinandati, taṃ ārabbha bhāvanāya pahātabbahetuko rāgo uppajjati, uddhaccaṃ…pe…  bhāvanāya pahātabbahetukaṃ domanassaṃ uppajjati. (2)
 
 4272\. Nabhāvanāya pahātabbahetuko dhammo bhāvanāya pahātabbahetukassa ca nabhāvanāya pahātabbahetukassa ca dhammassa ārammaṇapaccayena paccayo—  cakkhuṃ…pe…  vatthuṃ nabhāvanāya pahātabbahetuke khandhe ca mohañca ārabbha uddhaccasahagatā khandhā ca moho ca uppajjanti. (Ghaṭanārammaṇā tīṇipi kātabbā.) (3)
-
-
-

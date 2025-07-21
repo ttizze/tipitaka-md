@@ -1,10 +1,4 @@
-
-
 # Hetu
-
-
-
-
 
 (3.)
 
@@ -25,6 +19,3 @@
 (6.)
 
 1599\. Hetuyā satta, ārammaṇe nava, adhipatiyā nava (majjhe tiṇṇaṃ sahajātādhipati labbhati), anantare nava…pe…  upanissaye nava, āsevane nava, kamme tīṇi…pe…  jhāne tīṇi, magge nava…pe…  avigate nava. (Saṃkhittaṃ.)
-
-
-

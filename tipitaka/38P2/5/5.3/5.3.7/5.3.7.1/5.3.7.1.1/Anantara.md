@@ -1,12 +1,4 @@
-
-
 # Anantara
-
-
-
-
-
-
 
 (78.)
 
@@ -23,6 +15,3 @@
 (80.)
 
 1793\. Ganthasampayutto ca ganthavippayutto ca dhammā ganthasampayuttassa dhammassa anantarapaccayena paccayo—  purimā purimā diṭṭhigatavippayuttalobhasahagatā khandhā ca lobho ca pacchimānaṃ pacchimānaṃ diṭṭhigatavippayuttalobhasahagatānaṃ khandhānaṃ anantarapaccayena paccayo; purimā purimā domanassasahagatā khandhā ca paṭighañca pacchimānaṃ pacchimānaṃ domanassasahagatānaṃ khandhānaṃ anantarapaccayena paccayo. (Mūlā pucchitabbā) Purimā purimā diṭṭhigatavippayuttalobhasahagatā khandhā ca lobho ca pacchimassa pacchimassa diṭṭhigatavippayuttassa lobhassa anantarapaccayena paccayo; purimā purimā domanassasahagatā khandhā ca paṭighañca pacchimassa pacchimassa paṭighassa anantarapaccayena paccayo; diṭṭhigatavippayuttalobhasahagatā khandhā ca lobho ca domanassasahagatā khandhā ca paṭighañca vuṭṭhānassa anantarapaccayena paccayo. (Mūlā pucchitabbā) Purimā purimā diṭṭhigatavippayuttalobhasahagatā khandhā ca lobho ca pacchimānaṃ pacchimānaṃ diṭṭhigatavippayuttalobhasahagatānaṃ khandhānaṃ lobhassa ca anantarapaccayena paccayo; purimā purimā domanassasahagatā khandhā ca paṭighañca pacchimānaṃ pacchimānaṃ domanassasahagatānaṃ khandhānaṃ paṭighassa ca anantarapaccayena paccayo. (3)
-
-
-

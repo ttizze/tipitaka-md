@@ -1,11 +1,4 @@
-
-
 # Avigata
-
-
-
-
-
 
 (302.)
 
@@ -15,13 +8,6 @@
 
 1005\. (Yathā atthipaccayaṃ, evaṃ vitthāretabbaṃ.)
 
-
-
 ---
 
 1006\. Pañhāvārassa vibhaṅgo.
-
-
-
-
-

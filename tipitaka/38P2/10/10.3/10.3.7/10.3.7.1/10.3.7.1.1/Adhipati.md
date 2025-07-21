@@ -1,12 +1,4 @@
-
-
 # Adhipati
-
-
-
-
-
-
 
 (123.)
 
@@ -21,6 +13,3 @@
 2619\. Acetasiko dhammo cetasikassa ca acetasikassa ca dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati, sahajātādhipati. **Ārammaṇādhipati**—  ariyā maggā vuṭṭhahitvā…pe…  nibbānaṃ…pe…  (paṭhamagamanaṃ) acetasike khandhe garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā cetasikā khandhā ca cittañca uppajjanti. **Sahajātādhipati**—  acetasikādhipati sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ adhipatipaccayena paccayo. (3)
 
 2620\. Cetasiko ca acetasiko ca dhammā cetasikassa dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati…  tīṇi. (Ārammaṇādhipatiyeva.)
-
-
-

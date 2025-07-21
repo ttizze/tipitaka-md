@@ -1,10 +1,4 @@
-
-
 # Paccayacatukka
-
-
-
-
 
 (72.)
 
@@ -65,6 +59,3 @@
 230\. Kenaci viññeyyaṃ hetuṃ dhammaṃ paṭicca…pe…  nakenaci viññeyyaṃ hetuṃ dhammaṃ paṭicca… . (Sabbattha nava.)
 
 231\. Kenaci viññeyyaṃ nahetuṃ dhammaṃ paṭicca…pe…  nakenaci viññeyyaṃ nahetuṃ dhammaṃ paṭicca… . (Sabbattha nava.)
-
-
-

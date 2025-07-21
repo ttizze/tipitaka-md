@@ -1,10 +1,4 @@
-
-
 # Paccanīyuddhāra
-
-
-
-
 
 (30.)
 
@@ -23,6 +17,3 @@
 4130\. Dassanena pahātabbo ca nadassanena pahātabbo ca dhammā dassanena pahātabbassa dhammassa sahajātaṃ, purejātaṃ. (1)
 
 4131\. Dassanena pahātabbo ca nadassanena pahātabbo ca dhammā nadassanena pahātabbassa dhammassa sahajātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ. (2)
-
-
-

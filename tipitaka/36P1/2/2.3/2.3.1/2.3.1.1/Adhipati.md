@@ -1,11 +1,4 @@
-
-
 # Adhipati
-
-
-
-
-
 
 (118.)
 
@@ -20,8 +13,3 @@
 ---
 
 441\. (Yathā hetupaccayaṃ, evaṃ vitthāretabbaṃ.)
-
-
-
-
-

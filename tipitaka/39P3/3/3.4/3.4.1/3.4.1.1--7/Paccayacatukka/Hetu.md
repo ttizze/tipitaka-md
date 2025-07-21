@@ -1,12 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
-
 
 (23.)
 
@@ -23,6 +15,3 @@
 1519\. Appaṭighaṃ akusalaṃ dhammaṃ paṭicca appaṭigho akusalo dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
 
 1520\. Hetuyā ekaṃ…pe…  avigate ekaṃ (pañhāvārepi sabbattha ekaṃ.)
-
-
-

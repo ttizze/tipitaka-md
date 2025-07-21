@@ -1,11 +1,4 @@
-
-
 # Adhipati
-
-
-
-
-
 
 (4.)
 
@@ -14,6 +7,3 @@
 2634\. Anāgato dhammo paccuppannassa dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  anāgataṃ cakkhuṃ…pe…  vatthuṃ…  anāgate khandhe garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā rāgo uppajjati, diṭṭhi uppajjati. (1)
 
 2635\. Paccuppanno dhammo paccuppannassa dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati, sahajātādhipati. **Ārammaṇādhipati**—  paccuppannaṃ cakkhuṃ…pe…  vatthuṃ…  paccuppanne khandhe garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā rāgo uppajjati, diṭṭhi uppajjati. **Sahajātādhipati**—  paccuppannādhipati sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ adhipatipaccayena paccayo. (1)
-
-
-

@@ -1,12 +1,4 @@
-
-
 # Ārammaṇa
-
-
-
-
-
-
 
 (207.)
 
@@ -19,6 +11,3 @@
 4551\. Nakāmāvacaro dhammo nakāmāvacarassa dhammassa ārammaṇapaccayena paccayo—  nibbānaṃ maggassa, phalassa ārammaṇapaccayena paccayo; cetopariyañāṇena nakāmāvacaracittasamaṅgissa cittaṃ jānāti, ākāsānañcāyatanaṃ viññāṇañcāyatanassa…pe…  ākiñcaññāyatanaṃ nevasaññānāsaññāyatanassa…pe…  nakāmāvacarā khandhā iddhividhañāṇassa, cetopariyañāṇassa, pubbenivāsānussatiñāṇassa, yathākammūpagañāṇassa, anāgataṃsañāṇassa ārammaṇapaccayena paccayo. (1)
 
 4552\. Nakāmāvacaro dhammo kāmāvacarassa dhammassa ārammaṇapaccayena paccayo—  jhānā vuṭṭhahitvā jhānaṃ paccavekkhati assādeti abhinandati, taṃ ārabbha rāgo uppajjati, diṭṭhi uppajjati…pe…  ariyā maggā vuṭṭhahitvā maggaṃ paccavekkhanti; phalaṃ…pe…  nibbānaṃ paccavekkhanti, nibbānaṃ gotrabhussa, vodānassa, āvajjanāya ārammaṇapaccayena paccayo; ākāsānañcāyatanaṃ paccavekkhati, viññāṇañcāyatanaṃ paccavekkhati, ākiñcaññāyatanaṃ paccavekkhati, nevasaññānāsaññāyatanaṃ paccavekkhati, dibbaṃ cakkhuṃ paccavekkhati, dibbaṃ sotadhātuṃ paccavekkhati, iddhividhañāṇaṃ paccavekkhati, cetopariyañāṇaṃ…pe…  pubbenivāsānussatiñāṇaṃ…pe…  yathākammūpagañāṇaṃ…pe…  anāgataṃsañāṇaṃ paccavekkhati, nakāmāvacare khandhe aniccato…pe…  domanassaṃ uppajjati. (2)
-
-
-

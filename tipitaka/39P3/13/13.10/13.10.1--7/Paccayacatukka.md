@@ -1,10 +1,4 @@
-
-
 # Paccayacatukka
-
-
-
-
 
 (62.)
 
@@ -61,6 +55,3 @@
 (70.)
 
 2527\. Hetuyā cattāri, ārammaṇe cattāri, adhipatiyā cattāri (kāmāvacare ekaṃ, nakāmāvacare tīṇi, kāmāvacare sahajātādhipatiyeva), anantare cattāri, samanantare cattāri, sahajāte satta, aññamaññe cha, nissaye satta, upanissaye cattāri, purejāte dve, pacchājāte dve, āsevane tīṇi, kamme cattāri, vipāke cattāri, āhāre cattāri…pe…  sampayutte dve, vippayutte tīṇi, atthiyā satta, natthiyā cattāri…pe…  avigate satta. (Saṃkhittaṃ.)
-
-
-

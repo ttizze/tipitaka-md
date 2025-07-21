@@ -1,11 +1,4 @@
-
-
 # Nahetu
-
-
-
-
-
 
 (17.)
 
@@ -24,6 +17,3 @@
 2978\. Anidassanasappaṭighañca anidassanaappaṭighañca dhammaṃ paṭicca sanidassanasappaṭigho dhammo uppajjati nahetupaccayā—  ahetuke anidassanaappaṭighe khandhe ca mahābhūte ca paṭicca sanidassanasappaṭighaṃ cittasamuṭṭhānaṃ rūpaṃ. Ahetukapaṭisandhikkhaṇe anidassanaappaṭighe khandhe ca mahābhūte ca paṭicca sanidassanasappaṭighaṃ kaṭattārūpaṃ. Anidassanasappaṭighe mahābhūte ca āpodhātuñca paṭicca sanidassanasappaṭighaṃ cittasamuṭṭhānaṃ rūpaṃ kaṭattārūpaṃ upādārūpaṃ. Phoṭṭhabbāyatanañca āpodhātuñca paṭicca rūpāyatanaṃ. Bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…  asaññasattānaṃ anidassanasappaṭighe mahābhūte ca āpodhātuñca paṭicca sanidassanasappaṭighaṃ kaṭattārūpaṃ upādārūpaṃ.
 
 2979\. (Iminā kāraṇena satta pañhā vitthāretabbā asammohantena.)
-
-
-

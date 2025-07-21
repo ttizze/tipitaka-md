@@ -1,10 +1,4 @@
-
-
 # Paccanīyuddhāra
-
-
-
-
 
 (411.)
 
@@ -27,6 +21,3 @@
 3368\. Upādā ca noupādā ca dhammā noupādā dhammassa sahajātaṃ, purejātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ. (2)
 
 3369\. Upādā ca noupādā ca dhammā upādā dhammassa ca noupādā dhammassa ca pacchājātaṃ, āhāraṃ, indriyaṃ. (3)
-
-
-

@@ -1,11 +1,4 @@
-
-
 # Sajhānaghaṭanā
-
-
-
-
-
 
 (463.)
 
@@ -26,6 +19,3 @@
 1497\. Indriya sahajāta nissaya vipāka jhāna vippayutta atthi avigatanti nahetuyā ekaṃ…pe…  novigate ekaṃ.
 
 1498\. Indriya sahajāta aññamañña nissaya vipāka jhāna vippayutta atthi avigatanti nahetuyā ekaṃ…pe…  novigate ekaṃ. [Savipāka—  5]
-
-
-

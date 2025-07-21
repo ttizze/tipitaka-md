@@ -1,11 +1,4 @@
-
-
 # Nahetuduka
-
-
-
-
-
 
 (85.)
 
@@ -13,6 +6,3 @@
 
 * [Tika](Nahetuduka/Tika.md)
 * [Tevīsaka](Nahetuduka/Tevisaka.md)
-
-
-

@@ -1,10 +1,4 @@
-
-
 # Paccanīyuddhāra
-
-
-
-
 
 (467.)
 
@@ -27,6 +21,3 @@
 3520\. Upādinno ca anupādinno ca dhammā anupādinnassa dhammassa sahajātaṃ, purejātaṃ, pacchājātaṃ, āhāraṃ. (2)
 
 3521\. Upādinno ca anupādinno ca dhammā upādinnassa ca anupādinnassa ca dhammassa āhārapaccayena paccayo. (3)
-
-
-

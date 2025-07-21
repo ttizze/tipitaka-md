@@ -1,11 +1,4 @@
-
-
 # Natthi
-
-
-
-
-
 
 (300.)
 
@@ -14,8 +7,3 @@
 ---
 
 1001\. (Yathā anantarapaccayaṃ, evaṃ vitthāretabbaṃ.)
-
-
-
-
-

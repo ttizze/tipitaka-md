@@ -1,10 +1,4 @@
-
-
 # Duka
-
-
-
-
 
 (51.)
 
@@ -14,13 +8,6 @@
 
 784\. (Anulomapaccanīyaṃ anumajjantena gaṇetabbaṃ.)
 
-
-
 ---
 
 785\. Anulomapaccanīyaṃ.
-
-
-
-
-

@@ -1,11 +1,4 @@
-
-
 # Pacchājāta
-
-
-
-
-
 
 (108.)
 
@@ -18,6 +11,3 @@
 460\. Avitakkavicāramatto ca avitakkaavicāro ca dhammā avitakkaavicārassa dhammassa pacchājātapaccayena paccayo—  pacchājātā avitakkavicāramattā khandhā ca vicāro ca purejātassa imassa kāyassa pacchājātapaccayena paccayo. (1)
 
 461\. Savitakkasavicāro ca avitakkavicāramatto ca dhammā avitakkaavicārassa dhammassa pacchājātapaccayena paccayo—  pacchājātā savitakkasavicārā khandhā ca vitakko ca purejātassa imassa kāyassa pacchājātapaccayena paccayo. (1)
-
-
-

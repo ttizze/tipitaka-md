@@ -1,11 +1,4 @@
-
-
 # Hetudukādi
-
-
-
-
-
 
 (7.)
 
@@ -26,8 +19,3 @@
 ---
 
 1815\. (Yathā kusalattikassa paccayagaṇanā, evaṃ vitthāretabbā.)
-
-
-
-
-

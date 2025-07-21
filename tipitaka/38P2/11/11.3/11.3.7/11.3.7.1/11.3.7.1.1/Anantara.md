@@ -1,12 +1,4 @@
-
-
 # Anantara
-
-
-
-
-
-
 
 (72.)
 
@@ -19,6 +11,3 @@
 (74.)
 
 3710\. Upādānasampayutto ca upādānavippayutto ca dhammā upādānasampayuttassa dhammassa anantarapaccayena paccayo—  purimā purimā diṭṭhigatavippayuttalobhasahagatā khandhā ca lobho ca pacchimānaṃ pacchimānaṃ diṭṭhigatavippayuttalobhasahagatānaṃ khandhānaṃ anantarapaccayena paccayo. (Mūlaṃ kātabbaṃ.) Purimā purimā diṭṭhigatavippayuttalobhasahagatā khandhā ca lobho ca pacchimassa pacchimassa diṭṭhigatavippayuttassa lobhassa anantarapaccayena paccayo; diṭṭhigatavippayuttalobhasahagatā khandhā ca lobho ca vuṭṭhānassa anantarapaccayena paccayo. (Mūlaṃ kātabbaṃ.) Purimā purimā diṭṭhigatavippayuttalobhasahagatā khandhā ca lobho ca pacchimānaṃ pacchimānaṃ diṭṭhigatavippayuttalobhasahagatānaṃ khandhānaṃ lobhassa ca anantarapaccayena paccayo. (3)
-
-
-

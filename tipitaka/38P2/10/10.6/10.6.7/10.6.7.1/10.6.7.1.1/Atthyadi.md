@@ -1,12 +1,4 @@
-
-
 # Atthyādi
-
-
-
-
-
-
 
 (230.)
 
@@ -31,6 +23,3 @@
 2893\. Cittasamuṭṭhāno ca nocittasamuṭṭhāno ca dhammā cittasamuṭṭhānassa ca nocittasamuṭṭhānassa ca dhammassa atthipaccayena paccayo—  sahajātaṃ, purejātaṃ, pacchājātaṃ. **Sahajāto**—  cakkhuviññāṇasahagato…pe…  (Saṃkhittaṃ.) (3)
 
 2894\. Natthipaccayena paccayo…  vigatapaccayena paccayo…  avigatapaccayena paccayo.
-
-
-

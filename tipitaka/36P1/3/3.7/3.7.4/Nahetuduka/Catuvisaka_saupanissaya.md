@@ -1,13 +1,3 @@
-
-
 # Catuvīsaka (saupanissaya)
 
-
-
-
-
-
 2030\. Nahetupaccayā naārammaṇapaccayā…pe…  naupanissayapaccayā napurejātapaccayā napacchājātapaccayā naāsevanapaccayā navipākapaccayā naāhārapaccayā naindriyapaccayā najhānapaccayā namaggapaccayā nasampayuttapaccayā navippayuttapaccayā noatthipaccayā nonatthipaccayā novigatapaccayā noavigatapaccayā kamme aṭṭha.
-
-
-

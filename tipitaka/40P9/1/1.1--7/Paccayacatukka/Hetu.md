@@ -1,10 +1,4 @@
-
-
 # Hetu
-
-
-
-
 
 (1.)
 
@@ -21,6 +15,3 @@
 6\. Nahetuyā dve, na ārammaṇe tīṇi, naadhipatiyā nava…pe…  nakamme tīṇi…pe…  naāhāre…pe…  namagge ekaṃ…pe…  novigate tīṇi.
 
 7\. (Sahajātavārepi…pe…  sampayuttavārepi sabbattha vitthāro.)
-
-
-

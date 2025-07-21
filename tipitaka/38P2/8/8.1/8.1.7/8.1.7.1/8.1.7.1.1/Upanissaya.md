@@ -1,12 +1,4 @@
-
-
 # Upanissaya
-
-
-
-
-
-
 
 (34.)
 
@@ -21,6 +13,3 @@
 1960\. Nonīvaraṇo dhammo nīvaraṇassa ca nonīvaraṇassa ca dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  saddhaṃ upanissāya mānaṃ jappeti, diṭṭhiṃ gaṇhāti; sīlaṃ…pe…  senāsanaṃ upanissāya pāṇaṃ hanati…pe…  saṃghaṃ bhindati; saddhā…pe…  senāsanaṃ nīvaraṇānaṃ sampayuttakānañca khandhānaṃ upanissayapaccayena paccayo. (3)
 
 1961\. Nīvaraṇo ca nonīvaraṇo ca dhammā nīvaraṇassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  nīvaraṇā ca sampayuttakā ca khandhā nīvaraṇānaṃ upanissayapaccayena paccayo…  tīṇi.
-
-
-

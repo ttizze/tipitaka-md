@@ -1,12 +1,4 @@
-
-
 # Vipākāhāra
-
-
-
-
-
-
 
 (32.)
 
@@ -15,6 +7,3 @@
 1054\. Noāsavo dhammo āsavassa dhammassa āhārapaccayena paccayo—  noāsavā āhārā sampayuttakānaṃ āsavānaṃ āhārapaccayena paccayo. (2)
 
 1055\. Noāsavo dhammo āsavassa ca noāsavassa ca dhammassa āhārapaccayena paccayo—  noāsavā āhārā sampayuttakānaṃ khandhānaṃ āsavānaṃ cittasamuṭṭhānānañca rūpānaṃ āhārapaccayena paccayo. (3)
-
-
-

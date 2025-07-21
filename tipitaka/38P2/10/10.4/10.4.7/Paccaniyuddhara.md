@@ -1,10 +1,4 @@
-
-
 # Paccanīyuddhāra
-
-
-
-
 
 (180.)
 
@@ -23,6 +17,3 @@
 2757\. Cittasampayutto ca cittavippayutto ca dhammā cittasampayuttassa dhammassa sahajātaṃ, purejātaṃ. (1)
 
 2758\. Cittasampayutto ca cittavippayutto ca dhammā cittavippayuttassa dhammassa sahajātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ. (2)
-
-
-

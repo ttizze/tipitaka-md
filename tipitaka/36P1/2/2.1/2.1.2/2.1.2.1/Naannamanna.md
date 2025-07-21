@@ -1,11 +1,4 @@
-
-
 # Naaññamañña
-
-
-
-
-
 
 (38.)
 
@@ -18,6 +11,3 @@
 221\. Kusalañca abyākatañca dhammaṃ paṭicca abyākato dhammo uppajjati na aññamaññapaccayā—  kusale khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
 
 222\. Akusalañca abyākatañca dhammaṃ paṭicca abyākato dhammo uppajjati naaññamaññapaccayā—  akusale khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
-
-
-

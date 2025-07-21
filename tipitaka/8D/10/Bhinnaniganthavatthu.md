@@ -1,8 +1,4 @@
-
-
 # Bhinnanigaṇṭhavatthu
-
-
 
 (301.)
 
@@ -13,6 +9,3 @@
 780\. Atha kho āyasmā sāriputto bhikkhū āmantesi—  “nigaṇṭho, āvuso, nāṭaputto pāvāyaṃ adhunākālaṅkato, tassa kālaṃkiriyāya bhinnā nigaṇṭhā dvedhikajātā…pe…  bhinnathūpe appaṭisaraṇe. Evañhetaṃ, āvuso, hoti durakkhāte dhammavinaye duppavedite aniyyānike anupasamasaṃvattanike asammāsambuddhappavedite. Ayaṃ kho panāvuso, amhākaṃ bhagavatā dhammo svākkhāto suppavedito niyyāniko upasamasaṃvattaniko sammāsambuddhappavedito. Tattha sabbeheva saṅgāyitabbaṃ, na vivaditabbaṃ, yathayidaṃ brahmacariyaṃ addhaniyaṃ assa ciraṭṭhitikaṃ, tadassa bahujanahitāya bahujanasukhāya lokānukampāya atthāya hitāya sukhāya devamanussānaṃ.
 
 781\. Katamo cāvuso, amhākaṃ bhagavatā dhammo svākkhāto suppavedito niyyāniko upasamasaṃvattaniko sammāsambuddhappavedito; yattha sabbeheva saṅgāyitabbaṃ, na vivaditabbaṃ, yathayidaṃ brahmacariyaṃ addhaniyaṃ assa ciraṭṭhitikaṃ, tadassa bahujanahitāya bahujanasukhāya lokānukampāya atthāya hitāya sukhāya devamanussānaṃ?
-
-
-

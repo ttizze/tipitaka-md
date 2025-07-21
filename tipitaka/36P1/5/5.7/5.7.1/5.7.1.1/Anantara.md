@@ -1,11 +1,4 @@
-
-
 # Anantara
-
-
-
-
-
 
 (56.)
 
@@ -22,6 +15,3 @@
 2629\. Anupādinnaanupādāniyo dhammo anupādinnaanupādāniyassa dhammassa anantarapaccayena paccayo—  purimā purimā anupādinnaanupādāniyā khandhā pacchimānaṃ pacchimānaṃ anupādinnaanupādāniyānaṃ khandhānaṃ anantarapaccayena paccayo. Maggo phalassa…  phalaṃ phalassa anantarapaccayena paccayo. (1)
 
 2630\. Anupādinnaanupādāniyo dhammo upādinnupādāniyassa dhammassa anantarapaccayena paccayo—  phalaṃ vuṭṭhānassa anantarapaccayena paccayo. (2)
-
-
-

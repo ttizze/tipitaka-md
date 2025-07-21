@@ -1,10 +1,4 @@
-
-
 # Novigataduka
-
-
-
-
 
 (516.)
 
@@ -14,13 +8,6 @@
 
 1790\. (Yathā nahetumūlakaṃ, evaṃ vitthāretabbaṃ.)
 
-
-
 ---
 
 1791\. Novigatamūlakaṃ.
-
-
-
-
-

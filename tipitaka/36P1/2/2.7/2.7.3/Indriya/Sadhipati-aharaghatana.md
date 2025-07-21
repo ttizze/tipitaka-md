@@ -1,11 +1,4 @@
-
-
 # Sādhipati-āhāraghaṭanā
-
-
-
-
-
 
 (466.)
 
@@ -20,6 +13,3 @@
 1521\. Indriya adhipati sahajāta aññamañña nissaya vipāka āhāra sampayutta atthi avigatanti nahetuyā ekaṃ…pe…  novigate ekaṃ.
 
 1522\. Indriya adhipati sahajāta nissaya vipāka āhāra vippayutta atthi avigatanti nahetuyā ekaṃ…pe…  novigate ekaṃ. [Savipāka—  3]
-
-
-

@@ -1,11 +1,4 @@
-
-
 # Kamma
-
-
-
-
-
 
 (114.)
 
@@ -32,6 +25,3 @@
 492\. Avitakkavicāramatto dhammo avitakkavicāramattassa ca avitakkaavicārassa ca dhammassa kammapaccayena paccayo—  sahajātā, nānākkhaṇikā. **Sahajātā**—  avitakkavicāramattā cetanā sampayuttakānaṃ khandhānaṃ vicārassa ca cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo. Paṭisandhikkhaṇe avitakkavicāramattā cetanā sampayuttakānaṃ khandhānaṃ vicārassa ca kaṭattā ca rūpānaṃ kammapaccayena paccayo. **Nānākkhaṇikā**—  avitakkavicāramattā cetanā vipākānaṃ avitakkavicāramattānaṃ khandhānaṃ vicārassa ca kaṭattā ca rūpānaṃ kammapaccayena paccayo. (3)
 
 493\. Avitakkaavicāro dhammo avitakkaavicārassa dhammassa kammapaccayena paccayo—  sahajātā, nānākkhaṇikā. **Sahajātā**—  avitakkaavicārā cetanā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo. Paṭisandhikkhaṇe avitakkaavicārā cetanā sampayuttakānaṃ khandhānaṃ kaṭattā ca rūpānaṃ kammapaccayena paccayo. **Nānākkhaṇikā**—  avitakkaavicārā cetanā vipākānaṃ avitakkaavicārānaṃ khandhānaṃ kaṭattā ca rūpānaṃ kammapaccayena paccayo. (1)
-
-
-

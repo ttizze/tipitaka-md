@@ -1,10 +1,4 @@
-
-
 # Hetu
-
-
-
-
 
 (50.)
 
@@ -15,6 +9,3 @@
 136\. Anidassanasappaṭighañca anidassanaappaṭighañca dhammaṃ paṭicca nasanidassanasappaṭigho dhammo uppajjati hetupaccayā…  cha. (Saṃkhittaṃ.)
 
 137\. Hetuyā aṭṭhārasa, ārammaṇe tīṇi…pe…  avigate aṭṭhārasa. (Sabbattha vitthāro. Sahajātavārampi…pe…  sampayuttavārampi vitthāretabbaṃ.)
-
-
-

@@ -1,12 +1,4 @@
-
-
 # Naāsevanādi
-
-
-
-
-
-
 
 (234.)
 
@@ -19,6 +11,3 @@
 (235.)
 
 4596\. Narūpāvacaraṃ dhammaṃ paṭicca narūpāvacaro dhammo uppajjati navippayuttapaccayā—  arūpe narūpāvacaraṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe…pe…  bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…  asaññasattānaṃ…pe…  (Saṃkhittaṃ.)
-
-
-

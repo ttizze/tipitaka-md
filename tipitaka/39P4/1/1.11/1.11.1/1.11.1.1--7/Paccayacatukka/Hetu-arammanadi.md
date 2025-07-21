@@ -1,12 +1,4 @@
-
-
 # Hetu-ārammaṇādi
-
-
-
-
-
-
 
 (148.)
 
@@ -51,6 +43,3 @@
 540\. Nahetupaccayā ārammaṇe tīṇi. (Saṃkhittaṃ.)
 
 541\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
-
-
-

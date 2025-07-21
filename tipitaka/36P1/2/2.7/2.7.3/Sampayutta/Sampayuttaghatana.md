@@ -1,11 +1,4 @@
-
-
 # Sampayuttaghaṭanā
-
-
-
-
-
 
 (484.)
 
@@ -16,8 +9,3 @@
 ---
 
 1645\. Sampayuttamūlakaṃ.
-
-
-
-
-

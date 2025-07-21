@@ -1,12 +1,4 @@
-
-
 # Anantara-samanantara
-
-
-
-
-
-
 
 (68.)
 
@@ -19,6 +11,3 @@
 2258\. Parāmāsavippayutto dhammo parāmāsavippayuttassa dhammassa anantarapaccayena paccayo—  purimā purimā parāmāsavippayuttā khandhā pacchimānaṃ pacchimānaṃ parāmāsavippayuttānaṃ khandhānaṃ anantarapaccayena paccayo; anulomaṃ…pe…  phalasamāpattiyā anantarapaccayena paccayo. (1)
 
 2259\. Parāmāsavippayutto dhammo parāmāsasampayuttassa dhammassa anantarapaccayena paccayo—  āvajjanā parāmāsasampayuttakānaṃ khandhānaṃ anantarapaccayena paccayo…  samanantarapaccayena paccayo. (2)
-
-
-

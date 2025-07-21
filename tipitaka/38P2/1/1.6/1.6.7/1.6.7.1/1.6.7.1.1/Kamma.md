@@ -1,12 +1,4 @@
-
-
 # Kamma
-
-
-
-
-
-
 
 (186.)
 
@@ -17,6 +9,3 @@
 508\. Nahetu sahetuko dhammo nahetusahetukassa ca nahetuahetukassa ca dhammassa kammapaccayena paccayo—  sahajātā, nānākkhaṇikā. **Sahajātā**—  nahetu sahetukā cetanā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo; paṭisandhikkhaṇe…pe… . **Nānākkhaṇikā**—  nahetu sahetukā cetanā vipākānaṃ nahetusahetukānaṃ khandhānaṃ kaṭattā ca rūpānaṃ kammapaccayena paccayo. (1)
 
 509\. Nahetu ahetuko dhammo nahetuahetukassa dhammassa kammapaccayena paccayo. **Sahajātā**—  nahetu ahetukā cetanā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo; paṭisandhikkhaṇe nahetu ahetukā cetanā sampayuttakānaṃ khandhānaṃ kaṭattā ca rūpānaṃ kammapaccayena paccayo. (1)
-
-
-

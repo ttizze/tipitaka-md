@@ -1,11 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
 
 (66.)
 
@@ -34,6 +27,3 @@
 (68.)
 
 281\. Avitakkaavicāro dhammo avitakkaavicārassa dhammassa hetupaccayena paccayo—  avitakkaavicārā hetū sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo. Paṭisandhikkhaṇe avitakkaavicārā hetū sampayuttakānaṃ khandhānaṃ kaṭattā ca rūpānaṃ hetupaccayena paccayo. (1)
-
-
-

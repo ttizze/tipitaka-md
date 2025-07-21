@@ -1,12 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
-
 
 (112.)
 
@@ -31,6 +23,3 @@
 1875\. Gantho ceva ganthasampayutto ca ganthasampayutto ceva no ca gantho ca dhammā ganthasampayuttassa ceva no ca ganthassa dhammassa hetupaccayena paccayo—  ganthā ceva ganthasampayuttā ca ganthasampayuttā ceva no ca ganthā ca hetū sampayuttakānaṃ khandhānaṃ hetupaccayena paccayo. (2)
 
 1876\. Gantho ceva ganthasampayutto ca ganthasampayutto ceva no ca gantho ca dhammā ganthassa ceva ganthasampayuttassa ca ganthasampayuttassa ceva no ca ganthassa ca dhammassa hetupaccayena paccayo—  ganthā ceva ganthasampayuttā ca ganthasampayuttā ceva no ca ganthā ca hetū sampayuttakānaṃ khandhānaṃ ganthānañca hetupaccayena paccayo. (3)
-
-
-

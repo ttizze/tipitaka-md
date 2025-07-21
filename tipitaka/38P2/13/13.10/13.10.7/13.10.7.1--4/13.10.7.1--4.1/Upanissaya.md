@@ -1,12 +1,4 @@
-
-
 # Upanissaya
-
-
-
-
-
-
 
 (190.)
 
@@ -19,6 +11,3 @@
 4504\. Naupekkhāsahagato dhammo upekkhāsahagatassa ca naupekkhāsahagatassa ca dhammassa upanissayapaccayena paccayo. (Tīṇi upanissayā dutiyagamanasadisā.) (3)
 
 4505\. Upekkhāsahagato ca naupekkhāsahagato ca dhammā upekkhāsahagatassa dhammassa upanissayapaccayena paccayo…  tīṇi.
-
-
-

@@ -1,10 +1,4 @@
-
-
 # Paccanīyuddhāra
-
-
-
-
 
 (39.)
 
@@ -29,6 +23,3 @@
 2204\. Parāmāso ca noparāmāso ca dhammā noparāmāsassa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo…  pacchājātapaccayena paccayo. (2)
 
 2205\. Parāmāso ca noparāmāso ca dhammā parāmāsassa ca noparāmāsassa ca dhammassa ārammaṇapaccayena paccayo…  upanissayapaccayena paccayo. (3)
-
-
-

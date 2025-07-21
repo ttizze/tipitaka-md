@@ -1,10 +1,4 @@
-
-
 # Hetu
-
-
-
-
 
 (47.)
 
@@ -27,6 +21,3 @@
 1847\. Hetuyā tīṇi…pe…  avigate tīṇi. (Saṃkhittaṃ.)
 
 1848\. (Sahajātavārepi…pe…  pañhāvārepi sabbattha vitthāro.)
-
-
-

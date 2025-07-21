@@ -1,10 +1,4 @@
-
-
 # Hetu-ārammaṇa
-
-
-
-
 
 (32.)
 
@@ -31,6 +25,3 @@
 1619\. Hetuyā dve, ārammaṇe cattāri, adhipatiyā tīṇi, anantare samanantare tīṇi, sahajāte aññamaññe nissaye dve, upanissaye cattāri, āsevane dve, kamme tīṇi, vipāke ekaṃ, āhāre dve…pe…  avigate dve. (Saṃkhittaṃ.)
 
 1620\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
-
-
-

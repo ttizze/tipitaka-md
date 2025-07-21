@@ -1,12 +1,4 @@
-
-
 # Hetu-adhipati
-
-
-
-
-
-
 
 (433.)
 
@@ -17,6 +9,3 @@
 (434.)
 
 943\. Hetuyā tīṇi, adhipatiyā tīṇi, sahajāte nava, aññamaññe nava, nissaye nava, upanissaye nava, kamme tīṇi, āhāre tīṇi, indriye tīṇi, jhāne tīṇi, magge tīṇi, sampayutte nava, atthiyā nava, avigate nava. (Saṃkhittaṃ.)
-
-
-

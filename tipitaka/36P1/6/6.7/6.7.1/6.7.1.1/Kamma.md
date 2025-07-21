@@ -1,11 +1,4 @@
-
-
 # Kamma
-
-
-
-
-
 
 (20.)
 
@@ -22,6 +15,3 @@
 2876\. Asaṃkiliṭṭhaasaṃkilesiko dhammo asaṃkiliṭṭhasaṃkilesikassa dhammassa kammapaccayena paccayo—  sahajātā asaṃkiliṭṭhaasaṃkilesikā cetanā cittasamuṭṭhānānaṃ rūpānaṃ kammapaccayena paccayo. (2)
 
 2877\. Asaṃkiliṭṭhaasaṃkilesiko dhammo asaṃkiliṭṭhasaṃkilesikassa ca asaṃkiliṭṭhaasaṃkilesikassa ca dhammassa kammapaccayena paccayo—  sahajātā asaṃkiliṭṭhaasaṃkilesikā cetanā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo. (3)
-
-
-

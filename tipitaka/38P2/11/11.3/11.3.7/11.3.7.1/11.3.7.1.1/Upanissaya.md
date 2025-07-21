@@ -1,12 +1,4 @@
-
-
 # Upanissaya
-
-
-
-
-
-
 
 (76.)
 
@@ -23,6 +15,3 @@
 (78.)
 
 3716\. Upādānasampayutto ca upādānavippayutto ca dhammā upādānasampayuttassa dhammassa upanissayapaccayena paccayo—  diṭṭhigatavippayuttalobhasahagatā khandhā ca lobho ca upādānasampayuttakānaṃ khandhānaṃ upanissayapaccayena paccayo. (Mūlaṃ kātabbaṃ.) Diṭṭhigatavippayuttalobhasahagatā khandhā ca lobho ca upādānavippayuttānaṃ khandhānaṃ lobhassa ca upanissayapaccayena paccayo. (Mūlaṃ kātabbaṃ.) Diṭṭhigatavippayuttalobhasahagatā khandhā ca lobho ca diṭṭhigatavippayuttalobhasahagatānaṃ khandhānaṃ lobhassa ca upanissayapaccayena paccayo. (3)
-
-
-

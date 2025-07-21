@@ -1,11 +1,4 @@
-
-
 # Anantara
-
-
-
-
-
 
 (45.)
 
@@ -26,6 +19,3 @@
 1909\. Adukkhamasukhāya vedanāya sampayutto dhammo sukhāya vedanāya sampayuttassa dhammassa anantarapaccayena paccayo—  adukkhamasukhāya vedanāya sampayuttaṃ cuticittaṃ sukhāya vedanāya sampayuttassa upapatticittassa anantarapaccayena paccayo. Āvajjanā sukhāya vedanāya sampayuttakānaṃ khandhānaṃ anantarapaccayena paccayo. Vipākamanodhātu sukhāya vedanāya sampayuttāya vipākamanoviññāṇadhātuyā anantarapaccayena paccayo. Adukkhamasukhāya vedanāya sampayuttaṃ bhavaṅgaṃ sukhāya vedanāya sampayuttassa bhavaṅgassa anantarapaccayena paccayo. Adukkhamasukhāya vedanāya sampayuttaṃ kusalākusalaṃ sukhāya vedanāya sampayuttassa vuṭṭhānassa…  kiriyaṃ vuṭṭhānassa…  phalaṃ vuṭṭhānassa…  nirodhā vuṭṭhahantassa nevasaññānāsaññāyatanaṃ sukhāya vedanāya sampayuttāya phalasamāpattiyā anantarapaccayena paccayo. (2)
 
 1910\. Adukkhamasukhāya vedanāya sampayutto dhammo dukkhāya vedanāya sampayuttassa dhammassa anantarapaccayena paccayo—  āvajjanā dukkhāya vedanāya sampayuttakānaṃ khandhānaṃ anantarapaccayena paccayo. (3)
-
-
-

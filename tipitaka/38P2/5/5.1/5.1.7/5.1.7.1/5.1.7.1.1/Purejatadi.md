@@ -1,12 +1,4 @@
-
-
 # Purejātādi
-
-
-
-
-
-
 
 (30.)
 
@@ -17,6 +9,3 @@
 1681\. Nogantho dhammo ganthassa ca noganthassa ca dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ. **Ārammaṇapurejātaṃ**—  cakkhuṃ…pe…  vatthuṃ assādeti abhinandati, taṃ ārabbha ganthā ca sampayuttakā ca khandhā uppajjanti. **Vatthupurejātaṃ**—  vatthu ganthānaṃ sampayuttakānañca khandhānaṃ purejātapaccayena paccayo. (3)
 
 1682\. Pacchājātapaccayena paccayo…  tīṇi, āsevanapaccayena paccayo…  nava.
-
-
-

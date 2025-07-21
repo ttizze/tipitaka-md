@@ -1,11 +1,4 @@
-
-
 # Navipākādi
-
-
-
-
-
 
 (12.)
 
@@ -16,6 +9,3 @@
 2781\. Ajjhattaṃ dhammaṃ paṭicca ajjhatto dhammo uppajjati naindriyapaccayā—  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…  asaññasattānaṃ…  mahābhūte paṭicca rūpajīvitindriyaṃ. (1)
 
 2782\. Bahiddhā dhammaṃ paṭicca bahiddhā dhammo uppajjati naindriyapaccayā—  bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…  asaññasattānaṃ…  mahābhūte paṭicca rūpajīvitindriyaṃ. (1)
-
-
-

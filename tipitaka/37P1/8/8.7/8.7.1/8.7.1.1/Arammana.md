@@ -1,11 +1,4 @@
-
-
 # Ārammaṇa
-
-
-
-
-
 
 (19.)
 
@@ -30,6 +23,3 @@
 691\. Pītisahagato ca sukhasahagato ca dhammā pītisahagatassa dhammassa…pe…  sukhasahagatassa dhammassa…pe…  upekkhāsahagatassa dhammassa ārammaṇapaccayena paccayo—  pītisahagatena ca sukhasahagatena ca cittena dānaṃ datvā sīlaṃ samādiyitvā uposathakammaṃ katvā…pe…  pītisahagate ca sukhasahagate ca khandhe upekkhāsahagatena cittena aniccato dukkhato anattato vipassati assādeti abhinandati; taṃ ārabbha upekkhāsahagato rāgo uppajjati, diṭṭhi uppajjati, vicikicchā uppajjati, uddhaccaṃ uppajjati. Cetopariyañāṇena pītisahagatasukhasahagatacittasamaṅgissa cittaṃ jānāti. Pītisahagatā ca sukhasahagatā ca khandhā cetopariyañāṇassa, pubbenivāsānussatiñāṇassa, yathākammūpagañāṇassa, anāgataṃsañāṇassa, āvajjanāya ārammaṇapaccayena paccayo. Pītisahagate ca sukhasahagate ca khandhe ārabbha upekkhāsahagatā khandhā uppajjanti. (3)
 
 692\. Pītisahagato ca sukhasahagato ca dhammā pītisahagatassa ca sukhasahagatassa ca dhammassa ārammaṇapaccayena paccayo. (Saṃkhittaṃ.) (4)
-
-
-

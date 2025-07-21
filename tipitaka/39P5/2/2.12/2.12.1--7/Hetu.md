@@ -1,10 +1,4 @@
-
-
 # Hetu
-
-
-
-
 
 (27.)
 
@@ -27,6 +21,3 @@
 389\. Mahaggatārammaṇaṃ abyākataṃ dhammaṃ paṭicca mahaggatārammaṇo abyākato dhammo uppajjati hetupaccayā. (1)
 
 390\. Appamāṇārammaṇaṃ abyākataṃ dhammaṃ paṭicca appamāṇārammaṇo abyākato dhammo uppajjati hetupaccayā. (1) (Sabbattha tīṇi. Sabbattha vitthāro.)
-
-
-

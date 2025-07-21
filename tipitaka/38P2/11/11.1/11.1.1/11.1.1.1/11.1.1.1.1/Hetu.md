@@ -1,12 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
-
 
 (1.)
 
@@ -31,6 +23,3 @@
 3534\. Upādānañca noupādānañca dhammaṃ paṭicca noupādāno dhammo uppajjati hetupaccayā—  noupādānaṃ ekaṃ khandhañca upādānañca paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe ca…pe…  upādānañca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (2)
 
 3535\. Upādānañca noupādānañca dhammaṃ paṭicca upādāno ca noupādāno ca dhammā uppajjanti hetupaccayā—  noupādānaṃ ekaṃ khandhañca diṭṭhupādānañca paṭicca tayo khandhā kāmupādānañca cittasamuṭṭhānaṃ rūpaṃ, dve khandhe ca…pe… . (Cakkaṃ kātabbaṃ.) (3)
-
-
-

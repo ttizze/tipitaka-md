@@ -1,11 +1,4 @@
-
-
 # Anantara
-
-
-
-
-
 
 (34.)
 
@@ -14,8 +7,3 @@
 ---
 
 2548\. (Catuvīsatipaccayā vitthāretabbā, avigatapaccayā.)
-
-
-
-
-

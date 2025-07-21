@@ -1,11 +1,4 @@
-
-
 # Nasampayuttādi
-
-
-
-
-
 
 (150.)
 
@@ -14,8 +7,3 @@
 ---
 
 544\. (Yathā paṭiccavāre, evaṃ vitthāretabbaṃ.)
-
-
-
-
-

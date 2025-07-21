@@ -1,11 +1,4 @@
-
-
 # Aññamañña
-
-
-
-
-
 
 (12.)
 
@@ -24,6 +17,3 @@
 (14.)
 
 2970\. Anidassanasappaṭighañca anidassanaappaṭighañca dhammaṃ paṭicca anidassanasappaṭigho dhammo uppajjati aññamaññapaccayā—  anidassanasappaṭighaṃ ekaṃ mahābhūtañca āpodhātuñca paṭicca dve mahābhūtā, dve mahābhūte ca āpodhātuñca paṭicca ekaṃ mahābhūtaṃ. Bāhiraṃ…pe… . (1)
-
-
-

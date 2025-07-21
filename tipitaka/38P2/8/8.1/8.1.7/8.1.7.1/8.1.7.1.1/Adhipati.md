@@ -1,12 +1,4 @@
-
-
 # Adhipati
-
-
-
-
-
-
 
 (28.)
 
@@ -21,6 +13,3 @@
 1951\. Nonīvaraṇo dhammo nīvaraṇassa ca nonīvaraṇassa ca dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati, sahajātādhipati. **Ārammaṇādhipati**—  dānaṃ…pe…  sīlaṃ…pe…  uposathakammaṃ…pe…  pubbe…pe…  jhānā…pe…  cakkhuṃ…pe…  vatthuṃ nonīvaraṇe khandhe garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā nīvaraṇā ca sampayuttakā ca khandhā uppajjanti. **Sahajātādhipati**—  nonīvaraṇādhipati sampayuttakānaṃ khandhānaṃ nīvaraṇānañca cittasamuṭṭhānānañca rūpānaṃ adhipatipaccayena paccayo. (3)
 
 1952\. Nīvaraṇo ca nonīvaraṇo ca dhammā nīvaraṇassa dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati…  tīṇi. (Ārammaṇādhipatiyeva.)
-
-
-

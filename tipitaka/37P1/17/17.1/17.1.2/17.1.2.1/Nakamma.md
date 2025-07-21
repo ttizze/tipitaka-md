@@ -1,11 +1,4 @@
-
-
 # Nakamma
-
-
-
-
-
 
 (18.)
 
@@ -30,6 +23,3 @@
 2485\. Maggārammaṇañca maggādhipatiñca dhammaṃ paṭicca maggārammaṇo dhammo uppajjati nakammapaccayā. (Paṭhamaghaṭane tīṇi.)
 
 2486\. Maggahetukañca maggādhipatiñca dhammaṃ paṭicca maggahetuko dhammo uppajjati nakammapaccayā. (Dutiyaghaṭane tīṇi pañhā.)
-
-
-

@@ -1,10 +1,4 @@
-
-
 # Paccayacatukka
-
-
-
-
 
 (26.)
 
@@ -17,6 +11,3 @@
 (27.)
 
 2363\. Hetuyā nava, ārammaṇe nava…pe…  avigate nava. (Saṃkhittaṃ. Kilesadukaakusalasadisaṃ. Sahajātavārepi…pe…  pañhāvārepi sabbattha vitthāretabbaṃ.)
-
-
-

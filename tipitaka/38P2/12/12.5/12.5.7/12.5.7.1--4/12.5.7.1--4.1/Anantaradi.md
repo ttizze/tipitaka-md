@@ -1,12 +1,4 @@
-
-
 # Anantarādi
-
-
-
-
-
-
 
 (79.)
 
@@ -19,8 +11,3 @@
 ---
 
 4016\. Kilesasaṃkilesikadukaṃ niṭṭhitaṃ.
-
-
-
-
-

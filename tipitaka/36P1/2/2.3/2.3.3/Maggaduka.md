@@ -1,10 +1,4 @@
-
-
 # Maggaduka
-
-
-
-
 
 (176.)
 
@@ -15,8 +9,3 @@
 ---
 
 615\. Sampayuttapaccayā (Ārammaṇapaccayasadisaṃ.)
-
-
-
-
-

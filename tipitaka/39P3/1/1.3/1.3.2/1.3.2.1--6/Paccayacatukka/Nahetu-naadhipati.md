@@ -1,12 +1,4 @@
-
-
 # Nahetu-naadhipati
-
-
-
-
-
-
 
 (123.)
 
@@ -15,6 +7,3 @@
 (124.)
 
 217\. Hetuṃ vipākadhammadhammaṃ paṭicca hetu vipākadhammadhammo uppajjati naadhipatipaccayā…  nava.
-
-
-

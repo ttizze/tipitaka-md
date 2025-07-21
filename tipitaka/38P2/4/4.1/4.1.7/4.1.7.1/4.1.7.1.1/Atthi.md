@@ -1,12 +1,4 @@
-
-
 # Atthi
-
-
-
-
-
-
 
 (29.)
 
@@ -31,6 +23,3 @@
 1399\. Saññojano ca nosaññojano ca dhammā nosaññojanassa dhammassa atthipaccayena paccayo—  sahajātaṃ, purejātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ. (Vibhajitabbaṃ āsavasadisaṃ.) (2)
 
 1400\. Saññojano ca nosaññojano ca dhammā saññojanassa ca nosaññojanassa ca dhammassa atthipaccayena paccayo—  sahajātaṃ, purejātaṃ. (Vibhajitabbaṃ āsavasadisaṃ.) (3)
-
-
-

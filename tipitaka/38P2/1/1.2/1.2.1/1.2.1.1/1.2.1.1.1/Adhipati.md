@@ -1,12 +1,4 @@
-
-
 # Adhipati
-
-
-
-
-
-
 
 (54.)
 
@@ -21,6 +13,3 @@
 149\. Ahetukaṃ dhammaṃ paṭicca ahetuko dhammo uppajjati adhipatipaccayā—  ekaṃ mahābhūtaṃ…pe…  mahābhūte paṭicca cittasamuṭṭhānaṃ rūpaṃ upādārūpaṃ. (1)
 
 150\. Sahetukañca ahetukañca dhammaṃ paṭicca ahetuko dhammo uppajjati adhipatipaccayā—  sahetuke khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
-
-
-

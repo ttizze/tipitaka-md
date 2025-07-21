@@ -1,12 +1,4 @@
-
-
 # Ārammaṇa
-
-
-
-
-
-
 
 (48.)
 
@@ -23,6 +15,3 @@
 1732\. Ganthavippayuttaṃ dhammaṃ paṭicca ganthasampayutto dhammo uppajjati ārammaṇapaccayā—  diṭṭhigatavippayuttaṃ lobhaṃ paṭicca sampayuttakā khandhā, paṭighaṃ paṭicca sampayuttakā khandhā. (2)
 
 1733\. Ganthasampayuttañca ganthavippayuttañca dhammaṃ paṭicca ganthasampayutto dhammo uppajjati ārammaṇapaccayā—  diṭṭhigatavippayuttalobhasahagataṃ ekaṃ khandhañca lobhañca paṭicca tayo khandhā…pe…  dve khandhe…pe…  domanassasahagataṃ ekaṃ khandhañca paṭighañca paṭicca tayo khandhā…pe…  dve khandhe…pe…  (Saṃkhittaṃ.) (1)
-
-
-

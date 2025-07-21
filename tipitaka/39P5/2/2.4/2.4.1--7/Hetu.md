@@ -1,10 +1,4 @@
-
-
 # Hetu
-
-
-
-
 
 (10.)
 
@@ -17,6 +11,3 @@
 331\. Asaṃkiliṭṭhasaṃkilesikaṃ abyākataṃ dhammaṃ paṭicca asaṃkiliṭṭhasaṃkilesiko abyākato dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
 
 332\. Hetuyā pañca ārammaṇe dve…pe…  āsevane ekaṃ…pe…  avigate pañca.
-
-
-

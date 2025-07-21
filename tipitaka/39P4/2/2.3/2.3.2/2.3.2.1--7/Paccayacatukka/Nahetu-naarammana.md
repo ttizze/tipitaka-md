@@ -1,12 +1,4 @@
-
-
 # Nahetu-naārammaṇa
-
-
-
-
-
-
 
 (16.)
 
@@ -23,6 +15,3 @@
 992\. Nahetuyā ekaṃ, naārammaṇe tīṇi, naadhipatiyā tīṇi…pe…  novigate tīṇi. (Saṃkhittaṃ.)
 
 993\. (Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ.)
-
-
-

@@ -1,9 +1,4 @@
-
-
 # Paccanīyuddhāra
-
-
-
 
 (20.)
 
@@ -12,6 +7,3 @@
 2620\. Anuppanno dhammo uppannassa dhammassa ārammaṇapaccayena paccayo, upanissayapaccayena paccayo. (1)
 
 2621\. Uppādī dhammo uppannassa dhammassa ārammaṇapaccayena paccayo…  upanissayapaccayena paccayo. (1)
-
-
-

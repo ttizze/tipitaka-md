@@ -1,11 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
 
 (29.)
 
@@ -14,6 +7,3 @@
 3002\. Anidassanaappaṭigho dhammo sanidassanasappaṭighassa dhammassa hetupaccayena paccayo—  anidassanaappaṭighā hetū sanidassanasappaṭighānaṃ cittasamuṭṭhānānaṃ rūpānaṃ hetupaccayena paccayo. Paṭisandhikkhaṇe…pe… . (2)
 
 3003\. (Anidassanaappaṭighamūlakeyeva iminā kāraṇena satta pañhā vibhajitabbā.)
-
-
-

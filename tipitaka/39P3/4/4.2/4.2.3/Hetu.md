@@ -1,10 +1,4 @@
-
-
 # Hetu
-
-
-
-
 
 (16.)
 
@@ -21,6 +15,3 @@
 1619\. Nahetuyā ekaṃ, naārammaṇe tīṇi, naadhipatiyā dve, napurejāte cattāri, napacchājāte naāsevane pañca, nakamme…pe…  namagge ekaṃ…pe…  navippayutte dve…pe…  novigate tīṇi. (Saṃkhittaṃ.)
 
 1620\. (Sahajātavāropi…pe…  sampayuttavāropi sabbattha vitthāretabbo.)
-
-
-

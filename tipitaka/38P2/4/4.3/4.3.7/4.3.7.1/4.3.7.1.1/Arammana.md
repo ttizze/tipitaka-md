@@ -1,12 +1,4 @@
-
-
 # Ārammaṇa
-
-
-
-
-
-
 
 (68.)
 
@@ -23,6 +15,3 @@
 (70.)
 
 1491\. Saññojanasampayutto ca saññojanavippayutto ca dhammā saññojanasampayuttassa dhammassa ārammaṇapaccayena paccayo—  uddhaccasahagate khandhe ca mohañca ārabbha saññojanasampayuttakā khandhā uppajjanti. (Mūlaṃ kātabbaṃ.) Uddhaccasahagate khandhe ca mohañca ārabbha saññojanavippayuttā khandhā ca moho ca uppajjanti. (Mūlaṃ kātabbaṃ.) Uddhaccasahagate khandhe ca mohañca ārabbha uddhaccasahagatā khandhā ca moho ca uppajjanti. (3)
-
-
-

@@ -1,11 +1,4 @@
-
-
 # Naadhipati
-
-
-
-
-
 
 (21.)
 
@@ -22,6 +15,3 @@
 2309\. Micchattaniyatañca aniyatañca dhammaṃ paccayā micchattaniyato dhammo uppajjati naadhipatipaccayā—  micchattaniyate khandhe ca vatthuñca paccayā micchattaniyatādhipati. (1)
 
 2310\. Sammattaniyatañca aniyatañca dhammaṃ paccayā sammattaniyato dhammo uppajjati naadhipatipaccayā—  sammattaniyate khandhe ca vatthuñca paccayā sammattaniyatādhipati. (1)
-
-
-

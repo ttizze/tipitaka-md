@@ -1,12 +1,4 @@
-
-
 # Ārammaṇa
-
-
-
-
-
-
 
 (72.)
 
@@ -23,6 +15,3 @@
 (74.)
 
 1781\. Ganthasampayutto ca ganthavippayutto ca dhammā ganthasampayuttassa dhammassa ārammaṇapaccayena paccayo—  diṭṭhigatavippayuttalobhasahagate khandhe ca lobhañca domanassasahagate khandhe ca paṭighañca ārabbha ganthasampayuttakā khandhā uppajjanti. (Mūlaṃ pucchitabbaṃ.) Diṭṭhigatavippayuttalobhasahagate khandhe ca lobhañca domanassasahagate khandhe ca paṭighañca ārabbha ganthavippayuttā khandhā uppajjanti, diṭṭhigatavippayuttalobhasahagate khandhe ca lobhañca domanassasahagate khandhe ca paṭighañca ārabbha diṭṭhigatavippayuttalobhasahagatā khandhā ca lobho ca domanassasahagatā khandhā ca paṭighañca uppajjanti. (3)
-
-
-

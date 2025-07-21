@@ -1,12 +1,4 @@
-
-
 # Adhipati
-
-
-
-
-
-
 
 (153.)
 
@@ -27,6 +19,3 @@
 (155.)
 
 4414\. Sappītiko ca appītiko ca dhammā sappītikassa dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  sappītike khandhe ca pītiñca garuṃ katvā sappītikā khandhā uppajjanti. (Mūlaṃ kātabbaṃ.) Sappītike khandhe ca pītiñca garuṃ katvā appītikā khandhā ca pīti ca uppajjanti. (Mūlaṃ kātabbaṃ.) Sappītike khandhe ca pītiñca garuṃ katvā sappītikā khandhā ca pīti ca uppajjanti. (3)
-
-
-

@@ -1,10 +1,4 @@
-
-
 # Ārammaṇādi
-
-
-
-
 
 (207.)
 
@@ -37,6 +31,3 @@
 799\. Ārammaṇapaccayā nahetuyā tīṇi. (Saṃkhittaṃ.)
 
 800\. Nahetupaccayā ārammaṇe tīṇi. (Saṃkhittaṃ.)
-
-
-

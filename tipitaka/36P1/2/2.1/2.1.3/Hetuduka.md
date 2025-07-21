@@ -1,10 +1,4 @@
-
-
 # Hetuduka
-
-
-
-
 
 (64.)
 
@@ -13,6 +7,3 @@
 * [Tika](Hetuduka/Tika.md)
 * [Catukka](Hetuduka/Catukka.md)
 * [Ekādasaka](Hetuduka/Ekadasaka.md)
-
-
-

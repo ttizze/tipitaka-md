@@ -1,10 +1,4 @@
-
-
 # Paccayacatukka
-
-
-
-
 
 (7.)
 
@@ -39,6 +33,3 @@
 1359\. Kusalo nocitto dhammo kusalassa nocittassa dhammassa hetupaccayena paccayo. (Saṃkhittaṃ.)
 
 1360\. Hetuyā satta, ārammaṇe nava, adhipatiyā dasa…pe…  avigate terasa. (Saṃkhittaṃ.)
-
-
-

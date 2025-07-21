@@ -1,12 +1,4 @@
-
-
 # Vippayutta
-
-
-
-
-
-
 
 (34.)
 
@@ -19,6 +11,3 @@
 2188\. Noparāmāso dhammo parāmāsassa ca noparāmāsassa ca dhammassa vippayuttapaccayena paccayo. **Purejātaṃ**—  vatthu parāmāsassa ca sampayuttakānañca khandhānaṃ vippayuttapaccayena paccayo. (3)
 
 2189\. Parāmāso ca noparāmāso ca dhammā noparāmāsassa dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, pacchājātaṃ. (Saṃkhittaṃ.) (1)
-
-
-

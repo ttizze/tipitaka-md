@@ -1,11 +1,4 @@
-
-
 # Ārammaṇa
-
-
-
-
-
 
 (20.)
 
@@ -30,6 +23,3 @@
 2702\. Paccuppannārammaṇo dhammo atītārammaṇassa dhammassa ārammaṇapaccayena paccayo—  atītaṃ dibbaṃ cakkhuṃ paccavekkhati, dibbaṃ sotadhātuṃ paccavekkhati, paccuppannārammaṇaṃ atītaṃ iddhividhañāṇaṃ paccavekkhati, cetopariyañāṇaṃ paccavekkhati. Ariyā paccuppannārammaṇe pahīne kilese paccavekkhanti, vikkhambhite kilese paccavekkhanti, pubbe samudāciṇṇe kilese jānanti. Paccuppannārammaṇe atīte khandhe aniccato…pe…  vipassati, assādeti abhinandati; taṃ ārabbha atītārammaṇo rāgo uppajjati…pe…  domanassaṃ uppajjati. Paccuppannārammaṇā atītā khandhā cetopariyañāṇassa, pubbenivāsānussatiñāṇassa, yathākammūpagañāṇassa, āvajjanāya ārammaṇapaccayena paccayo. (2)
 
 2703\. Paccuppannārammaṇo dhammo anāgatārammaṇassa dhammassa ārammaṇapaccayena paccayo—  anāgataṃ dibbaṃ cakkhuṃ paccavekkhati, dibbaṃ sotadhātuṃ paccavekkhati, paccuppannārammaṇaṃ anāgataṃ iddhividhañāṇaṃ paccavekkhati, cetopariyañāṇaṃ…pe…  paccuppannārammaṇe anāgate khandhe aniccato…pe…  vipassati…pe…  taṃ ārabbha anāgatārammaṇo rāgo uppajjati…pe…  domanassaṃ uppajjati. Paccuppannārammaṇā anāgatā khandhā cetopariyañāṇassa, anāgataṃsañāṇassa, āvajjanāya ārammaṇapaccayena paccayo. (3)
-
-
-

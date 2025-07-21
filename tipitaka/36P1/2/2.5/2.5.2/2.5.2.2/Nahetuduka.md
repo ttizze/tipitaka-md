@@ -1,11 +1,4 @@
-
-
 # Nahetuduka
-
-
-
-
-
 
 (224.)
 
@@ -16,6 +9,3 @@
 * [Chakka](Nahetuduka/Chakka.md)
 * [Sattaka](Nahetuduka/Sattaka.md)
 * [Navaka](Nahetuduka/Navaka.md)
-
-
-

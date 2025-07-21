@@ -1,11 +1,4 @@
-
-
 # Naadhipati
-
-
-
-
-
 
 (144.)
 
@@ -18,6 +11,3 @@
 523\. Abyākataṃ dhammaṃ paccayā kusalo dhammo uppajjati naadhipatipaccayā, vatthuṃ paccayā kusalā khandhā…pe… .
 
 524\. (Yathā anulome sahajātapaccayaṃ, evaṃ gaṇetabbaṃ.)
-
-
-

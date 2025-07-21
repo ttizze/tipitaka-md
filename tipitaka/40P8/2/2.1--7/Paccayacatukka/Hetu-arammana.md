@@ -1,10 +1,4 @@
-
-
 # Hetu-ārammaṇa
-
-
-
-
 
 (7.)
 
@@ -19,6 +13,3 @@
 20\. Hetuyā cha, ārammaṇe nava, adhipatiyā cattāri, anantare nava…pe…  sahajāte nava, aññamaññe cha, nissaye upanissaye nava, purejāte pacchājāte tīṇi, āsevane nava, kamme…pe…  jhāne cattāri, magge tīṇi, sampayutte cha, vippayutte pañca…pe…  avigate nava.
 
 21\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
-
-
-

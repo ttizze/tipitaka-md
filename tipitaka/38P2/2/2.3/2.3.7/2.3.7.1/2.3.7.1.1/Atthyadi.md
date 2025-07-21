@@ -1,12 +1,4 @@
-
-
 # Atthyādi
-
-
-
-
-
-
 
 (46.)
 
@@ -23,6 +15,3 @@
 644\. Sanidassano ca anidassano ca dhammā anidassanassa dhammassa atthipaccayena paccayo. **Purejātaṃ**—  rūpāyatanañca vatthu ca anidassanānaṃ khandhānaṃ atthipaccayena paccayo; rūpāyatanañca cakkhāyatanañca cakkhuviññāṇassa atthipaccayena paccayo.
 
 645\. Natthipaccayena paccayo…  vigatapaccayena paccayo…  avigatapaccayena paccayo.
-
-
-

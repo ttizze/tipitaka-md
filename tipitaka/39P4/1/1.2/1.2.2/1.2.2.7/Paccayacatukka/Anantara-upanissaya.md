@@ -1,12 +1,4 @@
-
-
 # Anantara-upanissaya
-
-
-
-
-
-
 
 (34.)
 
@@ -35,6 +27,3 @@
 120\. Nahetupaccayā ārammaṇe nava. (Saṃkhittaṃ.)
 
 121\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
-
-
-

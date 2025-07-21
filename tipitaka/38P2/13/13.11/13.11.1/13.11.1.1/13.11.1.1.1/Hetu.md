@@ -1,12 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
-
 
 (194.)
 
@@ -19,6 +11,3 @@
 (196.)
 
 4513\. Kāmāvacarañca nakāmāvacarañca dhammaṃ paṭicca kāmāvacaro dhammo uppajjati hetupaccayā—  nakāmāvacare khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe nakāmāvacare khandhe ca mahābhūte ca paṭicca kaṭattārūpaṃ. Kāmāvacarañca nakāmāvacarañca dhammaṃ paṭicca nakāmāvacaro dhammo uppajjati hetupaccayā—  paṭisandhikkhaṇe nakāmāvacaraṃ ekaṃ khandhañca vatthuñca paṭicca tayo khandhā…pe…  dve khandhe ca…pe… . Kāmāvacarañca nakāmāvacarañca dhammaṃ paṭicca kāmāvacaro ca nakāmāvacaro ca dhammā uppajjanti hetupaccayā—  paṭisandhikkhaṇe nakāmāvacaraṃ ekaṃ khandhañca vatthuñca paṭicca tayo khandhā…pe…  dve khandhe ca…pe…  nakāmāvacare khandhe ca mahābhūte ca paṭicca kaṭattārūpaṃ. (3) (Saṃkhittaṃ.)
-
-
-

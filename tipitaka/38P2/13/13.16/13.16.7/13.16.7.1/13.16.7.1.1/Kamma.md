@@ -1,12 +1,4 @@
-
-
 # Kamma
-
-
-
-
-
-
 
 (338.)
 
@@ -15,6 +7,3 @@
 4781\. Aniyato dhammo aniyatassa dhammassa kammapaccayena paccayo—  sahajātā, nānākkhaṇikā. (Saṃkhittaṃ.)
 
 4782\. Vipākapaccayena paccayo…  ekaṃ…  āhārapaccayena paccayo…  cattāri…  indriyapaccayena paccayo…  cattāri…  jhānapaccayena paccayo…  cattāri…  maggapaccayena paccayo…  cattāri…  sampayuttapaccayena paccayo…  dve…  vippayuttapaccayena paccayo…  tīṇi (arūpadukasadisaṃ)…  atthipaccayena paccayo…  satta (arūpāvacaradukasadisaṃ)…  natthipaccayena paccayo…  vigatapaccayena paccayo…  avigatapaccayena paccayo…  satta.
-
-
-

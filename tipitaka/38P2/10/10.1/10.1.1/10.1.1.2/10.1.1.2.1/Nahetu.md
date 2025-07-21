@@ -1,12 +1,4 @@
-
-
 # Nahetu
-
-
-
-
-
-
 
 (6.)
 
@@ -31,6 +23,3 @@
 2337\. Sārammaṇañca anārammaṇañca dhammaṃ paṭicca anārammaṇo dhammo uppajjati nahetupaccayā—  ahetuke sārammaṇe khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ; ahetukapaṭisandhikkhaṇe…pe… . (2)
 
 2338\. Sārammaṇañca anārammaṇañca dhammaṃ paṭicca sārammaṇo ca anārammaṇo ca dhammā uppajjanti nahetupaccayā—  ahetukapaṭisandhikkhaṇe sārammaṇaṃ ekaṃ khandhañca vatthuñca paṭicca tayo khandhā…pe…  dve khandhe ca…pe…  sārammaṇe khandhe ca mahābhūte ca paṭicca kaṭattārūpaṃ. (3)
-
-
-

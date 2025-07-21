@@ -1,12 +1,4 @@
-
-
 # Kamma
-
-
-
-
-
-
 
 (88.)
 
@@ -19,6 +11,3 @@
 (89.)
 
 1810\. Ganthavippayutto dhammo ganthavippayuttassa dhammassa kammapaccayena paccayo—  sahajātā, nānākkhaṇikā. **Sahajātā**—  ganthavippayuttā cetanā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo; paṭisandhikkhaṇe…pe… . **Nānākkhaṇikā**—  ganthavippayuttā cetanā vipākānaṃ khandhānaṃ kaṭattā ca rūpānaṃ kammapaccayena paccayo. (1)
-
-
-

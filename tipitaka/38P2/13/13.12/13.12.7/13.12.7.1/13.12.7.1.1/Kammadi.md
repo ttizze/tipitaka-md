@@ -1,12 +1,4 @@
-
-
 # Kammādi
-
-
-
-
-
-
 
 (255.)
 
@@ -15,6 +7,3 @@
 4634\. Narūpāvacaro dhammo narūpāvacarassa dhammassa kammapaccayena paccayo—  sahajātā, nānākkhaṇikā. **Sahajātā**—  narūpāvacarā cetanā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo; paṭisandhikkhaṇe…pe… . **Nānākkhaṇikā**—  narūpāvacarā cetanā vipākānaṃ narūpāvacarānaṃ khandhānaṃ kaṭattā ca rūpānaṃ kammapaccayena paccayo… . (1)
 
 4635\. Vipākapaccayena paccayo…  cattāri…  āhārapaccayena paccayo…  cattāri…  indriyapaccayena paccayo…  cattāri…  jhānapaccayena paccayo…  cattāri…  maggapaccayena paccayo…  cattāri…  sampayuttapaccayena paccayo…  dve.
-
-
-

@@ -1,9 +1,4 @@
-
-
 # Paccanīyuddhāra
-
-
-
 
 (35.)
 
@@ -28,6 +23,3 @@
 2245\. Appamāṇārammaṇo dhammo parittārammaṇassa dhammassa ārammaṇapaccayena paccayo…  upanissayapaccayena paccayo…  kammapaccayena paccayo. (2)
 
 2246\. Appamāṇārammaṇo dhammo mahaggatārammaṇassa dhammassa ārammaṇapaccayena paccayo…  upanissayapaccayena paccayo. (3)
-
-
-

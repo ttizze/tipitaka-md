@@ -1,11 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
 
 (42.)
 
@@ -18,6 +11,3 @@
 1774\. Asekkho dhammo asekkhassa dhammassa. (Tīṇi.)
 
 1775\. Nevasekkhanāsekkho dhammo nevasekkhanāsekkhassa dhammassa hetupaccayena paccayo—  nevasekkhanāsekkhā hetū sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo. Paṭisandhikkhaṇe…pe… . (1)
-
-
-

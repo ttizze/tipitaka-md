@@ -1,12 +1,4 @@
-
-
 # Ārammaṇa
-
-
-
-
-
-
 
 (92.)
 
@@ -35,6 +27,3 @@
 325\. Nahetupaccayā ārammaṇe cuddasa. (Saṃkhittaṃ.)
 
 326\. (Sahajātavārampi…pe…  sampayuttavārampi vitthāretabbaṃ.)
-
-
-

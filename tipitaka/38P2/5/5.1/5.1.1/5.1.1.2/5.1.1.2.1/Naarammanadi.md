@@ -1,12 +1,4 @@
-
-
 # Naārammaṇādi
-
-
-
-
-
-
 
 (6.)
 
@@ -17,6 +9,3 @@
 1628\. Ganthañca noganthañca dhammaṃ paṭicca nogantho dhammo uppajjati naārammaṇapaccayā—  ganthe ca sampayuttake ca khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ. (Saṃkhittaṃ.)
 
 1629\. Naadhipatipaccayā…  nava, naanantarapaccayā…  tīṇi, nasamanantarapaccayā…  tīṇi, naaññamaññapaccayā…  tīṇi, naupanissayapaccayā…  tīṇi.
-
-
-

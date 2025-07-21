@@ -1,12 +1,4 @@
-
-
 # Adhipati
-
-
-
-
-
-
 
 (23.)
 
@@ -21,6 +13,3 @@
 (24.)
 
 1667\. Gantho ca nogantho ca dhammā ganthassa dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati…  tīṇi.
-
-
-

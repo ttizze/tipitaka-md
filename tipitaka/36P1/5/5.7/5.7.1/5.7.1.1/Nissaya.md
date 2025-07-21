@@ -1,11 +1,4 @@
-
-
 # Nissaya
-
-
-
-
-
 
 (60.)
 
@@ -26,6 +19,3 @@
 2651\. Anupādinnupādāniyo ca anupādinnaanupādāniyo ca dhammā anupādinnupādāniyassa dhammassa nissayapaccayena paccayo—  anupādinnaanupādāniyā khandhā ca mahābhūtā ca cittasamuṭṭhānānaṃ rūpānaṃ nissayapaccayena paccayo. (1)
 
 2652\. Upādinnupādāniyo ca anupādinnupādāniyo ca dhammā anupādinnupādāniyassa dhammassa nissayapaccayena paccayo—  upādinnupādāniyā khandhā ca mahābhūtā ca cittasamuṭṭhānānaṃ rūpānaṃ nissayapaccayena paccayo. Anupādinnupādāniyo eko khandho ca vatthu ca tiṇṇannaṃ khandhānaṃ nissayapaccayena paccayo…pe…  dve khandhā ca vatthu ca dvinnaṃ khandhānaṃ nissayapaccayena paccayo. (1)
-
-
-

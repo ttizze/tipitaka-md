@@ -1,10 +1,4 @@
-
-
 # Paccayacatukka
-
-
-
-
 
 (34.)
 
@@ -27,6 +21,3 @@
 2675\. Araṇaṃ nevācayagāmināpacayagāmiṃ dhammaṃ paṭicca araṇo nevācayagāmināpacayagāmī dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
 
 2676\. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.) (Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
-
-
-

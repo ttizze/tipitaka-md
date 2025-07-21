@@ -1,11 +1,4 @@
-
-
 # Paccayacatukka
-
-
-
-
-
 
 (23.)
 
@@ -22,6 +15,3 @@
 2422\. Naadhipatiyā cha, napurejāte cha…pe…  nakamme cattāri…pe…  navippayutte cha. (Saṃkhittaṃ.)
 
 2423\. (Sahajātavārampi…pe…  sampayuttavārampi vitthāretabbaṃ.)
-
-
-

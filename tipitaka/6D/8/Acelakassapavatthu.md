@@ -1,8 +1,4 @@
-
-
 # Acelakassapavatthu
-
-
 
 (381.)
 
@@ -21,6 +17,3 @@
 633\. Santi, kassapa, eke samaṇabrāhmaṇā paṇḍitā nipuṇā kataparappavādā vālavedhirūpā. Te bhindantā maññe caranti paññāgatena diṭṭhigatāni. Tehipi me saddhiṃ ekaccesu ṭhānesu sameti, ekaccesu ṭhānesu na sameti. Yaṃ te ekaccaṃ vadanti ‘sādhū’ti, mayampi taṃ ekaccaṃ vadema ‘sādhū’ti. Yaṃ te ekaccaṃ vadanti ‘na sādhū’ti, mayampi taṃ ekaccaṃ vadema ‘na sādhū’ti. Yaṃ te ekaccaṃ vadanti ‘sādhū’ti, mayaṃ taṃ ekaccaṃ vadema ‘na sādhū’ti. Yaṃ te ekaccaṃ vadanti ‘na sādhū’ti, mayaṃ taṃ ekaccaṃ vadema ‘sādhū’ti.
 
 634\. Yaṃ mayaṃ ekaccaṃ vadema ‘sādhū’ti, parepi taṃ ekaccaṃ vadanti ‘sādhū’ti. Yaṃ mayaṃ ekaccaṃ vadema ‘na sādhū’ti, parepi taṃ ekaccaṃ vadanti ‘na sādhū’ti. Yaṃ mayaṃ ekaccaṃ vadema ‘na sādhū’ti, pare taṃ ekaccaṃ vadanti ‘sādhū’ti. Yaṃ mayaṃ ekaccaṃ vadema ‘sādhū’ti, pare taṃ ekaccaṃ vadanti ‘na sādhū’ti.
-
-
-

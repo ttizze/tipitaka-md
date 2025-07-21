@@ -1,10 +1,4 @@
-
-
 # Ārammaṇa
-
-
-
-
 
 (212.)
 
@@ -23,6 +17,3 @@
 812\. Ārammaṇapaccayā nahetuyā tīṇi. (Saṃkhittaṃ.)
 
 813\. Nahetupaccayā ārammaṇe tīṇi. (Saṃkhittaṃ.)
-
-
-

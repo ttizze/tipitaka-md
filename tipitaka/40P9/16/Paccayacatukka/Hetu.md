@@ -1,9 +1,4 @@
-
-
 # Hetu
-
-
-
 
 (86.)
 
@@ -26,6 +21,3 @@
 215\. Nasaraṇaṃ naanupādinnupādāniyaṃ dhammaṃ paṭicca… . (Saṃkhittaṃ. Sabbattha ekaṃ.)
 
 216\. Nasaraṇaṃ naanupādinnaanupādāniyaṃ dhammaṃ paṭicca… . (Saṃkhittaṃ.) Hetuyā pañca, ārammaṇe dve…pe…  vipāke ekaṃ…pe…  avigate pañca.
-
-
-

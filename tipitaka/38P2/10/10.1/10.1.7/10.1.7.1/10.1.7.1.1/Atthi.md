@@ -1,12 +1,4 @@
-
-
 # Atthi
-
-
-
-
-
-
 
 (41.)
 
@@ -27,6 +19,3 @@
 2408\. Sārammaṇo ca anārammaṇo ca dhammā sārammaṇassa dhammassa atthipaccayena paccayo—  sahajātaṃ, purejātaṃ. **Sahajāto**—  cakkhuviññāṇasahagato eko khandho ca cakkhāyatanañca tiṇṇannaṃ khandhānaṃ atthipaccayena paccayo…pe…  dve khandhā ca…pe…  kāyaviññāṇasahagato eko khandho ca kāyāyatanañca tiṇṇannaṃ khandhānaṃ atthipaccayena paccayo…pe…  dve khandhā ca…pe…  sārammaṇo eko khandho ca vatthu ca tiṇṇannaṃ khandhānaṃ atthipaccayena paccayo…pe…  dve khandhā ca…pe…  paṭisandhikkhaṇe…pe… . (1)
 
 2409\. Sārammaṇo ca anārammaṇo ca dhammā anārammaṇassa dhammassa atthipaccayena paccayo—  sahajātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ. **Sahajātā**—  sārammaṇā khandhā ca mahābhūtā ca cittasamuṭṭhānānaṃ rūpānaṃ atthipaccayena paccayo; paṭisandhikkhaṇe…pe… . **Pacchājātā**—  sārammaṇā khandhā ca kabaḷīkāro āhāro ca imassa kāyassa atthipaccayena paccayo. **Pacchājātā**—  sārammaṇā khandhā ca rūpajīvitindriyañca kaṭattārūpānaṃ atthipaccayena paccayo. (2)
-
-
-

@@ -1,12 +1,4 @@
-
-
 # Ārammaṇa
-
-
-
-
-
-
 
 (137.)
 
@@ -29,6 +21,3 @@
 386\. Hetu ceva sahetuko ca sahetuko ceva na ca hetu ca dhammā sahetukassa ceva na ca hetussa dhammassa ārammaṇapaccayena paccayo—  hetuñca sampayuttake ca khandhe ārabbha sahetukā ceva na ca hetū khandhā uppajjanti. (2)
 
 387\. Hetu ceva sahetuko ca sahetuko ceva na ca hetu ca dhammā hetussa ceva sahetukassa ca sahetukassa ceva na ca hetussa ca dhammassa ārammaṇapaccayena paccayo—  hetuñca sampayuttake ca khandhe ārabbha hetū ca sampayuttakā ca khandhā uppajjanti. (3)
-
-
-

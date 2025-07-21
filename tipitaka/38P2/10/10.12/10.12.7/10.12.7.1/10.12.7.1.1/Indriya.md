@@ -1,12 +1,4 @@
-
-
 # Indriya
-
-
-
-
-
-
 
 (353.)
 
@@ -31,6 +23,3 @@
 3200\. Ajjhattiko ca bāhiro ca dhammā bāhirassa dhammassa indriyapaccayena paccayo—  ajjhattikā ca bāhirā ca indriyā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ indriyapaccayena paccayo; paṭisandhikkhaṇe ajjhattikā ca bāhirā ca indriyā sampayuttakānaṃ khandhānaṃ bāhirānañca kaṭattārūpānaṃ indriyapaccayena paccayo, cakkhundriyañca upekkhindriyañca cakkhuviññāṇasahagatānaṃ khandhānaṃ indriyapaccayena paccayo…pe…  kāyindriyañca sukhindriyañca…pe…  kāyindriyañca dukkhindriyañca kāyaviññāṇasahagatānaṃ khandhānaṃ indriyapaccayena paccayo. (2)
 
 3201\. Ajjhattiko ca bāhiro ca dhammā ajjhattikassa ca bāhirassa ca dhammassa indriyapaccayena paccayo—  paṭisandhikkhaṇe ajjhattikā ca bāhirā ca indriyā sampayuttakānaṃ khandhānaṃ ajjhattikānañca bāhirānañca kaṭattārūpānaṃ indriyapaccayena paccayo, cakkhundriyañca upekkhindriyañca cakkhuviññāṇassa sampayuttakānañca khandhānaṃ indriyapaccayena paccayo…  kāyindriyañca…pe… . (3)
-
-
-

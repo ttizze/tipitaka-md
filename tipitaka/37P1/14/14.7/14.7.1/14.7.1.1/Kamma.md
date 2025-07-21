@@ -1,11 +1,4 @@
-
-
 # Kamma
-
-
-
-
-
 
 (31.)
 
@@ -20,6 +13,3 @@
 2233\. Appamāṇārammaṇo dhammo appamāṇārammaṇassa dhammassa kammapaccayena paccayo—  sahajātā, nānākkhaṇikā. **Sahajātā**—  appamāṇārammaṇā cetanā sampayuttakānaṃ khandhānaṃ kammapaccayena paccayo. **Nānākkhaṇikā**—  appamāṇārammaṇā cetanā vipākānaṃ appamāṇārammaṇānaṃ khandhānaṃ kammapaccayena paccayo. (1)
 
 2234\. Appamāṇārammaṇo dhammo parittārammaṇassa dhammassa kammapaccayena paccayo. **Nānākkhaṇikā**—  appamāṇārammaṇā cetanā vipākānaṃ parittārammaṇānaṃ khandhānaṃ kammapaccayena paccayo. (2)
-
-
-

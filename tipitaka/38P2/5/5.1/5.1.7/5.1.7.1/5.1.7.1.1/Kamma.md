@@ -1,12 +1,4 @@
-
-
 # Kamma
-
-
-
-
-
-
 
 (31.)
 
@@ -15,6 +7,3 @@
 1684\. Nogantho dhammo ganthassa dhammassa kammapaccayena paccayo—  noganthā cetanā sampayuttakānaṃ ganthānaṃ kammapaccayena paccayo. (2)
 
 1685\. Nogantho dhammo ganthassa ca noganthassa ca dhammassa kammapaccayena paccayo—  noganthā cetanā sampayuttakānaṃ khandhānaṃ ganthānañca cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo. (3)
-
-
-

@@ -1,12 +1,4 @@
-
-
 # Sahetu-adhipati-maggaghaṭanā
-
-
-
-
-
-
 
 (359.)
 
@@ -17,8 +9,3 @@
 ---
 
 1103\. Indriyamūlakaṃ.
-
-
-
-
-

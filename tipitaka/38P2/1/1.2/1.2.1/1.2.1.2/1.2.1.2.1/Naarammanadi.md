@@ -1,12 +1,4 @@
-
-
 # Naārammaṇādi
-
-
-
-
-
-
 
 (63.)
 
@@ -37,6 +29,3 @@
 177\. Sahetukañca ahetukañca dhammaṃ paṭicca ahetuko dhammo uppajjati napurejātapaccayā—  sahetuke khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ, vicikicchāsahagate uddhaccasahagate khandhe ca mohañca paṭicca cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe…pe… . (2)
 
 178\. Sahetukañca ahetukañca dhammaṃ paṭicca sahetuko ca ahetuko ca dhammā uppajjanti napurejātapaccayā—  paṭisandhikkhaṇe sahetukaṃ ekaṃ khandhañca vatthuñca paṭicca tayo khandhā…pe…  dve khandhe…pe…  sahetuke khandhe ca mahābhūte ca paṭicca kaṭattārūpaṃ. (3)
-
-
-

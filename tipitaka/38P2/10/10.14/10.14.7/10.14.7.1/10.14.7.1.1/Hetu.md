@@ -1,12 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
-
 
 (445.)
 
@@ -17,6 +9,3 @@
 3446\. Upādinno dhammo upādinnassa ca anupādinnassa ca dhammassa hetupaccayena paccayo—  upādinnā hetū sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo. (3)
 
 3447\. Anupādinno dhammo anupādinnassa dhammassa hetupaccayena paccayo—  anupādinnā hetū sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo. (1)
-
-
-

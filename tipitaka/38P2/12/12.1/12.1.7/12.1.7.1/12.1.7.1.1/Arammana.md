@@ -1,12 +1,4 @@
-
-
 # Ārammaṇa
-
-
-
-
-
-
 
 (17.)
 
@@ -21,6 +13,3 @@
 3861\. Nokileso dhammo kilesassa ca nokilesassa ca dhammassa ārammaṇapaccayena paccayo—  dānaṃ…pe…  jhānā vuṭṭhahitvā…pe…  cakkhuṃ…pe…  vatthuṃ nokilese khandhe assādeti abhinandati, taṃ ārabbha kilesā ca sampayuttakā ca khandhā uppajjanti. (3)
 
 3862\. Kileso ca nokileso ca dhammā kilesassa dhammassa ārammaṇapaccayena paccayo…  tīṇi.
-
-
-

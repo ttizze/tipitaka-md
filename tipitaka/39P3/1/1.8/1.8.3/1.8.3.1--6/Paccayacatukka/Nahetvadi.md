@@ -1,12 +1,4 @@
-
-
 # Nahetvādi
-
-
-
-
-
-
 
 (276.)
 
@@ -29,6 +21,3 @@
 564\. Nahetupaccayā ārammaṇe ekaṃ. (Saṃkhittaṃ.)
 
 565\. (Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
-
-
-

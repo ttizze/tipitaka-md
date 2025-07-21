@@ -1,12 +1,4 @@
-
-
 # Hetvādi
-
-
-
-
-
-
 
 (21.)
 
@@ -32,10 +24,4 @@
 
 1515\. Sanidassanadukakusalattikaṃ niṭṭhitaṃ.
 
-  
 (Appaccayampi asaṅkhatampi sanidassanampi na labbhati.)
-
-
-
-
-

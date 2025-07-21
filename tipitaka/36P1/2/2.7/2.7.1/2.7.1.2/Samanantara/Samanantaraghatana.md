@@ -1,12 +1,4 @@
-
-
 # Samanantaraghaṭanā
-
-
-
-
-
-
 
 (320.)
 
@@ -15,8 +7,3 @@
 ---
 
 1036\. Samanantaramūlakaṃ.
-
-
-
-
-

@@ -1,12 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
-
 
 (97.)
 
@@ -19,6 +11,3 @@
 (98.)
 
 1458\. Hetuyā nava, ārammaṇe cattāri, adhipatiyā pañca…pe…  purejāte āsevane dve, kamme nava, vipāke nava…pe…  avigate nava. (Saṃkhittaṃ.)
-
-
-

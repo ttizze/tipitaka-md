@@ -1,11 +1,4 @@
-
-
 # Vippayutta
-
-
-
-
-
 
 (17.)
 
@@ -18,6 +11,3 @@
 168\. Kusalañca abyākatañca dhammaṃ paṭicca abyākato dhammo uppajjati vippayuttapaccayā—  kusale khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. Khandhe vippayuttapaccayā. (1)
 
 169\. Akusalañca abyākatañca dhammaṃ paṭicca abyākato dhammo uppajjati vippayuttapaccayā—  akusale khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. Khandhe vippayuttapaccayā. (1)
-
-
-

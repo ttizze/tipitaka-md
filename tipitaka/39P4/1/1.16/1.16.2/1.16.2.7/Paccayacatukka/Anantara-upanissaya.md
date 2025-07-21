@@ -1,12 +1,4 @@
-
-
 # Anantara-upanissaya
-
-
-
-
-
-
 
 (202.)
 
@@ -39,6 +31,3 @@
 777\. Nahetupaccayā ārammaṇe nava. (Saṃkhittaṃ.)
 
 778\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
-
-
-

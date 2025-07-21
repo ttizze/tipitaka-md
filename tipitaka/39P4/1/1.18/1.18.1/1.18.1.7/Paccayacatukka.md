@@ -1,11 +1,4 @@
-
-
 # Paccayacatukka
-
-
-
-
-
 
 (210.)
 
@@ -22,6 +15,3 @@
 805\. Hetupaccayā naārammaṇe ekaṃ. (Saṃkhittaṃ.)
 
 806\. Nahetupaccayā ārammaṇe dve. (Saṃkhittaṃ.)
-
-
-

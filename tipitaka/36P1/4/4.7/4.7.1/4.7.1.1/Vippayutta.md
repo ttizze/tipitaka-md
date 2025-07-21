@@ -1,11 +1,4 @@
-
-
 # Vippayutta
-
-
-
-
-
 
 (115.)
 
@@ -18,6 +11,3 @@
 2385\. Nevavipākanavipākadhammadhammo vipākassa dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, purejātaṃ. **Sahajātaṃ**—  paṭisandhikkhaṇe vatthu vipākānaṃ khandhānaṃ vippayuttapaccayena paccayo. **Purejātaṃ**—  cakkhāyatanaṃ cakkhuviññāṇassa…pe…  kāyāyatanaṃ kāyaviññāṇassa…pe…  vatthu vipākānaṃ khandhānaṃ vippayuttapaccayena paccayo. (2)
 
 2386\. Nevavipākanavipākadhammadhammo vipākadhammadhammassa vippayuttapaccayena paccayo. **Purejātaṃ**—  vatthu vipākadhammadhammānaṃ khandhānaṃ vippayuttapaccayena paccayo. (3)
-
-
-

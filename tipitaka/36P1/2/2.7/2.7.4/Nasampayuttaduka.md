@@ -1,10 +1,4 @@
-
-
 # Nasampayuttaduka
-
-
-
-
 
 (512.)
 
@@ -14,6 +8,3 @@
 * [Navaka](Nasampayuttaduka/Navaka.md)
 * [Dasaka](Nasampayuttaduka/Dasaka.md)
 * [Dvādasaka](Nasampayuttaduka/Dvadasaka.md)
-
-
-

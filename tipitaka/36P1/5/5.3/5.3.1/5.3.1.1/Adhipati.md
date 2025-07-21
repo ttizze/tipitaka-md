@@ -1,11 +1,4 @@
-
-
 # Adhipati
-
-
-
-
-
 
 (33.)
 
@@ -22,6 +15,3 @@
 2545\. Anupādinnupādāniyañca anupādinnaanupādāniyañca dhammaṃ paccayā…pe…  adhipatipaccayā. (1)
 
 2546\. Upādinnupādāniyañca anupādinnupādāniyañca dhammaṃ paccayā anupādinnupādāniyo dhammo uppajjati adhipatipaccayā—  anupādinnupādāniyaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe ca vatthuñca paccayā dve khandhā. (1)
-
-
-

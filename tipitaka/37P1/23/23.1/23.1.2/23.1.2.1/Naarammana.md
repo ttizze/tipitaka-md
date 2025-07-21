@@ -1,11 +1,4 @@
-
-
 # Naārammaṇa
-
-
-
-
-
 
 (20.)
 
@@ -24,6 +17,3 @@
 2984\. Anidassanasappaṭighañca anidassanaappaṭighañca dhammaṃ paṭicca sanidassanasappaṭigho dhammo uppajjati naārammaṇapaccayā—  anidassanaappaṭighe khandhe ca mahābhūte ca paṭicca sanidassanasappaṭighaṃ cittasamuṭṭhānaṃ rūpaṃ. Paṭisandhikkhaṇe anidassanaappaṭighe khandhe ca mahābhūte ca paṭicca sanidassanasappaṭighaṃ kaṭattārūpaṃ. Anidassanasappaṭighe mahābhūte ca āpodhātuñca paṭicca sanidassanasappaṭighaṃ cittasamuṭṭhānaṃ rūpaṃ kaṭattārūpaṃ upādārūpaṃ. Phoṭṭhabbāyatanañca āpodhātuñca paṭicca rūpāyatanaṃ. Bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…  asaññasattānaṃ anidassanasappaṭighe mahābhūte ca āpodhātuñca paṭicca sanidassanasappaṭighaṃ kaṭattārūpaṃ upādārūpaṃ.
 
 2985\. (Ghaṭane iminā kāraṇena sattapi pañhā vibhajitabbā.)
-
-
-

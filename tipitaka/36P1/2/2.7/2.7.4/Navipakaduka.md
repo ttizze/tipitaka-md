@@ -1,10 +1,4 @@
-
-
 # Navipākaduka
-
-
-
-
 
 (507.)
 
@@ -14,13 +8,6 @@
 
 1748\. (Yathā nahetumūlakaṃ, evaṃ vitthāretabbaṃ.)
 
-
-
 ---
 
 1749\. Navipākamūlakaṃ.
-
-
-
-
-

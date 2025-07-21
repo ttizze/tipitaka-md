@@ -1,12 +1,4 @@
-
-
 # Vippayutta
-
-
-
-
-
-
 
 (133.)
 
@@ -19,6 +11,3 @@
 2644\. Acetasiko dhammo cetasikassa ca acetasikassa ca dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, purejātaṃ. **Sahajātaṃ**—  paṭisandhikkhaṇe vatthu cetasikānaṃ khandhānaṃ cittassa ca vippayuttapaccayena paccayo. **Purejātaṃ**—  cakkhāyatanaṃ cakkhuviññāṇassa sampayuttakānañca khandhānaṃ…pe…  kāyāyatanaṃ kāyaviññāṇassa sampayuttakānañca khandhānaṃ…pe…  vatthu cittassa sampayuttakānañca khandhānaṃ vippayuttapaccayena paccayo. (3)
 
 2645\. Cetasiko ca acetasiko ca dhammā acetasikassa dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, pacchājātaṃ. (Saṃkhittaṃ.)
-
-
-

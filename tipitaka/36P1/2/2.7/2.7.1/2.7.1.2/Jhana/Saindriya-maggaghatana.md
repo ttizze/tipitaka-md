@@ -1,12 +1,4 @@
-
-
 # Saindriya-maggaghaṭanā
-
-
-
-
-
-
 
 (364.)
 
@@ -17,8 +9,3 @@
 ---
 
 1113\. Jhānamūlakaṃ.
-
-
-
-
-

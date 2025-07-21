@@ -1,11 +1,4 @@
-
-
 # Nahetu
-
-
-
-
-
 
 (4.)
 
@@ -22,6 +15,3 @@
 1104\. Nahetupaccayā ārammaṇe dve. (Saṃkhittaṃ.)
 
 1105\. (Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ.)
-
-
-

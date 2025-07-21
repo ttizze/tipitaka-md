@@ -1,11 +1,4 @@
-
-
 # Nasampayutta
-
-
-
-
-
 
 (46.)
 
@@ -14,6 +7,3 @@
 2136\. Vipākadhammadhammaṃ paṭicca nevavipākanavipākadhammadhammo uppajjati nasampayuttapaccayā…  dve.
 
 2137\. Nevavipākanavipākadhammadhammaṃ paṭicca…  ekaṃ.
-
-
-

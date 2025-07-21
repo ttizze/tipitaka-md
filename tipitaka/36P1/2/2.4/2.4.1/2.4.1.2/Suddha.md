@@ -1,11 +1,4 @@
-
-
 # Suddha
-
-
-
-
-
 
 (197.)
 
@@ -15,13 +8,6 @@
 
 679\. (Yathā paccayavāre, evaṃ vitthāretabbaṃ.)
 
-
-
 ---
 
 680\. Nissayavāre anulomaṃ.
-
-
-
-
-

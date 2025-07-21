@@ -1,11 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
 
 (36.)
 
@@ -18,6 +11,3 @@
 2347\. Sammattaniyato dhammo sammattaniyatassa dhammassa hetupaccayena paccayo…  tīṇi.
 
 2348\. Aniyato dhammo aniyatassa dhammassa hetupaccayena paccayo—  aniyatā hetū sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo. Paṭisandhikkhaṇe…pe… . (1)
-
-
-

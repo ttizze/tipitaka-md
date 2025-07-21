@@ -1,8 +1,4 @@
-
-
 # Subhamāṇavavatthu
-
-
 
 (444.)
 
@@ -31,6 +27,3 @@
 (449.)
 
 776\. “Tiṇṇaṃ kho, māṇava, khandhānaṃ so bhagavā vaṇṇavādī ahosi; ettha ca imaṃ janataṃ samādapesi nivesesi patiṭṭhāpesi. Katamesaṃ tiṇṇaṃ? Ariyassa sīlakkhandhassa, ariyassa samādhikkhandhassa, ariyassa paññākkhandhassa. Imesaṃ kho, māṇava, tiṇṇaṃ khandhānaṃ so bhagavā vaṇṇavādī ahosi; ettha ca imaṃ janataṃ samādapesi nivesesi patiṭṭhāpesī”ti.
-
-
-

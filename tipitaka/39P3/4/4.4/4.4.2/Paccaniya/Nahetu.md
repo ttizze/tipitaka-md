@@ -1,11 +1,4 @@
-
-
 # Nahetu
-
-
-
-
-
 
 (34.)
 
@@ -16,6 +9,3 @@
 1655\. Nahetuyā ekaṃ, naadhipatiyā nava, napurejāte nava, napacchājāte nava, naāsevane nava, nakamme tīṇi, navipāke nava, navippayutte nava. (Saṃkhittaṃ.)
 
 1656\. (Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi vitthāretabbā.)
-
-
-

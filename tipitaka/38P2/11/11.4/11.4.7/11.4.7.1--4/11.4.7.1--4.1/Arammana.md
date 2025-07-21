@@ -1,12 +1,4 @@
-
-
 # Ārammaṇa
-
-
-
-
-
-
 
 (99.)
 
@@ -17,6 +9,3 @@
 3772\. Upādāniyo ceva no ca upādāno dhammo upādānassa ceva upādāniyassa ca dhammassa ārammaṇapaccayena paccayo. (Saṃkhittaṃ, itare dve upādānadukasadisā.) (3)
 
 3773\. Upādāno ceva upādāniyo ca upādāniyo ceva no ca upādāno ca dhammā upādānassa ceva upādāniyassa ca dhammassa ārammaṇapaccayena paccayo…  tīṇi. (Heṭṭhā adhipati tīṇi, upādānadukasadisā.)
-
-
-

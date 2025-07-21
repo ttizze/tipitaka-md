@@ -1,11 +1,4 @@
-
-
 # Āhāra
-
-
-
-
-
 
 (293.)
 
@@ -22,6 +15,3 @@
 955\. Akusalo dhammo akusalassa ca abyākatassa ca dhammassa āhārapaccayena paccayo—  akusalā āhārā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ āhārapaccayena paccayo. (3)
 
 956\. Abyākato dhammo abyākatassa dhammassa āhārapaccayena paccayo—  vipākābyākatā kiriyābyākatā āhārā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ āhārapaccayena paccayo. Paṭisandhikkhaṇe vipākābyākatā āhārā sampayuttakānaṃ khandhānaṃ kaṭattā ca rūpānaṃ āhārapaccayena paccayo. **Kabaḷīkāro āhāro**—  imassa kāyassa āhārapaccayena paccayo. (1)
-
-
-

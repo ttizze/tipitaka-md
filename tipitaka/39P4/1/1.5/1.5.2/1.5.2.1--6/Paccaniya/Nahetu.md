@@ -1,12 +1,4 @@
-
-
 # Nahetu
-
-
-
-
-
-
 
 (74.)
 
@@ -15,6 +7,3 @@
 241\. Nahetuyā ekaṃ, naārammaṇe pañca, naadhipatiyā cha, napurejāte satta…pe…  nakamme tīṇi…pe…  navippayutte tīṇi…pe…  novigate pañca. (Saṃkhittaṃ.)
 
 242\. (Sahajātavārampi…pe…  sampayuttavārampi vitthāretabbaṃ.)
-
-
-

@@ -1,11 +1,4 @@
-
-
 # Nissaya
-
-
-
-
-
 
 (122.)
 
@@ -14,8 +7,3 @@
 ---
 
 455\. (Yathā sahajātapaccayaṃ, evaṃ vitthāretabbaṃ.)
-
-
-
-
-

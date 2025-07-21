@@ -1,10 +1,4 @@
-
-
 # Anantaradukādi
-
-
-
-
 
 (236.)
 
@@ -13,8 +7,3 @@
 ---
 
 765\. (Yathā ārammaṇamūlakaṃ, evaṃ vitthāretabbaṃ.)
-
-
-
-
-

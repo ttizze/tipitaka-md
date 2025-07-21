@@ -1,10 +1,4 @@
-
-
 # Hetu
-
-
-
-
 
 (1.)
 
@@ -23,6 +17,3 @@
 5\. Kusalañca abyākatañca dhammaṃ paṭicca nakusalo dhammo uppajjati hetupaccayā—  kusale khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. Kusalañca abyākatañca dhammaṃ paṭicca naakusalo dhammo uppajjati hetupaccayā. Kusalañca abyākatañca dhammaṃ paṭicca nakusalo ca naakusalo ca dhammā uppajjanti hetupaccayā. (3)
 
 6\. Akusalañca abyākatañca dhammaṃ paṭicca nakusalo dhammo uppajjati hetupaccayā. Akusalañca abyākatañca dhammaṃ paṭicca naakusalo dhammo uppajjati hetupaccayā. Akusalañca abyākatañca dhammaṃ paṭicca nakusalo ca naakusalo ca dhammā uppajjanti hetupaccayā. (3) (Cittasamuṭṭhānarūpameva ettha vattati, ekūnavīsati pañhā kātabbā.)
-
-
-

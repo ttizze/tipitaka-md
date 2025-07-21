@@ -1,10 +1,4 @@
-
-
 # Nahetu
-
-
-
-
 
 (56.)
 
@@ -13,6 +7,3 @@
 158\. Nahetuyā dve, naārammaṇe tīṇi, naadhipatiyā pañca…pe…  napurejāte cattāri…pe…  nakamme dve…pe…  naāhāre naindriye najhāne namagge ekaṃ…pe…  navippayutte dve…pe…  novigate tīṇi.
 
 159\. (Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ.)
-
-
-

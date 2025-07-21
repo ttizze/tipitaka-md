@@ -1,11 +1,4 @@
-
-
 # Āhāradukādi
-
-
-
-
-
 
 (32.)
 
@@ -26,6 +19,3 @@
 201\. Natthipaccayā hetuyā tīṇi…pe… .
 
 202\. Vigatapaccayā hetuyā tīṇi…pe… .
-
-
-

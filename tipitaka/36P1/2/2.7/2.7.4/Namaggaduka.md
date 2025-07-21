@@ -1,10 +1,4 @@
-
-
 # Namaggaduka
-
-
-
-
 
 (511.)
 
@@ -14,13 +8,6 @@
 
 1761\. (Yathā nahetumūlakaṃ, evaṃ vitthāretabbaṃ.)
 
-
-
 ---
 
 1762\. Namaggamūlakaṃ.
-
-
-
-
-

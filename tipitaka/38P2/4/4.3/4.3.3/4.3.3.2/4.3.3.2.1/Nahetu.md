@@ -1,12 +1,4 @@
-
-
 # Nahetu
-
-
-
-
-
-
 
 (57.)
 
@@ -25,6 +17,3 @@
 1468\. Saññojanasampayuttañca saññojanavippayuttañca dhammaṃ paccayā saññojanasampayutto dhammo uppajjati nahetupaccayā—  vicikicchāsahagate khandhe ca vatthuñca paccayā vicikicchāsahagato moho. (1)
 
 1469\. Saññojanasampayuttañca saññojanavippayuttañca dhammaṃ paccayā saññojanavippayutto dhammo uppajjati nahetupaccayā—  uddhaccasahagate khandhe ca vatthuñca paccayā uddhaccasahagato moho. (Saṃkhittaṃ.) (2)
-
-
-

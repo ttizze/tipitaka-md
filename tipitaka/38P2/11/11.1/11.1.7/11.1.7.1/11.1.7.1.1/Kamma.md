@@ -1,12 +1,4 @@
-
-
 # Kamma
-
-
-
-
-
-
 
 (30.)
 
@@ -15,6 +7,3 @@
 3601\. Noupādāno dhammo upādānassa dhammassa kammapaccayena paccayo—  noupādānā cetanā sampayuttakānaṃ upādānānaṃ kammapaccayena paccayo. (2)
 
 3602\. Noupādāno dhammo upādānassa ca noupādānassa ca dhammassa kammapaccayena paccayo—  noupādānā cetanā sampayuttakānaṃ khandhānaṃ upādānānañca cittasamuṭṭhānānaṃ rūpānaṃ kammapaccayena paccayo. (3)
-
-
-

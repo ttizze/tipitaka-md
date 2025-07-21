@@ -1,11 +1,4 @@
-
-
 # Ārammaṇa
-
-
-
-
-
 
 (113.)
 
@@ -30,6 +23,3 @@
 (117.)
 
 436\. Akusalañca abyākatañca dhammaṃ paccayā akusalo dhammo uppajjati ārammaṇapaccayā—  akusalaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe ca vatthuñca paccayā dve khandhā. (1)
-
-
-

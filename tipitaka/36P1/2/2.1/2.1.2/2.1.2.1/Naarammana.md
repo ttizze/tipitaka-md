@@ -1,11 +1,4 @@
-
-
 # Naārammaṇa
-
-
-
-
-
 
 (35.)
 
@@ -18,6 +11,3 @@
 210\. Kusalañca abyākatañca dhammaṃ paṭicca abyākato dhammo uppajjati naārammaṇapaccayā—  kusale khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
 
 211\. Akusalañca abyākatañca dhammaṃ paṭicca abyākato dhammo uppajjati naārammaṇapaccayā—  akusale khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
-
-
-

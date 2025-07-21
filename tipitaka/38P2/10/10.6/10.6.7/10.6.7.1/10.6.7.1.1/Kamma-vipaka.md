@@ -1,12 +1,4 @@
-
-
 # Kamma-vipāka
-
-
-
-
-
-
 
 (221.)
 
@@ -17,6 +9,3 @@
 2867\. Cittasamuṭṭhāno dhammo cittasamuṭṭhānassa ca nocittasamuṭṭhānassa ca dhammassa kammapaccayena paccayo—  sahajātā, nānākkhaṇikā. **Sahajātā**—  cittasamuṭṭhānā cetanā sampayuttakānaṃ khandhānaṃ cittassa ca cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo; paṭisandhikkhaṇe…pe… . **Nānākkhaṇikā**—  cittasamuṭṭhānā cetanā vipākānaṃ khandhānaṃ cittassa ca kaṭattā ca rūpānaṃ kammapaccayena paccayo. (3)
 
 2868\. Cittasamuṭṭhāno dhammo cittasamuṭṭhānassa dhammassa vipākapaccayena paccayo…  nava.
-
-
-

@@ -1,12 +1,4 @@
-
-
 # Hetu-ārammaṇādi
-
-
-
-
-
-
 
 (8.)
 
@@ -33,6 +25,3 @@
 964\. Nahetupaccayā ārammaṇe cattāri. (Saṃkhittaṃ.)
 
 965\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
-
-
-

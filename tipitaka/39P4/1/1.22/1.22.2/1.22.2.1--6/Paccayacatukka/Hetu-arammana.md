@@ -1,12 +1,4 @@
-
-
 # Hetu-ārammaṇa
-
-
-
-
-
-
 
 (239.)
 
@@ -33,6 +25,3 @@
 913\. Nahetupaccayā ārammaṇe ekaṃ. (Saṃkhittaṃ.)
 
 914\. (Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ.)
-
-
-

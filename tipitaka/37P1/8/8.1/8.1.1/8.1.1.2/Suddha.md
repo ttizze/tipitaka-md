@@ -1,11 +1,4 @@
-
-
 # Suddha
-
-
-
-
-
 
 (5.)
 
@@ -15,10 +8,4 @@
 
 652\. (Evaṃ anulomagaṇanā gaṇetabbā.)
 
-  
 Anulomaṃ.
-
-
-
-
-

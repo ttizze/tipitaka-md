@@ -1,12 +1,4 @@
-
-
 # Upanissaya
-
-
-
-
-
-
 
 (99.)
 
@@ -19,6 +11,3 @@
 4281\. Nabhāvanāya pahātabbahetuko dhammo bhāvanāya pahātabbahetukassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  saddhaṃ upanissāya mānaṃ jappeti…pe…  saddhā…pe…  senāsanaṃ bhāvanāya pahātabbahetukassa rāgassa…  dosassa…  mohassa…  mānassa…  patthanāya upanissayapaccayena paccayo. (2)
 
 4282\. Nabhāvanāya pahātabbahetuko dhammo bhāvanāya pahātabbahetukassa ca nabhāvanāya pahātabbahetukassa ca dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  saddhā…pe…  paññā…  kāyikaṃ sukhaṃ…pe…  senāsanaṃ uddhaccasahagatānaṃ khandhānaṃ mohassa ca upanissayapaccayena paccayo. (Ghaṭanūpanissayāpi tīṇipi kātabbā.) (3)
-
-
-

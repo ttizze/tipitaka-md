@@ -1,12 +1,4 @@
-
-
 # Anantarādi
-
-
-
-
-
-
 
 (56.)
 
@@ -21,6 +13,3 @@
 3967\. Asaṃkiliṭṭho dhammo saṃkiliṭṭhassa dhammassa anantarapaccayena paccayo—  āvajjanā saṃkiliṭṭhānaṃ khandhānaṃ anantarapaccayena paccayo. (2)
 
 3968\. Samanantarapaccayena paccayo…  cattāri…  sahajātapaccayena paccayo…  pañca…  aññamaññapaccayena paccayo…  dve…  nissayapaccayena paccayo…  satta.
-
-
-

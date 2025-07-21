@@ -1,10 +1,4 @@
-
-
 # Sahajātaduka
-
-
-
-
 
 (67.)
 
@@ -12,6 +6,3 @@
 
 * [Tika](Sahajataduka/Tika.md)
 * [Catukka](Sahajataduka/Catukka.md)
-
-
-

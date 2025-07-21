@@ -1,10 +1,4 @@
-
-
 # Paccanīyuddhāra
-
-
-
-
 
 (33.)
 
@@ -29,6 +23,3 @@
 1410\. Saññojano ca nosaññojano ca dhammā nosaññojanassa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo…  pacchājātapaccayena paccayo. (2)
 
 1411\. Saññojano ca nosaññojano ca dhammā saññojanassa ca nosaññojanassa ca dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo. (3)
-
-
-

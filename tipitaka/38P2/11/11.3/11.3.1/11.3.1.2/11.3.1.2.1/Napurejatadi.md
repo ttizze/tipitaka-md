@@ -1,12 +1,4 @@
-
-
 # Napurejātādi
-
-
-
-
-
-
 
 (53.)
 
@@ -27,6 +19,3 @@
 3664\. Upādānasampayuttañca upādānavippayuttañca dhammaṃ paṭicca upādānavippayutto dhammo uppajjati napurejātapaccayā—  upādānasampayutte khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ, diṭṭhigatavippayuttalobhasahagate khandhe ca lobhañca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (2)
 
 3665\. Napacchājātapaccayā…  naāsevanapaccayā.
-
-
-

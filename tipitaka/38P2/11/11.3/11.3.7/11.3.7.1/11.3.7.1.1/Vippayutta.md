@@ -1,12 +1,4 @@
-
-
 # Vippayutta
-
-
-
-
-
-
 
 (84.)
 
@@ -19,6 +11,3 @@
 3732\. Upādānavippayutto dhammo upādānasampayuttassa ca upādānavippayuttassa ca dhammassa vippayuttapaccayena paccayo. **Purejātaṃ**—  vatthu diṭṭhigatavippayuttalobhasahagatānaṃ khandhānaṃ lobhassa ca vippayuttapaccayena paccayo. (3)
 
 3733\. Upādānasampayutto ca upādānavippayutto ca dhammā upādānavippayuttassa dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, pacchājātaṃ. **Sahajātā**—  diṭṭhigatavippayuttalobhasahagatā khandhā ca lobho ca cittasamuṭṭhānānaṃ rūpānaṃ vippayuttapaccayena paccayo. **Pacchājātā**…pe… .
-
-
-

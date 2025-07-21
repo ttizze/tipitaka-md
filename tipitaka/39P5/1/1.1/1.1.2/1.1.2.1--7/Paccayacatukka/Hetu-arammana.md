@@ -1,12 +1,4 @@
-
-
 # Hetu-ārammaṇa
-
-
-
-
-
-
 
 (5.)
 
@@ -33,6 +25,3 @@
 19\. Hetuyā ekaṃ, ārammaṇe dve, adhipatiyā ekaṃ, anantare…pe…  nissaye dve, upanissaye cattāri, āsevane ekaṃ, kamme tīṇi, vipāke ekaṃ, āhāre indriye dve, jhāne magge ekaṃ, sampayutte…pe…  avigate dve. (Saṃkhittaṃ.)
 
 20\. (Yathā kusalattike pañhāvāraṃ evaṃ vitthāretabbaṃ.)
-
-
-

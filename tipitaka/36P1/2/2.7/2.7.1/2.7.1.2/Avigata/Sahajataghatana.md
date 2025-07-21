@@ -1,12 +1,4 @@
-
-
 # Sahajātaghaṭanā
-
-
-
-
-
-
 
 (390.)
 
@@ -18,10 +10,4 @@
 
 1157\. Avigatamūlakaṃ.
 
-  
 Pañhāvārassa anulomagaṇanā.
-
-
-
-
-

@@ -1,11 +1,4 @@
-
-
 # Purejāta
-
-
-
-
-
 
 (105.)
 
@@ -22,6 +15,3 @@
 2352\. **Ārammaṇapurejātaṃ**—  sekkhā vā puthujjanā vā cakkhuṃ…pe…  ārabbha rāgo…pe…  domanassaṃ uppajjati. Sotaṃ…pe…  vatthuṃ aniccato…pe…  domanassaṃ…pe…  dibbena cakkhunā rūpaṃ…pe…  dibbāya sotadhātuyā saddaṃ…pe… .
 
 2353\. **Vatthupurejātaṃ**—  vatthu vipākadhammadhammānaṃ khandhānaṃ purejātapaccayena paccayo. (3)
-
-
-

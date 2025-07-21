@@ -1,12 +1,4 @@
-
-
 # Vipāka
-
-
-
-
-
-
 
 (112.)
 
@@ -17,6 +9,3 @@
 308\. Sahetuko dhammo sahetukassa ca ahetukassa ca dhammassa vipākapaccayena paccayo—  vipāko sahetuko eko khandho tiṇṇannaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ…pe…  dve khandhā…pe…  paṭisandhikkhaṇe…pe… . (3)
 
 309\. Ahetuko dhammo ahetukassa dhammassa vipākapaccayena paccayo—  vipāko ahetuko eko khandho tiṇṇannaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ…pe…  dve khandhā…pe…  paṭisandhikkhaṇe…pe…  khandhā vatthussa vipākapaccayena paccayo. (1)
-
-
-

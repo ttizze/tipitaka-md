@@ -1,11 +1,4 @@
-
-
 # Tika
-
-
-
-
-
 
 2433\. Nahetupaccayā naārammaṇapaccayā adhipatiyā satta…pe…  avigate terasa.
 
@@ -15,13 +8,6 @@
 
 2435\. Paccanīyānulomaṃ.
 
-
-
 ---
 
 2436\. Vipākattikaṃ niṭṭhitaṃ.
-
-
-
-
-

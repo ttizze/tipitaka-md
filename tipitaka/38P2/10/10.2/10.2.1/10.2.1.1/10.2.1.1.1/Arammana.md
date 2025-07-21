@@ -1,12 +1,4 @@
-
-
 # Ārammaṇa
-
-
-
-
-
-
 
 (51.)
 
@@ -19,6 +11,3 @@
 2430\. Nocittaṃ dhammaṃ paṭicca citto ca nocitto ca dhammā uppajjanti ārammaṇapaccayā—  nocittaṃ ekaṃ khandhaṃ paṭicca dve khandhā cittañca, dve khandhe paṭicca…pe…  paṭisandhikkhaṇe nocittaṃ ekaṃ khandhaṃ paṭicca dve khandhā cittañca, dve khandhe…pe…  paṭisandhikkhaṇe vatthuṃ paṭicca cittañca sampayuttakā ca khandhā. (3)
 
 2431\. Cittañca nocittañca dhammaṃ paṭicca nocitto dhammo uppajjati ārammaṇapaccayā—  nocittaṃ ekaṃ khandhañca cittañca paṭicca dve khandhā, dve khandhe ca…pe…  paṭisandhikkhaṇe…pe…  paṭisandhikkhaṇe cittañca vatthuñca paṭicca nocittā khandhā. (1) (Saṃkhittaṃ.)
-
-
-

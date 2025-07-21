@@ -1,11 +1,4 @@
-
-
 # Āsevana
-
-
-
-
-
 
 (77.)
 
@@ -16,6 +9,3 @@
 2103\. Paritto dhammo appamāṇassa dhammassa āsevanapaccayena paccayo—  gotrabhu maggassa…  vodānaṃ maggassa āsevanapaccayena paccayo. (3)
 
 2104\. Mahaggato dhammo mahaggatassa dhammassa āsevanapaccayena paccayo—  purimā purimā mahaggatā khandhā pacchimānaṃ pacchimānaṃ mahaggatānaṃ khandhānaṃ…pe…  āsevanapaccayena paccayo. (1)
-
-
-

@@ -1,11 +1,4 @@
-
-
 # Ārammaṇa
-
-
-
-
-
 
 (43.)
 
@@ -20,6 +13,3 @@
 1779\. Nevasekkhanāsekkho dhammo sekkhassa dhammassa ārammaṇapaccayena paccayo—  nibbānaṃ maggassa, sekkhassa phalassa ārammaṇapaccayena paccayo. (2)
 
 1780\. Nevasekkhanāsekkho dhammo asekkhassa dhammassa ārammaṇapaccayena paccayo—  nibbānaṃ asekkhassa phalassa ārammaṇapaccayena paccayo. (3)
-
-
-

@@ -1,10 +1,4 @@
-
-
 # Hetu
-
-
-
-
 
 (53.)
 
@@ -39,6 +33,3 @@
 1876\. Hetuyā sattarasa, ārammaṇe nava, adhipatiyā ekavīsa, anantare samanantare nava, sahajāte aññamaññe nissaye sattarasa, upanissaye ekavīsa, āsevane nava, kamme sattarasa, āhāre…pe…  sampayutte sattarasa…pe…  avigate sattarasa. (Saṃkhittaṃ.)
 
 1877\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
-
-
-

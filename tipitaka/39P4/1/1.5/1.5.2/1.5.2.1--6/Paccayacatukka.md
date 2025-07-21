@@ -1,11 +1,4 @@
-
-
 # Paccayacatukka
-
-
-
-
-
 
 (71.)
 
@@ -30,6 +23,3 @@
 (73.)
 
 239\. Hetuyā nava, ārammaṇe tīṇi, adhipatiyā nava, anantare tīṇi, samanantare tīṇi, sahajāte nava, aññamaññe tīṇi, nissaye nava, upanissaye tīṇi, purejāte tīṇi, āsevane tīṇi, kamme nava, vipāke pañca, āhāre nava…pe…  avigate nava. (Saṃkhittaṃ.)
-
-
-

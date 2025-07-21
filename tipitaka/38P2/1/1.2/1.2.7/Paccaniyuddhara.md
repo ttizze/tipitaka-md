@@ -1,10 +1,4 @@
-
-
 # Paccanīyuddhāra
-
-
-
-
 
 (120.)
 
@@ -29,6 +23,3 @@
 341\. Sahetuko ca ahetuko ca dhammā ahetukassa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo…  pacchājātapaccayena paccayo. (2)
 
 342\. Sahetuko ca ahetuko ca dhammā sahetukassa ca ahetukassa ca dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo. (3)
-
-
-

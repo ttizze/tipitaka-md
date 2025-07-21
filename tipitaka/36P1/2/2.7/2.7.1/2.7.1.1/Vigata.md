@@ -1,11 +1,4 @@
-
-
 # Vigata
-
-
-
-
-
 
 (301.)
 
@@ -14,8 +7,3 @@
 ---
 
 1003\. (Yathā anantarapaccayaṃ, evaṃ vitthāretabbaṃ.)
-
-
-
-
-

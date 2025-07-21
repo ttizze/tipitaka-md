@@ -1,11 +1,4 @@
-
-
 # Adhipati
-
-
-
-
-
 
 (3.)
 
@@ -18,6 +11,3 @@
 130\. Kusalañca abyākatañca dhammaṃ paṭicca abyākato dhammo uppajjati adhipatipaccayā—  kusale khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
 
 131\. Akusalañca abyākatañca dhammaṃ paṭicca abyākato dhammo uppajjati adhipatipaccayā—  akusale khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
-
-
-

@@ -1,11 +1,4 @@
-
-
 # Kamma
-
-
-
-
-
 
 (108.)
 
@@ -26,6 +19,3 @@
 2366\. Vipākadhammadhammo vipākadhammadhammassa ca nevavipākanavipākadhammadhammassa ca dhammassa kammapaccayena paccayo—  vipākadhammadhammā cetanā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo. (5)
 
 2367\. Nevavipākanavipākadhammadhammo nevavipākanavipākadhammadhammassa kammapaccayena paccayo—  nevavipākanavipākadhammadhammā cetanā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo. (1)
-
-
-

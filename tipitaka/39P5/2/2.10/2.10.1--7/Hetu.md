@@ -1,10 +1,4 @@
-
-
 # Hetu
-
-
-
-
 
 (24.)
 
@@ -17,6 +11,3 @@
 373\. Sekkhaṃ abyākataṃ dhammaṃ paṭicca sekkho abyākato dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
 
 374\. Hetuyā nava, ārammaṇe tīṇi…pe…  āsevane ekaṃ…pe…  avigate nava. (Sabbattha vitthāretabbaṃ.)
-
-
-

@@ -1,10 +1,4 @@
-
-
 # Hetuduka
-
-
-
-
 
 (200.)
 
@@ -13,8 +7,3 @@
 ---
 
 689\. Nissayavāre anulomapaccanīyaṃ.
-
-
-
-
-

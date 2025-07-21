@@ -1,10 +1,4 @@
-
-
 # Hetu
-
-
-
-
 
 (40.)
 
@@ -19,6 +13,3 @@
 109\. Parittañca mahaggatañca dhammaṃ paṭicca naparitto dhammo uppajjati hetupaccayā. Parittañca mahaggatañca dhammaṃ paṭicca namahaggato dhammo uppajjati hetupaccayā. Parittañca mahaggatañca dhammaṃ paṭicca naappamāṇo dhammo uppajjati hetupaccayā. Parittañca mahaggatañca dhammaṃ paṭicca naparitto ca naappamāṇo ca dhammā uppajjanti hetupaccayā. Parittañca mahaggatañca dhammaṃ paṭicca namahaggato ca naappamāṇo ca dhammā uppajjanti hetupaccayā. (5) (Saṃkhittaṃ.)
 
 110\. Hetuyā tevīsa, ārammaṇe cuddasa, adhipatiyā ekūnavīsa…pe…  aññamaññe soḷasa…pe…  purejāte āsevane nava…pe…  avigate tevīsa. (Sabbattha vitthāretabbaṃ.)
-
-
-

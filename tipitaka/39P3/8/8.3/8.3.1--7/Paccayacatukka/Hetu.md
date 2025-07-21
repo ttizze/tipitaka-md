@@ -1,11 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
 
 (17.)
 
@@ -36,6 +29,3 @@
 1933\. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
 
 1934\. (Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
-
-
-

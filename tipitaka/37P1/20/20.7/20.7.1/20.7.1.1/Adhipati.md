@@ -1,11 +1,4 @@
-
-
 # Adhipati
-
-
-
-
-
 
 (23.)
 
@@ -26,6 +19,3 @@
 2709\. Paccuppannārammaṇo dhammo atītārammaṇassa dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  atītaṃ dibbaṃ cakkhuṃ garuṃ katvā paccavekkhati, dibbaṃ sotadhātuṃ garuṃ katvā paccavekkhati, paccuppannārammaṇaṃ atītaṃ iddhividhañāṇaṃ garuṃ katvā…pe…  cetopariyañāṇaṃ garuṃ katvā…pe…  paccuppannārammaṇe atīte khandhe garuṃ katvā assādeti abhinandati; taṃ garuṃ katvā atītārammaṇo rāgo uppajjati, diṭṭhi uppajjati. (2)
 
 2710\. Paccuppannārammaṇo dhammo anāgatārammaṇassa dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  anāgataṃ dibbaṃ cakkhuṃ garuṃ katvā paccavekkhati, dibbaṃ sotadhātuṃ garuṃ katvā…pe…  paccuppannārammaṇaṃ anāgataṃ iddhividhañāṇaṃ garuṃ katvā…pe…  cetopariyañāṇaṃ garuṃ katvā…pe…  paccuppannārammaṇe anāgate khandhe garuṃ katvā assādeti abhinandati; taṃ garuṃ katvā anāgatārammaṇo rāgo uppajjati, diṭṭhi uppajjati. (3)
-
-
-

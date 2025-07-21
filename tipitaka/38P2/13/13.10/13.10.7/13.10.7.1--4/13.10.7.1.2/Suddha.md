@@ -1,12 +1,4 @@
-
-
 # Suddha
-
-
-
-
-
-
 
 (193.)
 
@@ -17,8 +9,3 @@
 ---
 
 4510\. Upekkhāsahagatadukaṃ niṭṭhitaṃ.
-
-
-
-
-

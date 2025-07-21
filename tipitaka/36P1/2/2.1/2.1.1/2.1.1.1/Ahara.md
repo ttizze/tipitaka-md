@@ -1,11 +1,4 @@
-
-
 # Āhāra
-
-
-
-
-
 
 (13.)
 
@@ -18,6 +11,3 @@
 158\. Kusalañca abyākatañca dhammaṃ paṭicca…pe… .
 
 159\. Akusalañca abyākatañca dhammaṃ paṭicca abyākato dhammo uppajjati āhārapaccayā—  akusale khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ.
-
-
-

@@ -1,11 +1,4 @@
-
-
 # Napacchājātaduka
-
-
-
-
-
 
 (405.)
 
@@ -15,6 +8,3 @@
 * [Aṭṭhaka](Napacchajataduka/Atthaka.md)
 * [Dasaka](Napacchajataduka/Dasaka.md)
 * [Ekādasaka](Napacchajataduka/Ekadasaka.md)
-
-
-

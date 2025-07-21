@@ -1,12 +1,4 @@
-
-
 # Adhipati
-
-
-
-
-
-
 
 (30.)
 
@@ -19,6 +11,3 @@
 (31.)
 
 2383\. Anārammaṇo dhammo sārammaṇassa dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  ariyā nibbānaṃ garuṃ katvā paccavekkhanti; nibbānaṃ gotrabhussa, vodānassa, maggassa, phalassa, adhipatipaccayena paccayo; cakkhuṃ…pe…  vatthuṃ garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā rāgo uppajjati, diṭṭhi uppajjati. (1)
-
-
-

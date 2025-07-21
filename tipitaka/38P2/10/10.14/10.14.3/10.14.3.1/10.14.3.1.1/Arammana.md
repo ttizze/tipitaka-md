@@ -1,12 +1,4 @@
-
-
 # Ārammaṇa
-
-
-
-
-
-
 
 (435.)
 
@@ -17,6 +9,3 @@
 3420\. Anupādinnaṃ dhammaṃ paccayā anupādinno dhammo uppajjati ārammaṇapaccayā—  anupādinnaṃ ekaṃ khandhaṃ paccayā tayo khandhā…pe…  dve khandhe…pe… . (1)
 
 3421\. Upādinnañca anupādinnañca dhammaṃ paccayā anupādinno dhammo uppajjati ārammaṇapaccayā—  anupādinnaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe ca…pe… . (1)
-
-
-

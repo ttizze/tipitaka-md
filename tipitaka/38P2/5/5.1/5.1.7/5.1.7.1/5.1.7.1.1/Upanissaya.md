@@ -1,12 +1,4 @@
-
-
 # Upanissaya
-
-
-
-
-
-
 
 (28.)
 
@@ -21,6 +13,3 @@
 1677\. Nogantho dhammo ganthassa ca noganthassa ca dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  saddhaṃ upanissāya mānaṃ jappeti, diṭṭhiṃ gaṇhāti, sīlaṃ…pe…  senāsanaṃ upanissāya pāṇaṃ hanati…pe…  saṃghaṃ bhindati, saddhā…pe…  senāsanaṃ ganthānaṃ sampayuttakānañca khandhānaṃ upanissayapaccayena paccayo. (3)
 
 1678\. Gantho ca nogantho ca dhammā ganthassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**…  tīṇi. (Ārammaṇanayena kātabbā.)
-
-
-

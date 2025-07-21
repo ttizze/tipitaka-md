@@ -1,12 +1,4 @@
-
-
 # Naārammaṇādi
-
-
-
-
-
-
 
 (376.)
 
@@ -17,6 +9,3 @@
 3263\. Noupādā dhammaṃ paṭicca upādā ca noupādā ca dhammā uppajjanti naārammaṇapaccayā—  noupādā khandhe paṭicca upādā ca noupādā ca cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe…pe… . (3)
 
 3264\. Naadhipatipaccayā pañca, naanantarapaccayā tīṇi…pe…  naupanissayapaccayā pañca, napurejātapaccayā pañca, napacchājātapaccayā pañca, naāsevanapaccayā pañca.
-
-
-

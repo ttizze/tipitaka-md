@@ -1,10 +1,4 @@
-
-
 # Paccanīyuddhāra
-
-
-
-
 
 (84.)
 
@@ -23,6 +17,3 @@
 2071\. Nīvaraṇasampayutto ca nīvaraṇavippayutto ca dhammā nīvaraṇasampayuttassa dhammassa sahajātaṃ, purejātaṃ. (1)
 
 2072\. Nīvaraṇasampayutto ca nīvaraṇavippayutto ca dhammā nīvaraṇavippayuttassa dhammassa sahajātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ. (2)
-
-
-

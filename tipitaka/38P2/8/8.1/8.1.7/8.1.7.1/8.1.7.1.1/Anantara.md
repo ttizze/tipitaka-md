@@ -1,12 +1,4 @@
-
-
 # Anantara
-
-
-
-
-
-
 
 (30.)
 
@@ -19,6 +11,3 @@
 (32.)
 
 1955\. Nīvaraṇo ca nonīvaraṇo ca dhammā nīvaraṇassa dhammassa anantarapaccayena paccayo—  purimā purimā nīvaraṇā ca sampayuttakā ca khandhā pacchimānaṃ pacchimānaṃ nīvaraṇānaṃ anantarapaccayena paccayo. (Mūlaṃ pucchitabbaṃ.) Purimā purimā nīvaraṇā ca sampayuttakā ca khandhā pacchimānaṃ pacchimānaṃ nonīvaraṇānaṃ khandhānaṃ anantarapaccayena paccayo; nīvaraṇā ca sampayuttakā ca khandhā vuṭṭhānassa anantarapaccayena paccayo. (Mūlaṃ pucchitabbaṃ.) Purimā purimā nīvaraṇā ca sampayuttakā ca khandhā pacchimānaṃ pacchimānaṃ nīvaraṇānañca sampayuttakānañca khandhānaṃ anantarapaccayena paccayo. (3)
-
-
-

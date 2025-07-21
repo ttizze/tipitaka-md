@@ -1,11 +1,4 @@
-
-
 # Paccanīyuddhāra
-
-
-
-
-
 
 (18.)
 
@@ -20,6 +13,3 @@
 1738\. Nahetupaccayā ārammaṇe tīṇi. (Saṃkhittaṃ.)
 
 1739\. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
-
-
-

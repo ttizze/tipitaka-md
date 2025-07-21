@@ -1,12 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
-
 
 (62.)
 
@@ -23,6 +15,3 @@
 1759\. Ganthavippayuttaṃ dhammaṃ saṃsaṭṭho ganthasampayutto dhammo uppajjati hetupaccayā—  diṭṭhigatavippayuttaṃ lobhaṃ saṃsaṭṭhā sampayuttakā khandhā, paṭighaṃ saṃsaṭṭhā sampayuttakā khandhā. (2)
 
 1760\. Ganthasampayuttañca ganthavippayuttañca dhammaṃ saṃsaṭṭho ganthasampayutto dhammo uppajjati hetupaccayā—  diṭṭhigatavippayuttaṃ lobhasahagataṃ ekaṃ khandhañca lobhañca saṃsaṭṭhā tayo khandhā…pe…  dve khandhe…pe…  domanassasahagataṃ ekaṃ khandhañca paṭighañca saṃsaṭṭhā tayo khandhā…pe…  dve khandhe…pe…  (Saṃkhittaṃ.)
-
-
-

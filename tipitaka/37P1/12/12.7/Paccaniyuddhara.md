@@ -1,9 +1,4 @@
-
-
 # Paccanīyuddhāra
-
-
-
 
 (69.)
 
@@ -40,6 +35,3 @@
 1857\. Asekkho ca nevasekkhanāsekkho ca dhammā asekkhassa dhammassa sahajātaṃ, purejātaṃ. (1)
 
 1858\. Asekkho ca nevasekkhanāsekkho ca dhammā nevasekkhanāsekkhassa dhammassa sahajātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ. (2)
-
-
-

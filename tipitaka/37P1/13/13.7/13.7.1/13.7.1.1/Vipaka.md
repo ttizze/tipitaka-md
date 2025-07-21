@@ -1,11 +1,4 @@
-
-
 # Vipāka
-
-
-
-
-
 
 (80.)
 
@@ -14,6 +7,3 @@
 2113\. Mahaggato dhammo mahaggatassa dhammassa vipākapaccayena paccayo…pe… . (Tisso pañhā, pavattipaṭisandhi kātabbā.) (3)
 
 2114\. Appamāṇo dhammo appamāṇassa dhammassa vipākapaccayena paccayo…  tīṇi. (Pavattimeva.)
-
-
-

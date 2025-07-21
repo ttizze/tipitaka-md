@@ -1,11 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
 
 (1.)
 
@@ -54,6 +47,3 @@
 2949\. Anidassanasappaṭighañca anidassanaappaṭighañca dhammaṃ paṭicca sanidassanasappaṭigho ca anidassanasappaṭigho ca dhammā uppajjanti hetupaccayā—  anidassanaappaṭighe khandhe ca mahābhūte ca paṭicca sanidassanasappaṭighañca anidassanasappaṭighañca cittasamuṭṭhānaṃ rūpaṃ. Paṭisandhikkhaṇe anidassanaappaṭighe khandhe ca mahābhūte ca paṭicca sanidassanasappaṭighañca anidassanasappaṭighañca kaṭattārūpaṃ. Anidassanasappaṭighe mahābhūte ca āpodhātuñca paṭicca sanidassanasappaṭighañca anidassanasappaṭighañca cittasamuṭṭhānaṃ rūpaṃ kaṭattārūpaṃ upādārūpaṃ. Phoṭṭhabbāyatanañca āpodhātuñca paṭicca rūpāyatanaṃ, cakkhāyatanaṃ…pe…  rasāyatanaṃ. (6)
 
 2950\. Anidassanasappaṭighañca anidassanaappaṭighañca dhammaṃ paṭicca sanidassanasappaṭigho ca anidassanasappaṭigho ca anidassanaappaṭigho ca dhammā uppajjanti hetupaccayā—  anidassanaappaṭighe khandhe ca mahābhūte ca paṭicca sanidassanasappaṭighañca anidassanasappaṭighañca anidassanaappaṭighañca cittasamuṭṭhānaṃ rūpaṃ. Paṭisandhikkhaṇe anidassanaappaṭighe khandhe ca mahābhūte ca paṭicca sanidassanasappaṭighañca anidassanasappaṭighañca anidassanaappaṭighañca kaṭattārūpaṃ. Anidassanasappaṭighe mahābhūte ca āpodhātuñca paṭicca sanidassanasappaṭighañca anidassanasappaṭighañca anidassanaappaṭighañca cittasamuṭṭhānaṃ rūpaṃ kaṭattārūpaṃ upādārūpaṃ. Phoṭṭhabbāyatanañca āpodhātuñca paṭicca rūpāyatanaṃ, cakkhāyatanaṃ…pe…  rasāyatanaṃ, itthindriyaṃ…pe…  kabaḷīkāro āhāro. (7)
-
-
-

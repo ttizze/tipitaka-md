@@ -1,11 +1,4 @@
-
-
 # Ārammaṇa
-
-
-
-
-
 
 (12.)
 
@@ -18,6 +11,3 @@
 2895\. Bahiddhārammaṇo dhammo bahiddhārammaṇassa dhammassa ārammaṇapaccayena paccayo—  bahiddhārammaṇaṃ bahiddhā dibbaṃ cakkhuṃ paccavekkhati, dibbaṃ sotadhātuṃ paccavekkhati. Iddhividhañāṇaṃ…pe…  cetopariyañāṇaṃ…pe…  pubbenivāsānussatiñāṇaṃ…pe…  yathākammūpagañāṇaṃ…pe…  anāgataṃsañāṇaṃ paccavekkhati. Bahiddhārammaṇe bahiddhā khandhe aniccato dukkhato anattato vipassati…pe…  cetopariyañāṇena bahiddhārammaṇabahiddhācittasamaṅgissa cittaṃ jānāti. Bahiddhārammaṇā bahiddhā khandhā cetopariyañāṇassa, pubbenivāsānussatiñāṇassa, yathākammūpagañāṇassa, anāgataṃsañāṇassa, āvajjanāya ārammaṇapaccayena paccayo. (1)
 
 2896\. Bahiddhārammaṇo dhammo ajjhattārammaṇassa dhammassa ārammaṇapaccayena paccayo—  dānaṃ datvā sīlaṃ samādiyitvā uposathakammaṃ katvā taṃ paccavekkhati, pubbe suciṇṇāni paccavekkhati, jhānā vuṭṭhahitvā jhānaṃ paccavekkhati. Ariyā maggā vuṭṭhahitvā maggaṃ paccavekkhanti, phalaṃ paccavekkhanti, bahiddhārammaṇe pahīne kilese paccavekkhanti, vikkhambhite kilese paccavekkhanti, pubbe samudāciṇṇe kilese jānanti. Bahiddhārammaṇaṃ ajjhattaṃ dibbaṃ cakkhuṃ paccavekkhati, dibbaṃ sotadhātuṃ…  iddhividhañāṇaṃ…  cetopariyañāṇaṃ…  pubbenivāsānussatiñāṇaṃ…  yathākammūpagañāṇaṃ…  anāgataṃsañāṇaṃ…  bahiddhārammaṇe ajjhatte khandhe aniccato…pe…  vipassati, assādeti abhinandati, taṃ ārabbha ajjhattārammaṇo rāgo uppajjati…pe…  domanassaṃ uppajjati. Bahiddhārammaṇā ajjhattā khandhā iddhividhañāṇassa, pubbenivāsānussatiñāṇassa, yathākammūpagañāṇassa, anāgataṃsañāṇassa, āvajjanāya ārammaṇapaccayena paccayo. (2)
-
-
-

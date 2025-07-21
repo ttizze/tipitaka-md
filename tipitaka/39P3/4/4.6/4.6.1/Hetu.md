@@ -1,10 +1,4 @@
-
-
 # Hetu
-
-
-
-
 
 (48.)
 
@@ -15,6 +9,3 @@
 1683\. Hetuyā dve, ārammaṇe dve…pe…  avigate dve. (Saṃkhittaṃ.)
 
 1684\. (Sahajātavāropi…pe…  pañhāvāropi vitthāretabbo.)
-
-
-

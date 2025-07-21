@@ -1,10 +1,4 @@
-
-
 # Navipākaduka
-
-
-
-
 
 (91.)
 
@@ -12,6 +6,3 @@
 
 * [Tika](Navipakaduka/Tika.md)
 * [Catukka](Navipakaduka/Catukka.md)
-
-
-

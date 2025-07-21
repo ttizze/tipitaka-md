@@ -1,11 +1,4 @@
-
-
 # Hetusahajātādi
-
-
-
-
-
 
 (5.)
 
@@ -20,6 +13,3 @@
 (6.)
 
 1347\. Abyākato anārammaṇo dhammo abyākatassa anārammaṇassa dhammassa sahajātapaccayena paccayo…  aññamaññapaccayena paccayo…  nissayapaccayena paccayo…  āhārapaccayena paccayo…  indriyapaccayena paccayo…  atthipaccayena paccayo…  avigatapaccayena paccayo (sabbattha ekaṃ. Saṃkhittaṃ.)
-
-
-

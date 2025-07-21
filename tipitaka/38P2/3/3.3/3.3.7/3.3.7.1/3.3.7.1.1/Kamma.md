@@ -1,12 +1,4 @@
-
-
 # Kamma
-
-
-
-
-
-
 
 (92.)
 
@@ -17,6 +9,3 @@
 1221\. Āsavasampayutto dhammo āsavasampayuttassa ca āsavavippayuttassa ca dhammassa kammapaccayena paccayo—  āsavasampayuttā cetanā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo; domanassasahagatā vicikicchāsahagatā uddhaccasahagatā cetanā sampayuttakānaṃ khandhānaṃ mohassa ca cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo. (3)
 
 1222\. Āsavavippayutto dhammo āsavavippayuttassa dhammassa kammapaccayena paccayo—  sahajātā, nānākkhaṇikā. **Sahajātā**—  āsavavippayuttā cetanā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo; paṭisandhikkhaṇe…pe… . **Nānākkhaṇikā** āsavavippayuttā cetanā vipākānaṃ khandhānaṃ kaṭattā ca rūpānaṃ kammapaccayena paccayo. (1)
-
-
-

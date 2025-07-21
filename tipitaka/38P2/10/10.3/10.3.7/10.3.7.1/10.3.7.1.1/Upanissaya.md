@@ -1,12 +1,4 @@
-
-
 # Upanissaya
-
-
-
-
-
-
 
 (127.)
 
@@ -19,6 +11,3 @@
 2628\. Acetasiko dhammo cetasikassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo pakatūpanissayo…pe… . **Pakatūpanissayo**—  utuṃ…  bhojanaṃ…  senāsanaṃ cittaṃ upanissāya dānaṃ deti…pe… . (Tīṇi, paṭhamagamanasadisaṃ ninnānākaraṇaṃ.)
 
 2629\. Cetasiko ca acetasiko ca dhammā cetasikassa dhammassa upanissayapaccayena paccayo…  tīṇi.
-
-
-

@@ -1,11 +1,4 @@
-
-
 # Anuloma-hetu
-
-
-
-
-
 
 (1.)
 
@@ -18,6 +11,3 @@
 122\. Kusalañca abyākatañca dhammaṃ paṭicca abyākato dhammo uppajjati hetupaccayā—  kusale khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
 
 123\. Akusalañca abyākatañca dhammaṃ paṭicca abyākato dhammo uppajjati hetupaccayā—  akusale khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
-
-
-

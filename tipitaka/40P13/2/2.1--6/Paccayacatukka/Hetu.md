@@ -1,10 +1,4 @@
-
-
 # Hetu
-
-
-
-
 
 (12.)
 
@@ -19,6 +13,3 @@
 26\. Adukkhamasukhāya vedanāya sampayuttaṃ dhammaṃ paṭicca naadukkhamasukhāya vedanāya sampayutto dhammo uppajjati hetupaccayā. Adukkhamasukhāya vedanāya sampayuttaṃ dhammaṃ paṭicca nasukhāya vedanāya sampayutto dhammo uppajjati hetupaccayā. Adukkhamasukhāya vedanāya sampayuttaṃ dhammaṃ paṭicca nadukkhāya vedanāya sampayutto dhammo uppajjati hetupaccayā. Adukkhamasukhāya vedanāya sampayuttaṃ dhammaṃ paṭicca nasukhāya vedanāya sampayutto ca naadukkhamasukhāya vedanāya sampayutto ca dhammā uppajjanti hetupaccayā. Adukkhamasukhāya vedanāya sampayuttaṃ dhammaṃ paṭicca nadukkhāya vedanāya sampayutto ca naadukkhamasukhāya vedanāya sampayutto ca dhammā uppajjanti hetupaccayā. Adukkhamasukhāya vedanāya sampayuttaṃ dhammaṃ paṭicca nasukhāya vedanāya sampayutto ca nadukkhāya vedanāya sampayutto ca dhammā uppajjanti hetupaccayā. Adukkhamasukhāya vedanāya sampayuttaṃ dhammaṃ paṭicca nasukhāya vedanāya sampayutto ca nadukkhāya vedanāya sampayutto ca naadukkhamasukhāya vedanāya sampayutto ca dhammā uppajjanti hetupaccayā. (7) (Saṃkhittaṃ.)
 
 27\. Hetuyā ekavīsa, ārammaṇe ekavīsa…pe…  purejāte āsevane cuddasa…pe…  avigate ekavīsa.
-
-
-

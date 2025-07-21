@@ -1,12 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
-
 
 (53.)
 
@@ -31,6 +23,3 @@
 666\. Sappaṭighañca appaṭighañca dhammaṃ paṭicca appaṭigho dhammo uppajjati hetupaccayā—  appaṭighe khandhe ca mahābhūte ca paṭicca appaṭighaṃ cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe appaṭighe khandhe ca mahābhūte ca paṭicca appaṭighaṃ kaṭattārūpaṃ, phoṭṭhabbāyatanañca āpodhātuñca paṭicca appaṭighaṃ cittasamuṭṭhānaṃ rūpaṃ, kaṭattārūpaṃ, upādārūpaṃ, phoṭṭhabbāyatanañca āpodhātuñca paṭicca itthindriyaṃ…pe…  kabaḷīkāro āhāro. (2)
 
 667\. Sappaṭighañca appaṭighañca dhammaṃ paṭicca sappaṭigho ca appaṭigho ca dhammā uppajjanti hetupaccayā—  appaṭighe khandhe ca mahābhūte ca paṭicca sappaṭighañca appaṭighañca cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe…pe…  appaṭighe khandhe ca mahābhūte ca paṭicca sappaṭighañca appaṭighañca kaṭattārūpaṃ, phoṭṭhabbāyatanañca āpodhātuñca paṭicca sappaṭighañca appaṭighañca cittasamuṭṭhānaṃ rūpaṃ, kaṭattārūpaṃ, upādārūpaṃ, phoṭṭhabbāyatanañca āpodhātuñca paṭicca cakkhāyatanaṃ…pe…  rasāyatanaṃ, itthindriyaṃ…pe…  kabaḷīkāro āhāro. (3)
-
-
-

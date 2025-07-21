@@ -1,11 +1,4 @@
-
-
 # Adhipati
-
-
-
-
-
 
 (22.)
 
@@ -46,6 +39,3 @@
 707\. Pītisahagato ca sukhasahagato ca dhammā upekkhāsahagatassa dhammassa adhipatipaccayena paccayo—  **ārammaṇādhipati** (Saṃkhittaṃ.) (3)
 
 708\. Pītisahagato ca sukhasahagato ca dhammā pītisahagatassa ca sukhasahagatassa ca dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati, sahajātādhipati…pe… . **Sahajātādhipati**—  pītisahagatā ca sukhasahagatā ca adhipati sampayuttakānaṃ pītisahagatānañca sukhasahagatānañca khandhānaṃ adhipatipaccayena paccayo. (4)
-
-
-

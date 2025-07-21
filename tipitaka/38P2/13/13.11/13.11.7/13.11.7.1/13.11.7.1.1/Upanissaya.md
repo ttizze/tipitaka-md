@@ -1,12 +1,4 @@
-
-
 # Upanissaya
-
-
-
-
-
-
 
 (213.)
 
@@ -19,6 +11,3 @@
 4561\. Nakāmāvacaro dhammo nakāmāvacarassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  nakāmāvacaraṃ saddhaṃ upanissāya jhānaṃ uppādeti, maggaṃ…pe…  abhiññaṃ…pe…  samāpattiṃ uppādeti; nakāmāvacaraṃ sīlaṃ…pe…  paññaṃ upanissāya nakāmāvacaraṃ jhānaṃ uppādeti…pe…  maggaṃ…pe…  abhiññaṃ…pe…  samāpattiṃ uppādeti; nakāmāvacarā saddhā…pe…  paññā nakāmāvacarāya saddhāya…pe…  paññāya, maggassa, phalasamāpattiyā upanissayapaccayena paccayo; paṭhamaṃ jhānaṃ dutiyassa jhānassa upanissayapaccayena paccayo…pe…  tatiyaṃ jhānaṃ…pe…  catutthaṃ jhānaṃ…pe…  ākāsānañcāyatanaṃ viññāṇañcāyatanassa…pe…  ākiñcaññāyatanaṃ nevasaññānāsaññāyatanassa upanissayapaccayena paccayo; paṭhamo maggo dutiyassa maggassa…pe…  dutiyo maggo tatiyassa maggassa…pe…  tatiyo maggo catutthassa maggassa upanissayapaccayena paccayo; maggo phalasamāpattiyā upanissayapaccayena paccayo. (1)
 
 4562\. Nakāmāvacaro dhammo kāmāvacarassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  nakāmāvacaraṃ saddhaṃ upanissāya dānaṃ deti, sīlaṃ…pe…  uposathakammaṃ…pe…  vipassanaṃ uppādeti, mānaṃ jappeti, diṭṭhiṃ gaṇhāti; nakāmāvacaraṃ sīlaṃ…pe…  paññaṃ upanissāya dānaṃ deti, sīlaṃ…pe…  uposathakammaṃ…pe…  vipassanaṃ uppādeti, mānaṃ jappeti, diṭṭhiṃ gaṇhāti; nakāmāvacarā saddhā…pe…  paññā kāmāvacarāya saddhāya…pe…  paññāya, rāgassa…pe…  patthanāya kāyikassa sukhassa, kāyikassa dukkhassa upanissayapaccayena paccayo; ariyā maggaṃ upanissāya saṅkhāre aniccato…pe…  vipassanti, maggo ariyānaṃ atthapaṭisambhidāya…  dhammapaṭisambhidāya…  niruttipaṭisambhidāya…  paṭibhānapaṭisambhidāya…  ṭhānāṭhānakosallassa upanissayapaccayena paccayo; phalasamāpatti kāyikassa sukhassa upanissayapaccayena paccayo. (2)
-
-
-

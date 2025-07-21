@@ -1,11 +1,4 @@
-
-
 # Sahajāta
-
-
-
-
-
 
 (120.)
 
@@ -20,8 +13,3 @@
 ---
 
 448\. (Yathā hetupaccayaṃ, evaṃ vitthāretabbaṃ.)
-
-
-
-
-

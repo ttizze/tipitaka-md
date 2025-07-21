@@ -1,12 +1,4 @@
-
-
 # Vipāka-āhāra
-
-
-
-
-
-
 
 (37.)
 
@@ -15,6 +7,3 @@
 2394\. Sārammaṇo dhammo sārammaṇassa dhammassa āhārapaccayena paccayo…  tīṇi.
 
 2395\. Anārammaṇo dhammo anārammaṇassa dhammassa āhārapaccayena paccayo—  kabaḷīkāro āhāro imassa kāyassa āhārapaccayena paccayo. (1)
-
-
-

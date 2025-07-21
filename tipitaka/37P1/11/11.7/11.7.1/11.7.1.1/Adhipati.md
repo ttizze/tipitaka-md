@@ -1,11 +1,4 @@
-
-
 # Adhipati
-
-
-
-
-
 
 (49.)
 
@@ -32,6 +25,3 @@
 1580\. Nevācayagāmināpacayagāmī dhammo ācayagāmissa dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  sekkhā phalaṃ garuṃ katvā paccavekkhanti, nibbānaṃ garuṃ katvā paccavekkhanti, nibbānaṃ gotrabhussa, vodānassa adhipatipaccayena paccayo. Cakkhuṃ garuṃ katvā assādeti…pe…  vatthuṃ…  nevācayagāmināpacayagāmī khandhe garuṃ katvā assādeti abhinandati; taṃ garuṃ katvā rāgo uppajjati, diṭṭhi uppajjati. (2)
 
 1581\. Nevācayagāmināpacayagāmī dhammo apacayagāmissa dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  nibbānaṃ maggassa adhipatipaccayena paccayo. (3)
-
-
-

@@ -1,12 +1,4 @@
-
-
 # Indriya
-
-
-
-
-
-
 
 (122.)
 
@@ -17,6 +9,3 @@
 824\. Arūpī dhammo arūpissa dhammassa indriyapaccayena paccayo…  tīṇi.
 
 825\. Rūpī ca arūpī ca dhammā arūpissa dhammassa indriyapaccayena paccayo—  cakkhundriyañca cakkhuviññāṇañca cakkhuviññāṇasahagatānaṃ khandhānaṃ indriyapaccayena paccayo…pe…  kāyindriyañca…pe… .
-
-
-

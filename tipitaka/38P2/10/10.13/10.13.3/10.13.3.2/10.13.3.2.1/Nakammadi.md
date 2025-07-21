@@ -1,12 +1,4 @@
-
-
 # Nakammādi
-
-
-
-
-
-
 
 (390.)
 
@@ -21,6 +13,3 @@
 3301\. Upādā ca noupādā ca dhammaṃ paccayā noupādā dhammo uppajjati nakammapaccayā—  noupādā khandhe ca vatthuñca paccayā noupādā cetanā. (1)
 
 3302\. Navipākapaccayā pañca, naāhārapaccayā tīṇi, naindriyapaccayā tīṇi.
-
-
-

@@ -1,11 +1,4 @@
-
-
 # Anantara
-
-
-
-
-
 
 (61.)
 
@@ -34,8 +27,3 @@
 ---
 
 2054\. (Samanantarapaccayaṃ anantarapaccayasadisaṃ.)
-
-
-
-
-

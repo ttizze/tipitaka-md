@@ -1,10 +1,4 @@
-
-
 # Hetu
-
-
-
-
 
 (68.)
 
@@ -25,6 +19,3 @@
 1924\. Hetuyā satta, ārammaṇe tīṇi, adhipatiyā nava, anantare samanantare ekaṃ, sahajāte ekavīsa, aññamaññe cha, nissaye ekavīsa, upanissaye tīṇi, purejāte cha, pacchājāte satta, āsevane ekaṃ, kamme vipāke āhāre satta, indriye nava, jhāne magge satta, sampayutte ekaṃ, vippayutte aṭṭha…pe…  avigate pañcavīsa. (Saṃkhittaṃ.)
 
 1925\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
-
-
-

@@ -1,8 +1,4 @@
-
-
 # Mātikā
-
-
 
 (224.)
 
@@ -34,8 +30,6 @@
 
 1554\. Gadrabhavaggo paṭhamo.
 
-
-
 1555\. Lābulatāya ekaṃ aṅgaṃ gahetabbaṃ.
 
 1556\. Padumassa tīṇi aṅgāni gahetabbāni.
@@ -59,8 +53,6 @@
 ---
 
 1565\. Samuddavaggo dutiyo.
-
-
 
 1566\. Pathaviyā pañca aṅgāni gahetabbāni.
 
@@ -86,8 +78,6 @@
 
 1576\. Pathavīvaggo tatiyo.
 
-
-
 1577\. Upacikāya ekaṃ aṅgaṃ gahetabbaṃ.
 
 1578\. Biḷārassa dve aṅgāni gahetabbāni.
@@ -111,8 +101,6 @@
 ---
 
 1587\. Upacikāvaggo catuttho.
-
-
 
 1588\. Sīhassa satta aṅgāni gahetabbāni.
 
@@ -138,8 +126,6 @@
 
 1598\. Sīhavaggo pañcamo.
 
-
-
 1599\. Panthamakkaṭakassa ekaṃ aṅgaṃ gahetabbaṃ.
 
 1600\. Thanasitadārakassa ekaṃ aṅgaṃ gahetabbaṃ.
@@ -164,8 +150,6 @@
 
 1609\. Makkaṭavaggo chaṭṭho.
 
-
-
 1610\. Kumbhassa ekaṃ aṅgaṃ gahetabbaṃ.
 
 1611\. Kāḷāyasassa dve aṅgāni gahetabbāni.
@@ -183,8 +167,6 @@
 ---
 
 1617\. Kumbhavaggo sattamo.
-
-
 
 1618\. Rañño cattāri aṅgāni gahetabbāni.
 
@@ -265,8 +247,3 @@
 ---
 
 1656\. Mātikā niṭṭhitā.
-
-
-
-
-

@@ -1,12 +1,4 @@
-
-
 # Hetu-ārammaṇādi
-
-
-
-
-
-
 
 (13.)
 
@@ -23,6 +15,3 @@
 (14.)
 
 1278\. Hetuyā dve, ārammaṇe nava, adhipatiyā ekaṃ, anantare nava, samanantare nava, sahajāte pañca, aññamaññe pañca, nissaye pañca, upanissaye nava, āsevane nava, kamme tīṇi, āhāre tīṇi, indriye tīṇi, jhāne tīṇi, magge tīṇi, sampayutte pañca, atthiyā pañca, natthiyā nava, vigate nava, avigate pañca. (Saṃkhittaṃ.)
-
-
-

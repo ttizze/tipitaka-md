@@ -1,12 +1,4 @@
-
-
 # Ārammaṇādi
-
-
-
-
-
-
 
 (122.)
 
@@ -21,6 +13,3 @@
 1300\. Āsavo ceva āsavasampayutto ca āsavasampayutto ceva no ca āsavo ca dhammā āsavassa ceva āsavasampayuttassa ca dhammassa ārammaṇapaccayena paccayo…  tīṇi.
 
 1301\. Adhipatipaccayā…  (ārammaṇasadisā, garukārammaṇā) anantarapaccayā…  (ārammaṇasadisāyeva, purimā purimāti kātabbā.) Samanantarapaccayā…  sahajātapaccayā…  aññamaññapaccayā…  nissayapaccayā…  upanissayapaccayā. (Ārammaṇasadisaṃyeva, vibhajanā natthi…  tīṇi. Upanissayaṃ sabbaṃ kātabbaṃ.)
-
-
-

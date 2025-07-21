@@ -1,12 +1,4 @@
-
-
 # Hetu-ārammaṇa
-
-
-
-
-
-
 
 (12.)
 
@@ -33,6 +25,3 @@
 981\. Nahetupaccayā ārammaṇe nava. (Saṃkhittaṃ.)
 
 982\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
-
-
-

@@ -1,10 +1,4 @@
-
-
 # Āhāraduka
-
-
-
-
 
 (74.)
 
@@ -12,6 +6,3 @@
 
 * [Tika](Aharaduka/Tika.md)
 * [Catukka](Aharaduka/Catukka.md)
-
-
-

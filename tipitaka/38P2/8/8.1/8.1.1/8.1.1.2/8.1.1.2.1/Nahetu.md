@@ -1,12 +1,4 @@
-
-
 # Nahetu
-
-
-
-
-
-
 
 (5.)
 
@@ -19,6 +11,3 @@
 (6.)
 
 1903\. Nīvaraṇañca nonīvaraṇañca dhammaṃ paṭicca nīvaraṇo dhammo uppajjati nahetupaccayā—  vicikicchānīvaraṇañca sampayuttake ca khandhe paṭicca avijjānīvaraṇaṃ, uddhaccanīvaraṇañca sampayuttake ca khandhe paṭicca avijjānīvaraṇaṃ. (1)
-
-
-

@@ -1,11 +1,4 @@
-
-
 # Atthi
-
-
-
-
-
 
 (299.)
 
@@ -36,6 +29,3 @@
 998\. Akusalo ca abyākato ca dhammā akusalassa dhammassa atthipaccayena paccayo—  sahajātaṃ, purejātaṃ. **Sahajāto**—  akusalo eko khandho ca vatthu ca tiṇṇannaṃ khandhānaṃ atthipaccayena paccayo. Tayo khandhā ca vatthu ca ekassa khandhassa atthipaccayena paccayo. Dve khandhā ca vatthu ca dvinnaṃ khandhānaṃ atthipaccayena paccayo. (1)
 
 999\. Akusalo ca abyākato ca dhammā abyākatassa dhammassa atthipaccayena paccayo—  sahajātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ. **Sahajātā**—  akusalā khandhā ca mahābhūtā ca cittasamuṭṭhānānaṃ rūpānaṃ atthipaccayena paccayo. **Pacchājātā**—  akusalā khandhā ca kabaḷīkāro āhāro ca imassa kāyassa atthipaccayena paccayo. **Pacchājātā**—  akusalā khandhā ca rūpajīvitindriyañca kaṭattārūpānaṃ atthipaccayena paccayo. (2)
-
-
-

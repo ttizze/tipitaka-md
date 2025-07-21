@@ -1,12 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
-
 
 (13.)
 
@@ -27,6 +19,3 @@
 2351\. Sārammaṇañca anārammaṇañca dhammaṃ paccayā anārammaṇo dhammo uppajjati hetupaccayā—  sārammaṇe khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe…pe… . (2)
 
 2352\. Sārammaṇañca anārammaṇañca dhammaṃ paccayā sārammaṇo ca anārammaṇo ca dhammā uppajjanti hetupaccayā—  sārammaṇaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe ca…pe…  sārammaṇe khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe…pe… . (3)
-
-
-

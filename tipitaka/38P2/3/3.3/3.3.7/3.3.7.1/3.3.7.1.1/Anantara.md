@@ -1,12 +1,4 @@
-
-
 # Anantara
-
-
-
-
-
-
 
 (82.)
 
@@ -31,6 +23,3 @@
 1201\. Āsavasampayutto ca āsavavippayutto ca dhammā āsavavippayuttassa dhammassa anantarapaccayena paccayo—  purimā purimā domanassasahagatā vicikicchāsahagatā uddhaccasahagatā khandhā ca moho ca pacchimassa pacchimassa domanassasahagatassa vicikicchāsahagatassa uddhaccasahagatassa mohassa anantarapaccayena paccayo; domanassasahagatā vicikicchāsahagatā uddhaccasahagatā khandhā ca moho ca vuṭṭhānassa anantarapaccayena paccayo. (2)
 
 1202\. Āsavasampayutto ca āsavavippayutto ca dhammā āsavasampayuttassa ca āsavavippayuttassa ca dhammassa anantarapaccayena paccayo—  purimā purimā domanassasahagatā vicikicchāsahagatā uddhaccasahagatā khandhā ca moho ca pacchimānaṃ pacchimānaṃ domanassasahagatānaṃ vicikicchāsahagatānaṃ uddhaccasahagatānaṃ khandhānaṃ mohassa ca anantarapaccayena paccayo. (3)
-
-
-

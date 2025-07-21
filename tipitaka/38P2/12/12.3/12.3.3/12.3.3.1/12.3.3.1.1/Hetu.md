@@ -1,12 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
-
 
 (44.)
 
@@ -25,6 +17,3 @@
 3933\. Saṃkiliṭṭhañca asaṃkiliṭṭhañca dhammaṃ paccayā asaṃkiliṭṭho dhammo uppajjati hetupaccayā—  saṃkiliṭṭhe khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ. (2)
 
 3934\. Saṃkiliṭṭhañca asaṃkiliṭṭhañca dhammaṃ paccayā saṃkiliṭṭho ca asaṃkiliṭṭho ca dhammā uppajjanti hetupaccayā—  saṃkiliṭṭhaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe ca…pe…  saṃkiliṭṭhe khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ. (Saṃkhittaṃ.) (3)
-
-
-

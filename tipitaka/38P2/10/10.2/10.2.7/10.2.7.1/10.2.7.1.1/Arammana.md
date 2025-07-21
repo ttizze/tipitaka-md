@@ -1,12 +1,4 @@
-
-
 # Ārammaṇa
-
-
-
-
-
-
 
 (71.)
 
@@ -21,6 +13,3 @@
 2489\. Nocitto dhammo cittassa ca nocittassa ca dhammassa ārammaṇapaccayena paccayo—  dānaṃ datvā…pe…  (paṭhamagamanasadisaṃ ninnānākaraṇaṃ, imaṃ nānaṃ), rūpāyatanaṃ cakkhuviññāṇassa sampayuttakānañca khandhānaṃ…pe…  phoṭṭhabbāyatanaṃ kāyaviññāṇassa sampayuttakānañca khandhānaṃ…pe…  nocittā khandhā iddhividhañāṇassa…pe…  āvajjanāya ārammaṇapaccayena paccayo. (3)
 
 2490\. Citto ca nocitto ca dhammā cittassa dhammassa ārammaṇapaccayena paccayo—  cittañca sampayuttake ca khandhe ārabbha cittaṃ uppajjati…  tīṇi.
-
-
-

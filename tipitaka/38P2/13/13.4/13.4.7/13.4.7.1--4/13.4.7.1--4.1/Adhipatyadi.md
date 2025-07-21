@@ -1,12 +1,4 @@
-
-
 # Adhipatyādi
-
-
-
-
-
-
 
 (97.)
 
@@ -23,6 +15,3 @@
 4277\. Nabhāvanāya pahātabbahetuko dhammo bhāvanāya pahātabbahetukassa dhammassa adhipatipaccayena paccayo—  **ārammaṇādhipati**—  dānaṃ…pe…  jhānaṃ…pe…  cakkhuṃ…pe…  vatthuṃ nabhāvanāya pahātabbahetuke khandhe garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā bhāvanāya pahātabbahetuko rāgo uppajjati. (2)
 
 4278\. (Anantarapaccaye nabhāvanāya pahātabbahetukakāraṇā vicikicchāsahagato moho na kātabbo, uddhaccasahagato moho kātabbo.) Samanantarapaccayena paccayo…  sahajātapaccayena paccayo…  nava…  aññamaññapaccayena paccayo…  cha…  nissayapaccayena paccayo…  nava.
-
-
-

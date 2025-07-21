@@ -1,11 +1,4 @@
-
-
 # Upanissaya
-
-
-
-
-
 
 (83.)
 
@@ -28,6 +21,3 @@
 996\. Nevadassanena nabhāvanāya pahātabbo dhammo dassanena pahātabbassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  saddhaṃ upanissāya diṭṭhiṃ gaṇhāti. Sīlaṃ…pe…  senāsanaṃ upanissāya pāṇaṃ hanati…pe…  saṃghaṃ bhindati. Saddhā…pe…  senāsanaṃ dassanena pahātabbassa rāgassa…  dosassa…  mohassa…  diṭṭhiyā…  patthanāya upanissayapaccayena paccayo. (2)
 
 997\. Nevadassanena nabhāvanāya pahātabbo dhammo bhāvanāya pahātabbassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  saddhaṃ upanissāya mānaṃ jappeti. Sīlaṃ…pe…  paññaṃ…  kāyikaṃ sukhaṃ…  kāyikaṃ dukkhaṃ…  utuṃ…  bhojanaṃ…  senāsanaṃ upanissāya mānaṃ jappeti. Saddhā…pe…  paññā…  kāyikaṃ sukhaṃ…  kāyikaṃ dukkhaṃ…  utu…  bhojanaṃ…  senāsanaṃ bhāvanāya pahātabbassa rāgassa…  dosassa…  mohassa…  mānassa…  patthanāya upanissayapaccayena paccayo. (3)
-
-
-

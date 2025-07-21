@@ -1,12 +1,4 @@
-
-
 # Anantara
-
-
-
-
-
-
 
 (73.)
 
@@ -31,6 +23,3 @@
 1504\. Saññojanasampayutto ca saññojanavippayutto ca dhammā saññojanavippayuttassa dhammassa anantarapaccayena paccayo—  purimā purimā uddhaccasahagatā khandhā ca moho ca pacchimassa pacchimassa uddhaccasahagatassa mohassa anantarapaccayena paccayo; uddhaccasahagatā khandhā ca moho ca vuṭṭhānassa anantarapaccayena paccayo. (2)
 
 1505\. Saññojanasampayutto ca saññojanavippayutto ca dhammā saññojanasampayuttassa ca saññojanavippayuttassa ca dhammassa anantarapaccayena paccayo—  purimā purimā uddhaccasahagatā khandhā ca moho ca pacchimānaṃ pacchimānaṃ uddhaccasahagatānaṃ khandhānaṃ mohassa ca anantarapaccayena paccayo. (3)
-
-
-

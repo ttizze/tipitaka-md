@@ -1,12 +1,4 @@
-
-
 # Upanissaya
-
-
-
-
-
-
 
 (19.)
 
@@ -19,6 +11,3 @@
 4105\. Nadassanena pahātabbo dhammo nadassanena pahātabbassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  saddhaṃ upanissāya dānaṃ deti…pe…  samāpattiṃ uppādeti, mānaṃ jappeti; sīlaṃ…pe…  paññaṃ, nadassanena pahātabbaṃ rāgaṃ…  dosaṃ…  mohaṃ…  mānaṃ…  patthanaṃ…  kāyikaṃ sukhaṃ…pe…  senāsanaṃ upanissāya dānaṃ deti…pe…  samāpattiṃ uppādeti, mānaṃ jappeti; saddhā…pe…  paññā, nadassanena pahātabbo rāgo…pe…  patthanā…  kāyikaṃ sukhaṃ…pe…  senāsanaṃ saddhāya…pe…  paññāya nadassanena pahātabbassa rāgassa…pe…  patthanāya…  kāyikassa sukhassa…  kāyikassa dukkhassa…  maggassa, phalasamāpattiyā upanissayapaccayena paccayo. (2)
 
 4106\. Nadassanena pahātabbo dhammo dassanena pahātabbassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  saddhaṃ upanissāya diṭṭhiṃ gaṇhāti; sīlaṃ…pe…  paññaṃ upanissāya diṭṭhiṃ gaṇhāti, nadassanena pahātabbaṃ rāgaṃ…  dosaṃ…  mohaṃ…  mānaṃ…  patthanaṃ…  kāyikaṃ sukhaṃ…pe…  senāsanaṃ upanissāya pāṇaṃ hanati…pe…  saṃghaṃ bhindati; saddhā…pe…  senāsanaṃ dassanena pahātabbassa rāgassa…  dosassa…  mohassa…  diṭṭhiyā…  patthanāya upanissayapaccayena paccayo. (2)
-
-
-

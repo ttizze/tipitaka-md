@@ -1,12 +1,4 @@
-
-
 # Hetvādi
-
-
-
-
-
-
 
 (144.)
 
@@ -17,6 +9,3 @@
 254\. Hetu nevavipākanavipākadhammadhammo hetussa nevavipākanavipākadhammadhammassa adhipatipaccayena paccayo—  sahajātādhipati…  tīṇi.
 
 255\. Nahetu nevavipākanavipākadhammadhammo nahetussa nevavipākanavipākadhammadhammassa adhipatipaccayena paccayo—  ārammaṇādhipati, sahajātādhipati…  tīṇi…pe… .
-
-
-

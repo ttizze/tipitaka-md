@@ -1,11 +1,4 @@
-
-
 # Vippayutta
-
-
-
-
-
 
 (64.)
 
@@ -18,6 +11,3 @@
 1619\. Nevācayagāmināpacayagāmī dhammo ācayagāmissa dhammassa vippayuttapaccayena paccayo. **Purejātaṃ**—  vatthu ācayagāmīnaṃ khandhānaṃ vippayuttapaccayena paccayo. (2)
 
 1620\. Nevācayagāmināpacayagāmī dhammo apacayagāmissa dhammassa vippayuttapaccayena paccayo. **Purejātaṃ**—  vatthu apacayagāmīnaṃ khandhānaṃ vippayuttapaccayena paccayo. (3)
-
-
-

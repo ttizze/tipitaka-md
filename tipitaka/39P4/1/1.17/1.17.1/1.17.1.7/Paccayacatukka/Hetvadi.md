@@ -1,12 +1,4 @@
-
-
 # Hetvādi
-
-
-
-
-
-
 
 (205.)
 
@@ -29,6 +21,3 @@
 786\. Nahetupaccayā ārammaṇe dve. (Saṃkhittaṃ.)
 
 787\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
-
-
-

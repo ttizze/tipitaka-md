@@ -1,11 +1,4 @@
-
-
 # Vippayutta
-
-
-
-
-
 
 (47.)
 
@@ -38,6 +31,3 @@
 1204\. Dassanena pahātabbahetukañca nevadassanena nabhāvanāya pahātabbahetukañca dhammaṃ paccayā dassanena pahātabbahetuko ca nevadassanena nabhāvanāya pahātabbahetuko ca dhammā uppajjanti vippayuttapaccayā—  dassanena pahātabbahetukaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe…pe…  dassanena pahātabbahetuke khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ, khandhā vatthuṃ vippayuttapaccayā. Cittasamuṭṭhānaṃ rūpaṃ khandhe vippayuttapaccayā. Vicikicchāsahagataṃ ekaṃ khandhañca mohañca paccayā tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe ca…pe…  khandhā vatthuṃ vippayuttapaccayā. Cittasamuṭṭhānaṃ rūpaṃ, khandhe ca mohañca vippayuttapaccayā. Vicikicchāsahagataṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā moho ca…pe…  dve khandhe ca…pe…  vatthuṃ vippayuttapaccayā. (3)
 
 1205\. Bhāvanāya pahātabbahetukañca…pe…  tīṇi. (Dassanena sadisā.)
-
-
-

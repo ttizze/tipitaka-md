@@ -1,12 +1,4 @@
-
-
 # Vippayutta
-
-
-
-
-
-
 
 (29.)
 
@@ -19,6 +11,3 @@
 3890\. Nokileso dhammo kilesassa ca nokilesassa ca dhammassa vippayuttapaccayena paccayo. **Purejātaṃ**—  vatthu kilesānaṃ sampayuttakānañca khandhānaṃ vippayuttapaccayena paccayo. (3)
 
 3891\. Kileso ca nokileso ca dhammā nokilesassa dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, pacchājātaṃ. (Saṃkhittaṃ. Vitthāretabbaṃ.)
-
-
-

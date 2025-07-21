@@ -1,11 +1,4 @@
-
-
 # Atthi
-
-
-
-
-
 
 (116.)
 
@@ -44,6 +37,3 @@
 2401\. Vipākadhammadhammo ca nevavipākanavipākadhammadhammo ca dhammā vipākadhammadhammassa…pe…  sahajātaṃ, purejātaṃ. **Sahajāto**—  vipākadhammadhammo eko khandho ca vatthu ca tiṇṇannaṃ…pe… . (1)
 
 2402\. Vipākadhammadhammo ca nevavipākanavipākadhammadhammo ca dhammā nevavipākanavipākadhammadhammassa atthipaccayena paccayo—  sahajātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ. **Sahajātā**—  vipākadhammadhammā khandhā ca mahābhūtā ca cittasamuṭṭhānānaṃ rūpānaṃ atthipaccayena paccayo. **Pacchājātā**—  vipākadhammadhammā khandhā ca kabaḷīkāro āhāro ca purejātassa imassa kāyassa atthipaccayena paccayo. **Pacchājātā**—  vipākadhammadhammā khandhā ca rūpajīvitindriyañca kaṭattārūpānaṃ atthipaccayena paccayo. (2)
-
-
-

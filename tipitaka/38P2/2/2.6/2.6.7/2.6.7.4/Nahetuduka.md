@@ -1,11 +1,4 @@
-
-
 # Nahetuduka
-
-
-
-
-
 
 (175.)
 
@@ -15,10 +8,4 @@
 
 949\. Paccanīyānulomaṃ.
 
-  
 Lokiyadukaṃ niṭṭhitaṃ.
-
-
-
-
-

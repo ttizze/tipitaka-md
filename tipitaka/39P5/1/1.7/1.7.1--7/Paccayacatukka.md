@@ -1,10 +1,4 @@
-
-
 # Paccayacatukka
-
-
-
-
 
 (38.)
 
@@ -29,6 +23,3 @@
 124\. Kusalaṃ nevadassanena nabhāvanāya pahātabbañca abyākataṃ nevadassanena nabhāvanāya pahātabbañca dhammaṃ paṭicca abyākato nevadassanena nabhāvanāya pahātabbo dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
 
 125\. Hetuyā pañca…pe…  ārammaṇe dve…pe…  vipāke ekaṃ…pe…  avigate pañca. (Saṃkhittaṃ. Sahajātavārepi…pe…  pañhāvārepi sabbattha vitthāro.)
-
-
-

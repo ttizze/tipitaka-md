@@ -1,10 +1,4 @@
-
-
 # Hetu
-
-
-
-
 
 (43.)
 
@@ -19,6 +13,3 @@
 119\. Sammattaniyatañca aniyatañca dhammaṃ paṭicca namicchattaniyato dhammo uppajjati hetupaccayā…  tīṇi. (Saṃkhittaṃ.)
 
 120\. Hetuyā ekūnavīsa, ārammaṇe nava…pe…  vipāke tīṇi…pe…  avigate ekūnavīsa. (Sabbattha vitthāretabbaṃ.)
-
-
-

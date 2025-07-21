@@ -1,12 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
-
 
 (51.)
 
@@ -25,6 +17,3 @@
 1452\. Saññojanasampayuttañca saññojanavippayuttañca dhammaṃ paccayā saññojanavippayutto dhammo uppajjati hetupaccayā—  saññojanasampayutte khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ, uddhaccasahagate khandhe ca mohañca paccayā cittasamuṭṭhānaṃ rūpaṃ. (2)
 
 1453\. Saññojanasampayuttañca saññojanavippayuttañca dhammaṃ paccayā saññojanasampayutto ca saññojanavippayutto ca dhammā uppajjanti hetupaccayā—  saññojanasampayuttaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe…pe…  saññojanasampayutte khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ, uddhaccasahagataṃ ekaṃ khandhañca mohañca paccayā tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe… . (3)
-
-
-

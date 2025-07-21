@@ -1,12 +1,4 @@
-
-
 # Ārammaṇa
-
-
-
-
-
-
 
 (334.)
 
@@ -19,6 +11,3 @@
 3142\. Ajjhattikañca bāhirañca dhammaṃ paccayā ajjhattiko dhammo uppajjati ārammaṇapaccayā—  cakkhuviññāṇasahagate khandhe ca cakkhāyatanañca paccayā cakkhuviññāṇaṃ…pe…  kāyaviññāṇasahagate…pe… .
 
 3143\. Ajjhattikañca bāhirañca dhammaṃ paccayā bāhiro dhammo uppajjati ārammaṇapaccayā—  cakkhuviññāṇasahagataṃ ekaṃ khandhañca cakkhāyatanañca cakkhuviññāṇañca paccayā dve khandhā, dve khandhe…pe…  kāyaviññāṇasahagataṃ…pe…  bāhiraṃ ekaṃ khandhañca cittañca paccayā dve khandhā, dve khandhe…pe…  cittañca vatthuñca paccayā bāhirā khandhā (paṭisandhikkhaṇe dvepi kātabbā). Ajjhattikañca bāhirañca dhammaṃ paccayā ajjhattiko ca bāhiro ca dhammā uppajjanti ārammaṇapaccayā—  cakkhuviññāṇasahagataṃ ekaṃ khandhañca cakkhāyatanañca paccayā dve khandhā cakkhuviññāṇañca, dve khandhe…pe…  (Saṃkhittaṃ.) (3)
-
-
-

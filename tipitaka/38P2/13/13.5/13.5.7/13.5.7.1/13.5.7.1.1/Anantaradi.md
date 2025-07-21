@@ -1,12 +1,4 @@
-
-
 # Anantarādi
-
-
-
-
-
-
 
 (122.)
 
@@ -33,6 +25,3 @@
 4346\. Savitakko ca avitakko ca dhammā savitakkassa ca avitakkassa ca dhammassa anantarapaccayena paccayo—  purimā purimā savitakkā khandhā ca vitakko ca pacchimānaṃ pacchimānaṃ savitakkānaṃ khandhānaṃ vitakkassa ca anantarapaccayena paccayo. (3)
 
 4347\. Samanantarapaccayena paccayo…  sahajātapaccayena paccayo…  nava…  aññamaññapaccayena paccayo…  nava…  nissayapaccayena paccayo…  nava.
-
-
-

@@ -1,11 +1,4 @@
-
-
 # Samanantara
-
-
-
-
-
 
 (282.)
 
@@ -22,6 +15,3 @@
 866\. Abyākato dhammo kusalassa dhammassa samanantarapaccayena paccayo—  āvajjanā kusalānaṃ khandhānaṃ samanantarapaccayena paccayo. (2)
 
 867\. Abyākato dhammo akusalassa dhammassa samanantarapaccayena paccayo—  āvajjanā akusalānaṃ khandhānaṃ samanantarapaccayena paccayo. (3)
-
-
-

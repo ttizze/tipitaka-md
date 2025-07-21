@@ -1,11 +1,4 @@
-
-
 # Anantara
-
-
-
-
-
 
 (26.)
 
@@ -39,13 +32,8 @@
 
 720\. (Tāniyeva ca gamanāni niyāmetabbāni.)
 
-
-
 (29.)
 
 721\. Pītisahagato ca sukhasahagato ca dhammā pītisahagatassa dhammassa…pe…  sukhasahagatassa dhammassa…pe…  upekkhāsahagatassa dhammassa anantarapaccayena paccayo—  pītisahagatañca sukhasahagatañca cuticittaṃ upekkhāsahagatassa upapatticittassa…pe…  pītisahagatañca sukhasahagatañca bhavaṅgaṃ āvajjanāya…pe…  pītisahagatā ca sukhasahagatā ca vipākamanoviññāṇadhātu kiriyamanoviññāṇadhātuyā…pe…  pītisahagatañca sukhasahagatañca bhavaṅgaṃ upekkhāsahagatassa bhavaṅgassa…pe…  pītisahagatañca sukhasahagatañca kusalākusalaṃ upekkhāsahagatassa vuṭṭhānassa…  kiriyaṃ vuṭṭhānassa…  phalaṃ vuṭṭhānassa anantarapaccayena paccayo. (3)
 
 722\. Pītisahagato ca sukhasahagato ca dhammā pītisahagatassa ca sukhasahagatassa ca dhammassa anantarapaccayena paccayo—  purimā purimā pītisahagatā ca sukhasahagatā ca khandhā pacchimānaṃ pacchimānaṃ pītisahagatānañca sukhasahagatānañca khandhānaṃ…pe…  pītisahagatañca sukhasahagatañca anulomaṃ pītisahagatāya ca sukhasahagatāya ca phalasamāpattiyā anantarapaccayena paccayo. (4)
-
-
-

@@ -1,11 +1,4 @@
-
-
 # Vippayutta
-
-
-
-
-
 
 (14.)
 
@@ -94,6 +87,3 @@
 96\. Savitakkasavicārañca avitakkavicāramattañca avitakkaavicārañca dhammaṃ paṭicca avitakkaavicāro dhammo uppajjati…pe…  savitakkasavicāre khandhe ca vitakkañca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. Khandhe ca vitakkañca vippayuttapaccayā. Paṭisandhikkhaṇe…pe…  khandhe ca vitakkañca vippayuttapaccayā. (2)
 
 97\. Savitakkasavicārañca avitakkavicāramattañca avitakkaavicārañca dhammaṃ paṭicca savitakkasavicāro ca avitakkaavicāro ca dhammā uppajjanti vippayuttapaccayā—  paṭisandhikkhaṇe savitakkasavicāraṃ ekaṃ khandhañca vitakkañca vatthuñca paṭicca tayo khandhā…pe…  dve khandhe ca…pe…  savitakkasavicāre khandhe ca vitakkañca mahābhūte ca paṭicca kaṭattārūpaṃ. Khandhā vatthuṃ vippayuttapaccayā. Kaṭattārūpaṃ khandhe ca vitakkañca vippayuttapaccayā. (3)
-
-
-

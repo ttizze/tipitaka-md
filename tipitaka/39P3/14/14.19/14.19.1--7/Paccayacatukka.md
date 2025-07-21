@@ -1,10 +1,4 @@
-
-
 # Paccayacatukka
-
-
-
-
 
 (61.)
 
@@ -29,6 +23,3 @@
 2738\. Araṇaṃ paccuppannārammaṇaṃ dhammaṃ paṭicca araṇo paccuppannārammaṇo dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
 
 2739\. Hetuyā dve, ārammaṇe dve…pe…  vipāke ekaṃ…pe…  avigate dve. (Saṃkhittaṃ. Sahajātavārepi…pe…  pañhāvārepi sabbattha vitthāretabbo.)
-
-
-

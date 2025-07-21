@@ -1,10 +1,4 @@
-
-
 # Duka
-
-
-
-
 
 (16.)
 
@@ -14,10 +8,4 @@
 
 676\. Paccanīyānulomaṃ.
 
-  
 Paṭiccavāro.
-
-
-
-
-

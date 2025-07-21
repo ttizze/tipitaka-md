@@ -1,12 +1,4 @@
-
-
 # Adhipati
-
-
-
-
-
-
 
 (21.)
 
@@ -31,6 +23,3 @@
 60\. Hetu ca nahetu ca dhammā nahetussa dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  hetuñca sampayuttake ca khandhe garuṃ katvā nahetū khandhā uppajjanti. (2)
 
 61\. Hetu ca nahetu ca dhammā hetussa ca nahetussa ca dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  hetuñca sampayuttake ca khandhe garuṃ katvā hetū ca sampayuttakā ca khandhā uppajjanti. (3)
-
-
-

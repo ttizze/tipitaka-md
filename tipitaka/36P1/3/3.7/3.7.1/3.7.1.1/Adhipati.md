@@ -1,11 +1,4 @@
-
-
 # Adhipati
-
-
-
-
-
 
 (42.)
 
@@ -36,6 +29,3 @@
 1902\. Adukkhamasukhāya vedanāya sampayutto dhammo sukhāya vedanāya sampayuttassa dhammassa adhipatipaccayena paccayo.
 
 1903\. **Ārammaṇādhipati**—  adukkhamasukhāya vedanāya sampayuttena cittena dānaṃ datvā, sīlaṃ samādiyitvā, uposathakammaṃ katvā sukhāya vedanāya sampayuttena cittena taṃ garuṃ katvā paccavekkhati. Adukkhamasukhāya vedanāya sampayuttā jhānā vuṭṭhahitvā, maggā vuṭṭhahitvā, phalā vuṭṭhahitvā sukhāya vedanāya sampayuttena cittena taṃ garuṃ katvā paccavekkhati. Adukkhamasukhāya vedanāya sampayutte khandhe sukhāya vedanāya sampayuttena cittena garuṃ katvā assādeti abhinandati; taṃ garuṃ katvā sukhāya vedanāya sampayutto rāgo uppajjati, diṭṭhi uppajjati. (2)
-
-
-

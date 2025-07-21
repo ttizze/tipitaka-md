@@ -1,11 +1,4 @@
-
-
 # Paccayacatukka
-
-
-
-
-
 
 (58.)
 
@@ -46,6 +39,3 @@
 203\. (Saṃkhittaṃ.)
 
 204\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
-
-
-

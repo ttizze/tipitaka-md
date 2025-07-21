@@ -1,10 +1,4 @@
-
-
 # Naaññamaññaduka
-
-
-
-
 
 (500.)
 
@@ -12,6 +6,3 @@
 
 * [Catukka](Naannamannaduka/Catukka.md)
 * [Aṭṭhaka](Naannamannaduka/Atthaka.md)
-
-
-

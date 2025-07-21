@@ -1,11 +1,4 @@
-
-
 # Naupanissayaduka
-
-
-
-
-
 
 (403.)
 
@@ -15,6 +8,3 @@
 * [Aṭṭhaka](Naupanissayaduka/Atthaka.md)
 * [Navaka](Naupanissayaduka/Navaka.md)
 * [Dasaka](Naupanissayaduka/Dasaka.md)
-
-
-

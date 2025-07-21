@@ -1,10 +1,4 @@
-
-
 # Paccanīyuddhāra
-
-
-
-
 
 (49.)
 
@@ -17,6 +11,3 @@
 651\. Anidassano dhammo sanidassanassa ca anidassanassa ca dhammassa sahajātapaccayena paccayo…  pacchājātapaccayena paccayo…  kammapaccayena paccayo…  āhārapaccayena paccayo…  indriyapaccayena paccayo. (3)
 
 652\. Sanidassano ca anidassano ca dhammā anidassanassa dhammassa purejātapaccayena paccayo. (1)
-
-
-

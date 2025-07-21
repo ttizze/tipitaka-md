@@ -1,12 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
-
 
 (296.)
 
@@ -19,6 +11,3 @@
 3050\. Nocittasaṃsaṭṭhasamuṭṭhānaṃ dhammaṃ saṃsaṭṭho cittasaṃsaṭṭhasamuṭṭhāno dhammo uppajjati hetupaccayā—  cittaṃ saṃsaṭṭhā sampayuttakā khandhā; paṭisandhikkhaṇe…pe… . (1)
 
 3051\. Cittasaṃsaṭṭhasamuṭṭhānañca nocittasaṃsaṭṭhasamuṭṭhānañca dhammaṃ saṃsaṭṭho cittasaṃsaṭṭhasamuṭṭhāno dhammo uppajjati hetupaccayā—  cittasaṃsaṭṭhasamuṭṭhānaṃ ekaṃ khandhañca cittañca saṃsaṭṭhā dve khandhā, dve khandhe…pe…  paṭisandhikkhaṇe…pe… . (1) (Saṃkhittaṃ.)
-
-
-

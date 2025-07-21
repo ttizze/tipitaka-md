@@ -1,12 +1,4 @@
-
-
 # Anantara
-
-
-
-
-
-
 
 (25.)
 
@@ -21,6 +13,3 @@
 1671\. Nogantho dhammo noganthassa dhammassa anantarapaccayena paccayo…  tīṇi. (Dve āvajjanā kātabbā, paṭhamo natthi.)
 
 1672\. Gantho ca nogantho ca dhammā ganthassa dhammassa anantarapaccayena paccayo…  tīṇi. (Ekampi vuṭṭhānaṃ kātabbaṃ, majjhe.)
-
-
-

@@ -1,12 +1,4 @@
-
-
 # Ārammaṇa
-
-
-
-
-
-
 
 (95.)
 
@@ -29,6 +21,3 @@
 2558\. Cetasikañca acetasikañca dhammaṃ paṭicca acetasiko dhammo uppajjati ārammaṇapaccayā—  paṭisandhikkhaṇe cetasike khandhe ca vatthuñca paṭicca cittaṃ. (2)
 
 2559\. Cetasikañca acetasikañca dhammaṃ paṭicca cetasiko ca acetasiko ca dhammā uppajjanti ārammaṇapaccayā—  paṭisandhikkhaṇe cetasikaṃ ekaṃ khandhañca vatthuñca paṭicca dve khandhā cittañca, dve khandhe ca…pe… . (3)
-
-
-

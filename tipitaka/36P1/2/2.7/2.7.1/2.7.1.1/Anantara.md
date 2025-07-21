@@ -1,11 +1,4 @@
-
-
 # Anantara
-
-
-
-
-
 
 (281.)
 
@@ -22,6 +15,3 @@
 859\. Abyākato dhammo kusalassa dhammassa anantarapaccayena paccayo—  āvajjanā kusalānaṃ khandhānaṃ anantarapaccayena paccayo. (2)
 
 860\. Abyākato dhammo akusalassa dhammassa anantarapaccayena paccayo—  āvajjanā akusalānaṃ khandhānaṃ anantarapaccayena paccayo. (3)
-
-
-

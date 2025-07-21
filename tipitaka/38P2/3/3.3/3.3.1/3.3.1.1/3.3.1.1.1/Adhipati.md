@@ -1,12 +1,4 @@
-
-
 # Adhipati
-
-
-
-
-
-
 
 (53.)
 
@@ -29,8 +21,3 @@
 ---
 
 1117\. (Evaṃ sabbe paccayā vitthāretabbā. Saṃkhittaṃ.)
-
-
-
-
-

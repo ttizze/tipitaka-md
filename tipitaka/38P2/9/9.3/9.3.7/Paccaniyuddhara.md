@@ -1,10 +1,4 @@
-
-
 # Paccanīyuddhāra
-
-
-
-
 
 (81.)
 
@@ -23,6 +17,3 @@
 2291\. Parāmāsasampayutto ca parāmāsavippayutto ca dhammā parāmāsasampayuttassa dhammassa sahajātaṃ, purejātaṃ. (1)
 
 2292\. Parāmāsasampayutto ca parāmāsavippayutto ca dhammā parāmāsavippayuttassa dhammassa sahajātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ. (2)
-
-
-

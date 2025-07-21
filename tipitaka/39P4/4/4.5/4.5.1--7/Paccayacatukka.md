@@ -1,10 +1,4 @@
-
-
 # Paccayacatukka
-
-
-
-
 
 (24.)
 
@@ -51,6 +45,3 @@
 (29.)
 
 1312\. Hetuyā pañca, ārammaṇe nava, adhipatiyā cattāri, anantare…pe…  sahajāte satta, aññamaññe dve, nissaye dasa, upanissaye nava, purejāte pacchājāte āsevane tīṇi, kamme cattāri, vipāke ekaṃ, āhāre…pe…  magge cattāri, sampayutte dve, vippayutte pañca…pe…  avigate dasa. (Saṃkhittaṃ. Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
-
-
-

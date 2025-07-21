@@ -1,11 +1,4 @@
-
-
 # Kamma
-
-
-
-
-
 
 (57.)
 
@@ -28,6 +21,3 @@
 1943\. Adukkhamasukhāya vedanāya sampayutto dhammo sukhāya vedanāya sampayuttassa dhammassa kammapaccayena paccayo. Nānākkhaṇikā—  adukkhamasukhāya vedanāya sampayuttā cetanā vipākānaṃ sukhāya vedanāya sampayuttakānaṃ khandhānaṃ kammapaccayena paccayo. (2)
 
 1944\. Adukkhamasukhāya vedanāya sampayutto dhammo dukkhāya vedanāya sampayuttassa dhammassa kammapaccayena paccayo. **Nānākkhaṇikā**—  adukkhamasukhāya vedanāya sampayuttā cetanā vipākānaṃ dukkhāya vedanāya sampayuttakānaṃ khandhānaṃ kammapaccayena paccayo. (3)
-
-
-

@@ -1,11 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
 
 (79.)
 
@@ -36,6 +29,3 @@
 2183\. Cittasaṃsaṭṭhasamuṭṭhānānuparivattiṃ abyākataṃ dhammaṃ paṭicca cittasaṃsaṭṭhasamuṭṭhānānuparivattī abyākato dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
 
 2184\. Hetuyā nava, ārammaṇe nava…pe…  avigate nava. (Saṃkhittaṃ. Cittasaṃsaṭṭhasamuṭṭhānadukaabyākatasadisaṃ. Sahajātavārampi…pe…  pañhāvārampi vitthāretabbaṃ.)
-
-
-

@@ -1,12 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
-
 
 (65.)
 
@@ -17,8 +9,3 @@
 ---
 
 690\. (Avasesā pañca pañhā paṭiccavārasadisā.)
-
-
-
-
-

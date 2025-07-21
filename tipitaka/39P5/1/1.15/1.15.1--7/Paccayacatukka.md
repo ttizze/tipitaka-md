@@ -1,10 +1,4 @@
-
-
 # Paccayacatukka
-
-
-
-
 
 (67.)
 
@@ -27,6 +21,3 @@
 230\. Abyākataṃ maggādhipatiṃ dhammaṃ paṭicca abyākato maggādhipati dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
 
 231\. Hetuyā dve…pe…  avigate dve. (Saṃkhittaṃ. Sabbattha vitthāro.)
-
-
-

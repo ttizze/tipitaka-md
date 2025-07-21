@@ -1,12 +1,4 @@
-
-
 # Ārammaṇa-adhipati
-
-
-
-
-
-
 
 (75.)
 
@@ -35,6 +27,3 @@
 252\. Nahetupaccayā ārammaṇe cha. (Saṃkhittaṃ.)
 
 253\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
-
-
-

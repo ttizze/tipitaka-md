@@ -1,11 +1,4 @@
-
-
 # Hetu-ārammaṇa
-
-
-
-
-
 
 (13.)
 
@@ -46,6 +39,3 @@
 1380\. Nahetuyā ekaṃ, naārammaṇe pañca, novigate pañca.
 
 1381\. (Sahajātavārampi…pe…  pañhāvārampi evaṃ vitthāretabbaṃ.)
-
-
-

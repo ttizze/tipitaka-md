@@ -1,11 +1,4 @@
-
-
 # Hetu
-
-
-
-
-
 
 (1.)
 
@@ -26,6 +19,3 @@
 1230\. Kusalaṃ noāsavañca abyākataṃ noāsavañca dhammaṃ paṭicca abyākato noāsavo dhammo uppajjati hetupaccayā. (1)
 
 1231\. Akusalaṃ noāsavañca abyākataṃ noāsavañca dhammaṃ paṭicca abyākato noāsavo dhammo uppajjati hetupaccayā. (1)
-
-
-

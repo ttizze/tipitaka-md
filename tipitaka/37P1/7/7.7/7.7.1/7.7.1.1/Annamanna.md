@@ -1,11 +1,4 @@
-
-
 # Aññamañña
-
-
-
-
-
 
 (92.)
 
@@ -74,6 +67,3 @@
 408\. Savitakkasavicāro ca avitakkavicāramatto ca dhammā savitakkasavicārassa ca avitakkaavicārassa ca dhammassa aññamaññapaccayena paccayo—  paṭisandhikkhaṇe savitakkasavicāro eko khandho ca vitakko ca tiṇṇannaṃ khandhānaṃ vatthussa ca aññamaññapaccayena paccayo…pe…  dve khandhā ca vitakko ca dvinnaṃ khandhānaṃ vatthussa ca aññamaññapaccayena paccayo. (3)
 
 409\. Savitakkasavicāro ca avitakkavicāramatto ca avitakkaavicāro ca dhammā savitakkasavicārassa dhammassa aññamaññapaccayena paccayo—  paṭisandhikkhaṇe savitakkasavicāro eko khandho ca vitakko ca vatthu ca tiṇṇannaṃ khandhānaṃ aññamaññapaccayena paccayo…pe…  dve khandhā ca vitakko ca vatthu ca dvinnaṃ khandhānaṃ aññamaññapaccayena paccayo. (1)
-
-
-

@@ -1,12 +1,4 @@
-
-
 # Naadhipatyādi
-
-
-
-
-
-
 
 (231.)
 
@@ -17,6 +9,3 @@
 (232.)
 
 4590\. Rūpāvacarañca narūpāvacarañca dhammaṃ paṭicca rūpāvacaro dhammo uppajjati naadhipatipaccayā—  paṭisandhikkhaṇe rūpāvacaraṃ ekaṃ khandhañca vatthuñca paṭicca tayo khandhā…pe…  dve khandhe ca…pe… . Rūpāvacarañca narūpāvacarañca dhammaṃ paṭicca narūpāvacaro dhammo uppajjati naadhipatipaccayā—  vipāke rūpāvacare khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe…pe… . Rūpāvacarañca narūpāvacarañca dhammaṃ paṭicca rūpāvacaro ca narūpāvacaro ca dhammā uppajjanti naadhipatipaccayā—  paṭisandhikkhaṇe rūpāvacaraṃ ekaṃ khandhañca vatthuñca paṭicca tayo khandhā…pe…  dve khandhe ca…pe…  rūpāvacare khandhe ca mahābhūte ca paṭicca kaṭattārūpaṃ. (3) Naanantarapaccayā…pe…  naupanissayapaccayā.
-
-
-

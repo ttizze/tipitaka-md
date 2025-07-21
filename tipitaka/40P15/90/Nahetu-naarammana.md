@@ -1,8 +1,4 @@
-
-
 # Nahetu-naārammaṇa
-
-
 
 (103.)
 
@@ -21,6 +17,3 @@
 287\. Araṇo anidassanaappaṭigho dhammo nasaraṇassa naanidassanaappaṭighassa dhammassa hetupaccayena paccayo. (1) (Saṃkhittaṃ.)
 
 288\. Hetuyā dve, adhipatiyā dve, sahajāte nissaye tīṇi, pacchājāte kamme dve, vipāke ekaṃ, āhāre indriye jhāne magge vippayutte dve…pe…  avigate tīṇi.
-
-
-

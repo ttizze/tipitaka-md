@@ -1,10 +1,4 @@
-
-
 # Hetu
-
-
-
-
 
 (23.)
 
@@ -15,6 +9,3 @@
 368\. Ācayagāmiṃ akusalaṃ dhammaṃ paṭicca ācayagāmī akusalo dhammo uppajjati hetupaccayā. (Sabbattha ekaṃ.)
 
 369\. Nevācayagāmināpacayagāmiṃ abyākataṃ dhammaṃ paṭicca nevācayagāmināpacayagāmī abyākato dhammo uppajjati hetupaccayā. (Sabbattha ekaṃ.)
-
-
-

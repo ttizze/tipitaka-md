@@ -1,8 +1,4 @@
-
-
 # Hetu-ārammaṇa
-
-
 
 (3.)
 
@@ -51,6 +47,3 @@
 24\. Nahetuṃ nasahetukaṃ dhammaṃ paṭicca nahetu nasahetuko dhammo uppajjati hetupaccayā. (Sabbattha ekaṃ.)
 
 25\. Nahetuṃ naahetukaṃ dhammaṃ paṭicca nahetu naahetuko dhammo uppajjati hetupaccayā. (Sabbattha ekaṃ.)
-
-
-

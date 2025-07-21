@@ -1,12 +1,4 @@
-
-
 # Nahetu
-
-
-
-
-
-
 
 (5.)
 
@@ -19,6 +11,3 @@
 1337\. Saññojanañca nosaññojanañca dhammaṃ paṭicca saññojano dhammo uppajjati nahetupaccayā—  vicikicchāsaññojanañca sampayuttake ca khandhe paṭicca avijjāsaññojanaṃ. (3)
 
 1338\. (Saṃkhittaṃ. Āsavagocchakasadisaṃ. Naārammaṇāpi sabbe uddharitabbā.)
-
-
-

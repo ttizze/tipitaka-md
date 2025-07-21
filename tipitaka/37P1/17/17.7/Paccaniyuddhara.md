@@ -1,9 +1,4 @@
-
-
 # Paccanīyuddhāra
-
-
-
 
 (49.)
 
@@ -56,6 +51,3 @@
 2586\. Maggahetuko ca maggādhipati ca dhammā maggārammaṇassa ca maggādhipatissa ca dhammassa upanissayapaccayena paccayo. (4)
 
 2587\. Maggahetuko ca maggādhipati ca dhammā maggahetukassa ca maggādhipatissa ca dhammassa sahajātapaccayena paccayo…  upanissayapaccayena paccayo. (5)
-
-
-

@@ -1,11 +1,4 @@
-
-
 # Anantara
-
-
-
-
-
 
 (52.)
 
@@ -20,6 +13,3 @@
 1586\. Nevācayagāmināpacayagāmī dhammo nevācayagāmināpacayagāmissa dhammassa anantarapaccayena paccayo—  purimā purimā nevācayagāmināpacayagāmī khandhā pacchimānaṃ pacchimānaṃ nevācayagāmināpacayagāmīnaṃ khandhānaṃ anantarapaccayena paccayo. Bhavaṅgaṃ āvajjanāya…  kiriyaṃ vuṭṭhānassa…  arahato anulomaṃ phalasamāpattiyā…  nirodhā vuṭṭhahantassa nevasaññānāsaññāyatanakiriyaṃ phalasamāpattiyā anantarapaccayena paccayo. (1)
 
 1587\. Nevācayagāmināpacayagāmī dhammo ācayagāmissa dhammassa anantarapaccayena paccayo—  āvajjanā ācayagāmīnaṃ khandhānaṃ anantarapaccayena paccayo. (2)
-
-
-

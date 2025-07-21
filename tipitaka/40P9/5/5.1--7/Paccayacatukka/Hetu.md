@@ -1,10 +1,4 @@
-
-
 # Hetu
-
-
-
-
 
 (29.)
 
@@ -25,6 +19,3 @@
 84\. Nahetuṃ naanidassanasappaṭighañca nanahetuṃ naanidassanasappaṭighañca dhammaṃ paṭicca nahetu naanidassanasappaṭigho dhammo uppajjati hetupaccayā. Nahetuṃ naanidassanasappaṭighañca nanahetuṃ naanidassanasappaṭighañca dhammaṃ paṭicca nanahetu naanidassanasappaṭigho dhammo uppajjati hetupaccayā. Nahetuṃ naanidassanasappaṭighañca nanahetuṃ naanidassanasappaṭighañca dhammaṃ paṭicca nahetu naanidassanasappaṭigho ca nanahetu naanidassanasappaṭigho ca dhammā uppajjanti hetupaccayā. (3) (Saṃkhittaṃ.)
 
 85\. Hetuyā nava…pe…  avigate nava. (Sahajātavārepi…pe…  sampayuttavārepi sabbattha vitthāro.)
-
-
-

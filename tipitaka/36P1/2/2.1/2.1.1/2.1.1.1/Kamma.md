@@ -1,11 +1,4 @@
-
-
 # Kamma
-
-
-
-
-
 
 (11.)
 
@@ -18,6 +11,3 @@
 152\. Kusalañca abyākatañca dhammaṃ paṭicca abyākato dhammo uppajjati kammapaccayā—  kusale khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
 
 153\. Akusalañca abyākatañca dhammaṃ paṭicca abyākato dhammo uppajjati kammapaccayā—  akusale khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
-
-
-
