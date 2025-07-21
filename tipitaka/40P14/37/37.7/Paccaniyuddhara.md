@@ -1,13 +1,9 @@
 
-[Home](/) / [40P14 Dhammānulomapaccanīya (3), Dukapaṭṭhānapāḷi (2)](../../../40P14.md) / [37 Saraṇaduka](../../37.md) / [37.7 Pañhāvāra](../37.7.md)
 
 # Paccanīyuddhāra
 
-* Saraṇaduka
 
-* Pañhāvāra
 
-* Paccanīyuddhāra
 
 (56.)
 
@@ -25,6 +21,5 @@
 
 186\. (Yathā kusalattike pañhāvāraṃ evaṃ vitthāretabbaṃ.)
 
-[Go to previous page (37.7 Pañhāvāra)](../37.7.md) / [Go to parent page (37.7 Pañhāvāra)](../37.7.md)
 
 

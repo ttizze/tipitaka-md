@@ -1,19 +1,12 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [3 Āsavagocchaka](../../../../../3.md) / [3.3 Āsavasampayuttaduka](../../../../3.3.md) / [3.3.7 Pañhāvāra](../../../3.3.7.md) / [3.3.7.1 Paccayānuloma](../../3.3.7.1.md) / [3.3.7.1.1 Vibhaṅgavāra](../3.3.7.1.1.md)
 
 # Anantara
 
-* Āsavagocchaka
 
-* Āsavasampayuttaduka
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Anantara
 
 (82.)
 
@@ -39,6 +32,5 @@
 
 1202\. Āsavasampayutto ca āsavavippayutto ca dhammā āsavasampayuttassa ca āsavavippayuttassa ca dhammassa anantarapaccayena paccayo—  purimā purimā domanassasahagatā vicikicchāsahagatā uddhaccasahagatā khandhā ca moho ca pacchimānaṃ pacchimānaṃ domanassasahagatānaṃ vicikicchāsahagatānaṃ uddhaccasahagatānaṃ khandhānaṃ mohassa ca anantarapaccayena paccayo. (3)
 
-[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (3.3.7.1.1 Vibhaṅgavāra)](../3.3.7.1.1.md) / [Go to next page (Samanantarādi)](Samanantaradi.md)
 
 

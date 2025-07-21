@@ -1,13 +1,9 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../37P1.md) / [20 Atītārammaṇattika](../../20.md) / [20.7 Pañhāvāra](../20.7.md)
 
 # Paccanīyuddhāra
 
-* Atītārammaṇattika
 
-* Pañhāvāra
 
-* Paccanīyuddhāra
 
 (40.)
 
@@ -33,6 +29,5 @@
 
 2752\. Paccuppannārammaṇo dhammo anāgatārammaṇassa dhammassa ārammaṇapaccayena paccayo…  upanissayapaccayena paccayo…  kammapaccayena paccayo. (3)
 
-[Go to previous page (Suddha)](20.7.1/20.7.1.2/Suddha.md) / [Go to parent page (20.7 Pañhāvāra)](../20.7.md) / [Go to next page (20.7.2 Paccayapaccanīya)](20.7.2.md)
 
 

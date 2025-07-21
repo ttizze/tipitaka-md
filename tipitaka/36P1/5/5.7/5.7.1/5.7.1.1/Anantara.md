@@ -1,17 +1,11 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [5 Upādinnattika](../../../../5.md) / [5.7 Pañhāvāra](../../../5.7.md) / [5.7.1 Paccayānuloma](../../5.7.1.md) / [5.7.1.1 Vibhaṅgavāra](../5.7.1.1.md)
 
 # Anantara
 
-* Upādinnattika
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Anantara
 
 (56.)
 
@@ -29,6 +23,5 @@
 
 2630\. Anupādinnaanupādāniyo dhammo upādinnupādāniyassa dhammassa anantarapaccayena paccayo—  phalaṃ vuṭṭhānassa anantarapaccayena paccayo. (2)
 
-[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (5.7.1.1 Vibhaṅgavāra)](../5.7.1.1.md) / [Go to next page (Samanantara)](Samanantara.md)
 
 

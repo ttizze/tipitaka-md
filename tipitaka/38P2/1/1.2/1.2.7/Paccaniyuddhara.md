@@ -1,15 +1,10 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../38P2.md) / [1 Hetugocchaka](../../../1.md) / [1.2 Sahetukaduka](../../1.2.md) / [1.2.7 Pañhāvāra](../1.2.7.md)
 
 # Paccanīyuddhāra
 
-* Hetugocchaka
 
-* Sahetukaduka
 
-* Pañhāvāra
 
-* Paccanīyuddhāra
 
 (120.)
 
@@ -35,6 +30,5 @@
 
 342\. Sahetuko ca ahetuko ca dhammā sahetukassa ca ahetukassa ca dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo. (3)
 
-[Go to previous page (Suddha)](1.2.7.1/1.2.7.1.2/Suddha.md) / [Go to parent page (1.2.7 Pañhāvāra)](../1.2.7.md) / [Go to next page (1.2.7.2 Paccayapaccanīya)](1.2.7.2.md)
 
 

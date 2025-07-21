@@ -1,19 +1,12 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [11 Upādānagocchaka](../../../../../11.md) / [11.1 Upādānaduka](../../../../11.1.md) / [11.1.7 Pañhāvāra](../../../11.1.7.md) / [11.1.7.1 Paccayānuloma](../../11.1.7.1.md) / [11.1.7.1.1 Vibhaṅgavāra](../11.1.7.1.1.md)
 
 # Anantarādi
 
-* Upādānagocchaka
 
-* Upādānaduka
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Anantarādi
 
 (23.)
 
@@ -33,6 +26,5 @@
 
 3589\. Samanantarapaccayena paccayo…  sahajātapaccayena paccayo (paṭiccasadisaṃ)…  aññamaññapaccayena paccayo (paṭiccasadisaṃ)…  nissayapaccayena paccayo. (Paccayasadisaṃ.)
 
-[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (11.1.7.1.1 Vibhaṅgavāra)](../11.1.7.1.1.md) / [Go to next page (Upanissaya)](Upanissaya.md)
 
 

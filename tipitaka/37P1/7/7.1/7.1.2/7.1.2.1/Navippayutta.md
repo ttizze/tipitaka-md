@@ -1,17 +1,11 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [7 Vitakkattika](../../../../7.md) / [7.1 Paṭiccavāra](../../../7.1.md) / [7.1.2 Paccayapaccanīya](../../7.1.2.md) / [7.1.2.1 Vibhaṅgavāra](../7.1.2.1.md)
 
 # Navippayutta
 
-* Vitakkattika
 
-* Paṭiccavāra
 
-* Paccayapaccanīya
 
-* Vibhaṅgavāra
 
-* Navippayutta
 
 (41.)
 
@@ -39,6 +33,5 @@
 
 190\. Savitakkasavicārañca avitakkavicāramattañca dhammaṃ paṭicca savitakkasavicāro dhammo uppajjati navippayuttapaccayā—  arūpe savitakkasavicāraṃ ekaṃ khandhañca vitakkañca paṭicca tayo khandhā…pe…  dve khandhe ca vitakkañca paṭicca dve khandhā. (1)
 
-[Go to previous page (Navipākādi)](Navipakadi.md) / [Go to parent page (7.1.2.1 Vibhaṅgavāra)](../7.1.2.1.md) / [Go to next page (Nonatthi-novigata)](Nonatthi-novigata.md)
 
 

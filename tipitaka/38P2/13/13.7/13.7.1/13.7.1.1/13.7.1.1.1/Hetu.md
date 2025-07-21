@@ -1,19 +1,12 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [13 Piṭṭhiduka](../../../../../13.md) / [13.7 Sappītikaduka](../../../../13.7.md) / [13.7.1 Paṭiccavāra](../../../13.7.1.md) / [13.7.1.1 Paccayānuloma](../../13.7.1.1.md) / [13.7.1.1.1 Vibhaṅgavāra](../13.7.1.1.1.md)
 
 # Hetu
 
-* Piṭṭhiduka
 
-* Sappītikaduka
 
-* Paṭiccavāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Hetu
 
 (142.)
 
@@ -21,6 +14,5 @@
 
 4380\. Appītikaṃ dhammaṃ paṭicca appītiko dhammo uppajjati hetupaccayā—  appītikaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  pītiṃ paṭicca cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe appītikaṃ ekaṃ khandhaṃ paṭicca tayo khandhā kaṭattā ca rūpaṃ, dve khandhe…pe…  pītiṃ paṭicca kaṭattārūpaṃ, khandhe paṭicca vatthu, vatthuṃ paṭicca khandhā, pītiṃ paṭicca vatthu, vatthuṃ paṭicca pīti, ekaṃ mahābhūtaṃ…pe… . (Yathā savitakkadukaṃ sabbattha, evaṃ sappītikadukaṃ kātabbaṃ, sabbattha pavattipaṭisandhi navapi pañhā.)
 
-[Go to previous page (13.7.1.1.1 Vibhaṅgavāra)](../13.7.1.1.1.md) / [Go to parent page (13.7.1.1.1 Vibhaṅgavāra)](../13.7.1.1.1.md) / [Go to next page (13.7.1.1.2 Saṅkhyāvāra)](../13.7.1.1.2.md)
 
 

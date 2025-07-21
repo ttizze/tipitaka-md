@@ -1,17 +1,11 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [12 Sekkhattika](../../../../12.md) / [12.7 Pañhāvāra](../../../12.7.md) / [12.7.1 Paccayānuloma](../../12.7.1.md) / [12.7.1.1 Vibhaṅgavāra](../12.7.1.1.md)
 
 # Atthi
 
-* Sekkhattika
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Atthi
 
 (65.)
 
@@ -39,6 +33,5 @@
 
 1842\. Asekkho ca nevasekkhanāsekkho ca dhammā asekkhassa dhammassa atthipaccayena paccayo…pe… . (Dve pañhā kātabbā, sekkhasadisā.)
 
-[Go to previous page (Vippayutta)](Vippayutta.md) / [Go to parent page (12.7.1.1 Vibhaṅgavāra)](../12.7.1.1.md) / [Go to next page (12.7.1.2 Saṅkhyāvāra)](../12.7.1.2.md)
 
 

@@ -1,11 +1,8 @@
 
-[Home](/) / [18Sn Suttanipātapāḷi](../../18Sn.md) / [5 Pārāyanavagga](../5.md)
 
 # Vatthugāthā
 
-* Pārāyanavagga
 
-* Vatthugāthā
 
 (983.)
 
@@ -467,6 +464,5 @@ _Tattha pucchi tathāgataṃ. (56)_
 
 
 
-[Go to previous page (5 Pārāyanavagga)](../5.md) / [Go to parent page (5 Pārāyanavagga)](../5.md) / [Go to next page (5.1 Ajitamāṇavapucchā)](5.1.md)
 
 

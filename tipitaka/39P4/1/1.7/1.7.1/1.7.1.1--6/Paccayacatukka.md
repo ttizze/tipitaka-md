@@ -1,17 +1,11 @@
 
-[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../../../39P4.md) / [1 Tika, Hetuduka](../../../../1.md) / [1.7 Pītittika, Hetuduka](../../../1.7.md) / [1.7.1 Hetupada](../../1.7.1.md) / [1.7.1.1--6 Paṭiccādivāra](../1.7.1.1--6.md)
 
 # Paccayacatukka
 
-* Tika, Hetuduka
 
-* Pītittika, Hetuduka
 
-* Hetupada
 
-* Paṭiccādivāra
 
-* Paccayacatukka
 
 (102.)
 
@@ -31,6 +25,5 @@
 
 350\. (Sahajātavārampi…pe…  sampayuttavārampi vitthāretabbaṃ.)
 
-[Go to previous page (1.7.1.1--6 Paṭiccādivāra)](../1.7.1.1--6.md) / [Go to parent page (1.7.1.1--6 Paṭiccādivāra)](../1.7.1.1--6.md) / [Go to next page (1.7.1.7 Pañhāvāra)](../1.7.1.7.md)
 
 

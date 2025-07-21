@@ -1,19 +1,12 @@
 
-[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../../../../39P4.md) / [4 Kusalattika, Āsavaparāmāsagocchaka](../../../../../4.md) / [4.2 Kusalattika, Sāsavaduka](../../../../4.2.md) / [4.2.2 Anāsavapada](../../../4.2.2.md) / [4.2.2.1--7 Paṭiccādivāra](../../4.2.2.1--7.md) / [Paccayacatukka](../Paccayacatukka.md)
 
 # Hetu-ārammaṇādi
 
-* Kusalattika, Āsavaparāmāsagocchaka
 
-* Kusalattika, Sāsavaduka
 
-* Anāsavapada
 
-* Paṭiccādivāra
 
-* Paccayacatukka
 
-* Hetu-ārammaṇādi
 
 (12.)
 
@@ -35,6 +28,5 @@
 
 1266\. Hetuyā dve, ārammaṇe dve, adhipatiyā tīṇi, anantare dve, samanantare dve, sahajāte dve, aññamaññe dve, nissaye dve, upanissaye cattāri…pe…  kamme tīṇi, vipāke ekaṃ…pe…  avigate dve. (Saṃkhittaṃ. Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (4.3 Kusalattika, Āsavasampayuttaduka)](../../../../4.3.md)
 
 

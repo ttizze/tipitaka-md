@@ -1,19 +1,12 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../../../39P3.md) / [1 Hetuduka, Tika](../../../../../1.md) / [1.13 Hetuduka, Parittārammaṇattika](../../../../1.13.md) / [1.13.2 Mahaggatārammaṇapada](../../../1.13.2.md) / [1.13.2.7 Pañhāvāra](../../1.13.2.7.md) / [Paccayacatukka](../Paccayacatukka.md)
 
 # Hetvādi
 
-* Hetuduka, Tika
 
-* Hetuduka, Parittārammaṇattika
 
-* Mahaggatārammaṇapada
 
-* Pañhāvāra
 
-* Paccayacatukka
 
-* Hetvādi
 
 (393.)
 
@@ -31,6 +24,5 @@
 
 850\. Hetuyā tīṇi, ārammaṇe nava, adhipatiyā nava…pe…  nissaye nava, upanissaye nava, āsevane nava, kamme tīṇi, vipāke nava, āhāre tīṇi, indriye nava, jhāne tīṇi, magge nava…pe…  avigate nava. (Saṃkhittaṃ.)
 
-[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Paccanīyuddhāra)](../Paccaniyuddhara.md)
 
 

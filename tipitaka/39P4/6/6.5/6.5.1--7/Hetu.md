@@ -1,15 +1,10 @@
 
-[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../../39P4.md) / [6 Kusalattika, Kilesagocchaka](../../../6.md) / [6.5 Kusalattika, Kilesasaṃkilesikaduka](../../6.5.md) / [6.5.1--7 Paṭiccādivāra](../6.5.1--7.md)
 
 # Hetu
 
-* Kusalattika, Kilesagocchaka
 
-* Kusalattika, Kilesasaṃkilesikaduka
 
-* Paṭiccādivāra
 
-* Hetu
 
 (21.)
 
@@ -47,6 +42,5 @@
 
 1496\. Hetuyā cattāri, ārammaṇe nava, adhipatiyā nava…pe…  avigate terasa. (Saṃkhittaṃ. Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
 
-[Go to previous page (6.5.1--7 Paṭiccādivāra)](../6.5.1--7.md) / [Go to parent page (6.5.1--7 Paṭiccādivāra)](../6.5.1--7.md) / [Go to next page (6.6 Kusalattika, Kilesasaṃkiliṭṭhaduka)](../../6.6.md)
 
 

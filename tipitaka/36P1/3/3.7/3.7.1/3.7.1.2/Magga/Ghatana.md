@@ -1,19 +1,12 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../../36P1.md) / [3 Vedanāttika](../../../../../3.md) / [3.7 Pañhāvāra](../../../../3.7.md) / [3.7.1 Paccayānuloma](../../../3.7.1.md) / [3.7.1.2 Saṅkhyāvāra](../../3.7.1.2.md) / [Magga](../Magga.md)
 
 # Ghaṭanā
 
-* Vedanāttika
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Saṅkhyāvāra
 
-* Magga
 
-* Ghaṭanā
 
 1995\. Magga sahajāta aññamañña nissaya sampayutta atthi avigatanti tīṇi. Magga sahajāta aññamañña nissaya vipāka sampayutta atthi avigatanti dve.
 
@@ -29,6 +22,5 @@
 
 2001\. Magga hetu adhipati sahajāta aññamañña nissaya indriya sampayutta atthi avigatanti dve. Magga hetu adhipati sahajāta aññamañña nissaya vipāka indriya sampayutta atthi avigatanti dve.
 
-[Go to previous page (Maggasabhāga)](Maggasabhaga.md) / [Go to parent page (Magga)](../Magga.md) / [Go to next page (Sampayutta)](../Sampayutta.md)
 
 

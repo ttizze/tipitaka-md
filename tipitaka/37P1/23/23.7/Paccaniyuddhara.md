@@ -1,13 +1,9 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../37P1.md) / [23 Sanidassanasappaṭighattika](../../23.md) / [23.7 Pañhāvāra](../23.7.md)
 
 # Paccanīyuddhāra
 
-* Sanidassanasappaṭighattika
 
-* Pañhāvāra
 
-* Paccanīyuddhāra
 
 (59.)
 
@@ -67,6 +63,5 @@
 
 3090\. Sanidassanasappaṭigho ca anidassanasappaṭigho ca anidassanaappaṭigho ca dhammā anidassanaappaṭighassa dhammassa sahajātapaccayena paccayo…  purejātapaccayena paccayo. (1)
 
-[Go to previous page (Hetusāmaññaghaṭanā)](23.7.1/23.7.1.2/Hetusamannaghatana.md) / [Go to parent page (23.7 Pañhāvāra)](../23.7.md) / [Go to next page (23.7.2 Paccayapaccanīya)](23.7.2.md)
 
 

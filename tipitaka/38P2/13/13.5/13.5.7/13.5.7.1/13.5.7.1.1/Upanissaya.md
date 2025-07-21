@@ -1,19 +1,12 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [13 Piṭṭhiduka](../../../../../13.md) / [13.5 Savitakkaduka](../../../../13.5.md) / [13.5.7 Pañhāvāra](../../../13.5.7.md) / [13.5.7.1 Paccayānuloma](../../13.5.7.1.md) / [13.5.7.1.1 Vibhaṅgavāra](../13.5.7.1.1.md)
 
 # Upanissaya
 
-* Piṭṭhiduka
 
-* Savitakkaduka
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Upanissaya
 
 (125.)
 
@@ -31,6 +24,5 @@
 
 4352\. Savitakko ca avitakko ca dhammā savitakkassa dhammassa upanissayapaccayena paccayo—  savitakkā khandhā ca vitakko ca savitakkānaṃ khandhānaṃ upanissayapaccayena paccayo. (Mūlaṃ kātabbaṃ.) Savitakkā khandhā ca vitakko ca avitakkānaṃ khandhānaṃ vitakkassa ca upanissayapaccayena paccayo. (Mūlaṃ kātabbaṃ.) Savitakkā khandhā ca vitakko ca savitakkānaṃ khandhānaṃ vitakkassa ca upanissayapaccayena paccayo. (3)
 
-[Go to previous page (Anantarādi)](Anantaradi.md) / [Go to parent page (13.5.7.1.1 Vibhaṅgavāra)](../13.5.7.1.1.md) / [Go to next page (Purejāta)](Purejata.md)
 
 

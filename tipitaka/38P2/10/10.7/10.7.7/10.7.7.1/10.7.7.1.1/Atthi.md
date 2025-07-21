@@ -1,19 +1,12 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [10 Mahantaraduka](../../../../../10.md) / [10.7 Cittasahabhūduka](../../../../10.7.md) / [10.7.7 Pañhāvāra](../../../10.7.7.md) / [10.7.7.1 Paccayānuloma](../../10.7.7.1.md) / [10.7.7.1.1 Vibhaṅgavāra](../10.7.7.1.1.md)
 
 # Atthi
 
-* Mahantaraduka
 
-* Cittasahabhūduka
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Atthi
 
 (268.)
 
@@ -37,6 +30,5 @@
 
 2985\. Cittasahabhū ca nocittasahabhū ca dhammā cittasahabhussa ca nocittasahabhussa ca dhammassa atthipaccayena paccayo—  sahajātaṃ, purejātaṃ. **Sahajāto**—  cakkhuviññāṇasahagato eko khandho ca cakkhāyatanaṃ ca…pe… . (Paccayavārasadisaṃ.) (3)
 
-[Go to previous page (Vippayutta)](Vippayutta.md) / [Go to parent page (10.7.7.1.1 Vibhaṅgavāra)](../10.7.7.1.1.md) / [Go to next page (10.7.7.1.2 Saṅkhyāvāra)](../10.7.7.1.2.md)
 
 

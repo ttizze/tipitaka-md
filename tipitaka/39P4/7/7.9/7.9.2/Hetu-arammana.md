@@ -1,15 +1,10 @@
 
-[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../../39P4.md) / [7 Kusalattika, Piṭṭhiduka](../../../7.md) / [7.9 Kusalattika, Kāmāvacaraduka](../../7.9.md) / [7.9.2 Nakāmāvacarapada](../7.9.2.md)
 
 # Hetu-ārammaṇa
 
-* Kusalattika, Piṭṭhiduka
 
-* Kusalattika, Kāmāvacaraduka
 
-* Nakāmāvacarapada
 
-* Hetu-ārammaṇa
 
 (32.)
 
@@ -37,6 +32,5 @@
 
 1620\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
 
-[Go to previous page (7.9.2 Nakāmāvacarapada)](../7.9.2.md) / [Go to parent page (7.9.2 Nakāmāvacarapada)](../7.9.2.md) / [Go to next page (7.10 Kusalattika, Rūpāvacaraduka)](../../7.10.md)
 
 

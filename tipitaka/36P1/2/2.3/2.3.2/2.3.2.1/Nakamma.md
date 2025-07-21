@@ -1,17 +1,11 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.3 Paccayavāra](../../../2.3.md) / [2.3.2 Paccayapaccanīya](../../2.3.2.md) / [2.3.2.1 Vibhaṅgavāra](../2.3.2.1.md)
 
 # Nakamma
 
-* Kusalattika
 
-* Paccayavāra
 
-* Paccayapaccanīya
 
-* Vibhaṅgavāra
 
-* Nakamma
 
 (147.)
 
@@ -29,6 +23,5 @@
 
 535\. Akusalañca abyākatañca dhammaṃ paccayā akusalo dhammo uppajjati nakammapaccayā—  akusale khandhe ca vatthuñca paccayā akusalā cetanā. (1)
 
-[Go to previous page (Napacchājātādi)](Napacchajatadi.md) / [Go to parent page (2.3.2.1 Vibhaṅgavāra)](../2.3.2.1.md) / [Go to next page (Navipāka)](Navipaka.md)
 
 

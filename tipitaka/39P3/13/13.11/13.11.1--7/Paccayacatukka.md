@@ -1,15 +1,10 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../39P3.md) / [13 Piṭṭhiduka, Kusalattika](../../../13.md) / [13.11 Rūpāvacaraduka, Kusalattika](../../13.11.md) / [13.11.1--7 Paṭiccādivāra](../13.11.1--7.md)
 
 # Paccayacatukka
 
-* Piṭṭhiduka, Kusalattika
 
-* Rūpāvacaraduka, Kusalattika
 
-* Paṭiccādivāra
 
-* Paccayacatukka
 
 (71.)
 
@@ -47,6 +42,5 @@
 
 2539\. Hetuyā nava, ārammaṇe cattāri, adhipatiyā pañca…pe…  purejāte āsevane dve…pe…  avigate nava. (Saṃkhittaṃ. Yathā kāmāvacaradukaabyākatasadisaṃ, ettakāyeva pañhā heṭṭhuparikaṃ parivattanti. Sahajātavārampi…pe…  pañhāvārampi sabbattha vitthāretabbaṃ.)
 
-[Go to previous page (13.11.1--7 Paṭiccādivāra)](../13.11.1--7.md) / [Go to parent page (13.11.1--7 Paṭiccādivāra)](../13.11.1--7.md) / [Go to next page (13.12 Arūpāvacaraduka, Kusalattika)](../../13.12.md)
 
 

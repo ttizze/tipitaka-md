@@ -1,19 +1,12 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [2 Cūḷantaraduka](../../../../../2.md) / [2.5 Rūpīduka](../../../../2.5.md) / [2.5.7 Pañhāvāra](../../../2.5.7.md) / [2.5.7.1 Paccayānuloma](../../2.5.7.1.md) / [2.5.7.1.2 Saṅkhyāvāra](../2.5.7.1.2.md)
 
 # Suddha
 
-* Cūḷantaraduka
 
-* Rūpīduka
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Saṅkhyāvāra
 
-* Suddha
 
 (128.)
 
@@ -25,6 +18,5 @@
 
 
 
-[Go to previous page (2.5.7.1.2 Saṅkhyāvāra)](../2.5.7.1.2.md) / [Go to parent page (2.5.7.1.2 Saṅkhyāvāra)](../2.5.7.1.2.md) / [Go to next page (Paccanīyuddhāra)](../../Paccaniyuddhara.md)
 
 

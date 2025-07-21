@@ -1,17 +1,11 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [5 Upādinnattika](../../../../5.md) / [5.7 Pañhāvāra](../../../5.7.md) / [5.7.1 Paccayānuloma](../../5.7.1.md) / [5.7.1.1 Vibhaṅgavāra](../5.7.1.1.md)
 
 # Vippayutta
 
-* Upādinnattika
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Vippayutta
 
 (80.)
 
@@ -37,6 +31,5 @@
 
 2739\. Anupādinnaanupādāniyo dhammo upādinnupādāniyassa ca anupādinnupādāniyassa ca dhammassa vippayuttapaccayena paccayo. **Pacchājātā**—  anupādinnaanupādāniyā khandhā purejātassa imassa upādinnupādāniyassa ca anupādinnupādāniyassa ca kāyassa vippayuttapaccayena paccayo. (3)
 
-[Go to previous page (Sampayutta)](Sampayutta.md) / [Go to parent page (5.7.1.1 Vibhaṅgavāra)](../5.7.1.1.md) / [Go to next page (Atthi)](Atthi.md)
 
 

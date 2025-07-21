@@ -1,17 +1,11 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [10 Dassanenapahātabbahetukattika](../../../../10.md) / [10.7 Pañhāvāra](../../../10.7.md) / [10.7.1 Paccayānuloma](../../10.7.1.md) / [10.7.1.1 Vibhaṅgavāra](../10.7.1.1.md)
 
 # Atthyādi
 
-* Dassanenapahātabbahetukattika
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Atthyādi
 
 (104.)
 
@@ -45,6 +39,5 @@
 
 1388\. Bhāvanāya pahātabbahetuko ca nevadassanena nabhāvanāya pahātabbahetuko ca dhammā bhāvanāya pahātabbahetukassa dhammassa atthipaccayena paccayo (Saṃkhittaṃ. Tisso pañhā, dassanena nayena vibhajitabbā, “uddhaccan”ti niyāmetabbaṃ) natthipaccayena paccayo…  vigatapaccayena paccayo…  avigatapaccayena paccayo… .
 
-[Go to previous page (Vippayutta)](Vippayutta.md) / [Go to parent page (10.7.1.1 Vibhaṅgavāra)](../10.7.1.1.md) / [Go to next page (10.7.1.2 Saṅkhyāvāra)](../10.7.1.2.md)
 
 

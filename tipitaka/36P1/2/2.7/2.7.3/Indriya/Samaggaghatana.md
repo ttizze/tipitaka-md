@@ -1,17 +1,11 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.7 Pañhāvāra](../../../2.7.md) / [2.7.3 Paccayānulomapaccanīya](../../2.7.3.md) / [Indriya](../Indriya.md)
 
 # Samaggaghaṭanā
 
-* Kusalattika
 
-* Pañhāvāra
 
-* Paccayānulomapaccanīya
 
-* Indriya
 
-* Samaggaghaṭanā
 
 (462.)
 
@@ -33,6 +27,5 @@
 
 1489\. Indriya sahajāta aññamañña nissaya vipāka magga vippayutta atthi avigatanti nahetuyā ekaṃ…pe…  novigate ekaṃ. [Savipāka—  5]
 
-[Go to previous page (Sahajātasāmaññaghaṭanā)](Sahajatasamannaghatana.md) / [Go to parent page (Indriya)](../Indriya.md) / [Go to next page (Sajhānaghaṭanā)](Sajhanaghatana.md)
 
 

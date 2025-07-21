@@ -1,17 +1,11 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.7 Pañhāvāra](../../../2.7.md) / [2.7.3 Paccayānulomapaccanīya](../../2.7.3.md) / [Magga](../Magga.md)
 
 # Sajhānaghaṭanā
 
-* Kusalattika
 
-* Pañhāvāra
 
-* Paccayānulomapaccanīya
 
-* Magga
 
-* Sajhānaghaṭanā
 
 (478.)
 
@@ -33,6 +27,5 @@
 
 1610\. Magga sahajāta aññamañña nissaya vipāka jhāna vippayutta atthi avigatanti nahetuyā ekaṃ…pe…  novigate ekaṃ. [Savipāka—  5]
 
-[Go to previous page (Saindriyaghaṭanā)](Saindriyaghatana.md) / [Go to parent page (Magga)](../Magga.md) / [Go to next page (Saindriya-jhānaghaṭanā)](Saindriya-jhanaghatana.md)
 
 

@@ -1,17 +1,11 @@
 
-[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../../../39P4.md) / [4 Kusalattika, Āsavaparāmāsagocchaka](../../../../4.md) / [4.1 Kusalattika, Āsavaduka](../../../4.1.md) / [4.1.1--7 Paṭiccādivāra](../../4.1.1--7.md) / [Paccayacatukka](../Paccayacatukka.md)
 
 # Ārammaṇa
 
-* Kusalattika, Āsavaparāmāsagocchaka
 
-* Kusalattika, Āsavaduka
 
-* Paṭiccādivāra
 
-* Paccayacatukka
 
-* Ārammaṇa
 
 (3.)
 
@@ -27,6 +21,5 @@
 
 1236\. Nahetuyā ekaṃ, naārammaṇe pañca, naadhipatiyā nava…pe…  novigate pañca. (Saṃkhittaṃ. Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ.)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Hetu-ārammaṇa)](Hetu-arammana.md)
 
 

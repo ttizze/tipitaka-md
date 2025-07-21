@@ -1,17 +1,11 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [9 Dassanenapahātabbattika](../../../../9.md) / [9.1 Paṭiccavāra](../../../9.1.md) / [9.1.2 Paccayapaccanīya](../../9.1.2.md) / [9.1.2.1 Vibhaṅgavāra](../9.1.2.1.md)
 
 # Naārammaṇa
 
-* Dassanenapahātabbattika
 
-* Paṭiccavāra
 
-* Paccayapaccanīya
 
-* Vibhaṅgavāra
 
-* Naārammaṇa
 
 (17.)
 
@@ -27,6 +21,5 @@
 
 828\. Bhāvanāya pahātabbañca nevadassanena nabhāvanāya pahātabbañca dhammaṃ paṭicca nevadassanena nabhāvanāya pahātabbo dhammo uppajjati naārammaṇapaccayā—  bhāvanāya pahātabbe khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
 
-[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (9.1.2.1 Vibhaṅgavāra)](../9.1.2.1.md) / [Go to next page (Naadhipatyādi)](Naadhipatyadi.md)
 
 

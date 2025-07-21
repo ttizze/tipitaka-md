@@ -1,9 +1,7 @@
 
-[Home](/) / [8D Pāthikavaggapāḷi](../../8D.md) / [7 Lakkhaṇasutta](../7.md)
 
 # Dvattiṃsamahāpurisalakkhaṇāni
 
-* Lakkhaṇasutta
 
 ## 396\. Dvattiṃsamahāpurisalakkhaṇāni
 
@@ -31,6 +29,5 @@
 
 405\. Imāni kho, bhikkhave, dvattiṃsa mahāpurisassa mahāpurisalakkhaṇāni bāhirakāpi isayo dhārenti, no ca kho te jānanti—  ‘imassa kammassa kaṭattā idaṃ lakkhaṇaṃ paṭilabhatī’ti.
 
-[Go to previous page (7 Lakkhaṇasutta)](../7.md) / [Go to parent page (7 Lakkhaṇasutta)](../7.md) / [Go to next page (7.1 Suppatiṭṭhitapādatālakkhaṇaṃ)](7.1.md)
 
 

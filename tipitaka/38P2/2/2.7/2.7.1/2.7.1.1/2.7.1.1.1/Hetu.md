@@ -1,19 +1,12 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [2 Cūḷantaraduka](../../../../../2.md) / [2.7 Kenaciviññeyyaduka](../../../../2.7.md) / [2.7.1 Paṭiccavāra](../../../2.7.1.md) / [2.7.1.1 Paccayānuloma](../../2.7.1.1.md) / [2.7.1.1.1 Vibhaṅgavāra](../2.7.1.1.1.md)
 
 # Hetu
 
-* Cūḷantaraduka
 
-* Kenaciviññeyyaduka
 
-* Paṭiccavāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Hetu
 
 (176.)
 
@@ -39,6 +32,5 @@
 
 958\. Kenaci viññeyyañca kenaci naviññeyyañca dhammaṃ paṭicca kenaci viññeyyo ca kenaci naviññeyyo ca dhammā uppajjanti hetupaccayā—  kenaci viññeyyañca kenaci naviññeyyañca ekaṃ khandhaṃ paṭicca kenaci viññeyyā ca kenaci naviññeyyā ca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  paṭisandhikkhaṇe…pe…  khandhe paṭicca vatthu, vatthuṃ paṭicca khandhā, ekaṃ mahābhūtaṃ…pe…  mahābhūte paṭicca cittasamuṭṭhānaṃ rūpaṃ kaṭattārūpaṃ upādārūpaṃ. (Saṃkhittaṃ.) (3)
 
-[Go to previous page (2.7.1.1.1 Vibhaṅgavāra)](../2.7.1.1.1.md) / [Go to parent page (2.7.1.1.1 Vibhaṅgavāra)](../2.7.1.1.1.md) / [Go to next page (2.7.1.1.2 Saṅkhyāvāra)](../2.7.1.1.2.md)
 
 

@@ -1,17 +1,11 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [13 Parittattika](../../../../13.md) / [13.7 Pañhāvāra](../../../13.7.md) / [13.7.1 Paccayānuloma](../../13.7.1.md) / [13.7.1.1 Vibhaṅgavāra](../13.7.1.1.md)
 
 # Sahajāta
 
-* Parittattika
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Sahajāta
 
 (64.)
 
@@ -43,6 +37,5 @@
 
 2065\. Paritto ca mahaggato ca dhammā mahaggatassa dhammassa sahajātapaccayena paccayo—  paṭisandhikkhaṇe mahaggato eko khandho ca vatthu ca tiṇṇannaṃ khandhānaṃ sahajātapaccayena paccayo…pe… . (2)
 
-[Go to previous page (Anantara)](Anantara.md) / [Go to parent page (13.7.1.1 Vibhaṅgavāra)](../13.7.1.1.md) / [Go to next page (Aññamañña)](Annamanna.md)
 
 

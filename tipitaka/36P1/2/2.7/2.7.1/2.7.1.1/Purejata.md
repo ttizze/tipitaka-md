@@ -1,17 +1,11 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.7 Pañhāvāra](../../../2.7.md) / [2.7.1 Paccayānuloma](../../2.7.1.md) / [2.7.1.1 Vibhaṅgavāra](../2.7.1.1.md)
 
 # Purejāta
 
-* Kusalattika
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Purejāta
 
 (288.)
 
@@ -31,6 +25,5 @@
 
 935\. **Vatthupurejātaṃ**—  vatthu akusalānaṃ khandhānaṃ purejātapaccayena paccayo. (3)
 
-[Go to previous page (Upanissaya)](Upanissaya.md) / [Go to parent page (2.7.1.1 Vibhaṅgavāra)](../2.7.1.1.md) / [Go to next page (Pacchājāta)](Pacchajata.md)
 
 

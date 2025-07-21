@@ -1,17 +1,11 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [5 Upādinnattika](../../../../5.md) / [5.7 Pañhāvāra](../../../5.7.md) / [5.7.1 Paccayānuloma](../../5.7.1.md) / [5.7.1.1 Vibhaṅgavāra](../5.7.1.1.md)
 
 # Jhāna
 
-* Upādinnattika
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Jhāna
 
 (76.)
 
@@ -31,6 +25,5 @@
 
 2719\. Anupādinnaanupādāniyo dhammo anupādinnupādāniyassa ca anupādinnaanupādāniyassa ca dhammassa jhānapaccayena paccayo—  anupādinnaanupādāniyāni jhānaṅgāni sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ jhānapaccayena paccayo. (3)
 
-[Go to previous page (Indriya)](Indriya.md) / [Go to parent page (5.7.1.1 Vibhaṅgavāra)](../5.7.1.1.md) / [Go to next page (Magga)](Magga.md)
 
 

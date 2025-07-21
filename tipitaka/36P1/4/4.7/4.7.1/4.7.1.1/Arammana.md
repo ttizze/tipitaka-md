@@ -1,17 +1,11 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [4 Vipākattika](../../../../4.md) / [4.7 Pañhāvāra](../../../4.7.md) / [4.7.1 Paccayānuloma](../../4.7.1.md) / [4.7.1.1 Vibhaṅgavāra](../4.7.1.1.md)
 
 # Ārammaṇa
 
-* Vipākattika
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Ārammaṇa
 
 (92.)
 
@@ -37,6 +31,5 @@
 
 2288\. Nevavipākanavipākadhammadhammo vipākadhammadhammassa ārammaṇapaccayena paccayo—  sekkhā nibbānaṃ paccavekkhanti; nibbānaṃ gotrabhussa, vodānassa, maggassa ārammaṇapaccayena paccayo. Sekkhā vā puthujjanā vā cakkhuṃ aniccato dukkhato anattato vipassanti, assādenti abhinandanti; taṃ ārabbha rāgo uppajjati…pe…  domanassaṃ uppajjati. Sotaṃ…pe…  nevavipākanavipākadhammadhamme khandhe aniccato dukkhato anattato vipassanti, assādenti abhinandanti…pe…  dibbena cakkhunā rūpaṃ passanti, dibbāya sotadhātuyā saddaṃ suṇanti, cetopariyañāṇena nevavipākanavipākadhammadhammacittasamaṅgissa cittaṃ jānanti. Nevavipākanavipākadhammadhammā khandhā iddhividhañāṇassa, cetopariyañāṇassa, pubbenivāsānussatiñāṇassa, anāgataṃsañāṇassa ārammaṇapaccayena paccayo. (3)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (4.7.1.1 Vibhaṅgavāra)](../4.7.1.1.md) / [Go to next page (Adhipati)](Adhipati.md)
 
 

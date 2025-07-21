@@ -1,13 +1,9 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../36P1.md) / [6 Saṃkiliṭṭhattika](../../6.md) / [6.7 Pañhāvāra](../6.7.md)
 
 # Paccanīyuddhāra
 
-* Saṃkiliṭṭhattika
 
-* Pañhāvāra
 
-* Paccanīyuddhāra
 
 (33.)
 
@@ -41,6 +37,5 @@
 
 2926\. Saṃkiliṭṭhasaṃkilesiko ca asaṃkiliṭṭhasaṃkilesiko ca dhammā asaṃkiliṭṭhasaṃkilesikassa dhammassa sahajātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ. (2)
 
-[Go to previous page (Hetusāmaññaghaṭanā)](6.7.1/6.7.1.2/Hetusamannaghatana.md) / [Go to parent page (6.7 Pañhāvāra)](../6.7.md) / [Go to next page (6.7.2 Paccayapaccanīya)](6.7.2.md)
 
 

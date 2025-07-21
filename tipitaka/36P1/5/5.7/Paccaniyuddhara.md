@@ -1,13 +1,9 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../36P1.md) / [5 Upādinnattika](../../5.md) / [5.7 Pañhāvāra](../5.7.md)
 
 # Paccanīyuddhāra
 
-* Upādinnattika
 
-* Pañhāvāra
 
-* Paccanīyuddhāra
 
 (89.)
 
@@ -61,6 +57,5 @@
 
 2793\. Upādinnupādāniyo ca anupādinnupādāniyo ca anupādinnaanupādāniyo ca dhammā upādinnupādāniyassa dhammassa pacchājātaṃ, āhāraṃ, indriyaṃ. (1)
 
-[Go to previous page (Sabhāga)](5.7.1/5.7.1.2/Sabhaga.md) / [Go to parent page (5.7 Pañhāvāra)](../5.7.md) / [Go to next page (5.7.2 Paccayapaccanīya)](5.7.2.md)
 
 

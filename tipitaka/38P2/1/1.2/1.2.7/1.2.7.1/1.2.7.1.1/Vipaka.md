@@ -1,19 +1,12 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [1 Hetugocchaka](../../../../../1.md) / [1.2 Sahetukaduka](../../../../1.2.md) / [1.2.7 Pañhāvāra](../../../1.2.7.md) / [1.2.7.1 Paccayānuloma](../../1.2.7.1.md) / [1.2.7.1.1 Vibhaṅgavāra](../1.2.7.1.1.md)
 
 # Vipāka
 
-* Hetugocchaka
 
-* Sahetukaduka
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Vipāka
 
 (112.)
 
@@ -25,6 +18,5 @@
 
 309\. Ahetuko dhammo ahetukassa dhammassa vipākapaccayena paccayo—  vipāko ahetuko eko khandho tiṇṇannaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ…pe…  dve khandhā…pe…  paṭisandhikkhaṇe…pe…  khandhā vatthussa vipākapaccayena paccayo. (1)
 
-[Go to previous page (Kamma)](Kamma.md) / [Go to parent page (1.2.7.1.1 Vibhaṅgavāra)](../1.2.7.1.1.md) / [Go to next page (Āhāra)](Ahara.md)
 
 

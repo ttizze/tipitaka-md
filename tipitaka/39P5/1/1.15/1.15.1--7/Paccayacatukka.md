@@ -1,15 +1,10 @@
 
-[Home](/) / [39P5 Dhammānuloma (1), Tikatikapaṭṭhānapāḷi (5)](../../../../39P5.md) / [1 Kusalattika, Tika](../../../1.md) / [1.15 Kusalattika, Maggārammaṇattika](../../1.15.md) / [1.15.1--7 Paṭiccādivāra](../1.15.1--7.md)
 
 # Paccayacatukka
 
-* Kusalattika, Tika
 
-* Kusalattika, Maggārammaṇattika
 
-* Paṭiccādivāra
 
-* Paccayacatukka
 
 (67.)
 
@@ -33,6 +28,5 @@
 
 231\. Hetuyā dve…pe…  avigate dve. (Saṃkhittaṃ. Sabbattha vitthāro.)
 
-[Go to previous page (1.15.1--7 Paṭiccādivāra)](../1.15.1--7.md) / [Go to parent page (1.15.1--7 Paṭiccādivāra)](../1.15.1--7.md) / [Go to next page (1.16 Kusalattika, Uppannattika)](../../1.16.md)
 
 

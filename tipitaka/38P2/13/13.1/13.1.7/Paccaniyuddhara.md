@@ -1,15 +1,10 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../38P2.md) / [13 Piṭṭhiduka](../../../13.md) / [13.1 Dassanenapahātabbaduka](../../13.1.md) / [13.1.7 Pañhāvāra](../13.1.7.md)
 
 # Paccanīyuddhāra
 
-* Piṭṭhiduka
 
-* Dassanenapahātabbaduka
 
-* Pañhāvāra
 
-* Paccanīyuddhāra
 
 (30.)
 
@@ -29,6 +24,5 @@
 
 4131\. Dassanena pahātabbo ca nadassanena pahātabbo ca dhammā nadassanena pahātabbassa dhammassa sahajātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ. (2)
 
-[Go to previous page (Suddha)](13.1.7.1/13.1.7.1.2/Suddha.md) / [Go to parent page (13.1.7 Pañhāvāra)](../13.1.7.md) / [Go to next page (13.1.7.2 Paccayapaccanīya)](13.1.7.2.md)
 
 

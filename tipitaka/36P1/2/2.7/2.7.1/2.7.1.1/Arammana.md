@@ -1,17 +1,11 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.7 Pañhāvāra](../../../2.7.md) / [2.7.1 Paccayānuloma](../../2.7.1.md) / [2.7.1.1 Vibhaṅgavāra](../2.7.1.1.md)
 
 # Ārammaṇa
 
-* Kusalattika
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Ārammaṇa
 
 (268.)
 
@@ -49,6 +43,5 @@
 
 843\. Abyākato dhammo akusalassa dhammassa ārammaṇapaccayena paccayo—  cakkhuṃ assādeti abhinandati; taṃ ārabbha rāgo uppajjati, diṭṭhi uppajjati, vicikicchā uppajjati, uddhaccaṃ uppajjati, domanassaṃ uppajjati. Sotaṃ…  ghānaṃ…  jivhaṃ…  kāyaṃ…  rūpe…  sadde…  gandhe…  rase…  phoṭṭhabbe…  vatthuṃ…  vipākābyākate kiriyābyākate khandhe assādeti abhinandati; taṃ ārabbha rāgo uppajjati, diṭṭhi uppajjati, vicikicchā uppajjati, uddhaccaṃ uppajjati, domanassaṃ uppajjati. (3)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (2.7.1.1 Vibhaṅgavāra)](../2.7.1.1.md) / [Go to next page (Adhipati)](Adhipati.md)
 
 

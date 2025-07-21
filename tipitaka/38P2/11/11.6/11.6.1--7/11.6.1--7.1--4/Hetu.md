@@ -1,17 +1,11 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../38P2.md) / [11 Upādānagocchaka](../../../../11.md) / [11.6 Upādānavippayuttaupādāniyaduka](../../../11.6.md) / [11.6.1--7 Paṭiccavāra](../../11.6.1--7.md) / [11.6.1--7.1--4 Paccayānulomādi](../11.6.1--7.1--4.md)
 
 # Hetu
 
-* Upādānagocchaka
 
-* Upādānavippayuttaupādāniyaduka
 
-* Paṭiccavāra
 
-* Paccayānulomādi
 
-* Hetu
 
 (116.)
 
@@ -42,6 +36,5 @@ Upādānavippayuttaupādāniyadukaṃ niṭṭhitaṃ.
 
 
 
-[Go to previous page (11.6.1--7.1--4 Paccayānulomādi)](../11.6.1--7.1--4.md) / [Go to parent page (11.6.1--7.1--4 Paccayānulomādi)](../11.6.1--7.1--4.md) / [Go to next page (12 Kilesagocchaka)](../../../../12.md)
 
 

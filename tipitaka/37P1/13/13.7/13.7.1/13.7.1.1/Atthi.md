@@ -1,17 +1,11 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [13 Parittattika](../../../../13.md) / [13.7 Pañhāvāra](../../../13.7.md) / [13.7.1 Paccayānuloma](../../13.7.1.md) / [13.7.1.1 Vibhaṅgavāra](../13.7.1.1.md)
 
 # Atthi
 
-* Parittattika
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Atthi
 
 (83.)
 
@@ -47,6 +41,5 @@
 
 2132\. Paritto ca mahaggato ca dhammā mahaggatassa dhammassa atthipaccayena paccayo—  sahajātaṃ, purejātaṃ. **Sahajāto**—  mahaggato eko khandho ca vatthu ca tiṇṇannaṃ khandhānaṃ atthipaccayena paccayo…pe…  dve khandhā…pe…  paṭisandhikkhaṇe mahaggato eko khandho ca vatthu ca tiṇṇannaṃ khandhānaṃ atthipaccayena paccayo…pe…  dve khandhā ca vatthu ca…pe…  natthipaccayena paccayo…  vigatapaccayena paccayo…  avigatapaccayena paccayo. (2)
 
-[Go to previous page (Āhārādi)](Aharadi.md) / [Go to parent page (13.7.1.1 Vibhaṅgavāra)](../13.7.1.1.md) / [Go to next page (13.7.1.2 Saṅkhyāvāra)](../13.7.1.2.md)
 
 

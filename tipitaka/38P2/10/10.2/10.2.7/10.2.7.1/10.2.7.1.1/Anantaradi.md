@@ -1,19 +1,12 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [10 Mahantaraduka](../../../../../10.md) / [10.2 Cittaduka](../../../../10.2.md) / [10.2.7 Pañhāvāra](../../../10.2.7.md) / [10.2.7.1 Paccayānuloma](../../10.2.7.1.md) / [10.2.7.1.1 Vibhaṅgavāra](../10.2.7.1.1.md)
 
 # Anantarādi
 
-* Mahantaraduka
 
-* Cittaduka
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Anantarādi
 
 (75.)
 
@@ -31,6 +24,5 @@
 
 2502\. Samanantarapaccayena paccayo…  sahajātapaccayena paccayo…  aññamaññapaccayena paccayo (paṭiccavārasadisā)…  nissayapaccayena paccayo…  pañca. (Paccayavārasadisā.)
 
-[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (10.2.7.1.1 Vibhaṅgavāra)](../10.2.7.1.1.md) / [Go to next page (Upanissaya)](Upanissaya.md)
 
 

@@ -1,17 +1,11 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.7 Pañhāvāra](../../../2.7.md) / [2.7.3 Paccayānulomapaccanīya](../../2.7.3.md) / [Upanissaya](../Upanissaya.md)
 
 # Upanissayaghaṭanā
 
-* Kusalattika
 
-* Pañhāvāra
 
-* Paccayānulomapaccanīya
 
-* Upanissaya
 
-* Upanissayaghaṭanā
 
 (440.)
 
@@ -35,6 +29,5 @@
 
 
 
-[Go to previous page (Upanissayaduka)](Upanissayaduka.md) / [Go to parent page (Upanissaya)](../Upanissaya.md) / [Go to next page (Purejāta)](../Purejata.md)
 
 

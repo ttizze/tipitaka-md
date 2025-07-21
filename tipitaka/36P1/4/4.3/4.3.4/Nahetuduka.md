@@ -1,15 +1,10 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../36P1.md) / [4 Vipākattika](../../../4.md) / [4.3 Paccayavāra](../../4.3.md) / [4.3.4 Paccayapaccanīyānuloma](../4.3.4.md)
 
 # Nahetuduka
 
-* Vipākattika
 
-* Paccayavāra
 
-* Paccayapaccanīyānuloma
 
-* Nahetuduka
 
 (81.)
 
@@ -17,6 +12,5 @@
 
 * [Tika](Nahetuduka/Tika.md)
 
-[Go to previous page (4.3.4 Paccayapaccanīyānuloma)](../4.3.4.md) / [Go to parent page (4.3.4 Paccayapaccanīyānuloma)](../4.3.4.md) / [Go to next page (Tika)](Nahetuduka/Tika.md)
 
 

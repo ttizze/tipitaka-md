@@ -1,17 +1,11 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.7 Pañhāvāra](../../../2.7.md) / [2.7.3 Paccayānulomapaccanīya](../../2.7.3.md) / [Purejāta](../Purejata.md)
 
 # Purejātaghaṭanā
 
-* Kusalattika
 
-* Pañhāvāra
 
-* Paccayānulomapaccanīya
 
-* Purejāta
 
-* Purejātaghaṭanā
 
 (442.)
 
@@ -35,6 +29,5 @@
 
 
 
-[Go to previous page (Purejātaduka)](Purejataduka.md) / [Go to parent page (Purejāta)](../Purejata.md) / [Go to next page (Pacchājāta)](../Pacchajata.md)
 
 

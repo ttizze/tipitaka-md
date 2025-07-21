@@ -1,15 +1,10 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../38P2.md) / [1 Hetugocchaka](../../../1.md) / [1.6 Nahetusahetukaduka](../../1.6.md) / [1.6.7 Pañhāvāra](../1.6.7.md)
 
 # Paccanīyuddhāra
 
-* Hetugocchaka
 
-* Nahetusahetukaduka
 
-* Pañhāvāra
 
-* Paccanīyuddhāra
 
 (196.)
 
@@ -31,6 +26,5 @@
 
 537\. Nahetu sahetuko ca nahetu ahetuko ca dhammā nahetuahetukassa dhammassa sahajātaṃ…  pacchājātaṃ…  āhāraṃ…  indriyaṃ. (2)
 
-[Go to previous page (Suddha)](1.6.7.1/1.6.7.1.2/Suddha.md) / [Go to parent page (1.6.7 Pañhāvāra)](../1.6.7.md) / [Go to next page (1.6.7.2 Paccayapaccanīya)](1.6.7.2.md)
 
 

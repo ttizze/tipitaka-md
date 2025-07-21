@@ -1,19 +1,12 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [8 Nīvaraṇagocchaka](../../../../../8.md) / [8.3 Nīvaraṇasampayuttaduka](../../../../8.3.md) / [8.3.7 Pañhāvāra](../../../8.3.7.md) / [8.3.7.1 Paccayānuloma](../../8.3.7.1.md) / [8.3.7.1.1 Vibhaṅgavāra](../8.3.7.1.1.md)
 
 # Atthi
 
-* Nīvaraṇagocchaka
 
-* Nīvaraṇasampayuttaduka
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Atthi
 
 (80.)
 
@@ -35,6 +28,5 @@
 
 2063\. Nīvaraṇasampayutto ca nīvaraṇavippayutto ca dhammā nīvaraṇavippayuttassa dhammassa atthipaccayena paccayo—  sahajātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ. **Sahajātā**—  nīvaraṇasampayuttā khandhā ca mahābhūtā ca cittasamuṭṭhānānaṃ rūpānaṃ atthipaccayena paccayo. **Pacchājātā**—  nīvaraṇasampayuttā khandhā ca kabaḷīkāro āhāro ca imassa kāyassa atthipaccayena paccayo. **Pacchājātā**—  nīvaraṇasampayuttā khandhā ca rūpajīvitindriyañca kaṭattārūpānaṃ atthipaccayena paccayo. (2)
 
-[Go to previous page (Vippayutta)](Vippayutta.md) / [Go to parent page (8.3.7.1.1 Vibhaṅgavāra)](../8.3.7.1.1.md) / [Go to next page (8.3.7.1.2 Saṅkhyāvāra)](../8.3.7.1.2.md)
 
 

@@ -1,15 +1,10 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../38P2.md) / [13 Piṭṭhiduka](../../../13.md) / [13.7 Sappītikaduka](../../13.7.md) / [13.7.7 Pañhāvāra](../13.7.7.md)
 
 # Paccanīyuddhāra
 
-* Piṭṭhiduka
 
-* Sappītikaduka
 
-* Pañhāvāra
 
-* Paccanīyuddhāra
 
 (164.)
 
@@ -31,6 +26,5 @@
 
 
 
-[Go to previous page (Suddha)](13.7.7.1--4/13.7.7.1.2/Suddha.md) / [Go to parent page (13.7.7 Pañhāvāra)](../13.7.7.md) / [Go to next page (13.8 Pītisahagataduka)](../../13.8.md)
 
 

@@ -1,19 +1,12 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../../36P1.md) / [2 Kusalattika](../../../../../2.md) / [2.7 Pañhāvāra](../../../../2.7.md) / [2.7.1 Paccayānuloma](../../../2.7.1.md) / [2.7.1.2 Saṅkhyāvāra](../../2.7.1.2.md) / [Jhāna](../Jhana.md)
 
 # Saindriya-maggaghaṭanā
 
-* Kusalattika
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Saṅkhyāvāra
 
-* Jhāna
 
-* Saindriya-maggaghaṭanā
 
 (364.)
 
@@ -27,6 +20,5 @@
 
 
 
-[Go to previous page (Samaggaghaṭanā)](Samaggaghatana.md) / [Go to parent page (Jhāna)](../Jhana.md) / [Go to next page (Magga)](../Magga.md)
 
 

@@ -1,15 +1,10 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../37P1.md) / [16 Micchattaniyatattika](../../../16.md) / [16.7 Pañhāvāra](../../16.7.md) / [16.7.3 Paccayānulomapaccanīya](../16.7.3.md)
 
 # Hetuduka
 
-* Micchattaniyatattika
 
-* Pañhāvāra
 
-* Paccayānulomapaccanīya
 
-* Hetuduka
 
 (62.)
 
@@ -21,6 +16,5 @@
 
 
 
-[Go to previous page (16.7.3 Paccayānulomapaccanīya)](../16.7.3.md) / [Go to parent page (16.7.3 Paccayānulomapaccanīya)](../16.7.3.md) / [Go to next page (16.7.4 Paccayapaccanīyānuloma)](../16.7.4.md)
 
 

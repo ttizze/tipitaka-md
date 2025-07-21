@@ -1,17 +1,11 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [3 Vedanāttika](../../../../3.md) / [3.1 Paṭiccavāra](../../../3.1.md) / [3.1.1 Paccayānuloma](../../3.1.1.md) / [3.1.1.1 Vibhaṅgavāra](../3.1.1.1.md)
 
 # Āhārādi
 
-* Vedanāttika
 
-* Paṭiccavāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Āhārādi
 
 (4.)
 
@@ -21,6 +15,5 @@
 
 1805\. Adukkhamasukhāya vedanāya sampayuttaṃ dhammaṃ paṭicca adukkhamasukhāya vedanāya sampayutto dhammo uppajjati vippayuttapaccayā—  adukkhamasukhāya vedanāya sampayuttaṃ ekaṃ khandhaṃ paṭicca dve khandhā, dve khandhe paṭicca eko khandho; vatthuṃ vippayuttapaccayā; paṭisandhikkhaṇe adukkhamasukhāya vedanāya sampayuttaṃ ekaṃ khandhaṃ paṭicca dve khandhā, dve khandhe paṭicca eko khandho. Vatthuṃ vippayuttapaccayā. (Saṃkhittaṃ.)
 
-[Go to previous page (Āsevanādi)](Asevanadi.md) / [Go to parent page (3.1.1.1 Vibhaṅgavāra)](../3.1.1.1.md) / [Go to next page (Atthyādi)](Atthyadi.md)
 
 

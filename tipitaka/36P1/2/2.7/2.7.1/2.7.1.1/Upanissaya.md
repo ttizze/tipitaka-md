@@ -1,17 +1,11 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.7 Pañhāvāra](../../../2.7.md) / [2.7.1 Paccayānuloma](../../2.7.1.md) / [2.7.1.1 Vibhaṅgavāra](../2.7.1.1.md)
 
 # Upanissaya
 
-* Kusalattika
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Upanissaya
 
 (287.)
 
@@ -85,6 +79,5 @@
 
 927\. Kāyikaṃ sukhaṃ…  kāyikaṃ dukkhaṃ…  utu…  bhojanaṃ…  senāsanaṃ rāgassa…  dosassa…  mohassa…  mānassa…  diṭṭhiyā…  patthanāya upanissayapaccayena paccayo. (3)
 
-[Go to previous page (Nissaya)](Nissaya.md) / [Go to parent page (2.7.1.1 Vibhaṅgavāra)](../2.7.1.1.md) / [Go to next page (Purejāta)](Purejata.md)
 
 

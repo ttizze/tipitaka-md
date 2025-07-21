@@ -1,19 +1,12 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [12 Kilesagocchaka](../../../../../12.md) / [12.1 Kilesaduka](../../../../12.1.md) / [12.1.3 Paccayavāra](../../../12.1.3.md) / [12.1.3.1 Paccayānuloma](../../12.1.3.1.md) / [12.1.3.1.1 Vibhaṅgavāra](../12.1.3.1.1.md)
 
 # Hetu
 
-* Kilesagocchaka
 
-* Kilesaduka
 
-* Paccayavāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Hetu
 
 (10.)
 
@@ -35,6 +28,5 @@
 
 3841\. (Ārammaṇapaccaye nokilesamūle pañca viññāṇā kātabbā.)
 
-[Go to previous page (12.1.3.1.1 Vibhaṅgavāra)](../12.1.3.1.1.md) / [Go to parent page (12.1.3.1.1 Vibhaṅgavāra)](../12.1.3.1.1.md) / [Go to next page (12.1.3.1.2 Saṅkhyāvāra)](../12.1.3.1.2.md)
 
 

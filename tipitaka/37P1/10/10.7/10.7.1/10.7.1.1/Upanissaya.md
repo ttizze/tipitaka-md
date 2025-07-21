@@ -1,17 +1,11 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [10 Dassanenapahātabbahetukattika](../../../../10.md) / [10.7 Pañhāvāra](../../../10.7.md) / [10.7.1 Paccayānuloma](../../10.7.1.md) / [10.7.1.1 Vibhaṅgavāra](../10.7.1.1.md)
 
 # Upanissaya
 
-* Dassanenapahātabbahetukattika
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Upanissaya
 
 (88.)
 
@@ -65,6 +59,5 @@
 
 1335\. Bhāvanāya pahātabbahetuko ca nevadassanena nabhāvanāya pahātabbahetuko ca dhammā bhāvanāya pahātabbahetukassa ca nevadassanena nabhāvanāya pahātabbahetukassa ca dhammassa upanissayapaccayena paccayo—  anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  uddhaccasahagatā khandhā ca moho ca uddhaccasahagatānaṃ khandhānaṃ mohassa ca upanissayapaccayena paccayo. (5)
 
-[Go to previous page (Samanantarādi)](Samanantaradi.md) / [Go to parent page (10.7.1.1 Vibhaṅgavāra)](../10.7.1.1.md) / [Go to next page (Purejāta)](Purejata.md)
 
 

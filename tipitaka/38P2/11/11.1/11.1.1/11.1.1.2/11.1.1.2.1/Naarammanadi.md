@@ -1,19 +1,12 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [11 Upādānagocchaka](../../../../../11.md) / [11.1 Upādānaduka](../../../../11.1.md) / [11.1.1 Paṭiccavāra](../../../11.1.1.md) / [11.1.1.2 Paccayapaccanīya](../../11.1.1.2.md) / [11.1.1.2.1 Vibhaṅgavāra](../11.1.1.2.1.md)
 
 # Naārammaṇādi
 
-* Upādānagocchaka
 
-* Upādānaduka
 
-* Paṭiccavāra
 
-* Paccayapaccanīya
 
-* Vibhaṅgavāra
 
-* Naārammaṇādi
 
 (7.)
 
@@ -25,6 +18,5 @@
 
 3542\. Naadhipatipaccayā…  naanantarapaccayā…pe…  naupanissayapaccayā.
 
-[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (11.1.1.2.1 Vibhaṅgavāra)](../11.1.1.2.1.md) / [Go to next page (Napurejāta)](Napurejata.md)
 
 

@@ -1,17 +1,11 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [20 Atītārammaṇattika](../../../../20.md) / [20.7 Pañhāvāra](../../../20.7.md) / [20.7.1 Paccayānuloma](../../20.7.1.md) / [20.7.1.1 Vibhaṅgavāra](../20.7.1.1.md)
 
 # Kamma
 
-* Atītārammaṇattika
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Kamma
 
 (35.)
 
@@ -37,6 +31,5 @@
 
 2740\. Paccuppannārammaṇo dhammo anāgatārammaṇassa dhammassa kammapaccayena paccayo. **Nānākkhaṇikā**—  paccuppannārammaṇā cetanā vipākānaṃ anāgatārammaṇānaṃ khandhānaṃ kammapaccayena paccayo. (3)
 
-[Go to previous page (Āsevana)](Asevana.md) / [Go to parent page (20.7.1.1 Vibhaṅgavāra)](../20.7.1.1.md) / [Go to next page (Vipākādi)](Vipakadi.md)
 
 

@@ -1,13 +1,9 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../37P1.md) / [10 Dassanenapahātabbahetukattika](../../10.md) / [10.7 Pañhāvāra](../10.7.md)
 
 # Paccanīyuddhāra
 
-* Dassanenapahātabbahetukattika
 
-* Pañhāvāra
 
-* Paccanīyuddhāra
 
 (108.)
 
@@ -69,6 +65,5 @@
 
 1415\. (Idhāpi sahajātaṃ, purejātaṃ atthi. Ye te pañhā na likhitā, te pāḷiyaṃ gaṇentānaṃ byañjanena na samenti. Te pāḷiyaṃ na likhitā gaṇanā pākaṭā honti. Yadi saṃsayo uppajjati, anulome atthipaccaye pekkhitabbaṃ.)
 
-[Go to previous page (Suddha)](10.7.1/10.7.1.2/Suddha.md) / [Go to parent page (10.7 Pañhāvāra)](../10.7.md) / [Go to next page (10.7.2 Paccayapaccanīya)](10.7.2.md)
 
 

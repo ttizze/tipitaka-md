@@ -1,15 +1,10 @@
 
-[Home](/) / [40P13 Dhammānulomapaccanīya (3), Tikapaṭṭhānapāḷi (1)](../../../../40P13.md) / [2 Vedanāttika](../../../2.md) / [2.7 Pañhāvāra](../../2.7.md) / [Paccayacatukka](../Paccayacatukka.md)
 
 # Hetu
 
-* Vedanāttika
 
-* Pañhāvāra
 
-* Paccayacatukka
 
-* Hetu
 
 (16.)
 
@@ -17,6 +12,5 @@
 
 32\. Hetuyā ekavīsa, ārammaṇe ekavīsa…pe…  avigate ekavīsa. (Pañhāvāraṃ vitthāretabbaṃ.)
 
-[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (3 Vipākattika)](../../../3.md)
 
 

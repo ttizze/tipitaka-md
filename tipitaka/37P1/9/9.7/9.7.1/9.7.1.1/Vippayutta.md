@@ -1,17 +1,11 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [9 Dassanenapahātabbattika](../../../../9.md) / [9.7 Pañhāvāra](../../../9.7.md) / [9.7.1 Paccayānuloma](../../9.7.1.md) / [9.7.1.1 Vibhaṅgavāra](../9.7.1.1.md)
 
 # Vippayutta
 
-* Dassanenapahātabbattika
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Vippayutta
 
 (92.)
 
@@ -25,6 +19,5 @@
 
 1020\. Nevadassanena nabhāvanāya pahātabbo dhammo bhāvanāya pahātabbassa dhammassa vippayuttapaccayena paccayo—  **purejātaṃ** vatthu bhāvanāya pahātabbānaṃ khandhānaṃ vippayuttapaccayena paccayo. (3)
 
-[Go to previous page (Āhārādi)](Aharadi.md) / [Go to parent page (9.7.1.1 Vibhaṅgavāra)](../9.7.1.1.md) / [Go to next page (Atthi)](Atthi.md)
 
 

@@ -1,15 +1,10 @@
 
-[Home](/) / [40P13 Dhammānulomapaccanīya (3), Tikapaṭṭhānapāḷi (1)](../../../../40P13.md) / [6 Vitakkattika](../../../6.md) / [6.1--7 Paṭiccādivāra](../../6.1--7.md) / [Paccayānuloma](../Paccayanuloma.md)
 
 # Hetu
 
-* Vitakkattika
 
-* Paṭiccādivāra
 
-* Paccayānuloma
 
-* Hetu
 
 (33.)
 
@@ -33,6 +28,5 @@
 
 77\. (Sahajātavārampi…pe…  pañhāvārampi vitthāretabbaṃ.)
 
-[Go to previous page (Paccayānuloma)](../Paccayanuloma.md) / [Go to parent page (Paccayānuloma)](../Paccayanuloma.md) / [Go to next page (7 Pītittika)](../../../7.md)
 
 

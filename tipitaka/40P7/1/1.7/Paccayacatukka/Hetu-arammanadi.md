@@ -1,15 +1,10 @@
 
-[Home](/) / [40P7 Dhammapaccanīya (2), Tikapaṭṭhānapāḷi (1)](../../../../40P7.md) / [1 Kusalattika](../../../1.md) / [1.7 Pañhāvāra](../../1.7.md) / [Paccayacatukka](../Paccayacatukka.md)
 
 # Hetu-ārammaṇādi
 
-* Kusalattika
 
-* Pañhāvāra
 
-* Paccayacatukka
 
-* Hetu-ārammaṇādi
 
 (8.)
 
@@ -39,6 +34,5 @@
 
 21\. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ evaṃ gaṇetabbaṃ.)
 
-[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (2 Vedanāttika)](../../../2.md)
 
 

@@ -1,15 +1,10 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../39P3.md) / [13 Piṭṭhiduka, Kusalattika](../../../13.md) / [13.3 Dassanenapahātabbahetukaduka, Kusalattika](../../13.3.md) / [13.3.1--7 Paṭiccādivāra](../13.3.1--7.md)
 
 # Paccayacatukka
 
-* Piṭṭhiduka, Kusalattika
 
-* Dassanenapahātabbahetukaduka, Kusalattika
 
-* Paṭiccādivāra
 
-* Paccayacatukka
 
 (11.)
 
@@ -59,6 +54,5 @@
 
 2408\. (Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
 
-[Go to previous page (13.3.1--7 Paṭiccādivāra)](../13.3.1--7.md) / [Go to parent page (13.3.1--7 Paṭiccādivāra)](../13.3.1--7.md) / [Go to next page (13.4 Bhāvanāyapahātabbahetukaduka, Kusalattika)](../../13.4.md)
 
 

@@ -1,15 +1,10 @@
 
-[Home](/) / [39P6 Dhammānuloma (1), Dukadukapaṭṭhānapāḷi (6)](../../../../39P6.md) / [1 Hetuduka, Duka](../../../1.md) / [1.42 Cūḷantaraduka, Hetuduka](../../1.42.md) / [1.42.1--7 Paṭiccādivāra](../1.42.1--7.md)
 
 # Paccayacatukka
 
-* Hetuduka, Duka
 
-* Cūḷantaraduka, Hetuduka
 
-* Paṭiccādivāra
 
-* Paccayacatukka
 
 (72.)
 
@@ -71,6 +66,5 @@
 
 231\. Kenaci viññeyyaṃ nahetuṃ dhammaṃ paṭicca…pe…  nakenaci viññeyyaṃ nahetuṃ dhammaṃ paṭicca… . (Sabbattha nava.)
 
-[Go to previous page (1.42.1--7 Paṭiccādivāra)](../1.42.1--7.md) / [Go to parent page (1.42.1--7 Paṭiccādivāra)](../1.42.1--7.md) / [Go to next page (1.43 Āsavagocchaka, Hetuduka)](../../1.43.md)
 
 

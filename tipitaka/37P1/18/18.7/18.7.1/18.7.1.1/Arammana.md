@@ -1,17 +1,11 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [18 Uppannattika](../../../../18.md) / [18.7 Pañhāvāra](../../../18.7.md) / [18.7.1 Paccayānuloma](../../18.7.1.md) / [18.7.1.1 Vibhaṅgavāra](../18.7.1.1.md)
 
 # Ārammaṇa
 
-* Uppannattika
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Ārammaṇa
 
 (2.)
 
@@ -25,6 +19,5 @@
 
 2598\. Uppādī dhammo uppannassa dhammassa ārammaṇapaccayena paccayo—  uppādiṃ cakkhuṃ…pe…  kāyaṃ…  rūpe…  gandhe…  rase…  phoṭṭhabbe…  vatthuṃ…  uppādī khandhe aniccato dukkhato anattato…pe…  domanassaṃ uppajjati. Uppādī khandhā iddhividhañāṇassa, cetopariyañāṇassa, anāgataṃsañāṇassa, āvajjanāya ārammaṇapaccayena paccayo. (1)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (18.7.1.1 Vibhaṅgavāra)](../18.7.1.1.md) / [Go to next page (Adhipati)](Adhipati.md)
 
 

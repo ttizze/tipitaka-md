@@ -1,15 +1,10 @@
 
-[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../../39P4.md) / [8 Tika, Saraṇaduka](../../../8.md) / [8.7 Pītittika, Saraṇaduka](../../8.7.md) / [8.7.1--7 Paṭiccādivāra](../8.7.1--7.md)
 
 # Paccayacatukka
 
-* Tika, Saraṇaduka
 
-* Pītittika, Saraṇaduka
 
-* Paṭiccādivāra
 
-* Paccayacatukka
 
 (27.)
 
@@ -49,6 +44,5 @@
 
 1790\. (Sahajātavārepi…pe…  pañhāvārepi tattakāva pañhā.)
 
-[Go to previous page (8.7.1--7 Paṭiccādivāra)](../8.7.1--7.md) / [Go to parent page (8.7.1--7 Paṭiccādivāra)](../8.7.1--7.md) / [Go to next page (8.8 Dassanattika, Saraṇaduka)](../../8.8.md)
 
 

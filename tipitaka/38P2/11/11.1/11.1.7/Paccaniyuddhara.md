@@ -1,15 +1,10 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../38P2.md) / [11 Upādānagocchaka](../../../11.md) / [11.1 Upādānaduka](../../11.1.md) / [11.1.7 Pañhāvāra](../11.1.7.md)
 
 # Paccanīyuddhāra
 
-* Upādānagocchaka
 
-* Upādānaduka
 
-* Pañhāvāra
 
-* Paccanīyuddhāra
 
 (38.)
 
@@ -35,6 +30,5 @@
 
 3630\. Upādāno ca noupādāno ca dhammā upādānassa ca noupādānassa ca dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo. (3)
 
-[Go to previous page (Suddha)](11.1.7.1/11.1.7.1.2/Suddha.md) / [Go to parent page (11.1.7 Pañhāvāra)](../11.1.7.md) / [Go to next page (11.1.7.2 Paccayapaccanīya)](11.1.7.2.md)
 
 

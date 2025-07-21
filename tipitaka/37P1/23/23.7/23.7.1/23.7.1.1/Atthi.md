@@ -1,17 +1,11 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [23 Sanidassanasappaṭighattika](../../../../23.md) / [23.7 Pañhāvāra](../../../23.7.md) / [23.7.1 Paccayānuloma](../../23.7.1.md) / [23.7.1.1 Vibhaṅgavāra](../23.7.1.1.md)
 
 # Atthi
 
-* Sanidassanasappaṭighattika
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Atthi
 
 (50.)
 
@@ -53,6 +47,5 @@
 
 3060\. (Natthivigatapaccayaṃ anantarasadisaṃ. Avigatapaccayaṃ atthisadisaṃ.)
 
-[Go to previous page (Vippayutta)](Vippayutta.md) / [Go to parent page (23.7.1.1 Vibhaṅgavāra)](../23.7.1.1.md) / [Go to next page (23.7.1.2 Saṅkhyāvāra)](../23.7.1.2.md)
 
 

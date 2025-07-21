@@ -1,19 +1,12 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [2 Cūḷantaraduka](../../../../../2.md) / [2.4 Sappaṭighaduka](../../../../2.4.md) / [2.4.7 Pañhāvāra](../../../2.4.7.md) / [2.4.7.1 Paccayānuloma](../../2.4.7.1.md) / [2.4.7.1.1 Vibhaṅgavāra](../2.4.7.1.1.md)
 
 # Atthi
 
-* Cūḷantaraduka
 
-* Sappaṭighaduka
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Atthi
 
 (83.)
 
@@ -39,6 +32,5 @@
 
 736\. Sappaṭigho ca appaṭigho ca dhammā sappaṭighassa ca appaṭighassa ca dhammassa atthipaccayena paccayo. (Paṭiccasadisaṃ.) (3)
 
-[Go to previous page (Vippayutta)](Vippayutta.md) / [Go to parent page (2.4.7.1.1 Vibhaṅgavāra)](../2.4.7.1.1.md) / [Go to next page (2.4.7.1.2 Saṅkhyāvāra)](../2.4.7.1.2.md)
 
 

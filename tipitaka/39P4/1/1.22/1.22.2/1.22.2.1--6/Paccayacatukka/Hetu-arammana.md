@@ -1,19 +1,12 @@
 
-[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../../../../39P4.md) / [1 Tika, Hetuduka](../../../../../1.md) / [1.22 Sanidassanasappaṭighattika, Hetuduka](../../../../1.22.md) / [1.22.2 Nahetupada](../../../1.22.2.md) / [1.22.2.1--6 Paṭiccādivāra](../../1.22.2.1--6.md) / [Paccayacatukka](../Paccayacatukka.md)
 
 # Hetu-ārammaṇa
 
-* Tika, Hetuduka
 
-* Sanidassanasappaṭighattika, Hetuduka
 
-* Nahetupada
 
-* Paṭiccādivāra
 
-* Paccayacatukka
 
-* Hetu-ārammaṇa
 
 (239.)
 
@@ -41,6 +34,5 @@
 
 914\. (Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ.)
 
-[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.22.2.7 Pañhāvāra)](../../1.22.2.7.md)
 
 

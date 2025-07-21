@@ -1,15 +1,10 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../37P1.md) / [10 Dassanenapahātabbahetukattika](../../../10.md) / [10.3 Paccayavāra](../../10.3.md) / [10.3.4 Paccayapaccanīyānuloma](../10.3.4.md)
 
 # Nahetuduka
 
-* Dassanenapahātabbahetukattika
 
-* Paccayavāra
 
-* Paccayapaccanīyānuloma
 
-* Nahetuduka
 
 (62.)
 
@@ -24,6 +19,5 @@ Paccayavāro.
 
 
 
-[Go to previous page (10.3.4 Paccayapaccanīyānuloma)](../10.3.4.md) / [Go to parent page (10.3.4 Paccayapaccanīyānuloma)](../10.3.4.md) / [Go to next page (10.4 Nissayavāra)](../../10.4.md)
 
 

@@ -1,17 +1,11 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [8 Pītittika](../../../../8.md) / [8.1 Paṭiccavāra](../../../8.1.md) / [8.1.1 Paccayānuloma](../../8.1.1.md) / [8.1.1.1 Vibhaṅgavāra](../8.1.1.1.md)
 
 # Hetu
 
-* Pītittika
 
-* Paṭiccavāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Hetu
 
 (1.)
 
@@ -39,6 +33,5 @@
 
 649\. Pītisahagatañca sukhasahagatañca dhammaṃ paṭicca pītisahagato ca sukhasahagato ca dhammā uppajjanti hetupaccayā—  pītisahagatañca sukhasahagatañca ekaṃ khandhaṃ paṭicca pītisahagatā ca sukhasahagatā ca dve khandhā, dve khandhe paṭicca eko khandho. Paṭisandhikkhaṇe pītisahagatañca sukhasahagatañca ekaṃ khandhaṃ paṭicca pītisahagatā ca sukhasahagatā ca dve khandhā, dve khandhe paṭicca eko khandho. (3)
 
-[Go to previous page (8.1.1.1 Vibhaṅgavāra)](../8.1.1.1.md) / [Go to parent page (8.1.1.1 Vibhaṅgavāra)](../8.1.1.1.md) / [Go to next page (Ārammaṇādi)](Arammanadi.md)
 
 

@@ -1,17 +1,11 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.7 Pañhāvāra](../../../2.7.md) / [2.7.3 Paccayānulomapaccanīya](../../2.7.3.md) / [Aññamañña](../Annamanna.md)
 
 # Aññamaññaghaṭanā
 
-* Kusalattika
 
-* Pañhāvāra
 
-* Paccayānulomapaccanīya
 
-* Aññamañña
 
-* Aññamaññaghaṭanā
 
 (434.)
 
@@ -33,6 +27,5 @@
 
 
 
-[Go to previous page (Aññamaññaduka)](Annamannaduka.md) / [Go to parent page (Aññamañña)](../Annamanna.md) / [Go to next page (Nissaya)](../Nissaya.md)
 
 

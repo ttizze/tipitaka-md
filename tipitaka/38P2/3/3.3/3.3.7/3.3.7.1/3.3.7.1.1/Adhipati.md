@@ -1,19 +1,12 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [3 Āsavagocchaka](../../../../../3.md) / [3.3 Āsavasampayuttaduka](../../../../3.3.md) / [3.3.7 Pañhāvāra](../../../3.3.7.md) / [3.3.7.1 Paccayānuloma](../../3.3.7.1.md) / [3.3.7.1.1 Vibhaṅgavāra](../3.3.7.1.1.md)
 
 # Adhipati
 
-* Āsavagocchaka
 
-* Āsavasampayuttaduka
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Adhipati
 
 (80.)
 
@@ -29,6 +22,5 @@
 
 1193\. Āsavavippayutto dhammo āsavasampayuttassa dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  dānaṃ datvā sīlaṃ…pe…  uposathakammaṃ katvā taṃ garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā rāgo uppajjati, diṭṭhi uppajjati, pubbe suciṇṇāni…pe…  jhānā…pe…  cakkhuṃ…pe…  vatthuṃ āsavavippayutte khandhe garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā rāgo uppajjati, diṭṭhi uppajjati. (2)
 
-[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (3.3.7.1.1 Vibhaṅgavāra)](../3.3.7.1.1.md) / [Go to next page (Anantara)](Anantara.md)
 
 

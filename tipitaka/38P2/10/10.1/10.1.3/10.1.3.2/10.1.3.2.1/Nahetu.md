@@ -1,19 +1,12 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [10 Mahantaraduka](../../../../../10.md) / [10.1 Sārammaṇaduka](../../../../10.1.md) / [10.1.3 Paccayavāra](../../../10.1.3.md) / [10.1.3.2 Paccayapaccanīya](../../10.1.3.2.md) / [10.1.3.2.1 Vibhaṅgavāra](../10.1.3.2.1.md)
 
 # Nahetu
 
-* Mahantaraduka
 
-* Sārammaṇaduka
 
-* Paccayavāra
 
-* Paccayapaccanīya
 
-* Vibhaṅgavāra
 
-* Nahetu
 
 (18.)
 
@@ -33,6 +26,5 @@
 
 2363\. Sārammaṇañca anārammaṇañca dhammaṃ paccayā sārammaṇo ca anārammaṇo ca dhammā uppajjanti nahetupaccayā—  ahetukaṃ sārammaṇaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe ca…pe…  ahetuke sārammaṇe khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ; ahetukapaṭisandhikkhaṇe ahetukaṃ sārammaṇaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe ca…pe…  ahetuke sārammaṇe khandhe ca mahābhūte ca paccayā kaṭattārūpaṃ…pe…  (Saṃkhittaṃ.) (3)
 
-[Go to previous page (10.1.3.2.1 Vibhaṅgavāra)](../10.1.3.2.1.md) / [Go to parent page (10.1.3.2.1 Vibhaṅgavāra)](../10.1.3.2.1.md) / [Go to next page (10.1.3.2.2 Saṅkhyāvāra)](../10.1.3.2.2.md)
 
 

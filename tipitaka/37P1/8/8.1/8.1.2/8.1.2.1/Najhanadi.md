@@ -1,17 +1,11 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [8 Pītittika](../../../../8.md) / [8.1 Paṭiccavāra](../../../8.1.md) / [8.1.2 Paccayapaccanīya](../../8.1.2.md) / [8.1.2.1 Vibhaṅgavāra](../8.1.2.1.md)
 
 # Najhānādi
 
-* Pītittika
 
-* Paṭiccavāra
 
-* Paccayapaccanīya
 
-* Vibhaṅgavāra
 
-* Najhānādi
 
 (13.)
 
@@ -21,6 +15,5 @@
 
 670\. (Namaggapaccayā nahetupaccayasadisaṃ. Moho natthi. Navippayuttapaccayā paripuṇṇaṃ, arūpapañhameva.)
 
-[Go to previous page (Navipāka)](Navipaka.md) / [Go to parent page (8.1.2.1 Vibhaṅgavāra)](../8.1.2.1.md) / [Go to next page (8.1.2.2 Saṅkhyāvāra)](../8.1.2.2.md)
 
 

@@ -1,17 +1,11 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [5 Upādinnattika](../../../../5.md) / [5.7 Pañhāvāra](../../../5.7.md) / [5.7.1 Paccayānuloma](../../5.7.1.md) / [5.7.1.1 Vibhaṅgavāra](../5.7.1.1.md)
 
 # Purejāta
 
-* Upādinnattika
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Purejāta
 
 (64.)
 
@@ -31,6 +25,5 @@
 
 2668\. Upādinnupādāniyo ca anupādinnupādāniyo ca dhammā anupādinnupādāniyassa dhammassa purejātapaccayena paccayo—  **ārammaṇapurejātaṃ, vatthupurejātaṃ**. Anupādinnupādāniyaṃ rūpāyatanañca vatthu ca anupādinnupādāniyānaṃ khandhānaṃ purejātapaccayena paccayo…pe…  anupādinnupādāniyaṃ phoṭṭhabbāyatanañca vatthu ca anupādinnupādāniyānaṃ khandhānaṃ purejātapaccayena paccayo. (2)
 
-[Go to previous page (Upanissaya)](Upanissaya.md) / [Go to parent page (5.7.1.1 Vibhaṅgavāra)](../5.7.1.1.md) / [Go to next page (Pacchājāta)](Pacchajata.md)
 
 

@@ -1,15 +1,10 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../38P2.md) / [10 Mahantaraduka](../../../10.md) / [10.12 Ajjhattikaduka](../../10.12.md) / [10.12.7 Pañhāvāra](../10.12.7.md)
 
 # Paccanīyuddhāra
 
-* Mahantaraduka
 
-* Ajjhattikaduka
 
-* Pañhāvāra
 
-* Paccanīyuddhāra
 
 (364.)
 
@@ -35,6 +30,5 @@
 
 3233\. Ajjhattiko ca bāhiro ca dhammā ajjhattikassa ca bāhirassa ca dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo…  purejātapaccayena paccayo…  pacchājātapaccayena paccayo. (3)
 
-[Go to previous page (Suddha)](10.12.7.1/10.12.7.1.2/Suddha.md) / [Go to parent page (10.12.7 Pañhāvāra)](../10.12.7.md) / [Go to next page (10.12.7.2 Paccayapaccanīya)](10.12.7.2.md)
 
 

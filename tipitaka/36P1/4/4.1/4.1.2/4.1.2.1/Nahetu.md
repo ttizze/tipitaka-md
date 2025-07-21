@@ -1,17 +1,11 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [4 Vipākattika](../../../../4.md) / [4.1 Paṭiccavāra](../../../4.1.md) / [4.1.2 Paccayapaccanīya](../../4.1.2.md) / [4.1.2.1 Vibhaṅgavāra](../4.1.2.1.md)
 
 # Nahetu
 
-* Vipākattika
 
-* Paṭiccavāra
 
-* Paccayapaccanīya
 
-* Vibhaṅgavāra
 
-* Nahetu
 
 (24.)
 
@@ -39,6 +33,5 @@
 
 2099\. Vipākañca nevavipākanavipākadhammadhammañca dhammaṃ paṭicca vipāko ca nevavipākanavipākadhammadhammo ca dhammā uppajjanti nahetupaccayā—  ahetukapaṭisandhikkhaṇe vipākaṃ ekaṃ khandhañca vatthuñca paṭicca tayo khandhā…pe…  dve khandhe ca vatthuñca paṭicca dve khandhā, vipāke khandhe ca mahābhūte ca paṭicca kaṭattārūpaṃ. (3)
 
-[Go to previous page (4.1.2.1 Vibhaṅgavāra)](../4.1.2.1.md) / [Go to parent page (4.1.2.1 Vibhaṅgavāra)](../4.1.2.1.md) / [Go to next page (Naārammaṇa)](Naarammana.md)
 
 

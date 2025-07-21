@@ -1,17 +1,11 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [10 Dassanenapahātabbahetukattika](../../../../10.md) / [10.7 Pañhāvāra](../../../10.7.md) / [10.7.1 Paccayānuloma](../../10.7.1.md) / [10.7.1.2 Saṅkhyāvāra](../10.7.1.2.md)
 
 # Suddha
 
-* Dassanenapahātabbahetukattika
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Saṅkhyāvāra
 
-* Suddha
 
 (107.)
 
@@ -23,6 +17,5 @@
 
 
 
-[Go to previous page (10.7.1.2 Saṅkhyāvāra)](../10.7.1.2.md) / [Go to parent page (10.7.1.2 Saṅkhyāvāra)](../10.7.1.2.md) / [Go to next page (Paccanīyuddhāra)](../../Paccaniyuddhara.md)
 
 

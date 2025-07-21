@@ -1,19 +1,12 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [10 Mahantaraduka](../../../../../10.md) / [10.14 Upādinnaduka](../../../../10.14.md) / [10.14.3 Paccayavāra](../../../10.14.3.md) / [10.14.3.2 Paccayapaccanīya](../../10.14.3.2.md) / [10.14.3.2.1 Vibhaṅgavāra](../10.14.3.2.1.md)
 
 # Nahetu
 
-* Mahantaraduka
 
-* Upādinnaduka
 
-* Paccayavāra
 
-* Paccayapaccanīya
 
-* Vibhaṅgavāra
 
-* Nahetu
 
 (438.)
 
@@ -29,6 +22,5 @@
 
 3430\. Upādinnañca anupādinnañca dhammaṃ paccayā anupādinno dhammo uppajjati nahetupaccayā—  ahetuke upādinne khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ, ahetukaṃ anupādinnaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe ca…pe…  vicikicchāsahagate uddhaccasahagate khandhe ca vatthuñca paccayā vicikicchāsahagato uddhaccasahagato moho. (1) (Saṃkhittaṃ.)
 
-[Go to previous page (10.14.3.2.1 Vibhaṅgavāra)](../10.14.3.2.1.md) / [Go to parent page (10.14.3.2.1 Vibhaṅgavāra)](../10.14.3.2.1.md) / [Go to next page (10.14.3.2.2 Saṅkhyāvāra)](../10.14.3.2.2.md)
 
 

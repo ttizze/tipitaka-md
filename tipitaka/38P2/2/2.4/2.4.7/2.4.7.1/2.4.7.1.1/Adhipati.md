@@ -1,19 +1,12 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [2 Cūḷantaraduka](../../../../../2.md) / [2.4 Sappaṭighaduka](../../../../2.4.md) / [2.4.7 Pañhāvāra](../../../2.4.7.md) / [2.4.7.1 Paccayānuloma](../../2.4.7.1.md) / [2.4.7.1.1 Vibhaṅgavāra](../2.4.7.1.1.md)
 
 # Adhipati
 
-* Cūḷantaraduka
 
-* Sappaṭighaduka
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Adhipati
 
 (70.)
 
@@ -25,6 +18,5 @@
 
 705\. Appaṭigho dhammo sappaṭighassa ca appaṭighassa ca dhammassa adhipatipaccayena paccayo. **Sahajātādhipati**—  appaṭighādhipati sampayuttakānaṃ khandhānaṃ sappaṭighānañca appaṭighānañca cittasamuṭṭhānānaṃ rūpānaṃ adhipatipaccayena paccayo. (3)
 
-[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (2.4.7.1.1 Vibhaṅgavāra)](../2.4.7.1.1.md) / [Go to next page (Anantara)](Anantara.md)
 
 

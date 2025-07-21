@@ -1,17 +1,11 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [11 Ācayagāmittika](../../../../11.md) / [11.3 Paccayavāra](../../../11.3.md) / [11.3.2 Paccayapaccanīya](../../11.3.2.md) / [11.3.2.1 Vibhaṅgavāra](../11.3.2.1.md)
 
 # Nahetu
 
-* Ācayagāmittika
 
-* Paccayavāra
 
-* Paccayapaccanīya
 
-* Vibhaṅgavāra
 
-* Nahetu
 
 (26.)
 
@@ -23,6 +17,5 @@
 
 1505\. Ācayagāmiñca nevācayagāmināpacayagāmiñca dhammaṃ paccayā ācayagāmī dhammo uppajjati nahetupaccayā—  vicikicchāsahagate uddhaccasahagate khandhe ca vatthuñca paccayā vicikicchāsahagato uddhaccasahagato moho. (1)
 
-[Go to previous page (11.3.2.1 Vibhaṅgavāra)](../11.3.2.1.md) / [Go to parent page (11.3.2.1 Vibhaṅgavāra)](../11.3.2.1.md) / [Go to next page (Naārammaṇa)](Naarammana.md)
 
 

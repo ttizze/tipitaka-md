@@ -1,17 +1,11 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.2 Sahajātavāra](../../../2.2.md) / [2.2.1 Paccayānuloma](../../2.2.1.md) / [2.2.1.1 Vibhaṅgavāra](../2.2.1.1.md)
 
 # Hetu
 
-* Kusalattika
 
-* Sahajātavāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Hetu
 
 (99.)
 
@@ -37,6 +31,5 @@
 
 
 
-[Go to previous page (2.2.1.1 Vibhaṅgavāra)](../2.2.1.1.md) / [Go to parent page (2.2.1.1 Vibhaṅgavāra)](../2.2.1.1.md) / [Go to next page (2.2.1.2 Saṅkhyāvāra)](../2.2.1.2.md)
 
 

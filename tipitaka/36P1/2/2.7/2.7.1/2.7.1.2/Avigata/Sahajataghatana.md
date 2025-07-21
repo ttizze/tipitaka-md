@@ -1,19 +1,12 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../../36P1.md) / [2 Kusalattika](../../../../../2.md) / [2.7 Pañhāvāra](../../../../2.7.md) / [2.7.1 Paccayānuloma](../../../2.7.1.md) / [2.7.1.2 Saṅkhyāvāra](../../2.7.1.2.md) / [Avigata](../Avigata.md)
 
 # Sahajātaghaṭanā
 
-* Kusalattika
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Saṅkhyāvāra
 
-* Avigata
 
-* Sahajātaghaṭanā
 
 (390.)
 
@@ -30,6 +23,5 @@ Pañhāvārassa anulomagaṇanā.
 
 
 
-[Go to previous page (Pakiṇṇakaghaṭanā)](Pakinnakaghatana.md) / [Go to parent page (Avigata)](../Avigata.md) / [Go to next page (Paccanīyuddhāra)](../../../Paccaniyuddhara.md)
 
 

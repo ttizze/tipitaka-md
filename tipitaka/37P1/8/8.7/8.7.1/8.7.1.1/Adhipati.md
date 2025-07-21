@@ -1,17 +1,11 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [8 Pītittika](../../../../8.md) / [8.7 Pañhāvāra](../../../8.7.md) / [8.7.1 Paccayānuloma](../../8.7.1.md) / [8.7.1.1 Vibhaṅgavāra](../8.7.1.1.md)
 
 # Adhipati
 
-* Pītittika
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Adhipati
 
 (22.)
 
@@ -53,6 +47,5 @@
 
 708\. Pītisahagato ca sukhasahagato ca dhammā pītisahagatassa ca sukhasahagatassa ca dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati, sahajātādhipati…pe… . **Sahajātādhipati**—  pītisahagatā ca sukhasahagatā ca adhipati sampayuttakānaṃ pītisahagatānañca sukhasahagatānañca khandhānaṃ adhipatipaccayena paccayo. (4)
 
-[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (8.7.1.1 Vibhaṅgavāra)](../8.7.1.1.md) / [Go to next page (Anantara)](Anantara.md)
 
 

@@ -1,19 +1,12 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [13 Piṭṭhiduka](../../../../../13.md) / [13.3 Dassanenapahātabbahetukaduka](../../../../13.3.md) / [13.3.7 Pañhāvāra](../../../13.3.7.md) / [13.3.7.1 Paccayānuloma](../../13.3.7.1.md) / [13.3.7.1.1 Vibhaṅgavāra](../13.3.7.1.1.md)
 
 # Adhipati
 
-* Piṭṭhiduka
 
-* Dassanenapahātabbahetukaduka
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Adhipati
 
 (73.)
 
@@ -29,6 +22,5 @@
 
 4235\. Nadassanena pahātabbahetuko dhammo dassanena pahātabbahetukassa dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  dānaṃ…pe…  sīlaṃ…pe…  uposathakammaṃ katvā…pe…  jhānā…pe…  cakkhuṃ…pe…  vatthuṃ nadassanena pahātabbahetuke khandhe garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā dassanena pahātabbahetuko rāgo uppajjati, diṭṭhi uppajjati. (2)
 
-[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (13.3.7.1.1 Vibhaṅgavāra)](../13.3.7.1.1.md) / [Go to next page (Anantara)](Anantara.md)
 
 

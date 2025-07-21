@@ -1,15 +1,10 @@
 
-[Home](/) / [40P19 Dhammapaccanīyānuloma (4), Tikapaṭṭhānapāḷi (1)](../../../../40P19.md) / [1 Kusalattika](../../../1.md) / [1.1--2 Paṭiccādivāra](../../1.1--2.md) / [Paccanīya](../Paccaniya.md)
 
 # Nahetu-naārammaṇa
 
-* Kusalattika
 
-* Paṭiccādivāra
 
-* Paccanīya
 
-* Nahetu-naārammaṇa
 
 (3.)
 
@@ -29,6 +24,5 @@
 
 20\. (Sahajātavāro paṭiccavārasadiso.)
 
-[Go to previous page (Paccanīya)](../Paccaniya.md) / [Go to parent page (Paccanīya)](../Paccaniya.md) / [Go to next page (1.3--6 Paccayavārādi)](../../1.3--6.md)
 
 

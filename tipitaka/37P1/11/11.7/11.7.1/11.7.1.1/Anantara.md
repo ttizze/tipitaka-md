@@ -1,17 +1,11 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [11 Ācayagāmittika](../../../../11.md) / [11.7 Pañhāvāra](../../../11.7.md) / [11.7.1 Paccayānuloma](../../11.7.1.md) / [11.7.1.1 Vibhaṅgavāra](../11.7.1.1.md)
 
 # Anantara
 
-* Ācayagāmittika
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Anantara
 
 (52.)
 
@@ -27,6 +21,5 @@
 
 1587\. Nevācayagāmināpacayagāmī dhammo ācayagāmissa dhammassa anantarapaccayena paccayo—  āvajjanā ācayagāmīnaṃ khandhānaṃ anantarapaccayena paccayo. (2)
 
-[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (11.7.1.1 Vibhaṅgavāra)](../11.7.1.1.md) / [Go to next page (Samanantarādi)](Samanantaradi.md)
 
 

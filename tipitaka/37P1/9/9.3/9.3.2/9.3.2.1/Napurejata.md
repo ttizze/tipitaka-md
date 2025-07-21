@@ -1,17 +1,11 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [9 Dassanenapahātabbattika](../../../../9.md) / [9.3 Paccayavāra](../../../9.3.md) / [9.3.2 Paccayapaccanīya](../../9.3.2.md) / [9.3.2.1 Vibhaṅgavāra](../9.3.2.1.md)
 
 # Napurejāta
 
-* Dassanenapahātabbattika
 
-* Paccayavāra
 
-* Paccayapaccanīya
 
-* Vibhaṅgavāra
 
-* Napurejāta
 
 (51.)
 
@@ -31,6 +25,5 @@
 
 906\. Bhāvanāya pahātabbañca nevadassanena nabhāvanāya pahātabbañca dhammaṃ paccayā nevadassanena nabhāvanāya pahātabbo dhammo uppajjati napurejātapaccayā—  bhāvanāya pahātabbe khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ. (1)
 
-[Go to previous page (Naadhipatyādi)](Naadhipatyadi.md) / [Go to parent page (9.3.2.1 Vibhaṅgavāra)](../9.3.2.1.md) / [Go to next page (Napacchājātādi)](Napacchajatadi.md)
 
 

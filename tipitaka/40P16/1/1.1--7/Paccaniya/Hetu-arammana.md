@@ -1,15 +1,10 @@
 
-[Home](/) / [40P16 Dhammānulomapaccanīya (3), Tikadukapaṭṭhānapāḷi (4)](../../../../40P16.md) / [1 Kusalattika, Hetuduka](../../../1.md) / [1.1--7 Paṭiccādivāra](../../1.1--7.md) / [Paccanīya](../Paccaniya.md)
 
 # Hetu-ārammaṇa
 
-* Kusalattika, Hetuduka
 
-* Paṭiccādivāra
 
-* Paccanīya
 
-* Hetu-ārammaṇa
 
 (3.)
 
@@ -31,6 +26,5 @@
 
 15\. Hetuyā nava, ārammaṇe nava…pe…  vipāke tīṇi…pe…  avigate nava. (Sabbattha nava.)
 
-[Go to previous page (Naārammaṇa)](Naarammana.md) / [Go to parent page (Paccanīya)](../Paccaniya.md) / [Go to next page (2 Kusalattika, Sahetukaduka)](../../../2.md)
 
 

@@ -1,19 +1,12 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [10 Mahantaraduka](../../../../../10.md) / [10.12 Ajjhattikaduka](../../../../10.12.md) / [10.12.7 Pañhāvāra](../../../10.12.7.md) / [10.12.7.1 Paccayānuloma](../../10.12.7.1.md) / [10.12.7.1.1 Vibhaṅgavāra](../10.12.7.1.1.md)
 
 # Ārammaṇa
 
-* Mahantaraduka
 
-* Ajjhattikaduka
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Ārammaṇa
 
 (341.)
 
@@ -27,6 +20,5 @@
 
 3161\. Ajjhattiko ca bāhiro ca dhammā ajjhattikassa dhammassa ārammaṇapaccayena paccayo…  tīṇi.
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (10.12.7.1.1 Vibhaṅgavāra)](../10.12.7.1.1.md) / [Go to next page (Adhipati)](Adhipati.md)
 
 

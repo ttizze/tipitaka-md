@@ -1,17 +1,11 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.7 Pañhāvāra](../../../2.7.md) / [2.7.3 Paccayānulomapaccanīya](../../2.7.3.md) / [Jhāna](../Jhana.md)
 
 # Jhānasāmaññaghaṭanā
 
-* Kusalattika
 
-* Pañhāvāra
 
-* Paccayānulomapaccanīya
 
-* Jhāna
 
-* Jhānasāmaññaghaṭanā
 
 (471.)
 
@@ -33,6 +27,5 @@
 
 1554\. Jhāna sahajāta aññamañña nissaya vipāka vippayutta atthi avigatanti nahetuyā ekaṃ…pe…  novigate ekaṃ. [Savipāka—  5]
 
-[Go to previous page (Jhānaduka)](Jhanaduka.md) / [Go to parent page (Jhāna)](../Jhana.md) / [Go to next page (Saindriyaghaṭanā)](Saindriyaghatana.md)
 
 

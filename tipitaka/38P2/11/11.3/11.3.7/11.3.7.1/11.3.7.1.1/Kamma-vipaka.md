@@ -1,19 +1,12 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [11 Upādānagocchaka](../../../../../11.md) / [11.3 Upādānasampayuttaduka](../../../../11.3.md) / [11.3.7 Pañhāvāra](../../../11.3.7.md) / [11.3.7.1 Paccayānuloma](../../11.3.7.1.md) / [11.3.7.1.1 Vibhaṅgavāra](../11.3.7.1.1.md)
 
 # Kamma-vipāka
 
-* Upādānagocchaka
 
-* Upādānasampayuttaduka
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Kamma-vipāka
 
 (81.)
 
@@ -29,6 +22,5 @@
 
 3727\. Upādānavippayutto dhammo upādānavippayuttassa dhammassa vipākapaccayena paccayo—  vipāko upādānavippayutto eko…pe…  ekaṃ.
 
-[Go to previous page (Pacchājātāsevana)](Pacchajatasevana.md) / [Go to parent page (11.3.7.1.1 Vibhaṅgavāra)](../11.3.7.1.1.md) / [Go to next page (Āhārādi)](Aharadi.md)
 
 

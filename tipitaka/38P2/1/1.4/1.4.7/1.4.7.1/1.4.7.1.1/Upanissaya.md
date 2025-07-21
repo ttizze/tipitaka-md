@@ -1,19 +1,12 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [1 Hetugocchaka](../../../../../1.md) / [1.4 Hetusahetukaduka](../../../../1.4.md) / [1.4.7 Pañhāvāra](../../../1.4.7.md) / [1.4.7.1 Paccayānuloma](../../1.4.7.1.md) / [1.4.7.1.1 Vibhaṅgavāra](../1.4.7.1.1.md)
 
 # Upanissaya
 
-* Hetugocchaka
 
-* Hetusahetukaduka
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Upanissaya
 
 (146.)
 
@@ -25,6 +18,5 @@
 
 411\. Hetu ceva sahetuko ca sahetuko ceva na ca hetu ca dhammā hetussa ceva sahetukassa ca dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  hetū ca sampayuttakā ca khandhā hetūnaṃ upanissayapaccayena paccayo. (Dve mūlāni pucchitabbāni) Hetū ca sampayuttakā ca khandhā sahetukānañceva na ca hetūnaṃ khandhānaṃ upanissayapaccayena paccayo. (Mūlaṃ pucchitabbaṃ.) Hetū ca sampayuttakā ca khandhā hetūnaṃ sampayuttakānañca khandhānaṃ upanissayapaccayena paccayo. (1)
 
-[Go to previous page (Sahajātādi)](Sahajatadi.md) / [Go to parent page (1.4.7.1.1 Vibhaṅgavāra)](../1.4.7.1.1.md) / [Go to next page (Āsevana)](Asevana.md)
 
 

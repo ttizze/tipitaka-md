@@ -1,17 +1,11 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [22 Ajjhattārammaṇattika](../../../../22.md) / [22.7 Pañhāvāra](../../../22.7.md) / [22.7.1 Paccayānuloma](../../22.7.1.md) / [22.7.1.1 Vibhaṅgavāra](../22.7.1.1.md)
 
 # Anantara
 
-* Ajjhattārammaṇattika
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Anantara
 
 (16.)
 
@@ -25,6 +19,5 @@
 
 2903\. Bahiddhārammaṇo dhammo ajjhattārammaṇassa dhammassa anantarapaccayena paccayo—  bahiddhārammaṇaṃ cuticittaṃ ajjhattārammaṇassa upapatticittassa anantarapaccayena paccayo. Bahiddhārammaṇaṃ bhavaṅgaṃ ajjhattārammaṇāya āvajjanāya anantarapaccayena paccayo. Bahiddhārammaṇā khandhā ajjhattārammaṇassa vuṭṭhānassa anantarapaccayena paccayo. (2)
 
-[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (22.7.1.1 Vibhaṅgavāra)](../22.7.1.1.md) / [Go to next page (Samanantarādi)](Samanantaradi.md)
 
 

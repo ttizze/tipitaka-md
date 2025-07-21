@@ -1,17 +1,11 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../../39P3.md) / [13 Piṭṭhiduka, Kusalattika](../../../../13.md) / [13.5 Savitakkaduka, Kusalattika](../../../13.5.md) / [13.5.1 Kusalapada](../../13.5.1.md) / [13.5.1.7 Pañhāvāra](../13.5.1.7.md)
 
 # Hetu-ārammaṇa
 
-* Piṭṭhiduka, Kusalattika
 
-* Savitakkaduka, Kusalattika
 
-* Kusalapada
 
-* Pañhāvāra
 
-* Hetu-ārammaṇa
 
 (25.)
 
@@ -37,6 +31,5 @@
 
 2433\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
 
-[Go to previous page (13.5.1.7 Pañhāvāra)](../13.5.1.7.md) / [Go to parent page (13.5.1.7 Pañhāvāra)](../13.5.1.7.md) / [Go to next page (13.5.2 Akusalapada)](../../13.5.2.md)
 
 

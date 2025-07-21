@@ -1,19 +1,12 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [8 Nīvaraṇagocchaka](../../../../../8.md) / [8.1 Nīvaraṇaduka](../../../../8.1.md) / [8.1.1 Paṭiccavāra](../../../8.1.1.md) / [8.1.1.2 Paccayapaccanīya](../../8.1.1.2.md) / [8.1.1.2.1 Vibhaṅgavāra](../8.1.1.2.1.md)
 
 # Napurejāta
 
-* Nīvaraṇagocchaka
 
-* Nīvaraṇaduka
 
-* Paṭiccavāra
 
-* Paccayapaccanīya
 
-* Vibhaṅgavāra
 
-* Napurejāta
 
 (8.)
 
@@ -29,6 +22,5 @@
 
 1911\. Nīvaraṇañca nonīvaraṇañca dhammaṃ paṭicca nīvaraṇo ca nonīvaraṇo ca dhammā uppajjanti napurejātapaccayā—  arūpe nonīvaraṇaṃ ekaṃ khandhañca kāmacchandanīvaraṇañca paṭicca tayo khandhā thinamiddhanīvaraṇaṃ uddhaccanīvaraṇaṃ avijjānīvaraṇaṃ. (Cakkaṃ. Saṃkhittaṃ.) (3)
 
-[Go to previous page (Naārammaṇādi)](Naarammanadi.md) / [Go to parent page (8.1.1.2.1 Vibhaṅgavāra)](../8.1.1.2.1.md) / [Go to next page (8.1.1.2.2 Saṅkhyāvāra)](../8.1.1.2.2.md)
 
 

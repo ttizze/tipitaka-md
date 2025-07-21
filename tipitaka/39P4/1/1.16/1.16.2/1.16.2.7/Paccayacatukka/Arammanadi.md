@@ -1,19 +1,12 @@
 
-[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../../../../39P4.md) / [1 Tika, Hetuduka](../../../../../1.md) / [1.16 Maggārammaṇattika, Hetuduka](../../../../1.16.md) / [1.16.2 Nahetupada](../../../1.16.2.md) / [1.16.2.7 Pañhāvāra](../../1.16.2.7.md) / [Paccayacatukka](../Paccayacatukka.md)
 
 # Ārammaṇādi
 
-* Tika, Hetuduka
 
-* Maggārammaṇattika, Hetuduka
 
-* Nahetupada
 
-* Pañhāvāra
 
-* Paccayacatukka
 
-* Ārammaṇādi
 
 (200.)
 
@@ -35,6 +28,5 @@
 
 765\. Maggahetuko nahetu ca maggādhipati nahetu ca dhammā maggahetukassa nahetussa dhammassa adhipatipaccayena paccayo…  pañca.
 
-[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Anantara-upanissaya)](Anantara-upanissaya.md)
 
 

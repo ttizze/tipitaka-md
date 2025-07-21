@@ -1,17 +1,11 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.7 Pañhāvāra](../../../2.7.md) / [2.7.3 Paccayānulomapaccanīya](../../2.7.3.md) / [Adhipati](../Adhipati.md)
 
 # Adhipatimissakaghaṭanā
 
-* Kusalattika
 
-* Pañhāvāra
 
-* Paccayānulomapaccanīya
 
-* Adhipati
 
-* Adhipatimissakaghaṭanā
 
 (421.)
 
@@ -21,6 +15,5 @@
 
 1306\. Adhipati nissaya vippayutta atthi avigatanti nahetuyā cattāri, naārammaṇe tīṇi, naanantare cattāri, nasamanantare cattāri, nasahajāte ekaṃ, naaññamaññe cattāri, naupanissaye tīṇi, napurejāte tīṇi, napacchājāte cattāri, naāsevane cattāri, nakamme cattāri, navipāke cattāri, naāhāre cattāri, naindriye cattāri, najhāne cattāri, namagge cattāri, nasampayutte cattāri, nonatthiyā cattāri, novigate cattāri.
 
-[Go to previous page (Adhipatiduka)](Adhipatiduka.md) / [Go to parent page (Adhipati)](../Adhipati.md) / [Go to next page (Pakiṇṇakaghaṭanā)](Pakinnakaghatana.md)
 
 

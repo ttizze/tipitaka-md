@@ -1,17 +1,11 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.7 Pañhāvāra](../../../2.7.md) / [2.7.3 Paccayānulomapaccanīya](../../2.7.3.md) / [Pacchājāta](../Pacchajata.md)
 
 # Pacchājātaghaṭanā
 
-* Kusalattika
 
-* Pañhāvāra
 
-* Paccayānulomapaccanīya
 
-* Pacchājāta
 
-* Pacchājātaghaṭanā
 
 (444.)
 
@@ -23,6 +17,5 @@
 
 
 
-[Go to previous page (Pacchājātaduka)](Pacchajataduka.md) / [Go to parent page (Pacchājāta)](../Pacchajata.md) / [Go to next page (Āsevana)](../Asevana.md)
 
 

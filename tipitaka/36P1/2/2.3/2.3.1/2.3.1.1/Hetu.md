@@ -1,17 +1,11 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.3 Paccayavāra](../../../2.3.md) / [2.3.1 Paccayānuloma](../../2.3.1.md) / [2.3.1.1 Vibhaṅgavāra](../2.3.1.1.md)
 
 # Hetu
 
-* Kusalattika
 
-* Paccayavāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Hetu
 
 (108.)
 
@@ -41,6 +35,5 @@
 
 429\. Akusalañca abyākatañca dhammaṃ paccayā akusalo dhammo uppajjati hetupaccayā—  akusalaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā, tayo khandhe ca vatthuñca paccayā eko khandho, dve khandhe ca vatthuñca paccayā dve khandhā. Akusalañca abyākatañca dhammaṃ paccayā abyākato dhammo uppajjati hetupaccayā—  akusale khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ. Akusalañca abyākatañca dhammaṃ paccayā akusalo ca abyākato ca dhammā uppajjanti hetupaccayā—  akusalaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā, tayo khandhe ca vatthuñca paccayā eko khandho, dve khandhe ca vatthuñca paccayā dve khandhā, akusale khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ. (3)
 
-[Go to previous page (2.3.1.1 Vibhaṅgavāra)](../2.3.1.1.md) / [Go to parent page (2.3.1.1 Vibhaṅgavāra)](../2.3.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
 
 

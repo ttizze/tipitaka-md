@@ -1,17 +1,11 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [19 Atītattika](../../../../19.md) / [19.7 Pañhāvāra](../../../19.7.md) / [19.7.1 Paccayānuloma](../../19.7.1.md) / [19.7.1.1 Vibhaṅgavāra](../19.7.1.1.md)
 
 # Ārammaṇa
 
-* Atītattika
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Ārammaṇa
 
 (2.)
 
@@ -23,6 +17,5 @@
 
 2632\. Paccuppanno dhammo paccuppannassa dhammassa ārammaṇapaccayena paccayo—  paccuppannaṃ cakkhuṃ…pe…  kāyaṃ…  rūpe…  sadde…  gandhe…  rase…  phoṭṭhabbe…  vatthuṃ…  paccuppanne khandhe aniccato…pe…  domanassaṃ uppajjati, dibbena cakkhunā rūpaṃ passati, dibbāya sotadhātuyā saddaṃ suṇāti, rūpāyatanaṃ cakkhuviññāṇassa…pe…  phoṭṭhabbāyatanaṃ kāyaviññāṇassa…pe…  paccuppannā khandhā iddhividhañāṇassa, āvajjanāya ārammaṇapaccayena paccayo. (1)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (19.7.1.1 Vibhaṅgavāra)](../19.7.1.1.md) / [Go to next page (Adhipati)](Adhipati.md)
 
 

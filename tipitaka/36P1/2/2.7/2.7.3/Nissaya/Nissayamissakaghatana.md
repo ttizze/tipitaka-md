@@ -1,17 +1,11 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.7 Pañhāvāra](../../../2.7.md) / [2.7.3 Paccayānulomapaccanīya](../../2.7.3.md) / [Nissaya](../Nissaya.md)
 
 # Nissayamissakaghaṭanā
 
-* Kusalattika
 
-* Pañhāvāra
 
-* Paccayānulomapaccanīya
 
-* Nissaya
 
-* Nissayamissakaghaṭanā
 
 (436.)
 
@@ -27,6 +21,5 @@
 
 1371\. Nissaya indriya vippayutta atthi avigatanti nahetuyā tīṇi, naārammaṇe tīṇi, naadhipatiyā tīṇi, naanantare tīṇi, nasamanantare tīṇi, nasahajāte ekaṃ, naaññamaññe tīṇi, naupanissaye tīṇi, napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi, naāhāre tīṇi, najhāne tīṇi, namagge tīṇi, nasampayutte tīṇi, nonatthiyā tīṇi, novigate tīṇi.
 
-[Go to previous page (Nissayaduka)](Nissayaduka.md) / [Go to parent page (Nissaya)](../Nissaya.md) / [Go to next page (Pakiṇṇakaghaṭanā)](Pakinnakaghatana.md)
 
 

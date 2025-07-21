@@ -1,11 +1,8 @@
 
-[Home](/) / [8D Pāthikavaggapāḷi](../../8D.md) / [4 Aggaññasutta](../4.md)
 
 # Vāseṭṭhabhāradvāja
 
-* Aggaññasutta
 
-* Vāseṭṭhabhāradvāja
 
 (111.)
 
@@ -23,6 +20,5 @@
 
 244\. “Taggha vo, vāseṭṭha, brāhmaṇā porāṇaṃ assarantā evamāhaṃsu—  ‘brāhmaṇova seṭṭho vaṇṇo, hīnā aññe vaṇṇā; brāhmaṇova sukko vaṇṇo, kaṇhā aññe vaṇṇā; brāhmaṇāva sujjhanti, no abrāhmaṇā; brāhmaṇāva brahmuno puttā orasā mukhato jātā brahmajā brahmanimmitā brahmadāyādā’ti. Dissanti kho pana, vāseṭṭha, brāhmaṇānaṃ brāhmaṇiyo utuniyopi gabbhiniyopi vijāyamānāpi pāyamānāpi. Te ca brāhmaṇā yonijāva samānā evamāhaṃsu—  ‘brāhmaṇova seṭṭho vaṇṇo, hīnā aññe vaṇṇā; brāhmaṇova sukko vaṇṇo, kaṇhā aññe vaṇṇā; brāhmaṇāva sujjhanti, no abrāhmaṇā; brāhmaṇāva brahmuno puttā orasā mukhato jātā brahmajā brahmanimmitā brahmadāyādā’ti. Te brahmānañceva abbhācikkhanti, musā ca bhāsanti, bahuñca apuññaṃ pasavanti.
 
-[Go to previous page (4 Aggaññasutta)](../4.md) / [Go to parent page (4 Aggaññasutta)](../4.md) / [Go to next page (4.1 Catuvaṇṇasuddhi)](4.1.md)
 
 

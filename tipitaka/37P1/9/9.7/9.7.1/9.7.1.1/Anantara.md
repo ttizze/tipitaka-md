@@ -1,17 +1,11 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [9 Dassanenapahātabbattika](../../../../9.md) / [9.7 Pañhāvāra](../../../9.7.md) / [9.7.1 Paccayānuloma](../../9.7.1.md) / [9.7.1.1 Vibhaṅgavāra](../9.7.1.1.md)
 
 # Anantara
 
-* Dassanenapahātabbattika
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Anantara
 
 (77.)
 
@@ -29,6 +23,5 @@
 
 971\. Nevadassanena nabhāvanāya pahātabbo dhammo bhāvanāya pahātabbassa dhammassa anantarapaccayena paccayo—  āvajjanā bhāvanāya pahātabbānaṃ khandhānaṃ anantarapaccayena paccayo. (3)
 
-[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (9.7.1.1 Vibhaṅgavāra)](../9.7.1.1.md) / [Go to next page (Samanantara)](Samanantara.md)
 
 

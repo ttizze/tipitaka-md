@@ -1,17 +1,11 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [13 Parittattika](../../../../13.md) / [13.1 Paṭiccavāra](../../../13.1.md) / [13.1.1 Paccayānuloma](../../13.1.1.md) / [13.1.1.2 Saṅkhyāvāra](../13.1.1.2.md)
 
 # Suddha
 
-* Parittattika
 
-* Paṭiccavāra
 
-* Paccayānuloma
 
-* Saṅkhyāvāra
 
-* Suddha
 
 (9.)
 
@@ -23,6 +17,5 @@
 
 
 
-[Go to previous page (13.1.1.2 Saṅkhyāvāra)](../13.1.1.2.md) / [Go to parent page (13.1.1.2 Saṅkhyāvāra)](../13.1.1.2.md) / [Go to next page (13.1.2 Paccayapaccanīya)](../../13.1.2.md)
 
 

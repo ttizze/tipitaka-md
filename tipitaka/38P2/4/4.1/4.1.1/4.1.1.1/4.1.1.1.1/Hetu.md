@@ -1,19 +1,12 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [4 Saññojanagocchaka](../../../../../4.md) / [4.1 Saññojanaduka](../../../../4.1.md) / [4.1.1 Paṭiccavāra](../../../4.1.1.md) / [4.1.1.1 Paccayānuloma](../../4.1.1.1.md) / [4.1.1.1.1 Vibhaṅgavāra](../4.1.1.1.1.md)
 
 # Hetu
 
-* Saññojanagocchaka
 
-* Saññojanaduka
 
-* Paṭiccavāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Hetu
 
 (1.)
 
@@ -41,6 +34,5 @@
 
 1331\. (Ārammaṇapaccaye rūpaṃ natthi. Adhipatipaccayo hetusadiso, vicikicchāsaññojanaṃ natthi.) Anantarapaccayā…pe…  avigatapaccayā.
 
-[Go to previous page (4.1.1.1.1 Vibhaṅgavāra)](../4.1.1.1.1.md) / [Go to parent page (4.1.1.1.1 Vibhaṅgavāra)](../4.1.1.1.1.md) / [Go to next page (4.1.1.1.2 Saṅkhyāvāra)](../4.1.1.1.2.md)
 
 

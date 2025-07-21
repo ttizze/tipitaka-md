@@ -1,17 +1,11 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [7 Vitakkattika](../../../../7.md) / [7.1 Paṭiccavāra](../../../7.1.md) / [7.1.2 Paccayapaccanīya](../../7.1.2.md) / [7.1.2.1 Vibhaṅgavāra](../7.1.2.1.md)
 
 # Naārammaṇa
 
-* Vitakkattika
 
-* Paṭiccavāra
 
-* Paccayapaccanīya
 
-* Vibhaṅgavāra
 
-* Naārammaṇa
 
 (29.)
 
@@ -31,6 +25,5 @@
 
 141\. Savitakkasavicārañca avitakkavicāramattañca avitakkaavicārañca dhammaṃ paṭicca avitakkaavicāro dhammo uppajjati naārammaṇapaccayā—  savitakkasavicāre khandhe ca vitakkañca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. Paṭisandhikkhaṇe…pe…  kaṭattārūpaṃ. (1)
 
-[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (7.1.2.1 Vibhaṅgavāra)](../7.1.2.1.md) / [Go to next page (Naadhipati)](Naadhipati.md)
 
 

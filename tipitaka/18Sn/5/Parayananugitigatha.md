@@ -1,11 +1,8 @@
 
-[Home](/) / [18Sn Suttanipātapāḷi](../../18Sn.md) / [5 Pārāyanavagga](../5.md)
 
 # Pārāyanānugītigāthā
 
-* Pārāyanavagga
 
-* Pārāyanānugītigāthā
 
 (1138.)
 
@@ -353,6 +350,5 @@ _Desayi suttavaraṃ dvipadaggoti._
 
 
 
-[Go to previous page (Pārāyanatthutigāthā)](Parayanatthutigatha.md) / [Go to parent page (5 Pārāyanavagga)](../5.md)
 
 

@@ -1,15 +1,10 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../39P3.md) / [4 Āsavagocchaka, Kusalattika](../../../4.md) / [4.2 Sāsavaduka, Kusalattika](../../4.2.md) / [4.2.3 Abyākatapada](../4.2.3.md)
 
 # Hetu
 
-* Āsavagocchaka, Kusalattika
 
-* Sāsavaduka, Kusalattika
 
-* Abyākatapada
 
-* Hetu
 
 (16.)
 
@@ -27,6 +22,5 @@
 
 1620\. (Sahajātavāropi…pe…  sampayuttavāropi sabbattha vitthāretabbo.)
 
-[Go to previous page (4.2.3 Abyākatapada)](../4.2.3.md) / [Go to parent page (4.2.3 Abyākatapada)](../4.2.3.md) / [Go to next page (4.2.3.1--6 Paṭiccādivāra)](4.2.3.1--6.md)
 
 

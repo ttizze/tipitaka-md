@@ -1,17 +1,11 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [13 Parittattika](../../../../13.md) / [13.1 Paṭiccavāra](../../../13.1.md) / [13.1.1 Paccayānuloma](../../13.1.1.md) / [13.1.1.1 Vibhaṅgavāra](../13.1.1.1.md)
 
 # Adhipati
 
-* Parittattika
 
-* Paṭiccavāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Adhipati
 
 (6.)
 
@@ -35,6 +29,5 @@
 
 1892\. Parittañca mahaggatañca dhammaṃ paṭicca paritto dhammo uppajjati adhipatipaccayā—  mahaggate khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
 
-[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (13.1.1.1 Vibhaṅgavāra)](../13.1.1.1.md) / [Go to next page (Anantarādi)](Anantaradi.md)
 
 

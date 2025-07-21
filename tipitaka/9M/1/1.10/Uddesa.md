@@ -1,13 +1,9 @@
 
-[Home](/) / [9M Mūlapaṇṇāsapāḷi](../../../9M.md) / [1 Mūlapariyāyavagga](../../1.md) / [1.10 Mahāsatipaṭṭhānasutta](../1.10.md)
 
 # Uddesa
 
-* Mūlapariyāyavagga
 
-* Mahāsatipaṭṭhānasutta
 
-* Uddesa
 
 (106.)
 
@@ -21,6 +17,5 @@
 
 
 
-[Go to previous page (1.10 Mahāsatipaṭṭhānasutta)](../1.10.md) / [Go to parent page (1.10 Mahāsatipaṭṭhānasutta)](../1.10.md) / [Go to next page (1.10.1 Kāyānupassanā)](1.10.1.md)
 
 

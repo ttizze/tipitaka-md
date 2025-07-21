@@ -1,17 +1,11 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [6 Saṃkiliṭṭhattika](../../../../6.md) / [6.7 Pañhāvāra](../../../6.7.md) / [6.7.1 Paccayānuloma](../../6.7.1.md) / [6.7.1.1 Vibhaṅgavāra](../6.7.1.1.md)
 
 # Vippayutta
 
-* Saṃkiliṭṭhattika
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Vippayutta
 
 (25.)
 
@@ -25,6 +19,5 @@
 
 2893\. Asaṃkiliṭṭhaasaṃkilesiko dhammo asaṃkiliṭṭhasaṃkilesikassa dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, pacchājātaṃ. **Sahajātā**—  asaṃkiliṭṭhaasaṃkilesikā khandhā cittasamuṭṭhānānaṃ rūpānaṃ vippayuttapaccayena paccayo. **Pacchājātā**—  asaṃkiliṭṭhaasaṃkilesikā khandhā purejātassa imassa kāyassa vippayuttapaccayena paccayo. (1)
 
-[Go to previous page (Jhānādi)](Jhanadi.md) / [Go to parent page (6.7.1.1 Vibhaṅgavāra)](../6.7.1.1.md) / [Go to next page (Atthi)](Atthi.md)
 
 

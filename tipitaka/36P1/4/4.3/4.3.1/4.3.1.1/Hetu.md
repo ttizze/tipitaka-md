@@ -1,17 +1,11 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [4 Vipākattika](../../../../4.md) / [4.3 Paccayavāra](../../../4.3.md) / [4.3.1 Paccayānuloma](../../4.3.1.md) / [4.3.1.1 Vibhaṅgavāra](../4.3.1.1.md)
 
 # Hetu
 
-* Vipākattika
 
-* Paccayavāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Hetu
 
 (58.)
 
@@ -53,6 +47,5 @@
 
 2181\. Vipākadhammadhammañca nevavipākanavipākadhammadhammañca dhammaṃ paccayā vipākadhammadhammo ca nevavipākanavipākadhammadhammo ca dhammā uppajjanti hetupaccayā—  vipākadhammadhammaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe ca vatthuñca paccayā dve khandhā, vipākadhammadhamme khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ. (3)
 
-[Go to previous page (4.3.1.1 Vibhaṅgavāra)](../4.3.1.1.md) / [Go to parent page (4.3.1.1 Vibhaṅgavāra)](../4.3.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
 
 

@@ -1,17 +1,11 @@
 
-[Home](/) / [39P5 Dhammānuloma (1), Tikatikapaṭṭhānapāḷi (5)](../../../../../39P5.md) / [1 Kusalattika, Tika](../../../../1.md) / [1.13 Kusalattika, Hīnattika](../../../1.13.md) / [1.13.1 Hīnapada](../../1.13.1.md) / [1.13.1.1--7 Paṭiccādivāra](../1.13.1.1--7.md)
 
 # Paccayacatukka
 
-* Kusalattika, Tika
 
-* Kusalattika, Hīnattika
 
-* Hīnapada
 
-* Paṭiccādivāra
 
-* Paccayacatukka
 
 (58.)
 
@@ -53,6 +47,5 @@
 
 204\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
 
-[Go to previous page (1.13.1.1--7 Paṭiccādivāra)](../1.13.1.1--7.md) / [Go to parent page (1.13.1.1--7 Paṭiccādivāra)](../1.13.1.1--7.md) / [Go to next page (1.13.2 Paṇītapada)](../../1.13.2.md)
 
 

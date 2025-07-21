@@ -1,15 +1,10 @@
 
-[Home](/) / [40P13 Dhammānulomapaccanīya (3), Tikapaṭṭhānapāḷi (1)](../../../../40P13.md) / [11 Sekkhattika](../../../11.md) / [11.1--7 Paṭiccādivāra](../../11.1--7.md) / [Paccayānuloma](../Paccayanuloma.md)
 
 # Hetu
 
-* Sekkhattika
 
-* Paṭiccādivāra
 
-* Paccayānuloma
 
-* Hetu
 
 (39.)
 
@@ -25,6 +20,5 @@
 
 104\. Hetuyā ekūnavīsa, ārammaṇe nava…pe…  avigate ekūnavīsa. (Sabbattha vitthāro.)
 
-[Go to previous page (Paccayānuloma)](../Paccayanuloma.md) / [Go to parent page (Paccayānuloma)](../Paccayanuloma.md) / [Go to next page (12 Parittattika)](../../../12.md)
 
 

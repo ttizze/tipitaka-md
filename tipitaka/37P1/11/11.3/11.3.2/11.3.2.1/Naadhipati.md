@@ -1,17 +1,11 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [11 Ācayagāmittika](../../../../11.md) / [11.3 Paccayavāra](../../../11.3.md) / [11.3.2 Paccayapaccanīya](../../11.3.2.md) / [11.3.2.1 Vibhaṅgavāra](../11.3.2.1.md)
 
 # Naadhipati
 
-* Ācayagāmittika
 
-* Paccayavāra
 
-* Paccayapaccanīya
 
-* Vibhaṅgavāra
 
-* Naadhipati
 
 (28.)
 
@@ -37,6 +31,5 @@
 
 1516\. Apacayagāmiñca nevācayagāmināpacayagāmiñca dhammaṃ paccayā apacayagāmī dhammo uppajjati naadhipatipaccayā—  apacayagāmī khandhe ca vatthuñca paccayā apacayagāmī adhipati. (1)
 
-[Go to previous page (Naārammaṇa)](Naarammana.md) / [Go to parent page (11.3.2.1 Vibhaṅgavāra)](../11.3.2.1.md) / [Go to next page (Naanantarādi)](Naanantaradi.md)
 
 

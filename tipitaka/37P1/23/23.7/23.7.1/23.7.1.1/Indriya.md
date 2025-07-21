@@ -1,17 +1,11 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [23 Sanidassanasappaṭighattika](../../../../23.md) / [23.7 Pañhāvāra](../../../23.7.md) / [23.7.1 Paccayānuloma](../../23.7.1.md) / [23.7.1.1 Vibhaṅgavāra](../23.7.1.1.md)
 
 # Indriya
 
-* Sanidassanasappaṭighattika
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Indriya
 
 (46.)
 
@@ -27,6 +21,5 @@
 
 3041\. Anidassanasappaṭigho ca anidassanaappaṭigho ca dhammā anidassanaappaṭighassa dhammassa indriyapaccayena paccayo—  cakkhundriyañca cakkhuviññāṇañca cakkhuviññāṇasahagatānaṃ khandhānaṃ indriyapaccayena paccayo…pe…  kāyindriyañca kāyaviññāṇañca kāyaviññāṇasahagatānaṃ khandhānaṃ indriyapaccayena paccayo. (1)
 
-[Go to previous page (Āhāra)](Ahara.md) / [Go to parent page (23.7.1.1 Vibhaṅgavāra)](../23.7.1.1.md) / [Go to next page (Jhānādi)](Jhanadi.md)
 
 

@@ -1,13 +1,9 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../37P1.md) / [8 Pītittika](../../8.md) / [8.7 Pañhāvāra](../8.7.md)
 
 # Paccanīyuddhāra
 
-* Pītittika
 
-* Pañhāvāra
 
-* Paccanīyuddhāra
 
 (46.)
 
@@ -49,6 +45,5 @@
 
 779\. Pītisahagato ca sukhasahagato ca dhammā pītisahagatassa ca sukhasahagatassa ca dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo…  kammapaccayena paccayo. (4)
 
-[Go to previous page (Suddha)](8.7.1/8.7.1.2/Suddha.md) / [Go to parent page (8.7 Pañhāvāra)](../8.7.md) / [Go to next page (8.7.2 Paccayapaccanīya)](8.7.2.md)
 
 

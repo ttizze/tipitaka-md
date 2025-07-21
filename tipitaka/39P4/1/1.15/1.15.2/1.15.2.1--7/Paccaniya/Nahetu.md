@@ -1,19 +1,12 @@
 
-[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../../../../39P4.md) / [1 Tika, Hetuduka](../../../../../1.md) / [1.15 Micchattaniyatattika, Hetuduka](../../../../1.15.md) / [1.15.2 Nahetupada](../../../1.15.2.md) / [1.15.2.1--7 Paṭiccādivāra](../../1.15.2.1--7.md) / [Paccanīya](../Paccaniya.md)
 
 # Nahetu
 
-* Tika, Hetuduka
 
-* Micchattaniyatattika, Hetuduka
 
-* Nahetupada
 
-* Paṭiccādivāra
 
-* Paccanīya
 
-* Nahetu
 
 (188.)
 
@@ -27,6 +20,5 @@
 
 703\. (Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ vitthāretabbaṃ.)
 
-[Go to previous page (Paccanīya)](../Paccaniya.md) / [Go to parent page (Paccanīya)](../Paccaniya.md) / [Go to next page (Ārammaṇa-adhipati-anantara)](Arammana-adhipati-anantara.md)
 
 

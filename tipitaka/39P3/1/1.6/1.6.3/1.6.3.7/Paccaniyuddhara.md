@@ -1,17 +1,11 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../../39P3.md) / [1 Hetuduka, Tika](../../../../1.md) / [1.6 Hetuduka, Vitakkattika](../../../1.6.md) / [1.6.3 Avitakkaavicārapada](../../1.6.3.md) / [1.6.3.7 Pañhāvāra](../1.6.3.7.md)
 
 # Paccanīyuddhāra
 
-* Hetuduka, Tika
 
-* Hetuduka, Vitakkattika
 
-* Avitakkaavicārapada
 
-* Pañhāvāra
 
-* Paccanīyuddhāra
 
 (232.)
 
@@ -33,6 +27,5 @@
 
 
 
-[Go to previous page (Hetu-ārammaṇa)](Paccayacatukka/Hetu-arammana.md) / [Go to parent page (1.6.3.7 Pañhāvāra)](../1.6.3.7.md) / [Go to next page (1.7 Hetuduka, Pītittika)](../../../1.7.md)
 
 

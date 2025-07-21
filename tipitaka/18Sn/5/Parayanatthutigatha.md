@@ -1,11 +1,8 @@
 
-[Home](/) / [18Sn Suttanipātapāḷi](../../18Sn.md) / [5 Pārāyanavagga](../5.md)
 
 # Pārāyanatthutigāthā
 
-* Pārāyanavagga
 
-* Pārāyanatthutigāthā
 
 1333\. Idamavoca bhagavā magadhesu viharanto pāsāṇake cetiye, paricārakasoḷasānaṃ brāhmaṇānaṃ ajjhiṭṭho puṭṭho puṭṭho pañhaṃ byākāsi. Ekamekassa cepi pañhassa atthamaññāya dhammamaññāya dhammānudhammaṃ paṭipajjeyya, gaccheyyeva jarāmaraṇassa pāraṃ. Pāraṅgamanīyā ime dhammāti, tasmā imassa dhammapariyāyassa pārāyananteva adhivacanaṃ.
 
@@ -67,6 +64,5 @@ _Maggo so pāraṃ gamanāya,_
 _tasmā pārāyanaṃ iti. (7)_  
 
 
-[Go to previous page (5.16 Piṅgiyamāṇavapucchā)](5.16.md) / [Go to parent page (5 Pārāyanavagga)](../5.md) / [Go to next page (Pārāyanānugītigāthā)](Parayananugitigatha.md)
 
 

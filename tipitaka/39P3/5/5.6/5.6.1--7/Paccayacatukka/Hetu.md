@@ -1,17 +1,11 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../../39P3.md) / [5 Saññojanagocchaka, Kusalattika](../../../../5.md) / [5.6 Saññojanavippayuttasaññojaniyaduka, Kusalattika](../../../5.6.md) / [5.6.1--7 Paṭiccādivāra](../../5.6.1--7.md) / [Paccayacatukka](../Paccayacatukka.md)
 
 # Hetu
 
-* Saññojanagocchaka, Kusalattika
 
-* Saññojanavippayuttasaññojaniyaduka, Kusalattika
 
-* Paṭiccādivāra
 
-* Paccayacatukka
 
-* Hetu
 
 (42.)
 
@@ -73,6 +67,5 @@
 
 
 
-[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (6 Ganthagocchaka, Kusalattika)](../../../../6.md)
 
 

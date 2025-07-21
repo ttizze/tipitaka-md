@@ -1,17 +1,11 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [13 Parittattika](../../../../13.md) / [13.7 Pañhāvāra](../../../13.7.md) / [13.7.1 Paccayānuloma](../../13.7.1.md) / [13.7.1.1 Vibhaṅgavāra](../13.7.1.1.md)
 
 # Upanissaya
 
-* Parittattika
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Upanissaya
 
 (72.)
 
@@ -37,6 +31,5 @@
 
 2094\. Appamāṇo dhammo mahaggatassa dhammassa upanissayapaccayena paccayo—  anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  appamāṇaṃ saddhaṃ upanissāya mahaggataṃ jhānaṃ uppādeti, abhiññaṃ uppādeti, samāpattiṃ uppādeti, appamāṇaṃ sīlaṃ…pe…  paññaṃ upanissāya mahaggataṃ jhānaṃ uppādeti, abhiññaṃ uppādeti, samāpattiṃ uppādeti. Appamāṇā saddhā…pe…  paññā mahaggatāya saddhāya…pe…  paññāya upanissayapaccayena paccayo, ariyā maggaṃ upanissāya anuppannaṃ samāpattiṃ uppādenti, uppannaṃ samāpajjanti. (3)
 
-[Go to previous page (Nissaya)](Nissaya.md) / [Go to parent page (13.7.1.1 Vibhaṅgavāra)](../13.7.1.1.md) / [Go to next page (Purejāta)](Purejata.md)
 
 

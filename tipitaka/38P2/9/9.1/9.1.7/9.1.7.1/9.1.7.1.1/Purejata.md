@@ -1,19 +1,12 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [9 Parāmāsagocchaka](../../../../../9.md) / [9.1 Parāmāsaduka](../../../../9.1.md) / [9.1.7 Pañhāvāra](../../../9.1.7.md) / [9.1.7.1 Paccayānuloma](../../9.1.7.1.md) / [9.1.7.1.1 Vibhaṅgavāra](../9.1.7.1.1.md)
 
 # Purejāta
 
-* Parāmāsagocchaka
 
-* Parāmāsaduka
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Purejāta
 
 (30.)
 
@@ -23,6 +16,5 @@
 
 2180\. Noparāmāso dhammo parāmāsassa ca noparāmāsassa ca dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ. **Ārammaṇapurejātaṃ**—  cakkhuṃ…pe…  vatthuṃ assādeti abhinandati, taṃ ārabbha parāmāso ca sampayuttakā ca khandhā uppajjanti. **Vatthupurejātaṃ**—  vatthu parāmāsassa ca sampayuttakānañca khandhānaṃ purejātapaccayena paccayo. (3)
 
-[Go to previous page (Upanissaya)](Upanissaya.md) / [Go to parent page (9.1.7.1.1 Vibhaṅgavāra)](../9.1.7.1.1.md) / [Go to next page (Pacchājātāsevana)](Pacchajatasevana.md)
 
 

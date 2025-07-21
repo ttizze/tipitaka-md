@@ -1,17 +1,11 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.7 Pañhāvāra](../../../2.7.md) / [2.7.3 Paccayānulomapaccanīya](../../2.7.3.md) / [Ārammaṇa](../Arammana.md)
 
 # Ārammaṇaghaṭanā
 
-* Kusalattika
 
-* Pañhāvāra
 
-* Paccayānulomapaccanīya
 
-* Ārammaṇa
 
-* Ārammaṇaghaṭanā
 
 (419.)
 
@@ -31,6 +25,5 @@
 
 
 
-[Go to previous page (Ārammaṇaduka)](Arammanaduka.md) / [Go to parent page (Ārammaṇa)](../Arammana.md) / [Go to next page (Adhipati)](../Adhipati.md)
 
 

@@ -1,17 +1,11 @@
 
-[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../../../39P4.md) / [1 Tika, Hetuduka](../../../../1.md) / [1.4 Upādinnattika, Hetuduka](../../../1.4.md) / [1.4.2 Nahetupada](../../1.4.2.md) / [1.4.2.1--7 Paṭiccādivāra](../1.4.2.1--7.md)
 
 # Paccayacatukka
 
-* Tika, Hetuduka
 
-* Upādinnattika, Hetuduka
 
-* Nahetupada
 
-* Paṭiccādivāra
 
-* Paccayacatukka
 
 (59.)
 
@@ -37,6 +31,5 @@
 
 200\. Hetuyā nava, ārammaṇe tīṇi, adhipatiyā pañca, anantare tīṇi, samanantare tīṇi, sahajāte nava, aññamaññe tīṇi, nissaye nava, upanissaye tīṇi, purejāte tīṇi, āsevane dve, kamme nava, vipāke nava…pe…  avigate nava. (Saṃkhittaṃ.)
 
-[Go to previous page (1.4.2.1--7 Paṭiccādivāra)](../1.4.2.1--7.md) / [Go to parent page (1.4.2.1--7 Paṭiccādivāra)](../1.4.2.1--7.md) / [Go to next page (Paccanīya)](Paccaniya.md)
 
 

@@ -1,15 +1,10 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../39P3.md) / [13 Piṭṭhiduka, Kusalattika](../../../13.md) / [13.12 Arūpāvacaraduka, Kusalattika](../../13.12.md) / [13.12.1--7 Paṭiccādivāra](../13.12.1--7.md)
 
 # Paccayacatukka
 
-* Piṭṭhiduka, Kusalattika
 
-* Arūpāvacaraduka, Kusalattika
 
-* Paṭiccādivāra
 
-* Paccayacatukka
 
 (77.)
 
@@ -59,6 +54,5 @@
 
 2555\. Hetuyā cattāri, ārammaṇe tīṇi (arūpāvacaramūle dve, naarūpāvacare ekaṃ), adhipatiyā cattāri (arūpāvacaramūle tīṇi, naarūpe ekaṃ), anantare cattāri…pe…  sahajāte pañca, aññamaññe dve, nissaye satta, upanissaye cattāri, purejāte dve, pacchājāte dve, āsevane tīṇi, kamme cattāri, vipāke dve…pe…  sampayutte dve, vippayutte tīṇi, atthiyā satta, natthiyā cattāri…pe…  avigate satta. (Saṃkhittaṃ.)
 
-[Go to previous page (13.12.1--7 Paṭiccādivāra)](../13.12.1--7.md) / [Go to parent page (13.12.1--7 Paṭiccādivāra)](../13.12.1--7.md) / [Go to next page (13.13 Pariyāpannaduka, Kusalattika)](../../13.13.md)
 
 

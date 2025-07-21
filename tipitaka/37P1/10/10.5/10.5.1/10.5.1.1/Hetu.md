@@ -1,17 +1,11 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [10 Dassanenapahātabbahetukattika](../../../../10.md) / [10.5 Saṃsaṭṭhavāra](../../../10.5.md) / [10.5.1 Paccayānuloma](../../10.5.1.md) / [10.5.1.1 Vibhaṅgavāra](../10.5.1.1.md)
 
 # Hetu
 
-* Dassanenapahātabbahetukattika
 
-* Saṃsaṭṭhavāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Hetu
 
 (63.)
 
@@ -31,6 +25,5 @@
 
 1241\. Bhāvanāya pahātabbahetukañca nevadassanena nabhāvanāya pahātabbahetukañca dhammaṃ bhāvanāya pahātabbahetuko dhammo uppajjati hetupaccayā—  uddhaccasahagataṃ ekaṃ khandhañca mohañca saṃsaṭṭhā tayo khandhā…pe…  dve khandhā. (1)
 
-[Go to previous page (10.5.1.1 Vibhaṅgavāra)](../10.5.1.1.md) / [Go to parent page (10.5.1.1 Vibhaṅgavāra)](../10.5.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
 
 

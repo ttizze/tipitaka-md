@@ -1,17 +1,11 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [17 Maggārammaṇattika](../../../../17.md) / [17.1 Paṭiccavāra](../../../17.1.md) / [17.1.1 Paccayānuloma](../../17.1.1.md) / [17.1.1.1 Vibhaṅgavāra](../17.1.1.1.md)
 
 # Hetu
 
-* Maggārammaṇattika
 
-* Paṭiccavāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Hetu
 
 (1.)
 
@@ -57,6 +51,5 @@
 
 2446\. Maggahetukañca maggādhipatiñca dhammaṃ paṭicca maggahetuko ca maggādhipati ca dhammā uppajjanti hetupaccayā—  maggahetukañca maggādhipatiñca ekaṃ khandhaṃ paṭicca maggahetukā ca maggādhipatī ca tayo khandhā…pe…  dve khandhe…pe… . (3)
 
-[Go to previous page (17.1.1.1 Vibhaṅgavāra)](../17.1.1.1.md) / [Go to parent page (17.1.1.1 Vibhaṅgavāra)](../17.1.1.1.md) / [Go to next page (Ārammaṇādi)](Arammanadi.md)
 
 

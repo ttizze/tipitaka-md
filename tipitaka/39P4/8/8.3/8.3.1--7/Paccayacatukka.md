@@ -1,15 +1,10 @@
 
-[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../../39P4.md) / [8 Tika, Saraṇaduka](../../../8.md) / [8.3 Vipākattika, Saraṇaduka](../../8.3.md) / [8.3.1--7 Paṭiccādivāra](../8.3.1--7.md)
 
 # Paccayacatukka
 
-* Tika, Saraṇaduka
 
-* Vipākattika, Saraṇaduka
 
-* Paṭiccādivāra
 
-* Paccayacatukka
 
 (8.)
 
@@ -51,6 +46,5 @@
 
 1739\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
 
-[Go to previous page (8.3.1--7 Paṭiccādivāra)](../8.3.1--7.md) / [Go to parent page (8.3.1--7 Paṭiccādivāra)](../8.3.1--7.md) / [Go to next page (8.4 Upādinnattika, Saraṇaduka)](../../8.4.md)
 
 

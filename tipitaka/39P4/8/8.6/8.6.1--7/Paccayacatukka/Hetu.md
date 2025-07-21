@@ -1,17 +1,11 @@
 
-[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../../../39P4.md) / [8 Tika, Saraṇaduka](../../../../8.md) / [8.6 Vitakkattika, Saraṇaduka](../../../8.6.md) / [8.6.1--7 Paṭiccādivāra](../../8.6.1--7.md) / [Paccayacatukka](../Paccayacatukka.md)
 
 # Hetu
 
-* Tika, Saraṇaduka
 
-* Vitakkattika, Saraṇaduka
 
-* Paṭiccādivāra
 
-* Paccayacatukka
 
-* Hetu
 
 (23.)
 
@@ -41,6 +35,5 @@
 
 1775\. (Sahajātavārampi…pe…  pañhāvārampi vitthāretabbaṃ.)
 
-[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (8.7 Pītittika, Saraṇaduka)](../../../8.7.md)
 
 

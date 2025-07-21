@@ -1,19 +1,12 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [13 Piṭṭhiduka](../../../../../13.md) / [13.18 Saraṇaduka](../../../../13.18.md) / [13.18.7 Pañhāvāra](../../../13.18.7.md) / [13.18.7.1 Paccayānuloma](../../13.18.7.1.md) / [13.18.7.1.1 Vibhaṅgavāra](../13.18.7.1.1.md)
 
 # Atthi
 
-* Piṭṭhiduka
 
-* Saraṇaduka
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Atthi
 
 (360.)
 
@@ -25,6 +18,5 @@
 
 4831\. Saraṇo ca araṇo ca dhammā saraṇassa dhammassa atthipaccayena paccayo—  sahajātaṃ, purejātaṃ. (Saṃkhittaṃ.) Saraṇo ca araṇo ca dhammā araṇassa dhammassa atthipaccayena paccayo—  sahajātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ. **Sahajātā**—  saraṇā khandhā ca mahābhūtā ca cittasamuṭṭhānānaṃ rūpānaṃ atthipaccayena paccayo. **Pacchājātā**—  saraṇā khandhā ca kabaḷīkāro āhāro ca imassa kāyassa atthipaccayena paccayo. **Pacchājātā**—  saraṇā khandhā ca rūpajīvitindriyañca kaṭattārūpānaṃ atthipaccayena paccayo. (2)
 
-[Go to previous page (Kamma)](Kamma.md) / [Go to parent page (13.18.7.1.1 Vibhaṅgavāra)](../13.18.7.1.1.md) / [Go to next page (13.18.7.1.2 Saṅkhyāvāra)](../13.18.7.1.2.md)
 
 

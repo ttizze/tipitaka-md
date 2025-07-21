@@ -1,19 +1,12 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [10 Mahantaraduka](../../../../../10.md) / [10.13 Upādāduka](../../../../10.13.md) / [10.13.7 Pañhāvāra](../../../10.13.7.md) / [10.13.7.1 Paccayānuloma](../../10.13.7.1.md) / [10.13.7.1.1 Vibhaṅgavāra](../10.13.7.1.1.md)
 
 # Atthi
 
-* Mahantaraduka
 
-* Upādāduka
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Atthi
 
 (407.)
 
@@ -39,6 +32,5 @@
 
 3358\. Upādā ca noupādā ca dhammā upādā dhammassa ca noupādā dhammassa ca atthipaccayena paccayo—  pacchājātaṃ, āhāraṃ, indriyaṃ. **Pacchājātā**—  noupādā khandhā ca kabaḷīkāro āhāro ca imassa upādā kāyassa ca noupādā kāyassa ca atthipaccayena paccayo. **Pacchājātā**—  noupādā khandhā ca rūpajīvitindriyañca upādā ca noupādā ca kaṭattārūpānaṃ atthipaccayena paccayo. (3)
 
-[Go to previous page (Vippayutta)](Vippayutta.md) / [Go to parent page (10.13.7.1.1 Vibhaṅgavāra)](../10.13.7.1.1.md) / [Go to next page (10.13.7.1.2 Saṅkhyāvāra)](../10.13.7.1.2.md)
 
 

@@ -1,19 +1,12 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [11 Upādānagocchaka](../../../../../11.md) / [11.1 Upādānaduka](../../../../11.1.md) / [11.1.7 Pañhāvāra](../../../11.1.7.md) / [11.1.7.1 Paccayānuloma](../../11.1.7.1.md) / [11.1.7.1.1 Vibhaṅgavāra](../11.1.7.1.1.md)
 
 # Upanissaya
 
-* Upādānagocchaka
 
-* Upādānaduka
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Upanissaya
 
 (26.)
 
@@ -27,6 +20,5 @@
 
 3593\. Upādāno ca noupādāno ca dhammā upādānassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**…  tīṇi.
 
-[Go to previous page (Anantarādi)](Anantaradi.md) / [Go to parent page (11.1.7.1.1 Vibhaṅgavāra)](../11.1.7.1.1.md) / [Go to next page (Purejāta)](Purejata.md)
 
 

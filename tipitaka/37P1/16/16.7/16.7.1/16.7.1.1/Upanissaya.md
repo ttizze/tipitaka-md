@@ -1,17 +1,11 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [16 Micchattaniyatattika](../../../../16.md) / [16.7 Pañhāvāra](../../../16.7.md) / [16.7.1 Paccayānuloma](../../16.7.1.md) / [16.7.1.1 Vibhaṅgavāra](../16.7.1.1.md)
 
 # Upanissaya
 
-* Micchattaniyatattika
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Upanissaya
 
 (45.)
 
@@ -33,6 +27,5 @@
 
 2374\. Aniyato dhammo sammattaniyatassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  paṭhamassa maggassa parikammaṃ paṭhamassa maggassa…pe…  catutthassa maggassa parikammaṃ catutthassa maggassa upanissayapaccayena paccayo. (3)
 
-[Go to previous page (Samanantarādi)](Samanantaradi.md) / [Go to parent page (16.7.1.1 Vibhaṅgavāra)](../16.7.1.1.md) / [Go to next page (Purejāta)](Purejata.md)
 
 

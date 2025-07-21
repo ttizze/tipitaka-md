@@ -1,19 +1,12 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [13 Piṭṭhiduka](../../../../../13.md) / [13.16 Niyataduka](../../../../13.16.md) / [13.16.7 Pañhāvāra](../../../13.16.7.md) / [13.16.7.1 Paccayānuloma](../../13.16.7.1.md) / [13.16.7.1.1 Vibhaṅgavāra](../13.16.7.1.1.md)
 
 # Upanissaya
 
-* Piṭṭhiduka
 
-* Niyataduka
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Upanissaya
 
 (335.)
 
@@ -25,6 +18,5 @@
 
 4777\. Aniyato dhammo niyatassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  aniyataṃ rāgaṃ upanissāya mātaraṃ jīvitā voropeti…pe…  saṃghaṃ bhindati; aniyataṃ dosaṃ…pe…  senāsanaṃ upanissāya mātaraṃ jīvitā voropeti…pe…  saṃghaṃ bhindati; aniyato rāgo…  dosaṃ…pe…  senāsanaṃ mātughātikammassa…pe…  saṃghabhedakammassa upanissayapaccayena paccayo; paṭhamassa maggassa parikammaṃ paṭhamassa maggassa…pe…  catutthassa maggassa parikammaṃ catutthassa maggassa upanissayapaccayena paccayo. (2)
 
-[Go to previous page (Anantarādi)](Anantaradi.md) / [Go to parent page (13.16.7.1.1 Vibhaṅgavāra)](../13.16.7.1.1.md) / [Go to next page (Purejātādi)](Purejatadi.md)
 
 

@@ -1,17 +1,11 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [10 Dassanenapahātabbahetukattika](../../../../10.md) / [10.3 Paccayavāra](../../../10.3.md) / [10.3.1 Paccayānuloma](../../10.3.1.md) / [10.3.1.1 Vibhaṅgavāra](../10.3.1.1.md)
 
 # Sahajāta
 
-* Dassanenapahātabbahetukattika
 
-* Paccayavāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Sahajāta
 
 (43.)
 
@@ -45,6 +39,5 @@
 
 1191\. Bhāvanāya pahātabbahetukañca nevadassanena nabhāvanāya pahātabbahetukañca dhammaṃ paccayā bhāvanāya pahātabbahetuko dhammo uppajjati sahajātapaccayā…  tīṇi.
 
-[Go to previous page (Adhipatyādi)](Adhipatyadi.md) / [Go to parent page (10.3.1.1 Vibhaṅgavāra)](../10.3.1.1.md) / [Go to next page (Aññamaññādi)](Annamannadi.md)
 
 

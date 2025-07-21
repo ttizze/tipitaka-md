@@ -1,19 +1,12 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [13 Piṭṭhiduka](../../../../../13.md) / [13.5 Savitakkaduka](../../../../13.5.md) / [13.5.7 Pañhāvāra](../../../13.5.7.md) / [13.5.7.1 Paccayānuloma](../../13.5.7.1.md) / [13.5.7.1.1 Vibhaṅgavāra](../13.5.7.1.1.md)
 
 # Kammādi
 
-* Piṭṭhiduka
 
-* Savitakkaduka
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Kammādi
 
 (130.)
 
@@ -29,6 +22,5 @@
 
 4361\. Savitakko ca avitakko ca dhammā avitakkassa dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, pacchājātaṃ. (Saṃkhittaṃ.)
 
-[Go to previous page (Pacchājātāsevana)](Pacchajatasevana.md) / [Go to parent page (13.5.7.1.1 Vibhaṅgavāra)](../13.5.7.1.1.md) / [Go to next page (Atthyādi)](Atthyadi.md)
 
 

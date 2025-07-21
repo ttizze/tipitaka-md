@@ -1,15 +1,10 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../39P3.md) / [14 Saraṇaduka, Tika](../../../14.md) / [14.22 Saraṇaduka, Sanidassanattika](../../14.22.md) / [14.22.1--7 Paṭiccādivāra](../14.22.1--7.md)
 
 # Paccayacatukka
 
-* Saraṇaduka, Tika
 
-* Saraṇaduka, Sanidassanattika
 
-* Paṭiccādivāra
 
-* Paccayacatukka
 
 (69.)
 
@@ -47,6 +42,5 @@
 
 2767\. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
 
-[Go to previous page (14.22.1--7 Paṭiccādivāra)](../14.22.1--7.md) / [Go to parent page (14.22.1--7 Paṭiccādivāra)](../14.22.1--7.md)
 
 

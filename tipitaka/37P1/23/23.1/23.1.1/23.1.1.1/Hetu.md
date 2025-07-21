@@ -1,17 +1,11 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [23 Sanidassanasappaṭighattika](../../../../23.md) / [23.1 Paṭiccavāra](../../../23.1.md) / [23.1.1 Paccayānuloma](../../23.1.1.md) / [23.1.1.1 Vibhaṅgavāra](../23.1.1.1.md)
 
 # Hetu
 
-* Sanidassanasappaṭighattika
 
-* Paṭiccavāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Hetu
 
 (1.)
 
@@ -61,6 +55,5 @@
 
 2950\. Anidassanasappaṭighañca anidassanaappaṭighañca dhammaṃ paṭicca sanidassanasappaṭigho ca anidassanasappaṭigho ca anidassanaappaṭigho ca dhammā uppajjanti hetupaccayā—  anidassanaappaṭighe khandhe ca mahābhūte ca paṭicca sanidassanasappaṭighañca anidassanasappaṭighañca anidassanaappaṭighañca cittasamuṭṭhānaṃ rūpaṃ. Paṭisandhikkhaṇe anidassanaappaṭighe khandhe ca mahābhūte ca paṭicca sanidassanasappaṭighañca anidassanasappaṭighañca anidassanaappaṭighañca kaṭattārūpaṃ. Anidassanasappaṭighe mahābhūte ca āpodhātuñca paṭicca sanidassanasappaṭighañca anidassanasappaṭighañca anidassanaappaṭighañca cittasamuṭṭhānaṃ rūpaṃ kaṭattārūpaṃ upādārūpaṃ. Phoṭṭhabbāyatanañca āpodhātuñca paṭicca rūpāyatanaṃ, cakkhāyatanaṃ…pe…  rasāyatanaṃ, itthindriyaṃ…pe…  kabaḷīkāro āhāro. (7)
 
-[Go to previous page (23.1.1.1 Vibhaṅgavāra)](../23.1.1.1.md) / [Go to parent page (23.1.1.1 Vibhaṅgavāra)](../23.1.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
 
 

@@ -1,17 +1,11 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [5 Upādinnattika](../../../../5.md) / [5.7 Pañhāvāra](../../../5.7.md) / [5.7.1 Paccayānuloma](../../5.7.1.md) / [5.7.1.1 Vibhaṅgavāra](../5.7.1.1.md)
 
 # Adhipati
 
-* Upādinnattika
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Adhipati
 
 (55.)
 
@@ -25,6 +19,5 @@
 
 2623\. Anupādinnaanupādāniyo dhammo anupādinnupādāniyassa ca anupādinnaanupādāniyassa ca dhammassa adhipatipaccayena paccayo. **Sahajātādhipati**—  anupādinnaanupādāniyādhipati sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ adhipatipaccayena paccayo. (3)
 
-[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (5.7.1.1 Vibhaṅgavāra)](../5.7.1.1.md) / [Go to next page (Anantara)](Anantara.md)
 
 

@@ -1,17 +1,11 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../../39P3.md) / [8 Nīvaraṇagocchaka, Kusalattika](../../../../8.md) / [8.2 Nīvaraṇiyaduka, Kusalattika](../../../8.2.md) / [8.2.1--7 Paṭiccādivāra](../../8.2.1--7.md) / [Paccayacatukka](../Paccayacatukka.md)
 
 # Hetu
 
-* Nīvaraṇagocchaka, Kusalattika
 
-* Nīvaraṇiyaduka, Kusalattika
 
-* Paṭiccādivāra
 
-* Paccayacatukka
 
-* Hetu
 
 (11.)
 
@@ -47,6 +41,5 @@
 
 1925\. Hetuyā pañca, ārammaṇe dve…pe…  āsevane ekaṃ…pe…  vipāke pañca…pe…  avigate pañca. (Saṃkhittaṃ.) (Sahajātavāropi…pe…  pañhāvāropi vitthāretabbā.)
 
-[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (8.3 Nīvaraṇasampayuttaduka, Kusalattika)](../../../8.3.md)
 
 

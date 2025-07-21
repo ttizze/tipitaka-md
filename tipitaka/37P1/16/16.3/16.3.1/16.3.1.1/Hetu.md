@@ -1,17 +1,11 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [16 Micchattaniyatattika](../../../../16.md) / [16.3 Paccayavāra](../../../16.3.md) / [16.3.1 Paccayānuloma](../../16.3.1.md) / [16.3.1.1 Vibhaṅgavāra](../16.3.1.1.md)
 
 # Hetu
 
-* Micchattaniyatattika
 
-* Paccayavāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Hetu
 
 (14.)
 
@@ -41,6 +35,5 @@
 
 2298\. Sammattaniyatañca aniyatañca dhammaṃ paccayā sammattaniyato dhammo uppajjati hetupaccayā. (Tīṇi pañhā, micchattasadisaṃ.)
 
-[Go to previous page (16.3.1.1 Vibhaṅgavāra)](../16.3.1.1.md) / [Go to parent page (16.3.1.1 Vibhaṅgavāra)](../16.3.1.1.md) / [Go to next page (Ārammaṇādi)](Arammanadi.md)
 
 

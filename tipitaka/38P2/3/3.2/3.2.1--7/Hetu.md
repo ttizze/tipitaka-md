@@ -1,15 +1,10 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../38P2.md) / [3 Āsavagocchaka](../../../3.md) / [3.2 Sāsavaduka](../../3.2.md) / [3.2.1--7 Paṭiccādivāra](../3.2.1--7.md)
 
 # Hetu
 
-* Āsavagocchaka
 
-* Sāsavaduka
 
-* Paṭiccādivāra
 
-* Hetu
 
 (47.)
 
@@ -31,6 +26,5 @@
 
 
 
-[Go to previous page (3.2.1--7 Paṭiccādivāra)](../3.2.1--7.md) / [Go to parent page (3.2.1--7 Paṭiccādivāra)](../3.2.1--7.md) / [Go to next page (3.3 Āsavasampayuttaduka)](../../3.3.md)
 
 

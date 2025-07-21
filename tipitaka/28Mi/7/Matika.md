@@ -1,11 +1,8 @@
 
-[Home](/) / [28Mi Milindapañhapāḷi](../../28Mi.md) / [7 Opammakathāpañha](../7.md)
 
 # Mātikā
 
-* Opammakathāpañha
 
-* Mātikā
 
 (224.)
 
@@ -271,6 +268,5 @@
 
 
 
-[Go to previous page (7 Opammakathāpañha)](../7.md) / [Go to parent page (7 Opammakathāpañha)](../7.md) / [Go to next page (7.1 Gadrabhavagga)](7.1.md)
 
 

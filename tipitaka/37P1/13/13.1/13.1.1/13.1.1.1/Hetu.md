@@ -1,17 +1,11 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [13 Parittattika](../../../../13.md) / [13.1 Paṭiccavāra](../../../13.1.md) / [13.1.1 Paccayānuloma](../../13.1.1.md) / [13.1.1.1 Vibhaṅgavāra](../13.1.1.1.md)
 
 # Hetu
 
-* Parittattika
 
-* Paṭiccavāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Hetu
 
 (1.)
 
@@ -47,6 +41,5 @@
 
 1878\. Parittañca mahaggatañca dhammaṃ paṭicca paritto ca mahaggato ca dhammā uppajjanti hetupaccayā—  paṭisandhikkhaṇe mahaggataṃ ekaṃ khandhañca vatthuñca paṭicca tayo khandhā…pe…  dve khandhe…pe…  mahaggate khandhe ca mahābhūte ca paṭicca kaṭattārūpaṃ. (3)
 
-[Go to previous page (13.1.1.1 Vibhaṅgavāra)](../13.1.1.1.md) / [Go to parent page (13.1.1.1 Vibhaṅgavāra)](../13.1.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
 
 

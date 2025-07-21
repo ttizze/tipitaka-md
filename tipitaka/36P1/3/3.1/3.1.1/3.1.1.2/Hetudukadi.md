@@ -1,17 +1,11 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [3 Vedanāttika](../../../../3.md) / [3.1 Paṭiccavāra](../../../3.1.md) / [3.1.1 Paccayānuloma](../../3.1.1.md) / [3.1.1.2 Saṅkhyāvāra](../3.1.1.2.md)
 
 # Hetudukādi
 
-* Vedanāttika
 
-* Paṭiccavāra
 
-* Paccayānuloma
 
-* Saṅkhyāvāra
 
-* Hetudukādi
 
 (7.)
 
@@ -35,6 +29,5 @@
 
 
 
-[Go to previous page (Suddha)](Suddha.md) / [Go to parent page (3.1.1.2 Saṅkhyāvāra)](../3.1.1.2.md) / [Go to next page (3.1.2 Paccayapaccanīya)](../../3.1.2.md)
 
 

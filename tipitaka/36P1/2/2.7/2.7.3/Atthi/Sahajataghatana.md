@@ -1,17 +1,11 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.7 Pañhāvāra](../../../2.7.md) / [2.7.3 Paccayānulomapaccanīya](../../2.7.3.md) / [Atthi](../Atthi.md)
 
 # Sahajātaghaṭanā
 
-* Kusalattika
 
-* Pañhāvāra
 
-* Paccayānulomapaccanīya
 
-* Atthi
 
-* Sahajātaghaṭanā
 
 (492.)
 
@@ -41,6 +35,5 @@
 
 
 
-[Go to previous page (Pakiṇṇakaghaṭanā)](Pakinnakaghatana.md) / [Go to parent page (Atthi)](../Atthi.md) / [Go to next page (Natthi-vigata)](../Natthi-vigata.md)
 
 

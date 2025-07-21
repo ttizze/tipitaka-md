@@ -1,15 +1,10 @@
 
-[Home](/) / [40P13 Dhammānulomapaccanīya (3), Tikapaṭṭhānapāḷi (1)](../../../../40P13.md) / [5 Saṃkiliṭṭhattika](../../../5.md) / [5.1--7 Paṭiccādivāra](../../5.1--7.md) / [Paccayānuloma](../Paccayanuloma.md)
 
 # Hetu
 
-* Saṃkiliṭṭhattika
 
-* Paṭiccādivāra
 
-* Paccayānuloma
 
-* Hetu
 
 (31.)
 
@@ -29,6 +24,5 @@
 
 68\. Hetuyā terasa, ārammaṇe pannarasa, adhipatiyā pannarasa, anantare soḷasa…pe…  sahajāte ekūnavīsa, aññamaññe nava, nissaye chabbīsa, upanissaye sattarasa, purejāte cha, pacchājāte nava, āsevane aṭṭha, kamme terasa, vipāke aṭṭha, āhāre terasa…pe…  magge terasa, sampayutte nava, vippayutte dvādasa…pe…  avigate chabbīsa.
 
-[Go to previous page (Paccayānuloma)](../Paccayanuloma.md) / [Go to parent page (Paccayānuloma)](../Paccayanuloma.md) / [Go to next page (6 Vitakkattika)](../../../6.md)
 
 

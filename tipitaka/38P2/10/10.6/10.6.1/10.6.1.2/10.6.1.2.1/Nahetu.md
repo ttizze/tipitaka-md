@@ -1,19 +1,12 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [10 Mahantaraduka](../../../../../10.md) / [10.6 Cittasamuṭṭhānaduka](../../../../10.6.md) / [10.6.1 Paṭiccavāra](../../../10.6.1.md) / [10.6.1.2 Paccayapaccanīya](../../10.6.1.2.md) / [10.6.1.2.1 Vibhaṅgavāra](../10.6.1.2.1.md)
 
 # Nahetu
 
-* Mahantaraduka
 
-* Cittasamuṭṭhānaduka
 
-* Paṭiccavāra
 
-* Paccayapaccanīya
 
-* Vibhaṅgavāra
 
-* Nahetu
 
 (193.)
 
@@ -39,6 +32,5 @@
 
 2795\. Cittasamuṭṭhānañca nocittasamuṭṭhānañca dhammaṃ paṭicca cittasamuṭṭhāno ca nocittasamuṭṭhāno ca dhammā uppajjanti nahetupaccayā—  ahetukapaṭisandhikkhaṇe cittasamuṭṭhānaṃ ekaṃ khandhañca cittañca paṭicca dve khandhā kaṭattā ca rūpaṃ, dve khandhe…pe…  ahetukapaṭisandhikkhaṇe cittasamuṭṭhānaṃ ekaṃ khandhañca vatthuñca paṭicca dve khandhā cittañca, dve khandhe…pe… . (3)
 
-[Go to previous page (10.6.1.2.1 Vibhaṅgavāra)](../10.6.1.2.1.md) / [Go to parent page (10.6.1.2.1 Vibhaṅgavāra)](../10.6.1.2.1.md) / [Go to next page (Naārammaṇa)](Naarammana.md)
 
 

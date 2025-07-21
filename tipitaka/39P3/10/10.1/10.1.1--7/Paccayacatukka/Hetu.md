@@ -1,17 +1,11 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../../39P3.md) / [10 Mahantaraduka, Kusalattika](../../../../10.md) / [10.1 Sārammaṇaduka, Kusalattika](../../../10.1.md) / [10.1.1--7 Paṭiccādivāra](../../10.1.1--7.md) / [Paccayacatukka](../Paccayacatukka.md)
 
 # Hetu
 
-* Mahantaraduka, Kusalattika
 
-* Sārammaṇaduka, Kusalattika
 
-* Paṭiccādivāra
 
-* Paccayacatukka
 
-* Hetu
 
 (1.)
 
@@ -35,6 +29,5 @@
 
 2025\. Nahetuyā nava, naārammaṇe tīṇi, naadhipatiyā nava…pe…  napurejāte napacchājāte naāsevane nava, nakamme dve, navipāke pañca, naāhāre ekaṃ, naindriye ekaṃ, najhāne dve, namagge nava, nasampayutte tīṇi, navippayutte dve, nonatthiyā tīṇi, novigate tīṇi. (Saṃkhittaṃ.)
 
-[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Hetu-ārammaṇa-adhipati)](Hetu-arammana-adhipati.md)
 
 

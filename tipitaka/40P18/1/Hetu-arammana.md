@@ -1,11 +1,8 @@
 
-[Home](/) / [40P18 Dhammānulomapaccanīya (3), Dukadukapaṭṭhānapāḷi (6)](../../40P18.md) / [1 Hetuduka, Sahetukaduka](../1.md)
 
 # Hetu-ārammaṇa
 
-* Hetuduka, Sahetukaduka
 
-* Hetu-ārammaṇa
 
 (3.)
 
@@ -27,6 +24,5 @@
 
 15\. Hetuyā cattāri, ārammaṇe cattāri…pe…  purejāte āsevane ekaṃ…pe…  vipāke tīṇi…pe…  avigate cattāri.
 
-[Go to previous page (1 Hetuduka, Sahetukaduka)](../1.md) / [Go to parent page (1 Hetuduka, Sahetukaduka)](../1.md) / [Go to next page (2 Hetuduka, Hetusampayuttaduka)](../2.md)
 
 

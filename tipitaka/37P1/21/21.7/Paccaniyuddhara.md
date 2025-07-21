@@ -1,13 +1,9 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../37P1.md) / [21 Ajjhattattika](../../21.md) / [21.7 Pañhāvāra](../21.7.md)
 
 # Paccanīyuddhāra
 
-* Ajjhattattika
 
-* Pañhāvāra
 
-* Paccanīyuddhāra
 
 (51.)
 
@@ -27,6 +23,5 @@
 
 2863\. Ajjhatto dhammo ca bahiddhā dhammo ca bahiddhā dhammassa purejātaṃ, āhāraṃ. (2)
 
-[Go to previous page (Suddha)](21.7.1/21.7.1.2/Suddha.md) / [Go to parent page (21.7 Pañhāvāra)](../21.7.md) / [Go to next page (21.7.2 Paccayapaccanīya)](21.7.2.md)
 
 

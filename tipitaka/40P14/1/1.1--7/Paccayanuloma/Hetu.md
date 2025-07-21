@@ -1,15 +1,10 @@
 
-[Home](/) / [40P14 Dhammānulomapaccanīya (3), Dukapaṭṭhānapāḷi (2)](../../../../40P14.md) / [1 Hetuduka](../../../1.md) / [1.1--7 Paṭiccādivāra](../../1.1--7.md) / [Paccayānuloma](../Paccayanuloma.md)
 
 # Hetu
 
-* Hetuduka
 
-* Paṭiccādivāra
 
-* Paccayānuloma
 
-* Hetu
 
 (1.)
 
@@ -21,6 +16,5 @@
 
 5\. Hetuyā nava, ārammaṇe nava…pe…  avigate nava. (Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ.)
 
-[Go to previous page (Paccayānuloma)](../Paccayanuloma.md) / [Go to parent page (Paccayānuloma)](../Paccayanuloma.md) / [Go to next page (Hetu-ārammaṇa)](Hetu-arammana.md)
 
 

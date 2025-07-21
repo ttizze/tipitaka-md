@@ -1,17 +1,11 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [16 Micchattaniyatattika](../../../../16.md) / [16.7 Pañhāvāra](../../../16.7.md) / [16.7.1 Paccayānuloma](../../16.7.1.md) / [16.7.1.1 Vibhaṅgavāra](../16.7.1.1.md)
 
 # Purejāta
 
-* Micchattaniyatattika
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Purejāta
 
 (48.)
 
@@ -21,6 +15,5 @@
 
 2377\. Aniyato dhammo sammattaniyatassa dhammassa purejātapaccayena paccayo. **Vatthupurejātaṃ**—  vatthu sammattaniyatānaṃ khandhānaṃ purejātapaccayena paccayo. (3)
 
-[Go to previous page (Upanissaya)](Upanissaya.md) / [Go to parent page (16.7.1.1 Vibhaṅgavāra)](../16.7.1.1.md) / [Go to next page (Pacchājāta)](Pacchajata.md)
 
 

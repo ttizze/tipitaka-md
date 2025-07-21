@@ -1,17 +1,11 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [7 Vitakkattika](../../../../7.md) / [7.3 Paccayavāra](../../../7.3.md) / [7.3.2 Paccayapaccanīya](../../7.3.2.md) / [7.3.2.1 Vibhaṅgavāra](../7.3.2.1.md)
 
 # Naadhipati
 
-* Vitakkattika
 
-* Paccayavāra
 
-* Paccayapaccanīya
 
-* Vibhaṅgavāra
 
-* Naadhipati
 
 (50.)
 
@@ -45,6 +39,5 @@
 
 232\. (Paṭisandhikkhaṇe pañca pañhā kātabbā. Yattha avitakkavicāramattaṃ āgacchati tattha vipākaṃ kātabbaṃ. Naadhipatimūlake sattatiṃsa pañhā kātabbā.)
 
-[Go to previous page (7.3.2.1 Vibhaṅgavāra)](../7.3.2.1.md) / [Go to parent page (7.3.2.1 Vibhaṅgavāra)](../7.3.2.1.md) / [Go to next page (Naanantarādi)](Naanantaradi.md)
 
 

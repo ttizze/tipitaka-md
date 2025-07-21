@@ -1,15 +1,10 @@
 
-[Home](/) / [40P8 Dhammapaccanīya (2), Dukapaṭṭhānapāḷi (2)](../../../../40P8.md) / [1 Hetuduka](../../../1.md) / [1.1--7 Paṭiccādivāra](../../1.1--7.md) / [Paccayacatukka](../Paccayacatukka.md)
 
 # Hetu
 
-* Hetuduka
 
-* Paṭiccādivāra
 
-* Paccayacatukka
 
-* Hetu
 
 (1.)
 
@@ -25,6 +20,5 @@
 
 6\. (Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ evaṃ vitthāretabbaṃ.)
 
-[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Hetu-ārammaṇa)](Hetu-arammana.md)
 
 

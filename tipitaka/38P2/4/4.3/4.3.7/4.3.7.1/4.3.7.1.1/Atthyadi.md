@@ -1,19 +1,12 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [4 Saññojanagocchaka](../../../../../4.md) / [4.3 Saññojanasampayuttaduka](../../../../4.3.md) / [4.3.7 Pañhāvāra](../../../4.3.7.md) / [4.3.7.1 Paccayānuloma](../../4.3.7.1.md) / [4.3.7.1.1 Vibhaṅgavāra](../4.3.7.1.1.md)
 
 # Atthyādi
 
-* Saññojanagocchaka
 
-* Saññojanasampayuttaduka
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Atthyādi
 
 (87.)
 
@@ -41,6 +34,5 @@
 
 1543\. Natthipaccayena paccayo…  vigatapaccayena paccayo…  avigatapaccayena paccayo.
 
-[Go to previous page (Vippayutta)](Vippayutta.md) / [Go to parent page (4.3.7.1.1 Vibhaṅgavāra)](../4.3.7.1.1.md) / [Go to next page (4.3.7.1.2 Saṅkhyāvāra)](../4.3.7.1.2.md)
 
 

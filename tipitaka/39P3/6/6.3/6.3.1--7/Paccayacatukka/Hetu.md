@@ -1,17 +1,11 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../../39P3.md) / [6 Ganthagocchaka, Kusalattika](../../../../6.md) / [6.3 Ganthasampayuttaduka, Kusalattika](../../../6.3.md) / [6.3.1--7 Paṭiccādivāra](../../6.3.1--7.md) / [Paccayacatukka](../Paccayacatukka.md)
 
 # Hetu
 
-* Ganthagocchaka, Kusalattika
 
-* Ganthasampayuttaduka, Kusalattika
 
-* Paṭiccādivāra
 
-* Paccayacatukka
 
-* Hetu
 
 (16.)
 
@@ -57,6 +51,5 @@
 
 1846\. (Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
 
-[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (6.4 Ganthaganthaniyaduka, Kusalattika)](../../../6.4.md)
 
 

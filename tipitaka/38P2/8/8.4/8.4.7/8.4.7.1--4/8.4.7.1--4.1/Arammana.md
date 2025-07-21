@@ -1,19 +1,12 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [8 Nīvaraṇagocchaka](../../../../../8.md) / [8.4 Nīvaraṇanīvaraṇiyaduka](../../../../8.4.md) / [8.4.7 Pañhāvāra](../../../8.4.7.md) / [8.4.7.1--4 Paccayānulomādi](../../8.4.7.1--4.md) / [8.4.7.1--4.1 Vibhaṅgavāra](../8.4.7.1--4.1.md)
 
 # Ārammaṇa
 
-* Nīvaraṇagocchaka
 
-* Nīvaraṇanīvaraṇiyaduka
 
-* Pañhāvāra
 
-* Paccayānulomādi
 
-* Vibhaṅgavāra
 
-* Ārammaṇa
 
 (91.)
 
@@ -33,6 +26,5 @@
 
 
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (8.4.7.1--4.1 Vibhaṅgavāra)](../8.4.7.1--4.1.md) / [Go to next page (8.5 Nīvaraṇanīvaraṇasampayuttaduka)](../../../../8.5.md)
 
 

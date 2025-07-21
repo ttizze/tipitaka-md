@@ -1,19 +1,12 @@
 
-[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../../../../39P4.md) / [1 Tika, Hetuduka](../../../../../1.md) / [1.10 Ācayagāmittika, Hetuduka](../../../../1.10.md) / [1.10.2 Nahetupada](../../../1.10.2.md) / [1.10.2.1--6 Paṭiccādivāra](../../1.10.2.1--6.md) / [Paccayacatukka](../Paccayacatukka.md)
 
 # Hetu-ārammaṇa
 
-* Tika, Hetuduka
 
-* Ācayagāmittika, Hetuduka
 
-* Nahetupada
 
-* Paṭiccādivāra
 
-* Paccayacatukka
 
-* Hetu-ārammaṇa
 
 (138.)
 
@@ -37,6 +30,5 @@
 
 495\. Hetuyā nava, ārammaṇe tīṇi, adhipatiyā nava…pe…  vipāke ekaṃ…pe…  avigate nava. (Saṃkhittaṃ.)
 
-[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Nahetu-naārammaṇa)](Nahetu-naarammana.md)
 
 

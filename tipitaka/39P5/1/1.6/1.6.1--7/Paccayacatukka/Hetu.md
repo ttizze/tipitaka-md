@@ -1,17 +1,11 @@
 
-[Home](/) / [39P5 Dhammānuloma (1), Tikatikapaṭṭhānapāḷi (5)](../../../../../39P5.md) / [1 Kusalattika, Tika](../../../../1.md) / [1.6 Kusalattika, Pītittika](../../../1.6.md) / [1.6.1--7 Paṭiccādivāra](../../1.6.1--7.md) / [Paccayacatukka](../Paccayacatukka.md)
 
 # Hetu
 
-* Kusalattika, Tika
 
-* Kusalattika, Pītittika
 
-* Paṭiccādivāra
 
-* Paccayacatukka
 
-* Hetu
 
 (34.)
 
@@ -61,6 +55,5 @@
 
 116\. (Sahajātavārampi…pe…  pañhāvārampi vitthāretabbaṃ.)
 
-[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.7 Kusalattika, Dassanattika)](../../../1.7.md)
 
 

@@ -1,19 +1,12 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [1 Hetugocchaka](../../../../../1.md) / [1.2 Sahetukaduka](../../../../1.2.md) / [1.2.1 Paṭiccavāra](../../../1.2.1.md) / [1.2.1.2 Paccayapaccanīya](../../1.2.1.2.md) / [1.2.1.2.1 Vibhaṅgavāra](../1.2.1.2.1.md)
 
 # Naārammaṇādi
 
-* Hetugocchaka
 
-* Sahetukaduka
 
-* Paṭiccavāra
 
-* Paccayapaccanīya
 
-* Vibhaṅgavāra
 
-* Naārammaṇādi
 
 (63.)
 
@@ -45,6 +38,5 @@
 
 178\. Sahetukañca ahetukañca dhammaṃ paṭicca sahetuko ca ahetuko ca dhammā uppajjanti napurejātapaccayā—  paṭisandhikkhaṇe sahetukaṃ ekaṃ khandhañca vatthuñca paṭicca tayo khandhā…pe…  dve khandhe…pe…  sahetuke khandhe ca mahābhūte ca paṭicca kaṭattārūpaṃ. (3)
 
-[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (1.2.1.2.1 Vibhaṅgavāra)](../1.2.1.2.1.md) / [Go to next page (Napacchājātādi)](Napacchajatadi.md)
 
 

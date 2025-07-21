@@ -1,19 +1,12 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [11 Upādānagocchaka](../../../../../11.md) / [11.1 Upādānaduka](../../../../11.1.md) / [11.1.7 Pañhāvāra](../../../11.1.7.md) / [11.1.7.1 Paccayānuloma](../../11.1.7.1.md) / [11.1.7.1.2 Saṅkhyāvāra](../11.1.7.1.2.md)
 
 # Suddha
 
-* Upādānagocchaka
 
-* Upādānaduka
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Saṅkhyāvāra
 
-* Suddha
 
 (37.)
 
@@ -25,6 +18,5 @@
 
 
 
-[Go to previous page (11.1.7.1.2 Saṅkhyāvāra)](../11.1.7.1.2.md) / [Go to parent page (11.1.7.1.2 Saṅkhyāvāra)](../11.1.7.1.2.md) / [Go to next page (Paccanīyuddhāra)](../../Paccaniyuddhara.md)
 
 

@@ -1,17 +1,11 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [7 Vitakkattika](../../../../7.md) / [7.1 Paṭiccavāra](../../../7.1.md) / [7.1.1 Paccayānuloma](../../7.1.1.md) / [7.1.1.1 Vibhaṅgavāra](../7.1.1.1.md)
 
 # Ārammaṇa
 
-* Vitakkattika
 
-* Paṭiccavāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Ārammaṇa
 
 (8.)
 
@@ -69,6 +63,5 @@
 
 60\. (Dve paccayā sajjhāyamaggena vibhattā, evaṃ avasesā vīsatipaccayā vibhajitabbā.)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (7.1.1.1 Vibhaṅgavāra)](../7.1.1.1.md) / [Go to next page (Vippayutta)](Vippayutta.md)
 
 

@@ -1,17 +1,11 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../../39P3.md) / [10 Mahantaraduka, Kusalattika](../../../../10.md) / [10.5 Cittasaṃsaṭṭhaduka, Kusalattika](../../../10.5.md) / [10.5.1--7 Paṭiccādivāra](../../10.5.1--7.md) / [Paccayacatukka](../Paccayacatukka.md)
 
 # Hetu
 
-* Mahantaraduka, Kusalattika
 
-* Cittasaṃsaṭṭhaduka, Kusalattika
 
-* Paṭiccādivāra
 
-* Paccayacatukka
 
-* Hetu
 
 (37.)
 
@@ -43,6 +37,5 @@
 
 2095\. (Yathā cittasampayuttadukaṃ abyākatasadisaṃ. Sahajātavārampi…pe…  pañhāvārampi vitthāretabbaṃ.)
 
-[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (10.6 Cittasamuṭṭhānaduka, Kusalattika)](../../../10.6.md)
 
 

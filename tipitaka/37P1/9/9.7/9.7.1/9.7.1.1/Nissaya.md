@@ -1,17 +1,11 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [9 Dassanenapahātabbattika](../../../../9.md) / [9.7 Pañhāvāra](../../../9.7.md) / [9.7.1 Paccayānuloma](../../9.7.1.md) / [9.7.1.1 Vibhaṅgavāra](../9.7.1.1.md)
 
 # Nissaya
 
-* Dassanenapahātabbattika
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Nissaya
 
 (81.)
 
@@ -35,6 +29,5 @@
 
 989\. Bhāvanāya pahātabbo ca nevadassanena nabhāvanāya pahātabbo ca dhammā nevadassanena nabhāvanāya pahātabbassa dhammassa nissayapaccayena paccayo—  bhāvanāya pahātabbā khandhā ca mahābhūtā ca cittasamuṭṭhānānaṃ rūpānaṃ nissayapaccayena paccayo. (2)
 
-[Go to previous page (Aññamañña)](Annamanna.md) / [Go to parent page (9.7.1.1 Vibhaṅgavāra)](../9.7.1.1.md) / [Go to next page (Upanissaya)](Upanissaya.md)
 
 

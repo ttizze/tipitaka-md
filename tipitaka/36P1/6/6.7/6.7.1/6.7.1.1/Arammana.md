@@ -1,17 +1,11 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [6 Saṃkiliṭṭhattika](../../../../6.md) / [6.7 Pañhāvāra](../../../6.7.md) / [6.7.1 Paccayānuloma](../../6.7.1.md) / [6.7.1.1 Vibhaṅgavāra](../6.7.1.1.md)
 
 # Ārammaṇa
 
-* Saṃkiliṭṭhattika
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Ārammaṇa
 
 (9.)
 
@@ -35,6 +29,5 @@
 
 2838\. Asaṃkiliṭṭhaasaṃkilesiko dhammo asaṃkiliṭṭhasaṃkilesikassa dhammassa ārammaṇapaccayena paccayo—  ariyā maggā vuṭṭhahitvā maggaṃ paccavekkhanti, phalaṃ paccavekkhanti, nibbānaṃ paccavekkhanti. Nibbānaṃ gotrabhussa, vodānassa, āvajjanāya ārammaṇapaccayena paccayo. Ariyā cetopariyañāṇena asaṃkiliṭṭhaasaṃkilesikacittasamaṅgissa cittaṃ jānanti. Asaṃkiliṭṭhaasaṃkilesikā khandhā cetopariyañāṇassa, pubbenivāsānussatiñāṇassa, anāgataṃsañāṇassa, āvajjanāya ārammaṇapaccayena paccayo. (2)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (6.7.1.1 Vibhaṅgavāra)](../6.7.1.1.md) / [Go to next page (Adhipati)](Adhipati.md)
 
 

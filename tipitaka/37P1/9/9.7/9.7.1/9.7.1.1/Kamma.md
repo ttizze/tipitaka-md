@@ -1,17 +1,11 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [9 Dassanenapahātabbattika](../../../../9.md) / [9.7 Pañhāvāra](../../../9.7.md) / [9.7.1 Paccayānuloma](../../9.7.1.md) / [9.7.1.1 Vibhaṅgavāra](../9.7.1.1.md)
 
 # Kamma
 
-* Dassanenapahātabbattika
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Kamma
 
 (89.)
 
@@ -29,6 +23,5 @@
 
 1013\. Nevadassanena nabhāvanāya pahātabbo dhammo nevadassanena nabhāvanāya pahātabbassa dhammassa kammapaccayena paccayo—  sahajātā, nānākkhaṇikā. **Sahajātā**—  nevadassanena nabhāvanāya pahātabbā cetanā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo. Paṭisandhikkhaṇe nevadassanena nabhāvanāya pahātabbā cetanā sampayuttakānaṃ khandhānaṃ kaṭattā ca rūpānaṃ…pe… . Nānākkhaṇikā—  nevadassanena nabhāvanāya pahātabbā cetanā vipākānaṃ khandhānaṃ kaṭattā ca rūpānaṃ kammapaccayena paccayo. (1)
 
-[Go to previous page (Āsevana)](Asevana.md) / [Go to parent page (9.7.1.1 Vibhaṅgavāra)](../9.7.1.1.md) / [Go to next page (Vipāka)](Vipaka.md)
 
 

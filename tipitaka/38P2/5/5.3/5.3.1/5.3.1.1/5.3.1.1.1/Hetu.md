@@ -1,19 +1,12 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [5 Ganthagocchaka](../../../../../5.md) / [5.3 Ganthasampayuttaduka](../../../../5.3.md) / [5.3.1 Paṭiccavāra](../../../5.3.1.md) / [5.3.1.1 Paccayānuloma](../../5.3.1.1.md) / [5.3.1.1.1 Vibhaṅgavāra](../5.3.1.1.1.md)
 
 # Hetu
 
-* Ganthagocchaka
 
-* Ganthasampayuttaduka
 
-* Paṭiccavāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Hetu
 
 (45.)
 
@@ -39,6 +32,5 @@
 
 1727\. Ganthasampayuttañca ganthavippayuttañca dhammaṃ paṭicca ganthasampayutto ca ganthavippayutto ca dhammā uppajjanti hetupaccayā—  diṭṭhigatavippayuttalobhasahagataṃ ekaṃ khandhañca lobhañca paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  domanassasahagataṃ ekaṃ khandhañca paṭighañca paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe… . (3)
 
-[Go to previous page (5.3.1.1.1 Vibhaṅgavāra)](../5.3.1.1.1.md) / [Go to parent page (5.3.1.1.1 Vibhaṅgavāra)](../5.3.1.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
 
 

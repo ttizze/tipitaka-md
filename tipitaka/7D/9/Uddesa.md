@@ -1,11 +1,8 @@
 
-[Home](/) / [7D Mahāvaggapāḷi](../../7D.md) / [9 Mahāsatipaṭṭhānasutta](../9.md)
 
 # Uddesa
 
-* Mahāsatipaṭṭhānasutta
 
-* Uddesa
 
 (373.)
 
@@ -19,6 +16,5 @@
 
 
 
-[Go to previous page (9 Mahāsatipaṭṭhānasutta)](../9.md) / [Go to parent page (9 Mahāsatipaṭṭhānasutta)](../9.md) / [Go to next page (9.1 Kāyānupassanā)](9.1.md)
 
 

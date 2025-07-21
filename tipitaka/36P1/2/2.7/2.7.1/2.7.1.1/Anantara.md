@@ -1,17 +1,11 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.7 Pañhāvāra](../../../2.7.md) / [2.7.1 Paccayānuloma](../../2.7.1.md) / [2.7.1.1 Vibhaṅgavāra](../2.7.1.1.md)
 
 # Anantara
 
-* Kusalattika
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Anantara
 
 (281.)
 
@@ -29,6 +23,5 @@
 
 860\. Abyākato dhammo akusalassa dhammassa anantarapaccayena paccayo—  āvajjanā akusalānaṃ khandhānaṃ anantarapaccayena paccayo. (3)
 
-[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (2.7.1.1 Vibhaṅgavāra)](../2.7.1.1.md) / [Go to next page (Samanantara)](Samanantara.md)
 
 

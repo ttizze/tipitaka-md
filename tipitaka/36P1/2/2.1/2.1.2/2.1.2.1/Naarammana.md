@@ -1,17 +1,11 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.1 Paṭiccavāra](../../../2.1.md) / [2.1.2 Paccayapaccanīya](../../2.1.2.md) / [2.1.2.1 Vibhaṅgavāra](../2.1.2.1.md)
 
 # Naārammaṇa
 
-* Kusalattika
 
-* Paṭiccavāra
 
-* Paccayapaccanīya
 
-* Vibhaṅgavāra
 
-* Naārammaṇa
 
 (35.)
 
@@ -25,6 +19,5 @@
 
 211\. Akusalañca abyākatañca dhammaṃ paṭicca abyākato dhammo uppajjati naārammaṇapaccayā—  akusale khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
 
-[Go to previous page (Paccanīya-nahetu)](Paccaniya-nahetu.md) / [Go to parent page (2.1.2.1 Vibhaṅgavāra)](../2.1.2.1.md) / [Go to next page (Naadhipati)](Naadhipati.md)
 
 

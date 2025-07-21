@@ -1,17 +1,11 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [12 Sekkhattika](../../../../12.md) / [12.3 Paccayavāra](../../../12.3.md) / [12.3.2 Paccayapaccanīya](../../12.3.2.md) / [12.3.2.1 Vibhaṅgavāra](../12.3.2.1.md)
 
 # Naanantarādi
 
-* Sekkhattika
 
-* Paccayavāra
 
-* Paccayapaccanīya
 
-* Vibhaṅgavāra
 
-* Naanantarādi
 
 (27.)
 
@@ -23,6 +17,5 @@
 
 1741\. Sekkhañca nevasekkhanāsekkhañca dhammaṃ paccayā sekkho dhammo uppajjati nakammapaccayā—  sekkhe khandhe ca vatthuñca paccayā sekkhā cetanā. (1)
 
-[Go to previous page (Naārammaṇādi)](Naarammanadi.md) / [Go to parent page (12.3.2.1 Vibhaṅgavāra)](../12.3.2.1.md) / [Go to next page (Navipāka)](Navipaka.md)
 
 

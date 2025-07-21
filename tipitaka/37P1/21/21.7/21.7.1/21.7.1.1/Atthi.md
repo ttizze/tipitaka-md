@@ -1,17 +1,11 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [21 Ajjhattattika](../../../../21.md) / [21.7 Pañhāvāra](../../../21.7.md) / [21.7.1 Paccayānuloma](../../21.7.1.md) / [21.7.1.1 Vibhaṅgavāra](../21.7.1.1.md)
 
 # Atthi
 
-* Ajjhattattika
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Atthi
 
 (46.)
 
@@ -31,6 +25,5 @@
 
 2854\. Ajjhatto dhammo ca bahiddhā dhammo ca bahiddhā dhammassa atthipaccayena paccayo—  purejātaṃ, āhāraṃ. **Purejātaṃ**—  ajjhattaṃ rūpāyatanañca bahiddhā cakkhāyatanañca bahiddhā cakkhuviññāṇassa atthipaccayena paccayo…pe…  ajjhattaṃ phoṭṭhabbāyatanañca bahiddhā kāyāyatanañca bahiddhā kāyaviññāṇassa atthipaccayena paccayo. Ajjhattaṃ rūpāyatanañca bahiddhā vatthu ca bahiddhā khandhānaṃ atthipaccayena paccayo…pe…  ajjhattaṃ phoṭṭhabbāyatanañca bahiddhā vatthu ca bahiddhā khandhānaṃ atthipaccayena paccayo. **Āhāraṃ**—  ajjhatto kabaḷīkāro āhāro ca bahiddhā kabaḷīkāro āhāro ca bahiddhā kāyassa atthipaccayena paccayo. (2)
 
-[Go to previous page (Indriyādi)](Indriyadi.md) / [Go to parent page (21.7.1.1 Vibhaṅgavāra)](../21.7.1.1.md) / [Go to next page (Natthi-vigatāvigata)](Natthi-vigatavigata.md)
 
 

@@ -1,17 +1,11 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [6 Saṃkiliṭṭhattika](../../../../6.md) / [6.1 Paṭiccavāra](../../../6.1.md) / [6.1.1 Paccayānuloma](../../6.1.1.md) / [6.1.1.1 Vibhaṅgavāra](../6.1.1.1.md)
 
 # Hetu
 
-* Saṃkiliṭṭhattika
 
-* Paṭiccavāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Hetu
 
 (1.)
 
@@ -35,6 +29,5 @@
 
 2814\. Saṃkiliṭṭhasaṃkilesikañca asaṃkiliṭṭhasaṃkilesikañca dhammaṃ paṭicca asaṃkiliṭṭhasaṃkilesiko dhammo uppajjati hetupaccayā—  saṃkiliṭṭhasaṃkilesike khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1) (Saṃkhittaṃ.)
 
-[Go to previous page (6.1.1.1 Vibhaṅgavāra)](../6.1.1.1.md) / [Go to parent page (6.1.1.1 Vibhaṅgavāra)](../6.1.1.1.md) / [Go to next page (6.1.1.2 Saṅkhyāvāra)](../6.1.1.2.md)
 
 

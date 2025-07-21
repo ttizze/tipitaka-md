@@ -1,19 +1,12 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [1 Hetugocchaka](../../../../../1.md) / [1.6 Nahetusahetukaduka](../../../../1.6.md) / [1.6.1 Paṭiccavāra](../../../1.6.1.md) / [1.6.1.1 Paccayānuloma](../../1.6.1.1.md) / [1.6.1.1.1 Vibhaṅgavāra](../1.6.1.1.1.md)
 
 # Hetu
 
-* Hetugocchaka
 
-* Nahetusahetukaduka
 
-* Paṭiccavāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Hetu
 
 (159.)
 
@@ -39,6 +32,5 @@
 
 448\. Nahetuṃ sahetukañca nahetuṃ ahetukañca dhammaṃ paṭicca nahetu sahetuko ca nahetu ahetuko ca dhammā uppajjanti hetupaccayā—  paṭisandhikkhaṇe nahetuṃ sahetukaṃ ekaṃ khandhañca vatthuñca paṭicca tayo khandhā…pe…  dve khandhe…pe…  nahetū sahetuke khandhe ca mahābhūte ca paṭicca kaṭattārūpaṃ. (3)
 
-[Go to previous page (1.6.1.1.1 Vibhaṅgavāra)](../1.6.1.1.1.md) / [Go to parent page (1.6.1.1.1 Vibhaṅgavāra)](../1.6.1.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
 
 

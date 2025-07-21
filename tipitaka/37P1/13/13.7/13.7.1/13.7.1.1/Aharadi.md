@@ -1,17 +1,11 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [13 Parittattika](../../../../13.md) / [13.7 Pañhāvāra](../../../13.7.md) / [13.7.1 Paccayānuloma](../../13.7.1.md) / [13.7.1.1 Vibhaṅgavāra](../13.7.1.1.md)
 
 # Āhārādi
 
-* Parittattika
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Āhārādi
 
 (81.)
 
@@ -27,6 +21,5 @@
 
 2119\. Appamāṇo dhammo parittassa dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, pacchājātaṃ. **Sahajātā**—  appamāṇā khandhā cittasamuṭṭhānānaṃ rūpānaṃ vippayuttapaccayena paccayo. **Pacchājātā**—  appamāṇā khandhā purejātassa imassa kāyassa vippayuttapaccayena paccayo. (1)
 
-[Go to previous page (Vipāka)](Vipaka.md) / [Go to parent page (13.7.1.1 Vibhaṅgavāra)](../13.7.1.1.md) / [Go to next page (Atthi)](Atthi.md)
 
 

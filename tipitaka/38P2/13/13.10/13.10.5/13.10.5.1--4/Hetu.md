@@ -1,17 +1,11 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../38P2.md) / [13 Piṭṭhiduka](../../../../13.md) / [13.10 Upekkhāsahagataduka](../../../13.10.md) / [13.10.5 Saṃsaṭṭhavāra](../../13.10.5.md) / [13.10.5.1--4 Paccayānulomādi](../13.10.5.1--4.md)
 
 # Hetu
 
-* Piṭṭhiduka
 
-* Upekkhāsahagataduka
 
-* Saṃsaṭṭhavāra
 
-* Paccayānulomādi
 
-* Hetu
 
 (185.)
 
@@ -35,6 +29,5 @@
 
 
 
-[Go to previous page (13.10.5.1--4 Paccayānulomādi)](../13.10.5.1--4.md) / [Go to parent page (13.10.5.1--4 Paccayānulomādi)](../13.10.5.1--4.md) / [Go to next page (13.10.6 Sampayuttavāra)](../../13.10.6.md)
 
 

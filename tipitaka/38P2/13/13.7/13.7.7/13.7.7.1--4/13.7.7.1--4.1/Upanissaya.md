@@ -1,19 +1,12 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [13 Piṭṭhiduka](../../../../../13.md) / [13.7 Sappītikaduka](../../../../13.7.md) / [13.7.7 Pañhāvāra](../../../13.7.7.md) / [13.7.7.1--4 Paccayānulomādi](../../13.7.7.1--4.md) / [13.7.7.1--4.1 Vibhaṅgavāra](../13.7.7.1--4.1.md)
 
 # Upanissaya
 
-* Piṭṭhiduka
 
-* Sappītikaduka
 
-* Pañhāvāra
 
-* Paccayānulomādi
 
-* Vibhaṅgavāra
 
-* Upanissaya
 
 (159.)
 
@@ -29,6 +22,5 @@
 
 4426\. Sappītiko ca appītiko ca dhammā sappītikassa dhammassa upanissayapaccayena paccayo (tīṇipi upanissayā). Sappītikā khandhā ca pīti ca sappītikānaṃ khandhānaṃ upanissayapaccayena paccayo. (Mūlaṃ kātabbaṃ.) Sappītikā khandhā ca pīti ca appītikānaṃ khandhānaṃ pītiyā ca upanissayapaccayena paccayo. (Mūlaṃ kātabbaṃ.) Sappītikā khandhā ca pīti ca sappītikānaṃ khandhānaṃ pītiyā ca upanissayapaccayena paccayo. (3)
 
-[Go to previous page (Anantarādi)](Anantaradi.md) / [Go to parent page (13.7.7.1--4.1 Vibhaṅgavāra)](../13.7.7.1--4.1.md) / [Go to next page (Purejāta)](Purejata.md)
 
 

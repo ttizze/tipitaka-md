@@ -1,17 +1,11 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [16 Micchattaniyatattika](../../../../16.md) / [16.7 Pañhāvāra](../../../16.7.md) / [16.7.1 Paccayānuloma](../../16.7.1.md) / [16.7.1.1 Vibhaṅgavāra](../16.7.1.1.md)
 
 # Anantara
 
-* Micchattaniyatattika
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Anantara
 
 (42.)
 
@@ -27,6 +21,5 @@
 
 2366\. Aniyato dhammo sammattaniyatassa dhammassa anantarapaccayena paccayo—  gotrabhu maggassa…  vodānaṃ maggassa anantarapaccayena paccayo. (3)
 
-[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (16.7.1.1 Vibhaṅgavāra)](../16.7.1.1.md) / [Go to next page (Samanantarādi)](Samanantaradi.md)
 
 

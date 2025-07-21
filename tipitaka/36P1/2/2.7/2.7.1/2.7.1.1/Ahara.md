@@ -1,17 +1,11 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.7 Pañhāvāra](../../../2.7.md) / [2.7.1 Paccayānuloma](../../2.7.1.md) / [2.7.1.1 Vibhaṅgavāra](../2.7.1.1.md)
 
 # Āhāra
 
-* Kusalattika
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Āhāra
 
 (293.)
 
@@ -29,6 +23,5 @@
 
 956\. Abyākato dhammo abyākatassa dhammassa āhārapaccayena paccayo—  vipākābyākatā kiriyābyākatā āhārā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ āhārapaccayena paccayo. Paṭisandhikkhaṇe vipākābyākatā āhārā sampayuttakānaṃ khandhānaṃ kaṭattā ca rūpānaṃ āhārapaccayena paccayo. **Kabaḷīkāro āhāro**—  imassa kāyassa āhārapaccayena paccayo. (1)
 
-[Go to previous page (Vipāka)](Vipaka.md) / [Go to parent page (2.7.1.1 Vibhaṅgavāra)](../2.7.1.1.md) / [Go to next page (Indriya)](Indriya.md)
 
 

@@ -1,17 +1,11 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.7 Pañhāvāra](../../../2.7.md) / [2.7.3 Paccayānulomapaccanīya](../../2.7.3.md) / [Anantara](../Anantara.md)
 
 # Anantaraghaṭanā
 
-* Kusalattika
 
-* Pañhāvāra
 
-* Paccayānulomapaccanīya
 
-* Anantara
 
-* Anantaraghaṭanā
 
 (428.)
 
@@ -27,6 +21,5 @@
 
 
 
-[Go to previous page (Anantaraduka)](Anantaraduka.md) / [Go to parent page (Anantara)](../Anantara.md) / [Go to next page (Samanantara)](../Samanantara.md)
 
 

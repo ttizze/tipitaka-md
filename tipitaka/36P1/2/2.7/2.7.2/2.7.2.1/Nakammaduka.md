@@ -1,17 +1,11 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.7 Pañhāvāra](../../../2.7.md) / [2.7.2 Paccayapaccanīya](../../2.7.2.md) / [2.7.2.1 Saṅkhyāvāra](../2.7.2.1.md)
 
 # Nakammaduka
 
-* Kusalattika
 
-* Pañhāvāra
 
-* Paccayapaccanīya
 
-* Saṅkhyāvāra
 
-* Nakammaduka
 
 (406.)
 
@@ -22,6 +16,5 @@
 * [Ekādasaka](Nakammaduka/Ekadasaka.md)
 * [Terasaka](Nakammaduka/Terasaka.md)
 
-[Go to previous page (Ekādasaka)](Napacchajataduka/Ekadasaka.md) / [Go to parent page (2.7.2.1 Saṅkhyāvāra)](../2.7.2.1.md) / [Go to next page (Catukka)](Nakammaduka/Catukka.md)
 
 

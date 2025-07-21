@@ -1,15 +1,10 @@
 
-[Home](/) / [39P5 Dhammānuloma (1), Tikatikapaṭṭhānapāḷi (5)](../../../../39P5.md) / [1 Kusalattika, Tika](../../../1.md) / [1.18 Kusalattika, Atītārammaṇattika](../../1.18.md) / [1.18.3 Paccuppannārammaṇapada](../1.18.3.md)
 
 # Hetu
 
-* Kusalattika, Tika
 
-* Kusalattika, Atītārammaṇattika
 
-* Paccuppannārammaṇapada
 
-* Hetu
 
 (76.)
 
@@ -31,6 +26,5 @@
 
 259\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
 
-[Go to previous page (1.18.3 Paccuppannārammaṇapada)](../1.18.3.md) / [Go to parent page (1.18.3 Paccuppannārammaṇapada)](../1.18.3.md) / [Go to next page (1.19 Kusalattika, Ajjhattattika)](../../1.19.md)
 
 

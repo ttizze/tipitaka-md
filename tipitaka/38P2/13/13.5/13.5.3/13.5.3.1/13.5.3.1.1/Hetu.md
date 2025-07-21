@@ -1,19 +1,12 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [13 Piṭṭhiduka](../../../../../13.md) / [13.5 Savitakkaduka](../../../../13.5.md) / [13.5.3 Paccayavāra](../../../13.5.3.md) / [13.5.3.1 Paccayānuloma](../../13.5.3.1.md) / [13.5.3.1.1 Vibhaṅgavāra](../13.5.3.1.1.md)
 
 # Hetu
 
-* Piṭṭhiduka
 
-* Savitakkaduka
 
-* Paccayavāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Hetu
 
 (110.)
 
@@ -33,6 +26,5 @@
 
 4310\. Savitakkañca avitakkañca dhammaṃ paccayā savitakko ca avitakko ca dhammā uppajjanti hetupaccayā—  savitakkaṃ ekaṃ khandhañca vitakkañca paccayā tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  savitakkaṃ ekaṃ khandhañca vitakkañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe…pe…  savitakke khandhe ca vitakkañca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ, savitakkaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā vitakko ca…pe…  dve khandhe…pe…  paṭisandhikkhaṇe…pe… . (3)
 
-[Go to previous page (13.5.3.1.1 Vibhaṅgavāra)](../13.5.3.1.1.md) / [Go to parent page (13.5.3.1.1 Vibhaṅgavāra)](../13.5.3.1.1.md) / [Go to next page (13.5.3.1.2 Saṅkhyāvāra)](../13.5.3.1.2.md)
 
 

@@ -1,17 +1,11 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../../39P3.md) / [8 Nīvaraṇagocchaka, Kusalattika](../../../../8.md) / [8.4 Nīvaraṇanīvaraṇiyaduka, Kusalattika](../../../8.4.md) / [8.4.1--7 Paṭiccādivāra](../../8.4.1--7.md) / [Paccayacatukka](../Paccayacatukka.md)
 
 # Hetu
 
-* Nīvaraṇagocchaka, Kusalattika
 
-* Nīvaraṇanīvaraṇiyaduka, Kusalattika
 
-* Paṭiccādivāra
 
-* Paccayacatukka
 
-* Hetu
 
 (23.)
 
@@ -47,6 +41,5 @@
 
 1945\. (Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
 
-[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (8.5 Nīvaraṇanīvaraṇasampayuttaduka, Kusalattika)](../../../8.5.md)
 
 

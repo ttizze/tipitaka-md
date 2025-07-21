@@ -1,17 +1,11 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [13 Parittattika](../../../../13.md) / [13.3 Paccayavāra](../../../13.3.md) / [13.3.2 Paccayapaccanīya](../../13.3.2.md) / [13.3.2.1 Vibhaṅgavāra](../13.3.2.1.md)
 
 # Naadhipati
 
-* Parittattika
 
-* Paccayavāra
 
-* Paccayapaccanīya
 
-* Vibhaṅgavāra
 
-* Naadhipati
 
 (35.)
 
@@ -43,6 +37,5 @@
 
 1987\. Parittañca mahaggatañca dhammaṃ paccayā paritto ca mahaggato ca dhammā uppajjanti naadhipatipaccayā—  vipākaṃ mahaggataṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe…pe…  vipāke mahaggate khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ. Paṭisandhikkhaṇe vipākaṃ mahaggataṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe…pe…  vipāke mahaggate khandhe ca mahābhūte ca paccayā kaṭattārūpaṃ. (3)
 
-[Go to previous page (Naārammaṇa)](Naarammana.md) / [Go to parent page (13.3.2.1 Vibhaṅgavāra)](../13.3.2.1.md) / [Go to next page (Naanantarādi)](Naanantaradi.md)
 
 

@@ -1,15 +1,10 @@
 
-[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../../39P4.md) / [8 Tika, Saraṇaduka](../../../8.md) / [8.2 Vedanāttika, Saraṇaduka](../../8.2.md) / [8.2.2 Araṇapada](../8.2.2.md)
 
 # Hetu
 
-* Tika, Saraṇaduka
 
-* Vedanāttika, Saraṇaduka
 
-* Araṇapada
 
-* Hetu
 
 (5.)
 
@@ -33,6 +28,5 @@
 
 1724\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
 
-[Go to previous page (8.2.2 Araṇapada)](../8.2.2.md) / [Go to parent page (8.2.2 Araṇapada)](../8.2.2.md) / [Go to next page (8.3 Vipākattika, Saraṇaduka)](../../8.3.md)
 
 

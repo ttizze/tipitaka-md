@@ -1,19 +1,12 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [8 Nīvaraṇagocchaka](../../../../../8.md) / [8.3 Nīvaraṇasampayuttaduka](../../../../8.3.md) / [8.3.3 Paccayavāra](../../../8.3.3.md) / [8.3.3.2 Paccayapaccanīya](../../8.3.3.2.md) / [8.3.3.2.1 Vibhaṅgavāra](../8.3.3.2.1.md)
 
 # Nahetu
 
-* Nīvaraṇagocchaka
 
-* Nīvaraṇasampayuttaduka
 
-* Paccayavāra
 
-* Paccayapaccanīya
 
-* Vibhaṅgavāra
 
-* Nahetu
 
 (62.)
 
@@ -25,6 +18,5 @@
 
 2019\. Nīvaraṇasampayuttañca nīvaraṇavippayuttañca dhammaṃ paccayā nīvaraṇasampayutto dhammo uppajjati nahetupaccayā—  vicikicchāsahagate uddhaccasahagate khandhe ca vatthuñca paccayā vicikicchāsahagato uddhaccasahagato moho. (Saṃkhittaṃ.) (1)
 
-[Go to previous page (8.3.3.2.1 Vibhaṅgavāra)](../8.3.3.2.1.md) / [Go to parent page (8.3.3.2.1 Vibhaṅgavāra)](../8.3.3.2.1.md) / [Go to next page (8.3.3.2.2 Saṅkhyāvāra)](../8.3.3.2.2.md)
 
 

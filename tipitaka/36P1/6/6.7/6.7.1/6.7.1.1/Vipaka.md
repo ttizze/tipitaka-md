@@ -1,17 +1,11 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [6 Saṃkiliṭṭhattika](../../../../6.md) / [6.7 Pañhāvāra](../../../6.7.md) / [6.7.1 Paccayānuloma](../../6.7.1.md) / [6.7.1.1 Vibhaṅgavāra](../6.7.1.1.md)
 
 # Vipāka
 
-* Saṃkiliṭṭhattika
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Vipāka
 
 (21.)
 
@@ -23,6 +17,5 @@
 
 2881\. Asaṃkiliṭṭhaasaṃkilesiko dhammo asaṃkiliṭṭhasaṃkilesikassa ca asaṃkiliṭṭhaasaṃkilesikassa ca dhammassa vipākapaccayena paccayo—  vipāko asaṃkiliṭṭhaasaṃkilesiko eko khandho tiṇṇannaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ vipākapaccayena paccayo…pe…  dve khandhā…pe… . (3)
 
-[Go to previous page (Kamma)](Kamma.md) / [Go to parent page (6.7.1.1 Vibhaṅgavāra)](../6.7.1.1.md) / [Go to next page (Āhāra)](Ahara.md)
 
 

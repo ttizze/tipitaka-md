@@ -1,17 +1,11 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.7 Pañhāvāra](../../../2.7.md) / [2.7.3 Paccayānulomapaccanīya](../../2.7.3.md) / [Indriya](../Indriya.md)
 
 # Sahetādhipati-maggaghaṭanā
 
-* Kusalattika
 
-* Pañhāvāra
 
-* Paccayānulomapaccanīya
 
-* Indriya
 
-* Sahetādhipati-maggaghaṭanā
 
 (469.)
 
@@ -33,6 +27,5 @@
 
 
 
-[Go to previous page (Sahetu-maggaghaṭanā)](Sahetu-maggaghatana.md) / [Go to parent page (Indriya)](../Indriya.md) / [Go to next page (Jhāna)](../Jhana.md)
 
 

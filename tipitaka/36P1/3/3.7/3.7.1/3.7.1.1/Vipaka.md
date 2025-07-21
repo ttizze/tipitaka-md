@@ -1,17 +1,11 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [3 Vedanāttika](../../../../3.md) / [3.7 Pañhāvāra](../../../3.7.md) / [3.7.1 Paccayānuloma](../../3.7.1.md) / [3.7.1.1 Vibhaṅgavāra](../3.7.1.1.md)
 
 # Vipāka
 
-* Vedanāttika
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Vipāka
 
 (60.)
 
@@ -21,6 +15,5 @@
 
 1947\. Adukkhamasukhāya vedanāya…pe…  vipāko adukkhamasukhāya vedanāya sampayutto eko khandho dvinnaṃ khandhānaṃ…pe…  paṭisandhikkhaṇe…pe… . (1)
 
-[Go to previous page (Kamma)](Kamma.md) / [Go to parent page (3.7.1.1 Vibhaṅgavāra)](../3.7.1.1.md) / [Go to next page (Āhārādi)](Aharadi.md)
 
 

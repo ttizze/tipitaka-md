@@ -1,17 +1,11 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.7 Pañhāvāra](../../../2.7.md) / [2.7.3 Paccayānulomapaccanīya](../../2.7.3.md) / [Āhāra](../Ahara.md)
 
 # Sādhipati-indriyaghaṭanā
 
-* Kusalattika
 
-* Pañhāvāra
 
-* Paccayānulomapaccanīya
 
-* Āhāra
 
-* Sādhipati-indriyaghaṭanā
 
 (457.)
 
@@ -33,6 +27,5 @@
 
 
 
-[Go to previous page (Saindriyaghaṭanā)](Saindriyaghatana.md) / [Go to parent page (Āhāra)](../Ahara.md) / [Go to next page (Indriya)](../Indriya.md)
 
 

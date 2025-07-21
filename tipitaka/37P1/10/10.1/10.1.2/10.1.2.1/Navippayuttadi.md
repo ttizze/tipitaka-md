@@ -1,17 +1,11 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [10 Dassanenapahātabbahetukattika](../../../../10.md) / [10.1 Paṭiccavāra](../../../10.1.md) / [10.1.2 Paccayapaccanīya](../../10.1.2.md) / [10.1.2.1 Vibhaṅgavāra](../10.1.2.1.md)
 
 # Navippayuttādi
 
-* Dassanenapahātabbahetukattika
 
-* Paṭiccavāra
 
-* Paccayapaccanīya
 
-* Vibhaṅgavāra
 
-* Navippayuttādi
 
 (29.)
 
@@ -37,6 +31,5 @@
 
 1136\. Bhāvanāya pahātabbahetukañca nevadassanena nabhāvanāya pahātabbahetukañca dhammaṃ paṭicca bhāvanāya pahātabbahetuko dhammo uppajjati navippayuttapaccayā—  arūpe uddhaccasahagataṃ ekaṃ khandhañca mohañca paṭicca tayo khandhā…pe…  dve khandhā…  nonatthipaccayā…  novigatapaccayā.
 
-[Go to previous page (Naāhārādi)](Naaharadi.md) / [Go to parent page (10.1.2.1 Vibhaṅgavāra)](../10.1.2.1.md) / [Go to next page (10.1.2.2 Saṅkhyāvāra)](../10.1.2.2.md)
 
 

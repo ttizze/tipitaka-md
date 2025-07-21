@@ -1,19 +1,12 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [11 Upādānagocchaka](../../../../../11.md) / [11.1 Upādānaduka](../../../../11.1.md) / [11.1.7 Pañhāvāra](../../../11.1.7.md) / [11.1.7.1 Paccayānuloma](../../11.1.7.1.md) / [11.1.7.1.1 Vibhaṅgavāra](../11.1.7.1.1.md)
 
 # Adhipati
 
-* Upādānagocchaka
 
-* Upādānaduka
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Adhipati
 
 (21.)
 
@@ -29,6 +22,5 @@
 
 3583\. Upādāno ca noupādāno ca dhammā upādānassa dhammassa adhipatipaccayena paccayo…  tīṇi…  ārammaṇādhipati…  tīṇi. (Ārabbha kātabbā, ārammaṇādhipatiyeva.)
 
-[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (11.1.7.1.1 Vibhaṅgavāra)](../11.1.7.1.1.md) / [Go to next page (Anantarādi)](Anantaradi.md)
 
 

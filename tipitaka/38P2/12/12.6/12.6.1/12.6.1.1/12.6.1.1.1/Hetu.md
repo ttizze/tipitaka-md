@@ -1,19 +1,12 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [12 Kilesagocchaka](../../../../../12.md) / [12.6 Kilesasaṃkiliṭṭhaduka](../../../../12.6.md) / [12.6.1 Paṭiccavāra](../../../12.6.1.md) / [12.6.1.1 Paccayānuloma](../../12.6.1.1.md) / [12.6.1.1.1 Vibhaṅgavāra](../12.6.1.1.1.md)
 
 # Hetu
 
-* Kilesagocchaka
 
-* Kilesasaṃkiliṭṭhaduka
 
-* Paṭiccavāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Hetu
 
 (80.)
 
@@ -39,6 +32,5 @@
 
 4025\. Kilesañceva saṃkiliṭṭhañca saṃkiliṭṭhañceva no ca kilesañca dhammaṃ paṭicca kileso ceva saṃkiliṭṭho ca saṃkiliṭṭho ceva no ca kileso ca dhammā uppajjanti hetupaccayā—  saṃkiliṭṭhañceva no ca kilesaṃ ekaṃ khandhañca lobhañca paṭicca tayo khandhā moho diṭṭhi thinaṃ uddhaccaṃ ahirikaṃ anottappaṃ…pe…  dve khandhe ca…pe… . (Cakkaṃ.) (3)
 
-[Go to previous page (12.6.1.1.1 Vibhaṅgavāra)](../12.6.1.1.1.md) / [Go to parent page (12.6.1.1.1 Vibhaṅgavāra)](../12.6.1.1.1.md) / [Go to next page (12.6.1.1.2 Saṅkhyāvāra)](../12.6.1.1.2.md)
 
 

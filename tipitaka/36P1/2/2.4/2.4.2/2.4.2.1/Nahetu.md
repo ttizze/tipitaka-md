@@ -1,17 +1,11 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.4 Nissayavāra](../../../2.4.md) / [2.4.2 Paccayapaccanīya](../../2.4.2.md) / [2.4.2.1 Vibhaṅgavāra](../2.4.2.1.md)
 
 # Nahetu
 
-* Kusalattika
 
-* Nissayavāra
 
-* Paccayapaccanīya
 
-* Vibhaṅgavāra
 
-* Nahetu
 
 (198.)
 
@@ -29,6 +23,5 @@
 
 
 
-[Go to previous page (2.4.2.1 Vibhaṅgavāra)](../2.4.2.1.md) / [Go to parent page (2.4.2.1 Vibhaṅgavāra)](../2.4.2.1.md) / [Go to next page (2.4.2.2 Saṅkhyāvāra)](../2.4.2.2.md)
 
 

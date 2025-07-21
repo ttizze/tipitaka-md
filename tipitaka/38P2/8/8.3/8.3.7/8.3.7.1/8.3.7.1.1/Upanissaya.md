@@ -1,19 +1,12 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [8 Nīvaraṇagocchaka](../../../../../8.md) / [8.3 Nīvaraṇasampayuttaduka](../../../../8.3.md) / [8.3.7 Pañhāvāra](../../../8.3.7.md) / [8.3.7.1 Paccayānuloma](../../8.3.7.1.md) / [8.3.7.1.1 Vibhaṅgavāra](../8.3.7.1.1.md)
 
 # Upanissaya
 
-* Nīvaraṇagocchaka
 
-* Nīvaraṇasampayuttaduka
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Upanissaya
 
 (73.)
 
@@ -27,6 +20,5 @@
 
 2047\. Nīvaraṇavippayutto dhammo nīvaraṇasampayuttassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  saddhaṃ upanissāya mānaṃ jappeti, diṭṭhiṃ gaṇhāti; sīlaṃ…pe…  paññaṃ, kāyikaṃ sukhaṃ…pe…  senāsanaṃ upanissāya pāṇaṃ hanati…pe…  saṃghaṃ bhindati; saddhā…pe…  senāsanaṃ rāgassa…  dosassa…  mohassa…  mānassa…  diṭṭhiyā…  patthanāya upanissayapaccayena paccayo. (2)
 
-[Go to previous page (Samanantarādi)](Samanantaradi.md) / [Go to parent page (8.3.7.1.1 Vibhaṅgavāra)](../8.3.7.1.1.md) / [Go to next page (Purejāta)](Purejata.md)
 
 

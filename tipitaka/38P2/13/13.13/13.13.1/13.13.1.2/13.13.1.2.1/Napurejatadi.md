@@ -1,19 +1,12 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [13 Piṭṭhiduka](../../../../../13.md) / [13.13 Arūpāvacaraduka](../../../../13.13.md) / [13.13.1 Paṭiccavāra](../../../13.13.1.md) / [13.13.1.2 Paccayapaccanīya](../../13.13.1.2.md) / [13.13.1.2.1 Vibhaṅgavāra](../13.13.1.2.1.md)
 
 # Napurejātādi
 
-* Piṭṭhiduka
 
-* Arūpāvacaraduka
 
-* Paṭiccavāra
 
-* Paccayapaccanīya
 
-* Vibhaṅgavāra
 
-* Napurejātādi
 
 (270.)
 
@@ -31,6 +24,5 @@
 
 4662\. Arūpāvacarañca naarūpāvacarañca dhammaṃ paṭicca naarūpāvacaro dhammo uppajjati naāsevanapaccayā—  arūpāvacare khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1) (Saṃkhittaṃ.)
 
-[Go to previous page (Naadhipatyādi)](Naadhipatyadi.md) / [Go to parent page (13.13.1.2.1 Vibhaṅgavāra)](../13.13.1.2.1.md) / [Go to next page (13.13.1.2.2 Saṅkhyāvāra)](../13.13.1.2.2.md)
 
 

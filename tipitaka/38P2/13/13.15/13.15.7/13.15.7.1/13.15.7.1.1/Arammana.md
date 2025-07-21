@@ -1,19 +1,12 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [13 Piṭṭhiduka](../../../../../13.md) / [13.15 Niyyānikaduka](../../../../13.15.md) / [13.15.7 Pañhāvāra](../../../13.15.7.md) / [13.15.7.1 Paccayānuloma](../../13.15.7.1.md) / [13.15.7.1.1 Vibhaṅgavāra](../13.15.7.1.1.md)
 
 # Ārammaṇa
 
-* Piṭṭhiduka
 
-* Niyyānikaduka
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Ārammaṇa
 
 (314.)
 
@@ -23,6 +16,5 @@
 
 4746\. Aniyyāniko dhammo niyyānikassa dhammassa ārammaṇapaccayena paccayo—  nibbānaṃ maggassa ārammaṇapaccayena paccayo. (2)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (13.15.7.1.1 Vibhaṅgavāra)](../13.15.7.1.1.md) / [Go to next page (Adhipati)](Adhipati.md)
 
 

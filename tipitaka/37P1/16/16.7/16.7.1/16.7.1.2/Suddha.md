@@ -1,17 +1,11 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [16 Micchattaniyatattika](../../../../16.md) / [16.7 Pañhāvāra](../../../16.7.md) / [16.7.1 Paccayānuloma](../../16.7.1.md) / [16.7.1.2 Saṅkhyāvāra](../16.7.1.2.md)
 
 # Suddha
 
-* Micchattaniyatattika
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Saṅkhyāvāra
 
-* Suddha
 
 (58.)
 
@@ -23,6 +17,5 @@
 
 
 
-[Go to previous page (16.7.1.2 Saṅkhyāvāra)](../16.7.1.2.md) / [Go to parent page (16.7.1.2 Saṅkhyāvāra)](../16.7.1.2.md) / [Go to next page (Paccanīyuddhāra)](../../Paccaniyuddhara.md)
 
 

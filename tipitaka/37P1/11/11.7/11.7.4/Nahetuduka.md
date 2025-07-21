@@ -1,15 +1,10 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../37P1.md) / [11 Ācayagāmittika](../../../11.md) / [11.7 Pañhāvāra](../../11.7.md) / [11.7.4 Paccayapaccanīyānuloma](../11.7.4.md)
 
 # Nahetuduka
 
-* Ācayagāmittika
 
-* Pañhāvāra
 
-* Paccayapaccanīyānuloma
 
-* Nahetuduka
 
 (75.)
 
@@ -27,6 +22,5 @@
 
 
 
-[Go to previous page (11.7.4 Paccayapaccanīyānuloma)](../11.7.4.md) / [Go to parent page (11.7.4 Paccayapaccanīyānuloma)](../11.7.4.md) / [Go to next page (12 Sekkhattika)](../../../12.md)
 
 

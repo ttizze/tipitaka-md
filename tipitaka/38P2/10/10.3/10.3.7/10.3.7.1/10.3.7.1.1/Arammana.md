@@ -1,19 +1,12 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [10 Mahantaraduka](../../../../../10.md) / [10.3 Cetasikaduka](../../../../10.3.md) / [10.3.7 Pañhāvāra](../../../10.3.7.md) / [10.3.7.1 Paccayānuloma](../../10.3.7.1.md) / [10.3.7.1.1 Vibhaṅgavāra](../10.3.7.1.1.md)
 
 # Ārammaṇa
 
-* Mahantaraduka
 
-* Cetasikaduka
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Ārammaṇa
 
 (120.)
 
@@ -31,6 +24,5 @@
 
 2615\. Cetasiko ca acetasiko ca dhammā cetasikassa dhammassa ārammaṇapaccayena paccayo—  cetasike khandhe ca cittañca ārabbha cetasikā khandhā uppajjanti. (Mūlaṃ pucchitabbaṃ.) Cetasike khandhe ca cittañca ārabbha cittaṃ uppajjati. (Mūlaṃ pucchitabbaṃ.) Cetasike khandhe ca cittañca ārabbha cetasikā khandhā ca cittañca uppajjanti. (3)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (10.3.7.1.1 Vibhaṅgavāra)](../10.3.7.1.1.md) / [Go to next page (Adhipati)](Adhipati.md)
 
 

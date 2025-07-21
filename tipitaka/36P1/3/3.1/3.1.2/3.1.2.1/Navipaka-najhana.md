@@ -1,17 +1,11 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [3 Vedanāttika](../../../../3.md) / [3.1 Paṭiccavāra](../../../3.1.md) / [3.1.2 Paccayapaccanīya](../../3.1.2.md) / [3.1.2.1 Vibhaṅgavāra](../3.1.2.1.md)
 
 # Navipāka-najhāna
 
-* Vedanāttika
 
-* Paṭiccavāra
 
-* Paccayapaccanīya
 
-* Vibhaṅgavāra
 
-* Navipāka-najhāna
 
 (13.)
 
@@ -21,6 +15,5 @@
 
 1828\. Adukkhamasukhāya vedanāya sampayuttaṃ dhammaṃ paṭicca adukkhamasukhāya vedanāya sampayutto dhammo uppajjati najhānapaccayā—  catuviññāṇasahagataṃ ekaṃ khandhaṃ paṭicca dve khandhā, dve khandhe paṭicca eko khandho.
 
-[Go to previous page (Nakamma)](Nakamma.md) / [Go to parent page (3.1.2.1 Vibhaṅgavāra)](../3.1.2.1.md) / [Go to next page (Namagga)](Namagga.md)
 
 

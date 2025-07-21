@@ -1,13 +1,9 @@
 
-[Home](/) / [40P9 Dhammapaccanīya (2), Dukatikapaṭṭhānapāḷi (3)](../../../40P9.md) / [16 Saraṇaduka, Vedanāttikādi](../../16.md) / [Paccayacatukka](../Paccayacatukka.md)
 
 # Hetu
 
-* Saraṇaduka, Vedanāttikādi
 
-* Paccayacatukka
 
-* Hetu
 
 (86.)
 
@@ -31,6 +27,5 @@
 
 216\. Nasaraṇaṃ naanupādinnaanupādāniyaṃ dhammaṃ paṭicca… . (Saṃkhittaṃ.) Hetuyā pañca, ārammaṇe dve…pe…  vipāke ekaṃ…pe…  avigate pañca.
 
-[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (17 Saraṇaduka, Sanidassanattika)](../../17.md)
 
 

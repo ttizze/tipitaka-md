@@ -1,19 +1,12 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../../../39P3.md) / [4 Āsavagocchaka, Kusalattika](../../../../../4.md) / [4.5 Āsavaāsavasampayuttaduka, Kusalattika](../../../../4.5.md) / [4.5.1 Akusalapada](../../../4.5.1.md) / [4.5.1.7 Pañhāvāra](../../4.5.1.7.md) / [Paccayacatukka](../Paccayacatukka.md)
 
 # Hetu
 
-* Āsavagocchaka, Kusalattika
 
-* Āsavaāsavasampayuttaduka, Kusalattika
 
-* Akusalapada
 
-* Pañhāvāra
 
-* Paccayacatukka
 
-* Hetu
 
 (46.)
 
@@ -37,6 +30,5 @@
 
 
 
-[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (4.6 Āsavavippayuttasāsavaduka, Kusalattika)](../../../../4.6.md)
 
 

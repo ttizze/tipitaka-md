@@ -1,11 +1,8 @@
 
-[Home](/) / [5V Parivārapāḷi](../../5V.md) / [4 Antarapeyyāla](../4.md)
 
 # Katipucchāvāra
 
-* Antarapeyyāla
 
-* Katipucchāvāra
 
 (271.)
 
@@ -95,6 +92,5 @@ _Satteva samathā vuttā,_
 _padā sattarasā imeti._  
 
 
-[Go to previous page (4 Antarapeyyāla)](../4.md) / [Go to parent page (4 Antarapeyyāla)](../4.md) / [Go to next page (4.1 Chaāpattisamuṭṭhānavāra)](4.1.md)
 
 

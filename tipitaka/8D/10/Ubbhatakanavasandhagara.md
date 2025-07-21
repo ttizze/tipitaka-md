@@ -1,11 +1,8 @@
 
-[Home](/) / [8D Pāthikavaggapāḷi](../../8D.md) / [10 Saṅgītisutta](../10.md)
 
 # Ubbhatakanavasandhāgāra
 
-* Saṅgītisutta
 
-* Ubbhatakanavasandhāgāra
 
 (297.)
 
@@ -25,6 +22,5 @@
 
 778\. Atha kho bhagavā catugguṇaṃ saṅghāṭiṃ paññāpetvā dakkhiṇena passena sīhaseyyaṃ kappesi pāde pādaṃ accādhāya, sato sampajāno uṭṭhānasaññaṃ manasi karitvā.
 
-[Go to previous page (10 Saṅgītisutta)](../10.md) / [Go to parent page (10 Saṅgītisutta)](../10.md) / [Go to next page (Bhinnanigaṇṭhavatthu)](Bhinnaniganthavatthu.md)
 
 

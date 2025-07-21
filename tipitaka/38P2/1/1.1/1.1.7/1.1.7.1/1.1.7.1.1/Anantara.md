@@ -1,19 +1,12 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [1 Hetugocchaka](../../../../../1.md) / [1.1 Hetuduka](../../../../1.1.md) / [1.1.7 Pañhāvāra](../../../1.1.7.md) / [1.1.7.1 Paccayānuloma](../../1.1.7.1.md) / [1.1.7.1.1 Vibhaṅgavāra](../1.1.7.1.1.md)
 
 # Anantara
 
-* Hetugocchaka
 
-* Hetuduka
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Anantara
 
 (24.)
 
@@ -39,6 +32,5 @@
 
 70\. Hetū ca nahetū ca dhammā hetussa ca nahetussa ca dhammassa anantarapaccayena paccayo—  purimā purimā hetū ca sampayuttakā ca khandhā pacchimānaṃ pacchimānaṃ hetūnaṃ sampayuttakānañca khandhānaṃ anantarapaccayena paccayo. (3)
 
-[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (1.1.7.1.1 Vibhaṅgavāra)](../1.1.7.1.1.md) / [Go to next page (Samanantarādi)](Samanantaradi.md)
 
 

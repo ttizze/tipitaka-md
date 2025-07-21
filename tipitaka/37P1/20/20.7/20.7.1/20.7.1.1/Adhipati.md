@@ -1,17 +1,11 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [20 Atītārammaṇattika](../../../../20.md) / [20.7 Pañhāvāra](../../../20.7.md) / [20.7.1 Paccayānuloma](../../20.7.1.md) / [20.7.1.1 Vibhaṅgavāra](../20.7.1.1.md)
 
 # Adhipati
 
-* Atītārammaṇattika
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Adhipati
 
 (23.)
 
@@ -33,6 +27,5 @@
 
 2710\. Paccuppannārammaṇo dhammo anāgatārammaṇassa dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  anāgataṃ dibbaṃ cakkhuṃ garuṃ katvā paccavekkhati, dibbaṃ sotadhātuṃ garuṃ katvā…pe…  paccuppannārammaṇaṃ anāgataṃ iddhividhañāṇaṃ garuṃ katvā…pe…  cetopariyañāṇaṃ garuṃ katvā…pe…  paccuppannārammaṇe anāgate khandhe garuṃ katvā assādeti abhinandati; taṃ garuṃ katvā anāgatārammaṇo rāgo uppajjati, diṭṭhi uppajjati. (3)
 
-[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (20.7.1.1 Vibhaṅgavāra)](../20.7.1.1.md) / [Go to next page (Anantara)](Anantara.md)
 
 

@@ -1,19 +1,12 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [12 Kilesagocchaka](../../../../../12.md) / [12.3 Saṃkiliṭṭhaduka](../../../../12.3.md) / [12.3.7 Pañhāvāra](../../../12.3.7.md) / [12.3.7.1 Paccayānuloma](../../12.3.7.1.md) / [12.3.7.1.1 Vibhaṅgavāra](../12.3.7.1.1.md)
 
 # Ārammaṇa
 
-* Kilesagocchaka
 
-* Saṃkiliṭṭhaduka
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Ārammaṇa
 
 (52.)
 
@@ -27,6 +20,5 @@
 
 3958\. Asaṃkiliṭṭho dhammo saṃkiliṭṭhassa dhammassa ārammaṇapaccayena paccayo—  dānaṃ…pe…  sīlaṃ…pe…  jhānā vuṭṭhahitvā…pe…  cakkhuṃ…pe…  vatthuṃ asaṃkiliṭṭhe khandhe assādeti abhinandati, taṃ ārabbha rāgo…pe…  domanassaṃ uppajjati. (2)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (12.3.7.1.1 Vibhaṅgavāra)](../12.3.7.1.1.md) / [Go to next page (Adhipati)](Adhipati.md)
 
 

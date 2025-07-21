@@ -1,17 +1,11 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [11 Ācayagāmittika](../../../../11.md) / [11.3 Paccayavāra](../../../11.3.md) / [11.3.2 Paccayapaccanīya](../../11.3.2.md) / [11.3.2.1 Vibhaṅgavāra](../11.3.2.1.md)
 
 # Nakamma
 
-* Ācayagāmittika
 
-* Paccayavāra
 
-* Paccayapaccanīya
 
-* Vibhaṅgavāra
 
-* Nakamma
 
 (32.)
 
@@ -29,6 +23,5 @@
 
 1533\. Apacayagāmiñca nevācayagāmināpacayagāmiñca dhammaṃ paccayā apacayagāmī dhammo uppajjati nakammapaccayā—  apacayagāmī khandhe ca vatthuñca paccayā apacayagāmī cetanā. (1)
 
-[Go to previous page (Naāsevana)](Naasevana.md) / [Go to parent page (11.3.2.1 Vibhaṅgavāra)](../11.3.2.1.md) / [Go to next page (Navipākādi)](Navipakadi.md)
 
 

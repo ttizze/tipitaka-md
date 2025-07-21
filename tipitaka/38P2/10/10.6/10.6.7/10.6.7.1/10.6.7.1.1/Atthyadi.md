@@ -1,19 +1,12 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [10 Mahantaraduka](../../../../../10.md) / [10.6 Cittasamuṭṭhānaduka](../../../../10.6.md) / [10.6.7 Pañhāvāra](../../../10.6.7.md) / [10.6.7.1 Paccayānuloma](../../10.6.7.1.md) / [10.6.7.1.1 Vibhaṅgavāra](../10.6.7.1.1.md)
 
 # Atthyādi
 
-* Mahantaraduka
 
-* Cittasamuṭṭhānaduka
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Atthyādi
 
 (230.)
 
@@ -39,6 +32,5 @@
 
 2894\. Natthipaccayena paccayo…  vigatapaccayena paccayo…  avigatapaccayena paccayo.
 
-[Go to previous page (Vippayutta)](Vippayutta.md) / [Go to parent page (10.6.7.1.1 Vibhaṅgavāra)](../10.6.7.1.1.md) / [Go to next page (10.6.7.1.2 Saṅkhyāvāra)](../10.6.7.1.2.md)
 
 

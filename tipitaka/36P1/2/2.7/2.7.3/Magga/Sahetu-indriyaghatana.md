@@ -1,17 +1,11 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.7 Pañhāvāra](../../../2.7.md) / [2.7.3 Paccayānulomapaccanīya](../../2.7.3.md) / [Magga](../Magga.md)
 
 # Sahetu-indriyaghaṭanā
 
-* Kusalattika
 
-* Pañhāvāra
 
-* Paccayānulomapaccanīya
 
-* Magga
 
-* Sahetu-indriyaghaṭanā
 
 (481.)
 
@@ -33,6 +27,5 @@
 
 1634\. Magga hetu sahajāta aññamañña nissaya vipāka indriya vippayutta atthi avigatanti naārammaṇe ekaṃ…pe…  novigate ekaṃ. [Savipāka—  5]
 
-[Go to previous page (Sādhipati-indriyaghaṭanā)](Sadhipati-indriyaghatana.md) / [Go to parent page (Magga)](../Magga.md) / [Go to next page (Sahetādhipati-indriyaghaṭanā)](Sahetadhipati-indriyaghatana.md)
 
 

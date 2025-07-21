@@ -1,17 +1,11 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.1 Paṭiccavāra](../../../2.1.md) / [2.1.1 Paccayānuloma](../../2.1.1.md) / [2.1.1.2 Saṅkhyāvāra](../2.1.1.2.md)
 
 # Āhāradukādi
 
-* Kusalattika
 
-* Paṭiccavāra
 
-* Paccayānuloma
 
-* Saṅkhyāvāra
 
-* Āhāradukādi
 
 (32.)
 
@@ -33,6 +27,5 @@
 
 202\. Vigatapaccayā hetuyā tīṇi…pe… .
 
-[Go to previous page (Vipākaduka)](Vipakaduka.md) / [Go to parent page (2.1.1.2 Saṅkhyāvāra)](../2.1.1.2.md) / [Go to next page (Avigataduka)](Avigataduka.md)
 
 

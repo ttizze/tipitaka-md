@@ -1,19 +1,12 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [3 Āsavagocchaka](../../../../../3.md) / [3.3 Āsavasampayuttaduka](../../../../3.3.md) / [3.3.7 Pañhāvāra](../../../3.3.7.md) / [3.3.7.1 Paccayānuloma](../../3.3.7.1.md) / [3.3.7.1.1 Vibhaṅgavāra](../3.3.7.1.1.md)
 
 # Kamma
 
-* Āsavagocchaka
 
-* Āsavasampayuttaduka
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Kamma
 
 (92.)
 
@@ -25,6 +18,5 @@
 
 1222\. Āsavavippayutto dhammo āsavavippayuttassa dhammassa kammapaccayena paccayo—  sahajātā, nānākkhaṇikā. **Sahajātā**—  āsavavippayuttā cetanā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo; paṭisandhikkhaṇe…pe… . **Nānākkhaṇikā** āsavavippayuttā cetanā vipākānaṃ khandhānaṃ kaṭattā ca rūpānaṃ kammapaccayena paccayo. (1)
 
-[Go to previous page (Āsevana)](Asevana.md) / [Go to parent page (3.3.7.1.1 Vibhaṅgavāra)](../3.3.7.1.1.md) / [Go to next page (Vipāka)](Vipaka.md)
 
 

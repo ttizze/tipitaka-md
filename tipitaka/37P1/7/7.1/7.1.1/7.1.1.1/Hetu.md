@@ -1,17 +1,11 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [7 Vitakkattika](../../../../7.md) / [7.1 Paṭiccavāra](../../../7.1.md) / [7.1.1 Paccayānuloma](../../7.1.1.md) / [7.1.1.1 Vibhaṅgavāra](../7.1.1.1.md)
 
 # Hetu
 
-* Vitakkattika
 
-* Paṭiccavāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Hetu
 
 (1.)
 
@@ -101,6 +95,5 @@
 
 38\. Savitakkasavicārañca avitakkavicāramattañca avitakkaavicārañca dhammaṃ paṭicca savitakkasavicāro ca avitakkaavicāro ca dhammā uppajjanti hetupaccayā—  paṭisandhikkhaṇe savitakkasavicāraṃ ekaṃ khandhañca vitakkañca vatthuñca paṭicca tayo khandhā, tayo khandhe ca vitakkañca vatthuñca paṭicca eko khandho, dve khandhe ca vitakkañca vatthuñca paṭicca dve khandhā; savitakkasavicāre khandhe ca vitakkañca mahābhūte ca paṭicca kaṭattārūpaṃ. (3)
 
-[Go to previous page (7.1.1.1 Vibhaṅgavāra)](../7.1.1.1.md) / [Go to parent page (7.1.1.1 Vibhaṅgavāra)](../7.1.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
 
 

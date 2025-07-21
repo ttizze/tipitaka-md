@@ -1,15 +1,10 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../39P3.md) / [4 Āsavagocchaka, Kusalattika](../../../4.md) / [4.2 Sāsavaduka, Kusalattika](../../4.2.md) / [4.2.1 Kusalapada](../4.2.1.md)
 
 # Hetu
 
-* Āsavagocchaka, Kusalattika
 
-* Sāsavaduka, Kusalattika
 
-* Kusalapada
 
-* Hetu
 
 (9.)
 
@@ -25,6 +20,5 @@
 
 1607\. Naadhipatiyā dve…pe…  naāsevane ekaṃ…pe…  navippayutte dve. (Saṃkhittaṃ. Paccanīyaṃ. Sahajātavārepi…pe…  sampayuttavārepi sabbattha dve.)
 
-[Go to previous page (4.2.1 Kusalapada)](../4.2.1.md) / [Go to parent page (4.2.1 Kusalapada)](../4.2.1.md) / [Go to next page (4.2.1.1--6 Paṭiccādivāra)](4.2.1.1--6.md)
 
 

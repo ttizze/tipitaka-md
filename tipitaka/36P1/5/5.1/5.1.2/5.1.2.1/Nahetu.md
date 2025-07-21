@@ -1,17 +1,11 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [5 Upādinnattika](../../../../5.md) / [5.1 Paṭiccavāra](../../../5.1.md) / [5.1.2 Paccayapaccanīya](../../5.1.2.md) / [5.1.2.1 Vibhaṅgavāra](../5.1.2.1.md)
 
 # Nahetu
 
-* Upādinnattika
 
-* Paṭiccavāra
 
-* Paccayapaccanīya
 
-* Vibhaṅgavāra
 
-* Nahetu
 
 (13.)
 
@@ -25,6 +19,5 @@
 
 2479\. Upādinnupādāniyañca anupādinnupādāniyañca dhammaṃ paṭicca anupādinnupādāniyo dhammo uppajjati nahetupaccayā—  ahetuke upādinnupādāniye khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
 
-[Go to previous page (5.1.2.1 Vibhaṅgavāra)](../5.1.2.1.md) / [Go to parent page (5.1.2.1 Vibhaṅgavāra)](../5.1.2.1.md) / [Go to next page (Naārammaṇa)](Naarammana.md)
 
 

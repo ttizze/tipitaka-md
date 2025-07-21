@@ -1,17 +1,11 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [5 Upādinnattika](../../../../5.md) / [5.1 Paṭiccavāra](../../../5.1.md) / [5.1.1 Paccayānuloma](../../5.1.1.md) / [5.1.1.1 Vibhaṅgavāra](../5.1.1.1.md)
 
 # Hetu
 
-* Upādinnattika
 
-* Paṭiccavāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Hetu
 
 (1.)
 
@@ -33,6 +27,5 @@
 
 2445\. Upādinnupādāniyañca anupādinnupādāniyañca dhammaṃ paṭicca anupādinnupādāniyo dhammo uppajjati hetupaccayā—  upādinnupādāniye khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
 
-[Go to previous page (5.1.1.1 Vibhaṅgavāra)](../5.1.1.1.md) / [Go to parent page (5.1.1.1 Vibhaṅgavāra)](../5.1.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
 
 

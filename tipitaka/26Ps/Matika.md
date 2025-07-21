@@ -1,9 +1,7 @@
 
-[Home](/) / [26Ps Paṭisambhidāmaggapāḷi](../26Ps.md)
 
 # Mātikā
 
-* Mātikā
 
 (1.)
 
@@ -305,6 +303,5 @@
 
 
 
-[Go to previous page (26Ps Paṭisambhidāmaggapāḷi)](0.md) / [Go to parent page (26Ps Paṭisambhidāmaggapāḷi)](0.md) / [Go to next page (1 Mahāvagga)](1.md)
 
 

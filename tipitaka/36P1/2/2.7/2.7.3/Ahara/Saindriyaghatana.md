@@ -1,17 +1,11 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.7 Pañhāvāra](../../../2.7.md) / [2.7.3 Paccayānulomapaccanīya](../../2.7.3.md) / [Āhāra](../Ahara.md)
 
 # Saindriyaghaṭanā
 
-* Kusalattika
 
-* Pañhāvāra
 
-* Paccayānulomapaccanīya
 
-* Āhāra
 
-* Saindriyaghaṭanā
 
 (456.)
 
@@ -33,6 +27,5 @@
 
 1459\. Āhāra sahajāta aññamañña nissaya vipāka indriya vippayutta atthi avigatanti nahetuyā ekaṃ, naārammaṇe ekaṃ, naadhipatiyā ekaṃ, naanantare ekaṃ, nasamanantare ekaṃ, naupanissaye ekaṃ, napurejāte ekaṃ, napacchājāte ekaṃ, naāsevane ekaṃ, nakamme ekaṃ, najhāne ekaṃ, namagge ekaṃ, nasampayutte ekaṃ, nonatthiyā ekaṃ, novigate ekaṃ. [Savipāka—  5]
 
-[Go to previous page (Sakammaghaṭanā)](Sakammaghatana.md) / [Go to parent page (Āhāra)](../Ahara.md) / [Go to next page (Sādhipati-indriyaghaṭanā)](Sadhipati-indriyaghatana.md)
 
 

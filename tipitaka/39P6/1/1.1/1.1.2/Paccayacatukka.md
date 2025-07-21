@@ -1,15 +1,10 @@
 
-[Home](/) / [39P6 Dhammānuloma (1), Dukadukapaṭṭhānapāḷi (6)](../../../../39P6.md) / [1 Hetuduka, Duka](../../../1.md) / [1.1 Hetuduka, Sahetukaduka](../../1.1.md) / [1.1.2 Ahetukapada](../1.1.2.md)
 
 # Paccayacatukka
 
-* Hetuduka, Duka
 
-* Hetuduka, Sahetukaduka
 
-* Ahetukapada
 
-* Paccayacatukka
 
 (9.)
 
@@ -37,6 +32,5 @@
 
 26\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
 
-[Go to previous page (1.1.2 Ahetukapada)](../1.1.2.md) / [Go to parent page (1.1.2 Ahetukapada)](../1.1.2.md) / [Go to next page (1.2 Hetuduka, Hetusampayuttaduka)](../../1.2.md)
 
 

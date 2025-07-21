@@ -1,19 +1,12 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [3 Āsavagocchaka](../../../../../3.md) / [3.3 Āsavasampayuttaduka](../../../../3.3.md) / [3.3.1 Paṭiccavāra](../../../3.3.1.md) / [3.3.1.2 Paccayapaccanīya](../../3.3.1.2.md) / [3.3.1.2.1 Vibhaṅgavāra](../3.3.1.2.1.md)
 
 # Napurejātādi
 
-* Āsavagocchaka
 
-* Āsavasampayuttaduka
 
-* Paṭiccavāra
 
-* Paccayapaccanīya
 
-* Vibhaṅgavāra
 
-* Napurejātādi
 
 (59.)
 
@@ -37,6 +30,5 @@
 
 1133\. (Napacchājātapaccayā nava, naāsevanapaccayā nava.)
 
-[Go to previous page (Naadhipati)](Naadhipati.md) / [Go to parent page (3.3.1.2.1 Vibhaṅgavāra)](../3.3.1.2.1.md) / [Go to next page (Nakammādi)](Nakammadi.md)
 
 

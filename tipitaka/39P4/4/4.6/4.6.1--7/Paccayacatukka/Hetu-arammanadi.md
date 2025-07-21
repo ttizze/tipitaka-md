@@ -1,17 +1,11 @@
 
-[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../../../39P4.md) / [4 Kusalattika, Āsavaparāmāsagocchaka](../../../../4.md) / [4.6 Kusalattika, Āsavavippayuttasāsavaduka](../../../4.6.md) / [4.6.1--7 Paṭiccādivāra](../../4.6.1--7.md) / [Paccayacatukka](../Paccayacatukka.md)
 
 # Hetu-ārammaṇādi
 
-* Kusalattika, Āsavaparāmāsagocchaka
 
-* Kusalattika, Āsavavippayuttasāsavaduka
 
-* Paṭiccādivāra
 
-* Paccayacatukka
 
-* Hetu-ārammaṇādi
 
 (32.)
 
@@ -45,6 +39,5 @@
 
 
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (4.7 Kusalattika, Saññojanadukādi)](../../../4.7.md)
 
 

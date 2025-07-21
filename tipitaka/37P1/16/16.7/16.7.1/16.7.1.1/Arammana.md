@@ -1,17 +1,11 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [16 Micchattaniyatattika](../../../../16.md) / [16.7 Pañhāvāra](../../../16.7.md) / [16.7.1 Paccayānuloma](../../16.7.1.md) / [16.7.1.1 Vibhaṅgavāra](../16.7.1.1.md)
 
 # Ārammaṇa
 
-* Micchattaniyatattika
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Ārammaṇa
 
 (37.)
 
@@ -27,6 +21,5 @@
 
 2353\. Aniyato dhammo sammattaniyatassa dhammassa ārammaṇapaccayena paccayo—  nibbānaṃ maggassa ārammaṇapaccayena paccayo. (3)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (16.7.1.1 Vibhaṅgavāra)](../16.7.1.1.md) / [Go to next page (Adhipati)](Adhipati.md)
 
 

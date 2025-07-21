@@ -1,19 +1,12 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../../../39P3.md) / [1 Hetuduka, Tika](../../../../../1.md) / [1.3 Hetuduka, Vipākattika](../../../../1.3.md) / [1.3.3 Nevavipākanavipākadhammapada](../../../1.3.3.md) / [1.3.3.1--6 Paṭiccādivāra](../../1.3.3.1--6.md) / [Paccayacatukka](../Paccayacatukka.md)
 
 # Nahetvādi
 
-* Hetuduka, Tika
 
-* Hetuduka, Vipākattika
 
-* Nevavipākanavipākadhammapada
 
-* Paṭiccādivāra
 
-* Paccayacatukka
 
-* Nahetvādi
 
 (138.)
 
@@ -49,6 +42,5 @@
 
 252\. (Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.3.3.7 Pañhāvāra)](../../1.3.3.7.md)
 
 

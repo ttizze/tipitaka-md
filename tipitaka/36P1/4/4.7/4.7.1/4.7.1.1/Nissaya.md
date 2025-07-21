@@ -1,17 +1,11 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [4 Vipākattika](../../../../4.md) / [4.7 Pañhāvāra](../../../4.7.md) / [4.7.1 Paccayānuloma](../../4.7.1.md) / [4.7.1.1 Vibhaṅgavāra](../4.7.1.1.md)
 
 # Nissaya
 
-* Vipākattika
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Nissaya
 
 (101.)
 
@@ -31,6 +25,5 @@
 
 2328\. Vipākadhammadhammo ca nevavipākanavipākadhammadhammo ca dhammā nevavipākanavipākadhammadhammassa nissayapaccayena paccayo—  vipākadhammadhammā khandhā ca mahābhūtā ca cittasamuṭṭhānānaṃ rūpānaṃ… . (2) (Terasa pañhā.)
 
-[Go to previous page (Aññamañña)](Annamanna.md) / [Go to parent page (4.7.1.1 Vibhaṅgavāra)](../4.7.1.1.md) / [Go to next page (Upanissaya)](Upanissaya.md)
 
 

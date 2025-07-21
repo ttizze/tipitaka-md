@@ -1,15 +1,10 @@
 
-[Home](/) / [40P13 Dhammānulomapaccanīya (3), Tikapaṭṭhānapāḷi (1)](../../../../40P13.md) / [22 Sanidassanattika](../../../22.md) / [22.1--7 Paṭiccādivāra](../../22.1--7.md) / [Paccayānuloma](../Paccayanuloma.md)
 
 # Hetu
 
-* Sanidassanattika
 
-* Paṭiccādivāra
 
-* Paccayānuloma
 
-* Hetu
 
 (50.)
 
@@ -21,6 +16,5 @@
 
 137\. Hetuyā aṭṭhārasa, ārammaṇe tīṇi…pe…  avigate aṭṭhārasa. (Sabbattha vitthāro. Sahajātavārampi…pe…  sampayuttavārampi vitthāretabbaṃ.)
 
-[Go to previous page (Paccayānuloma)](../Paccayanuloma.md) / [Go to parent page (Paccayānuloma)](../Paccayanuloma.md) / [Go to next page (Hetu-ārammaṇa)](Hetu-arammana.md)
 
 

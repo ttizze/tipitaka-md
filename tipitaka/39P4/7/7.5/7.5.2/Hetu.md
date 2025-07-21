@@ -1,15 +1,10 @@
 
-[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../../39P4.md) / [7 Kusalattika, Piṭṭhiduka](../../../7.md) / [7.5 Kusalattika, Savitakkaduka](../../7.5.md) / [7.5.2 Avitakkapada](../7.5.2.md)
 
 # Hetu
 
-* Kusalattika, Piṭṭhiduka
 
-* Kusalattika, Savitakkaduka
 
-* Avitakkapada
 
-* Hetu
 
 (16.)
 
@@ -31,6 +26,5 @@
 
 1577\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
 
-[Go to previous page (7.5.2 Avitakkapada)](../7.5.2.md) / [Go to parent page (7.5.2 Avitakkapada)](../7.5.2.md) / [Go to next page (7.6 Kusalattika, Savicāraduka)](../../7.6.md)
 
 

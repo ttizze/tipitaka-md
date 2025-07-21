@@ -1,17 +1,11 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [7 Vitakkattika](../../../../7.md) / [7.7 Pañhāvāra](../../../7.7.md) / [7.7.1 Paccayānuloma](../../7.7.1.md) / [7.7.1.1 Vibhaṅgavāra](../7.7.1.1.md)
 
 # Atthi
 
-* Vitakkattika
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Atthi
 
 (130.)
 
@@ -79,6 +73,5 @@
 
 588\. Savitakkasavicāro ca avitakkavicāramatto ca avitakkaavicāro ca dhammā avitakkaavicārassa dhammassa atthipaccayena paccayo—  sahajātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ. **Sahajātā**—  savitakkasavicārā khandhā ca vitakko ca mahābhūtā ca cittasamuṭṭhānānaṃ rūpānaṃ atthipaccayena paccayo. Paṭisandhikkhaṇe…pe… . **Pacchājātā**—  savitakkasavicārā khandhā ca vitakko ca kabaḷīkāro āhāro ca purejātassa imassa kāyassa atthipaccayena paccayo. **Pacchājātā**—  savitakkasavicārā khandhā ca vitakko ca rūpajīvitindriyañca kaṭattārūpānaṃ atthipaccayena paccayo. (2)
 
-[Go to previous page (Vippayutta)](Vippayutta.md) / [Go to parent page (7.7.1.1 Vibhaṅgavāra)](../7.7.1.1.md) / [Go to next page (Natthi-vigatāvigata)](Natthi-vigatavigata.md)
 
 

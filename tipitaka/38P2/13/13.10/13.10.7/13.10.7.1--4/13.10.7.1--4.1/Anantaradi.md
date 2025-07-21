@@ -1,19 +1,12 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [13 Piṭṭhiduka](../../../../../13.md) / [13.10 Upekkhāsahagataduka](../../../../13.10.md) / [13.10.7 Pañhāvāra](../../../13.10.7.md) / [13.10.7.1--4 Paccayānulomādi](../../13.10.7.1--4.md) / [13.10.7.1--4.1 Vibhaṅgavāra](../13.10.7.1--4.1.md)
 
 # Anantarādi
 
-* Piṭṭhiduka
 
-* Upekkhāsahagataduka
 
-* Pañhāvāra
 
-* Paccayānulomādi
 
-* Vibhaṅgavāra
 
-* Anantarādi
 
 (187.)
 
@@ -35,6 +28,5 @@
 
 4500\. Samanantarapaccayena paccayo…  sahajātapaccayena paccayo…  nava…  aññamaññapaccayena paccayo…  nava…  nissayapaccayena paccayo…  nava.
 
-[Go to previous page (Hetvādi)](Hetvadi.md) / [Go to parent page (13.10.7.1--4.1 Vibhaṅgavāra)](../13.10.7.1--4.1.md) / [Go to next page (Upanissaya)](Upanissaya.md)
 
 

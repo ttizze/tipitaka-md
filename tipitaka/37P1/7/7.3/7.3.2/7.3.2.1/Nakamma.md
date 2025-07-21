@@ -1,17 +1,11 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [7 Vitakkattika](../../../../7.md) / [7.3 Paccayavāra](../../../7.3.md) / [7.3.2 Paccayapaccanīya](../../7.3.2.md) / [7.3.2.1 Vibhaṅgavāra](../7.3.2.1.md)
 
 # Nakamma
 
-* Vitakkattika
 
-* Paccayavāra
 
-* Paccayapaccanīya
 
-* Vibhaṅgavāra
 
-* Nakamma
 
 (54.)
 
@@ -35,6 +29,5 @@
 
 242\. (Navipāke sattatiṃsa pañhā kātabbā. Naāhāra naindriya najhānanamagga nasampayutta navippayutta nonatthi novigatapaccayā vitthāretabbā.)
 
-[Go to previous page (Naanantarādi)](Naanantaradi.md) / [Go to parent page (7.3.2.1 Vibhaṅgavāra)](../7.3.2.1.md) / [Go to next page (7.3.2.2 Saṅkhyāvāra)](../7.3.2.2.md)
 
 

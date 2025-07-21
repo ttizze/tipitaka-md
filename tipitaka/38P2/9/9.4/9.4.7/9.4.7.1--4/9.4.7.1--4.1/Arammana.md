@@ -1,19 +1,12 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [9 Parāmāsagocchaka](../../../../../9.md) / [9.4 Parāmāsaparāmaṭṭhaduka](../../../../9.4.md) / [9.4.7 Pañhāvāra](../../../9.4.7.md) / [9.4.7.1--4 Paccayānulomādi](../../9.4.7.1--4.md) / [9.4.7.1--4.1 Vibhaṅgavāra](../9.4.7.1--4.1.md)
 
 # Ārammaṇa
 
-* Parāmāsagocchaka
 
-* Parāmāsaparāmaṭṭhaduka
 
-* Pañhāvāra
 
-* Paccayānulomādi
 
-* Vibhaṅgavāra
 
-* Ārammaṇa
 
 (88.)
 
@@ -35,6 +28,5 @@
 
 
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (9.4.7.1--4.1 Vibhaṅgavāra)](../9.4.7.1--4.1.md) / [Go to next page (9.5 Parāmāsavippayuttaparāmaṭṭhaduka)](../../../../9.5.md)
 
 

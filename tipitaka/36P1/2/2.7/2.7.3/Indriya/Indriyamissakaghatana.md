@@ -1,17 +1,11 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.7 Pañhāvāra](../../../2.7.md) / [2.7.3 Paccayānulomapaccanīya](../../2.7.3.md) / [Indriya](../Indriya.md)
 
 # Indriyamissakaghaṭanā
 
-* Kusalattika
 
-* Pañhāvāra
 
-* Paccayānulomapaccanīya
 
-* Indriya
 
-* Indriyamissakaghaṭanā
 
 (459.)
 
@@ -21,6 +15,5 @@
 
 1470\. Indriya nissaya vippayutta atthi avigatanti nahetuyā tīṇi, naārammaṇe tīṇi, naadhipatiyā tīṇi, naanantare tīṇi, nasamanantare tīṇi, nasahajāte ekaṃ, naaññamaññe tīṇi, naupanissaye tīṇi, napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi, naāhāre tīṇi, najhāne tīṇi, namagge tīṇi, nasampayutte tīṇi, nonatthiyā tīṇi, novigate tīṇi.
 
-[Go to previous page (Indriyaduka)](Indriyaduka.md) / [Go to parent page (Indriya)](../Indriya.md) / [Go to next page (Pakiṇṇakaghaṭanā)](Pakinnakaghatana.md)
 
 

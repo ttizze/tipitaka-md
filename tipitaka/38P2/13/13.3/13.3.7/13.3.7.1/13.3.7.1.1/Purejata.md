@@ -1,19 +1,12 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [13 Piṭṭhiduka](../../../../../13.md) / [13.3 Dassanenapahātabbahetukaduka](../../../../13.3.md) / [13.3.7 Pañhāvāra](../../../13.3.7.md) / [13.3.7.1 Paccayānuloma](../../13.3.7.1.md) / [13.3.7.1.1 Vibhaṅgavāra](../13.3.7.1.1.md)
 
 # Purejāta
 
-* Piṭṭhiduka
 
-* Dassanenapahātabbahetukaduka
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Purejāta
 
 (81.)
 
@@ -23,6 +16,5 @@
 
 4247\. Nadassanena pahātabbahetuko dhammo dassanena pahātabbahetukassa ca nadassanena pahātabbahetukassa ca dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ. **Ārammaṇapurejātaṃ**—  cakkhuṃ…pe…  vatthuṃ ārabbha vicikicchāsahagatā khandhā ca moho ca uppajjanti. (Vatthupurejātaṃ saṃkhittaṃ.) (3)
 
-[Go to previous page (Upanissaya)](Upanissaya.md) / [Go to parent page (13.3.7.1.1 Vibhaṅgavāra)](../13.3.7.1.1.md) / [Go to next page (Pacchājātāsevana)](Pacchajatasevana.md)
 
 

@@ -1,15 +1,10 @@
 
-[Home](/) / [39P5 Dhammānuloma (1), Tikatikapaṭṭhānapāḷi (5)](../../../../39P5.md) / [1 Kusalattika, Tika](../../../1.md) / [1.11 Kusalattika, Parittattika](../../1.11.md) / [1.11.2 Mahaggatādipada](../1.11.2.md)
 
 # Hetu
 
-* Kusalattika, Tika
 
-* Kusalattika, Parittattika
 
-* Mahaggatādipada
 
-* Hetu
 
 (53.)
 
@@ -27,6 +22,5 @@
 
 174\. Hetuyā dve…pe…  āsevane ekaṃ…pe…  vipāke ekaṃ…pe…  avigate dve. (Saṃkhittaṃ. Sahajātavārepi…pe…  pañhāvārepi sabbattha vitthāro.)
 
-[Go to previous page (1.11.2 Mahaggatādipada)](../1.11.2.md) / [Go to parent page (1.11.2 Mahaggatādipada)](../1.11.2.md) / [Go to next page (1.12 Kusalattika, Parittārammaṇattika)](../../1.12.md)
 
 

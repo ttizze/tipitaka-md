@@ -1,19 +1,12 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [8 Nīvaraṇagocchaka](../../../../../8.md) / [8.5 Nīvaraṇanīvaraṇasampayuttaduka](../../../../8.5.md) / [8.5.1 Paṭiccavāra](../../../8.5.1.md) / [8.5.1.1 Paccayānuloma](../../8.5.1.1.md) / [8.5.1.1.1 Vibhaṅgavāra](../8.5.1.1.1.md)
 
 # Hetu
 
-* Nīvaraṇagocchaka
 
-* Nīvaraṇanīvaraṇasampayuttaduka
 
-* Paṭiccavāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Hetu
 
 (92.)
 
@@ -39,6 +32,5 @@
 
 2097\. Nīvaraṇañceva nīvaraṇasampayuttañca nīvaraṇasampayuttañceva no ca nīvaraṇañca dhammaṃ paṭicca nīvaraṇo ceva nīvaraṇasampayutto ca nīvaraṇasampayutto ceva no ca nīvaraṇo ca dhammā uppajjanti hetupaccayā—  nīvaraṇasampayuttañceva no ca nīvaraṇaṃ ekaṃ khandhañca kāmacchandanīvaraṇañca paṭicca tayo khandhā thinamiddhanīvaraṇaṃ uddhaccanīvaraṇaṃ avijjānīvaraṇaṃ…pe…  dve khandhe ca…pe…  (cakkaṃ. Saṃkhittaṃ.) (3)
 
-[Go to previous page (8.5.1.1.1 Vibhaṅgavāra)](../8.5.1.1.1.md) / [Go to parent page (8.5.1.1.1 Vibhaṅgavāra)](../8.5.1.1.1.md) / [Go to next page (8.5.1.1.2 Saṅkhyāvāra)](../8.5.1.1.2.md)
 
 

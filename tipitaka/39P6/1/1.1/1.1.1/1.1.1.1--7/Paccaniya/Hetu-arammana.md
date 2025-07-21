@@ -1,19 +1,12 @@
 
-[Home](/) / [39P6 Dhammānuloma (1), Dukadukapaṭṭhānapāḷi (6)](../../../../../../39P6.md) / [1 Hetuduka, Duka](../../../../../1.md) / [1.1 Hetuduka, Sahetukaduka](../../../../1.1.md) / [1.1.1 Sahetukapada](../../../1.1.1.md) / [1.1.1.1--7 Paṭiccādivāra](../../1.1.1.1--7.md) / [Paccanīya](../Paccaniya.md)
 
 # Hetu-ārammaṇa
 
-* Hetuduka, Duka
 
-* Hetuduka, Sahetukaduka
 
-* Sahetukapada
 
-* Paṭiccādivāra
 
-* Paccanīya
 
-* Hetu-ārammaṇa
 
 (6.)
 
@@ -33,6 +26,5 @@
 
 16\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
 
-[Go to previous page (Naadhipati)](Naadhipati.md) / [Go to parent page (Paccanīya)](../Paccaniya.md) / [Go to next page (1.1.2 Ahetukapada)](../../../1.1.2.md)
 
 

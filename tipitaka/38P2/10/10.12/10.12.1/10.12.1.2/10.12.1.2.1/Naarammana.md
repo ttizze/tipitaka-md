@@ -1,19 +1,12 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [10 Mahantaraduka](../../../../../10.md) / [10.12 Ajjhattikaduka](../../../../10.12.md) / [10.12.1 Paṭiccavāra](../../../10.12.1.md) / [10.12.1.2 Paccayapaccanīya](../../10.12.1.2.md) / [10.12.1.2.1 Vibhaṅgavāra](../10.12.1.2.1.md)
 
 # Naārammaṇa
 
-* Mahantaraduka
 
-* Ajjhattikaduka
 
-* Paṭiccavāra
 
-* Paccayapaccanīya
 
-* Vibhaṅgavāra
 
-* Naārammaṇa
 
 (326.)
 
@@ -37,6 +30,5 @@
 
 3129\. Ajjhattikañca bāhirañca dhammaṃ paṭicca ajjhattiko ca bāhiro ca dhammā uppajjanti naārammaṇapaccayā—  paṭisandhikkhaṇe cittañca sampayuttake ca khandhe paṭicca ajjhattikañca bāhirañca kaṭattārūpaṃ. (Saṃkhittaṃ.) (3)
 
-[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (10.12.1.2.1 Vibhaṅgavāra)](../10.12.1.2.1.md) / [Go to next page (Najhāna)](Najhana.md)
 
 

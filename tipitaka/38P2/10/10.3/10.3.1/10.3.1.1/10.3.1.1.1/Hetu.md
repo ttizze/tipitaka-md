@@ -1,19 +1,12 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [10 Mahantaraduka](../../../../../10.md) / [10.3 Cetasikaduka](../../../../10.3.md) / [10.3.1 Paṭiccavāra](../../../10.3.1.md) / [10.3.1.1 Paccayānuloma](../../10.3.1.1.md) / [10.3.1.1.1 Vibhaṅgavāra](../10.3.1.1.1.md)
 
 # Hetu
 
-* Mahantaraduka
 
-* Cetasikaduka
 
-* Paṭiccavāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Hetu
 
 (92.)
 
@@ -39,6 +32,5 @@
 
 2550\. Cetasikañca acetasikañca dhammaṃ paṭicca cetasiko ca acetasiko ca dhammā uppajjanti hetupaccayā—  cetasikaṃ ekaṃ khandhañca cittañca paṭicca dve khandhā cittasamuṭṭhānañca rūpaṃ, dve khandhe ca…pe…  paṭisandhikkhaṇe cetasikaṃ ekaṃ khandhañca cittañca paṭicca dve khandhā kaṭattā ca rūpaṃ, dve khandhe ca…pe…  paṭisandhikkhaṇe cetasikaṃ ekaṃ khandhañca vatthuñca paṭicca dve khandhā cittañca, dve khandhe ca vatthuñca paṭicca eko khandho cittañca. (3)
 
-[Go to previous page (10.3.1.1.1 Vibhaṅgavāra)](../10.3.1.1.1.md) / [Go to parent page (10.3.1.1.1 Vibhaṅgavāra)](../10.3.1.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
 
 

@@ -1,15 +1,10 @@
 
-[Home](/) / [39P5 Dhammānuloma (1), Tikatikapaṭṭhānapāḷi (5)](../../../../39P5.md) / [1 Kusalattika, Tika](../../../1.md) / [1.2 Kusalattika, Vipākattika](../../1.2.md) / [1.2.1--7 Paṭiccādivāra](../1.2.1--7.md)
 
 # Paccayacatukka
 
-* Kusalattika, Tika
 
-* Kusalattika, Vipākattika
 
-* Paṭiccādivāra
 
-* Paccayacatukka
 
 (13.)
 
@@ -53,6 +48,5 @@
 
 46\. (Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
 
-[Go to previous page (1.2.1--7 Paṭiccādivāra)](../1.2.1--7.md) / [Go to parent page (1.2.1--7 Paṭiccādivāra)](../1.2.1--7.md) / [Go to next page (1.3 Kusalattika, Upādinnattika)](../../1.3.md)
 
 

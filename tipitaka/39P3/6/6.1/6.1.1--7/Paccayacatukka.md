@@ -1,15 +1,10 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../39P3.md) / [6 Ganthagocchaka, Kusalattika](../../../6.md) / [6.1 Ganthaduka, Kusalattika](../../6.1.md) / [6.1.1--7 Paṭiccādivāra](../6.1.1--7.md)
 
 # Paccayacatukka
 
-* Ganthagocchaka, Kusalattika
 
-* Ganthaduka, Kusalattika
 
-* Paṭiccādivāra
 
-* Paccayacatukka
 
 (1.)
 
@@ -65,6 +60,5 @@
 
 1820\. (Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
 
-[Go to previous page (6.1.1--7 Paṭiccādivāra)](../6.1.1--7.md) / [Go to parent page (6.1.1--7 Paṭiccādivāra)](../6.1.1--7.md) / [Go to next page (6.2 Ganthaniyaduka, Kusalattika)](../../6.2.md)
 
 

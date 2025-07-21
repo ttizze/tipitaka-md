@@ -1,19 +1,12 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [13 Piṭṭhiduka](../../../../../13.md) / [13.1 Dassanenapahātabbaduka](../../../../13.1.md) / [13.1.7 Pañhāvāra](../../../13.1.7.md) / [13.1.7.1 Paccayānuloma](../../13.1.7.1.md) / [13.1.7.1.1 Vibhaṅgavāra](../13.1.7.1.1.md)
 
 # Atthyādi
 
-* Piṭṭhiduka
 
-* Dassanenapahātabbaduka
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Atthyādi
 
 (27.)
 
@@ -29,6 +22,5 @@
 
 4123\. Natthipaccayena paccayo, vigatapaccayena paccayo, avigatapaccayena paccayo.
 
-[Go to previous page (Vippayutta)](Vippayutta.md) / [Go to parent page (13.1.7.1.1 Vibhaṅgavāra)](../13.1.7.1.1.md) / [Go to next page (13.1.7.1.2 Saṅkhyāvāra)](../13.1.7.1.2.md)
 
 

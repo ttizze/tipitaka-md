@@ -1,15 +1,10 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../38P2.md) / [13 Piṭṭhiduka](../../../13.md) / [13.15 Niyyānikaduka](../../13.15.md) / [13.15.7 Pañhāvāra](../13.15.7.md)
 
 # Paccanīyuddhāra
 
-* Piṭṭhiduka
 
-* Niyyānikaduka
 
-* Pañhāvāra
 
-* Paccanīyuddhāra
 
 (324.)
 
@@ -21,6 +16,5 @@
 
 4761\. Niyyāniko ca aniyyāniko ca dhammā niyyānikassa dhammassa sahajātaṃ, purejātaṃ. Niyyāniko ca aniyyāniko ca dhammā aniyyānikassa dhammassa sahajātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ. (2)
 
-[Go to previous page (Suddha)](13.15.7.1/13.15.7.1.2/Suddha.md) / [Go to parent page (13.15.7 Pañhāvāra)](../13.15.7.md) / [Go to next page (13.15.7.2 Paccayapaccanīya)](13.15.7.2.md)
 
 

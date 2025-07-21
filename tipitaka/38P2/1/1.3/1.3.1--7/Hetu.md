@@ -1,15 +1,10 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../38P2.md) / [1 Hetugocchaka](../../../1.md) / [1.3 Hetusampayuttaduka](../../1.3.md) / [1.3.1--7 Paṭiccādivāra](../1.3.1--7.md)
 
 # Hetu
 
-* Hetugocchaka
 
-* Hetusampayuttaduka
 
-* Paṭiccādivāra
 
-* Hetu
 
 (126.)
 
@@ -25,6 +20,5 @@
 
 
 
-[Go to previous page (1.3.1--7 Paṭiccādivāra)](../1.3.1--7.md) / [Go to parent page (1.3.1--7 Paṭiccādivāra)](../1.3.1--7.md) / [Go to next page (1.4 Hetusahetukaduka)](../../1.4.md)
 
 

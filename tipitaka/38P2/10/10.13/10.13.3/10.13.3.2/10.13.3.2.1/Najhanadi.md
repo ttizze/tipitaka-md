@@ -1,19 +1,12 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [10 Mahantaraduka](../../../../../10.md) / [10.13 Upādāduka](../../../../10.13.md) / [10.13.3 Paccayavāra](../../../10.13.3.md) / [10.13.3.2 Paccayapaccanīya](../../10.13.3.2.md) / [10.13.3.2.1 Vibhaṅgavāra](../10.13.3.2.1.md)
 
 # Najhānādi
 
-* Mahantaraduka
 
-* Upādāduka
 
-* Paccayavāra
 
-* Paccayapaccanīya
 
-* Vibhaṅgavāra
 
-* Najhānādi
 
 (391.)
 
@@ -29,6 +22,5 @@
 
 3308\. Namaggapaccayā pañca, nasampayuttapaccayā tīṇi, navippayuttapaccayā tīṇi, nonatthipaccayā tīṇi, novigatapaccayā tīṇi.
 
-[Go to previous page (Nakammādi)](Nakammadi.md) / [Go to parent page (10.13.3.2.1 Vibhaṅgavāra)](../10.13.3.2.1.md) / [Go to next page (10.13.3.2.2 Saṅkhyāvāra)](../10.13.3.2.2.md)
 
 

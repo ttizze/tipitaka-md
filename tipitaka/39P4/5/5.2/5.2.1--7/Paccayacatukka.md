@@ -1,15 +1,10 @@
 
-[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../../39P4.md) / [5 Kusalattika, Mahantaradukaupādānagocchaka](../../../5.md) / [5.2 Kusalattika, Cittaduka](../../5.2.md) / [5.2.1--7 Paṭiccādivāra](../5.2.1--7.md)
 
 # Paccayacatukka
 
-* Kusalattika, Mahantaradukaupādānagocchaka
 
-* Kusalattika, Cittaduka
 
-* Paṭiccādivāra
 
-* Paccayacatukka
 
 (7.)
 
@@ -45,6 +40,5 @@
 
 1360\. Hetuyā satta, ārammaṇe nava, adhipatiyā dasa…pe…  avigate terasa. (Saṃkhittaṃ.)
 
-[Go to previous page (5.2.1--7 Paṭiccādivāra)](../5.2.1--7.md) / [Go to parent page (5.2.1--7 Paṭiccādivāra)](../5.2.1--7.md) / [Go to next page (5.3 Kusalattika, Cetasikaduka)](../../5.3.md)
 
 

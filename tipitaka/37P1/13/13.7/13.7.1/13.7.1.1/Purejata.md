@@ -1,17 +1,11 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [13 Parittattika](../../../../13.md) / [13.7 Pañhāvāra](../../../13.7.md) / [13.7.1 Paccayānuloma](../../13.7.1.md) / [13.7.1.1 Vibhaṅgavāra](../13.7.1.1.md)
 
 # Purejāta
 
-* Parittattika
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Purejāta
 
 (75.)
 
@@ -21,6 +15,5 @@
 
 2097\. Paritto dhammo appamāṇassa dhammassa purejātapaccayena paccayo. **Vatthupurejātaṃ**—  vatthu appamāṇānaṃ khandhānaṃ purejātapaccayena paccayo. (3)
 
-[Go to previous page (Upanissaya)](Upanissaya.md) / [Go to parent page (13.7.1.1 Vibhaṅgavāra)](../13.7.1.1.md) / [Go to next page (Pacchājāta)](Pacchajata.md)
 
 

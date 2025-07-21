@@ -1,17 +1,11 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [5 Upādinnattika](../../../../5.md) / [5.7 Pañhāvāra](../../../5.7.md) / [5.7.1 Paccayānuloma](../../5.7.1.md) / [5.7.1.1 Vibhaṅgavāra](../5.7.1.1.md)
 
 # Upanissaya
 
-* Upādinnattika
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Upanissaya
 
 (61.)
 
@@ -37,6 +31,5 @@
 
 2661\. Anupādinnaanupādāniyo dhammo anupādinnupādāniyassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  ariyā maggaṃ upanissāya anuppannaṃ samāpattiṃ uppādenti, uppannaṃ samāpattiṃ samāpajjanti, saṅkhāre aniccato dukkhato anattato vipassanti. Maggo ariyānaṃ atthappaṭisambhidāya dhammappaṭisambhidāya niruttippaṭisambhidāya paṭibhānappaṭisambhidāya ṭhānāṭṭhānakosallassa upanissayapaccayena paccayo. (3)
 
-[Go to previous page (Nissaya)](Nissaya.md) / [Go to parent page (5.7.1.1 Vibhaṅgavāra)](../5.7.1.1.md) / [Go to next page (Purejāta)](Purejata.md)
 
 

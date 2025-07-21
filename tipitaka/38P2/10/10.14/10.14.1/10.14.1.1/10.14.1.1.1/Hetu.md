@@ -1,19 +1,12 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [10 Mahantaraduka](../../../../../10.md) / [10.14 Upādinnaduka](../../../../10.14.md) / [10.14.1 Paṭiccavāra](../../../10.14.1.md) / [10.14.1.1 Paccayānuloma](../../10.14.1.1.md) / [10.14.1.1.1 Vibhaṅgavāra](../10.14.1.1.1.md)
 
 # Hetu
 
-* Mahantaraduka
 
-* Upādinnaduka
 
-* Paṭiccavāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Hetu
 
 (416.)
 
@@ -27,6 +20,5 @@
 
 3378\. Upādinnañca anupādinnañca dhammaṃ paṭicca anupādinno dhammo uppajjati hetupaccayā—  upādinne khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
 
-[Go to previous page (10.14.1.1.1 Vibhaṅgavāra)](../10.14.1.1.1.md) / [Go to parent page (10.14.1.1.1 Vibhaṅgavāra)](../10.14.1.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
 
 

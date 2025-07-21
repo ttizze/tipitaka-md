@@ -1,19 +1,12 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [11 Upādānagocchaka](../../../../../11.md) / [11.3 Upādānasampayuttaduka](../../../../11.3.md) / [11.3.7 Pañhāvāra](../../../11.3.7.md) / [11.3.7.1 Paccayānuloma](../../11.3.7.1.md) / [11.3.7.1.1 Vibhaṅgavāra](../11.3.7.1.1.md)
 
 # Purejāta
 
-* Upādānagocchaka
 
-* Upādānasampayuttaduka
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Purejāta
 
 (79.)
 
@@ -23,6 +16,5 @@
 
 3719\. Upādānavippayutto dhammo upādānasampayuttassa ca upādānavippayuttassa ca dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ. **Ārammaṇapurejātaṃ**—  cakkhuṃ…pe…  vatthuṃ ārabbha diṭṭhigatavippayuttalobhasahagatā khandhā ca lobho ca uppajjanti. **Vatthupurejātaṃ**—  vatthu diṭṭhigatavippayuttalobhasahagatānaṃ khandhānaṃ lobhassa ca purejātapaccayena paccayo. (3)
 
-[Go to previous page (Upanissaya)](Upanissaya.md) / [Go to parent page (11.3.7.1.1 Vibhaṅgavāra)](../11.3.7.1.1.md) / [Go to next page (Pacchājātāsevana)](Pacchajatasevana.md)
 
 

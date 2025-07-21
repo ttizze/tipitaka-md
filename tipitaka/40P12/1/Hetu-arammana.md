@@ -1,11 +1,8 @@
 
-[Home](/) / [40P12 Dhammapaccanīya (2), Dukadukapaṭṭhānapāḷi (6)](../../40P12.md) / [1 Hetuduka, Sahetukadukādi](../1.md)
 
 # Hetu-ārammaṇa
 
-* Hetuduka, Sahetukadukādi
 
-* Hetu-ārammaṇa
 
 (3.)
 
@@ -55,6 +52,5 @@
 
 25\. Nahetuṃ naahetukaṃ dhammaṃ paṭicca nahetu naahetuko dhammo uppajjati hetupaccayā. (Sabbattha ekaṃ.)
 
-[Go to previous page (1 Hetuduka, Sahetukadukādi)](../1.md) / [Go to parent page (1 Hetuduka, Sahetukadukādi)](../1.md) / [Go to next page (2 Hetuduka, Cūḷantaraduka)](../2.md)
 
 

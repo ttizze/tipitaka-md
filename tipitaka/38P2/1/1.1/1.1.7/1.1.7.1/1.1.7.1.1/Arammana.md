@@ -1,19 +1,12 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [1 Hetugocchaka](../../../../../1.md) / [1.1 Hetuduka](../../../../1.1.md) / [1.1.7 Pañhāvāra](../../../1.1.7.md) / [1.1.7.1 Paccayānuloma](../../1.1.7.1.md) / [1.1.7.1.1 Vibhaṅgavāra](../1.1.7.1.1.md)
 
 # Ārammaṇa
 
-* Hetugocchaka
 
-* Hetuduka
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Ārammaṇa
 
 (18.)
 
@@ -39,6 +32,5 @@
 
 52\. Hetu ca nahetu ca dhammā hetussa ca nahetussa ca dhammassa ārammaṇapaccayena paccayo—  hetuñca sampayuttake ca khandhe ārabbha hetū ca sampayuttakā ca khandhā uppajjanti. (3)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (1.1.7.1.1 Vibhaṅgavāra)](../1.1.7.1.1.md) / [Go to next page (Adhipati)](Adhipati.md)
 
 

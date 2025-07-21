@@ -1,13 +1,9 @@
 
-[Home](/) / [40P17 Dhammānulomapaccanīya (3), Tikatikapaṭṭhānapāḷi (5)](../../../40P17.md) / [1 Kusalattika, Vedanāttika](../../1.md) / [1.2 Abyākatapada](../1.2.md)
 
 # Paccanīya
 
-* Kusalattika, Vedanāttika
 
-* Abyākatapada
 
-* Paccanīya
 
 (7.)
 
@@ -21,6 +17,5 @@
 
 21\. Hetuyā terasa, ārammaṇe nava…pe…  vipāke tīṇi…pe…  avigate terasa. (Sabbattha vitthāro.)
 
-[Go to previous page (1.2 Abyākatapada)](../1.2.md) / [Go to parent page (1.2 Abyākatapada)](../1.2.md) / [Go to next page (2 Kusalattika, Vipākattika)](../../2.md)
 
 

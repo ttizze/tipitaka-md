@@ -1,17 +1,11 @@
 
-[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../../../39P4.md) / [3 Kusalattika, Cūḷantaraduka](../../../../3.md) / [3.7 Kusalattika, Kenaciviññeyyaduka](../../../3.7.md) / [3.7.1--7 Paṭiccādivāra](../../3.7.1--7.md) / [Paccanīya](../Paccaniya.md)
 
 # Hetu
 
-* Kusalattika, Cūḷantaraduka
 
-* Kusalattika, Kenaciviññeyyaduka
 
-* Paṭiccādivāra
 
-* Paccanīya
 
-* Hetu
 
 (46.)
 
@@ -37,6 +31,5 @@
 
 
 
-[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (Paccanīya)](../Paccaniya.md) / [Go to next page (4 Kusalattika, Āsavaparāmāsagocchaka)](../../../../4.md)
 
 

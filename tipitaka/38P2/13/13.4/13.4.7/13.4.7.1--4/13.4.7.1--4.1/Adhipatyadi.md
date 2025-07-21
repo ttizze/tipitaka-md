@@ -1,19 +1,12 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [13 Piṭṭhiduka](../../../../../13.md) / [13.4 Bhāvanāyapahātabbahetukaduka](../../../../13.4.md) / [13.4.7 Pañhāvāra](../../../13.4.7.md) / [13.4.7.1--4 Paccayānulomādi](../../13.4.7.1--4.md) / [13.4.7.1--4.1 Vibhaṅgavāra](../13.4.7.1--4.1.md)
 
 # Adhipatyādi
 
-* Piṭṭhiduka
 
-* Bhāvanāyapahātabbahetukaduka
 
-* Pañhāvāra
 
-* Paccayānulomādi
 
-* Vibhaṅgavāra
 
-* Adhipatyādi
 
 (97.)
 
@@ -31,6 +24,5 @@
 
 4278\. (Anantarapaccaye nabhāvanāya pahātabbahetukakāraṇā vicikicchāsahagato moho na kātabbo, uddhaccasahagato moho kātabbo.) Samanantarapaccayena paccayo…  sahajātapaccayena paccayo…  nava…  aññamaññapaccayena paccayo…  cha…  nissayapaccayena paccayo…  nava.
 
-[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (13.4.7.1--4.1 Vibhaṅgavāra)](../13.4.7.1--4.1.md) / [Go to next page (Upanissaya)](Upanissaya.md)
 
 

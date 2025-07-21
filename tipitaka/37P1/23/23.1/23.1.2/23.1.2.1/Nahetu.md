@@ -1,17 +1,11 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [23 Sanidassanasappaṭighattika](../../../../23.md) / [23.1 Paṭiccavāra](../../../23.1.md) / [23.1.2 Paccayapaccanīya](../../23.1.2.md) / [23.1.2.1 Vibhaṅgavāra](../23.1.2.1.md)
 
 # Nahetu
 
-* Sanidassanasappaṭighattika
 
-* Paṭiccavāra
 
-* Paccayapaccanīya
 
-* Vibhaṅgavāra
 
-* Nahetu
 
 (17.)
 
@@ -31,6 +25,5 @@
 
 2979\. (Iminā kāraṇena satta pañhā vitthāretabbā asammohantena.)
 
-[Go to previous page (23.1.2.1 Vibhaṅgavāra)](../23.1.2.1.md) / [Go to parent page (23.1.2.1 Vibhaṅgavāra)](../23.1.2.1.md) / [Go to next page (Naārammaṇa)](Naarammana.md)
 
 

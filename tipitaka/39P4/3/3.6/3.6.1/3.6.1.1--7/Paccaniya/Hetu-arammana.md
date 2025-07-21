@@ -1,19 +1,12 @@
 
-[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../../../../39P4.md) / [3 Kusalattika, Cūḷantaraduka](../../../../../3.md) / [3.6 Kusalattika, Lokiyaduka](../../../../3.6.md) / [3.6.1 Lokiyapada](../../../3.6.1.md) / [3.6.1.1--7 Paṭiccādivāra](../../3.6.1.1--7.md) / [Paccanīya](../Paccaniya.md)
 
 # Hetu-ārammaṇa
 
-* Kusalattika, Cūḷantaraduka
 
-* Kusalattika, Lokiyaduka
 
-* Lokiyapada
 
-* Paṭiccādivāra
 
-* Paccanīya
 
-* Hetu-ārammaṇa
 
 (34.)
 
@@ -35,6 +28,5 @@
 
 1190\. Hetuyā satta, ārammaṇe nava, adhipatiyā nava…pe…  avigate terasa. (Saṃkhittaṃ. Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
 
-[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (Paccanīya)](../Paccaniya.md) / [Go to next page (3.6.2 Lokuttarapada)](../../../3.6.2.md)
 
 

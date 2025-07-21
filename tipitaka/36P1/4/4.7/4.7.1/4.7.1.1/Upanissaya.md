@@ -1,17 +1,11 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [4 Vipākattika](../../../../4.md) / [4.7 Pañhāvāra](../../../4.7.md) / [4.7.1 Paccayānuloma](../../4.7.1.md) / [4.7.1.1 Vibhaṅgavāra](../4.7.1.1.md)
 
 # Upanissaya
 
-* Vipākattika
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Upanissaya
 
 (102.)
 
@@ -55,6 +49,5 @@
 
 2346\. **Pakatūpanissayo**—  utuṃ upanissāya dānaṃ deti…pe…  saṃghaṃ bhindati. Bhojanaṃ…  senāsanaṃ upanissāya dānaṃ deti…pe…  saṃghaṃ bhindati. Utu…  bhojanaṃ…  senāsanaṃ saddhāya…pe…  patthanāya upanissayapaccayena paccayo. (3)
 
-[Go to previous page (Nissaya)](Nissaya.md) / [Go to parent page (4.7.1.1 Vibhaṅgavāra)](../4.7.1.1.md) / [Go to next page (Purejāta)](Purejata.md)
 
 

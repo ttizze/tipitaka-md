@@ -1,17 +1,11 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.7 Pañhāvāra](../../../2.7.md) / [2.7.3 Paccayānulomapaccanīya](../../2.7.3.md) / [Kamma](../Kamma.md)
 
 # Sahajātaghaṭanā
 
-* Kusalattika
 
-* Pañhāvāra
 
-* Paccayānulomapaccanīya
 
-* Kamma
 
-* Sahajātaghaṭanā
 
 (449.)
 
@@ -39,6 +33,5 @@
 
 
 
-[Go to previous page (Kammapakiṇṇakaghaṭanā)](Kammapakinnakaghatana.md) / [Go to parent page (Kamma)](../Kamma.md) / [Go to next page (Vipāka)](../Vipaka.md)
 
 

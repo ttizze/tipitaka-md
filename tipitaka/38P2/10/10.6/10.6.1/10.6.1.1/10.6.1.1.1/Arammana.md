@@ -1,19 +1,12 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [10 Mahantaraduka](../../../../../10.md) / [10.6 Cittasamuṭṭhānaduka](../../../../10.6.md) / [10.6.1 Paṭiccavāra](../../../10.6.1.md) / [10.6.1.1 Paccayānuloma](../../10.6.1.1.md) / [10.6.1.1.1 Vibhaṅgavāra](../10.6.1.1.1.md)
 
 # Ārammaṇa
 
-* Mahantaraduka
 
-* Cittasamuṭṭhānaduka
 
-* Paṭiccavāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Ārammaṇa
 
 (189.)
 
@@ -39,6 +32,5 @@
 
 2784\. Cittasamuṭṭhānañca nocittasamuṭṭhānañca dhammaṃ paṭicca cittasamuṭṭhāno ca nocittasamuṭṭhāno ca dhammā uppajjanti ārammaṇapaccayā—  paṭisandhikkhaṇe cittasamuṭṭhānaṃ ekaṃ khandhañca vatthuñca paṭicca dve khandhā cittañca, dve khandhe…pe… . (3)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (10.6.1.1.1 Vibhaṅgavāra)](../10.6.1.1.1.md) / [Go to next page (10.6.1.1.2 Saṅkhyāvāra)](../10.6.1.1.2.md)
 
 

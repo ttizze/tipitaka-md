@@ -1,19 +1,12 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [1 Hetugocchaka](../../../../../1.md) / [1.2 Sahetukaduka](../../../../1.2.md) / [1.2.7 Pañhāvāra](../../../1.2.7.md) / [1.2.7.1 Paccayānuloma](../../1.2.7.1.md) / [1.2.7.1.1 Vibhaṅgavāra](../1.2.7.1.1.md)
 
 # Vippayutta
 
-* Hetugocchaka
 
-* Sahetukaduka
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Vippayutta
 
 (115.)
 
@@ -27,6 +20,5 @@
 
 322\. Sahetuko ca ahetuko ca dhammā ahetukassa dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, pacchājātaṃ. **Sahajātā**—  vicikicchāsahagatā uddhaccasahagatā khandhā ca moho ca cittasamuṭṭhānānaṃ rūpānaṃ vippayuttapaccayena paccayo. **Pacchājātā**—  vicikicchāsahagatā uddhaccasahagatā khandhā ca moho ca purejātassa imassa kāyassa vippayuttapaccayena paccayo. (1)
 
-[Go to previous page (Indriyādi)](Indriyadi.md) / [Go to parent page (1.2.7.1.1 Vibhaṅgavāra)](../1.2.7.1.1.md) / [Go to next page (Atthi)](Atthi.md)
 
 

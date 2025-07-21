@@ -1,15 +1,10 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../36P1.md) / [2 Kusalattika](../../../2.md) / [2.1 Paṭiccavāra](../../2.1.md) / [2.1.3 Paccayānulomapaccanīya](../2.1.3.md)
 
 # Jhānaduka
 
-* Kusalattika
 
-* Paṭiccavāra
 
-* Paccayānulomapaccanīya
 
-* Jhānaduka
 
 (76.)
 
@@ -18,6 +13,5 @@
 * [Tika](Jhanaduka/Tika.md)
 * [Catukka](Jhanaduka/Catukka.md)
 
-[Go to previous page (Catukka)](Indriyaduka/Catukka.md) / [Go to parent page (2.1.3 Paccayānulomapaccanīya)](../2.1.3.md) / [Go to next page (Tika)](Jhanaduka/Tika.md)
 
 

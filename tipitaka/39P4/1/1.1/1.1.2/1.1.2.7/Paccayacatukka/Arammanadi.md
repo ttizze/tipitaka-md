@@ -1,19 +1,12 @@
 
-[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../../../../39P4.md) / [1 Tika, Hetuduka](../../../../../1.md) / [1.1 Kusalattika, Hetuduka](../../../../1.1.md) / [1.1.2 Nahetupada](../../../1.1.2.md) / [1.1.2.7 Pañhāvāra](../../1.1.2.7.md) / [Paccayacatukka](../Paccayacatukka.md)
 
 # Ārammaṇādi
 
-* Tika, Hetuduka
 
-* Kusalattika, Hetuduka
 
-* Nahetupada
 
-* Pañhāvāra
 
-* Paccayacatukka
 
-* Ārammaṇādi
 
 (20.)
 
@@ -39,6 +32,5 @@
 
 71\. Abyākato nahetu dhammo abyākatassa nahetussa dhammassa anantarapaccayena paccayo…  tīṇi…pe… .
 
-[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Upanissaya)](Upanissaya.md)
 
 

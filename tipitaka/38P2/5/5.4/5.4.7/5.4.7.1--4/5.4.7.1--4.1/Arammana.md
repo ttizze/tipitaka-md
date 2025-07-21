@@ -1,19 +1,12 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [5 Ganthagocchaka](../../../../../5.md) / [5.4 Ganthaganthaniyaduka](../../../../5.4.md) / [5.4.7 Pañhāvāra](../../../5.4.7.md) / [5.4.7.1--4 Paccayānulomādi](../../5.4.7.1--4.md) / [5.4.7.1--4.1 Vibhaṅgavāra](../5.4.7.1--4.1.md)
 
 # Ārammaṇa
 
-* Ganthagocchaka
 
-* Ganthaganthaniyaduka
 
-* Pañhāvāra
 
-* Paccayānulomādi
 
-* Vibhaṅgavāra
 
-* Ārammaṇa
 
 (105.)
 
@@ -35,6 +28,5 @@
 
 
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (5.4.7.1--4.1 Vibhaṅgavāra)](../5.4.7.1--4.1.md) / [Go to next page (5.5 Ganthaganthasampayuttaduka)](../../../../5.5.md)
 
 

@@ -1,17 +1,11 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [11 Ācayagāmittika](../../../../11.md) / [11.1 Paṭiccavāra](../../../11.1.md) / [11.1.1 Paccayānuloma](../../11.1.1.md) / [11.1.1.1 Vibhaṅgavāra](../11.1.1.1.md)
 
 # Hetu
 
-* Ācayagāmittika
 
-* Paṭiccavāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Hetu
 
 (1.)
 
@@ -37,6 +31,5 @@
 
 1431\. Apacayagāmiñca nevācayagāmināpacayagāmiñca dhammaṃ paṭicca nevācayagāmināpacayagāmī dhammo uppajjati hetupaccayā—  apacayagāmī khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
 
-[Go to previous page (11.1.1.1 Vibhaṅgavāra)](../11.1.1.1.md) / [Go to parent page (11.1.1.1 Vibhaṅgavāra)](../11.1.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
 
 

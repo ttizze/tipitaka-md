@@ -1,17 +1,11 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.7 Pañhāvāra](../../../2.7.md) / [2.7.3 Paccayānulomapaccanīya](../../2.7.3.md) / [Adhipati](../Adhipati.md)
 
 # Sahajāta-chandādhipatighaṭanā
 
-* Kusalattika
 
-* Pañhāvāra
 
-* Paccayānulomapaccanīya
 
-* Adhipati
 
-* Sahajāta-chandādhipatighaṭanā
 
 (423.)
 
@@ -27,6 +21,5 @@
 
 1315\. Adhipati sahajāta nissaya vipāka vippayutta atthi avigatanti nahetuyā ekaṃ, naārammaṇe ekaṃ, naanantare ekaṃ, nasamanantare ekaṃ, naaññamaññe ekaṃ, naupanissaye ekaṃ, napurejāte ekaṃ, napacchājāte ekaṃ, naāsevane ekaṃ, nakamme ekaṃ, naāhāre ekaṃ, naindriye ekaṃ, najhāne ekaṃ, namagge ekaṃ, nasampayutte ekaṃ, nonatthiyā ekaṃ, novigate ekaṃ. [Savipāka—  3]
 
-[Go to previous page (Pakiṇṇakaghaṭanā)](Pakinnakaghatana.md) / [Go to parent page (Adhipati)](../Adhipati.md) / [Go to next page (Cittādhipatighaṭanā)](Cittadhipatighatana.md)
 
 

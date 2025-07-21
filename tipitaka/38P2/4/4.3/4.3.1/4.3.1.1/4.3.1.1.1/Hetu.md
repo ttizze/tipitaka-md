@@ -1,19 +1,12 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [4 Saññojanagocchaka](../../../../../4.md) / [4.3 Saññojanasampayuttaduka](../../../../4.3.md) / [4.3.1 Paṭiccavāra](../../../4.3.1.md) / [4.3.1.1 Paccayānuloma](../../4.3.1.1.md) / [4.3.1.1.1 Vibhaṅgavāra](../4.3.1.1.1.md)
 
 # Hetu
 
-* Saññojanagocchaka
 
-* Saññojanasampayuttaduka
 
-* Paṭiccavāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Hetu
 
 (40.)
 
@@ -39,6 +32,5 @@
 
 1427\. Saññojanasampayuttañca saññojanavippayuttañca dhammaṃ paṭicca saññojanasampayutto ca saññojanavippayutto ca dhammā uppajjanti hetupaccayā—  uddhaccasahagataṃ ekaṃ khandhañca mohañca paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe… . (3)
 
-[Go to previous page (4.3.1.1.1 Vibhaṅgavāra)](../4.3.1.1.1.md) / [Go to parent page (4.3.1.1.1 Vibhaṅgavāra)](../4.3.1.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
 
 

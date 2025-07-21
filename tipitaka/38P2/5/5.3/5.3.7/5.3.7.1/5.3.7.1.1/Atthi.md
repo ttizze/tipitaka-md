@@ -1,19 +1,12 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [5 Ganthagocchaka](../../../../../5.md) / [5.3 Ganthasampayuttaduka](../../../../5.3.md) / [5.3.7 Pañhāvāra](../../../5.3.7.md) / [5.3.7.1 Paccayānuloma](../../5.3.7.1.md) / [5.3.7.1.1 Vibhaṅgavāra](../5.3.7.1.1.md)
 
 # Atthi
 
-* Ganthagocchaka
 
-* Ganthasampayuttaduka
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Atthi
 
 (93.)
 
@@ -39,6 +32,5 @@
 
 1826\. Ganthasampayutto ca ganthavippayutto ca dhammā ganthasampayuttassa ca ganthavippayuttassa ca dhammassa atthipaccayena paccayo—  sahajātaṃ, purejātaṃ. **Sahajāto**—  diṭṭhigatavippayuttalobhasahagato eko khandho ca lobho ca tiṇṇannaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ atthipaccayena paccayo…pe…  dve khandhā ca…pe… . **Sahajāto**—  domanassasahagato eko khandho ca paṭighañca tiṇṇannaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ atthipaccayena paccayo…pe…  dve khandhā ca…pe… . **Sahajāto**—  diṭṭhigatavippayuttalobhasahagato eko khandho ca vatthu ca tiṇṇannaṃ khandhānaṃ lobhassa ca atthipaccayena paccayo…pe…  dve khandhā ca…pe… . **Sahajāto**—  domanassasahagato eko khandho ca vatthu ca tiṇṇannaṃ khandhānaṃ paṭighassa ca atthipaccayena paccayo…pe…  dve khandhā ca…pe… . (3)
 
-[Go to previous page (Vippayutta)](Vippayutta.md) / [Go to parent page (5.3.7.1.1 Vibhaṅgavāra)](../5.3.7.1.1.md) / [Go to next page (5.3.7.1.2 Saṅkhyāvāra)](../5.3.7.1.2.md)
 
 

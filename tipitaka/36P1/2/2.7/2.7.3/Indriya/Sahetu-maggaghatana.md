@@ -1,17 +1,11 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.7 Pañhāvāra](../../../2.7.md) / [2.7.3 Paccayānulomapaccanīya](../../2.7.3.md) / [Indriya](../Indriya.md)
 
 # Sahetu-maggaghaṭanā
 
-* Kusalattika
 
-* Pañhāvāra
 
-* Paccayānulomapaccanīya
 
-* Indriya
 
-* Sahetu-maggaghaṭanā
 
 (468.)
 
@@ -33,6 +27,5 @@
 
 1537\. Indriya hetu sahajāta aññamañña nissaya vipāka magga vippayutta atthi avigatanti naārammaṇe ekaṃ…pe…  novigate ekaṃ. [Savipāka—  5]
 
-[Go to previous page (Sādhipati-maggaghaṭanā)](Sadhipati-maggaghatana.md) / [Go to parent page (Indriya)](../Indriya.md) / [Go to next page (Sahetādhipati-maggaghaṭanā)](Sahetadhipati-maggaghatana.md)
 
 

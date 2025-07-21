@@ -1,17 +1,11 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../../39P3.md) / [2 Hetugocchaka, Kusalattika](../../../../2.md) / [2.6 Nahetusahetukaduka, Kusalattika](../../../2.6.md) / [2.6.2 Abyākatapada](../../2.6.2.md) / [2.6.2.7 Pañhāvāra](../2.6.2.7.md)
 
 # Paccanīyuddhāra
 
-* Hetugocchaka, Kusalattika
 
-* Nahetusahetukaduka, Kusalattika
 
-* Abyākatapada
 
-* Pañhāvāra
 
-* Paccanīyuddhāra
 
 (103.)
 
@@ -39,6 +33,5 @@
 
 
 
-[Go to previous page (Ārammaṇa)](Paccayacatukka/Arammana.md) / [Go to parent page (2.6.2.7 Pañhāvāra)](../2.6.2.7.md) / [Go to next page (3 Cūḷantaraduka, Kusalattika)](../../../../3.md)
 
 

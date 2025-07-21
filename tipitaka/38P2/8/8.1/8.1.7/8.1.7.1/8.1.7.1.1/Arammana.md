@@ -1,19 +1,12 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [8 Nīvaraṇagocchaka](../../../../../8.md) / [8.1 Nīvaraṇaduka](../../../../8.1.md) / [8.1.7 Pañhāvāra](../../../8.1.7.md) / [8.1.7.1 Paccayānuloma](../../8.1.7.1.md) / [8.1.7.1.1 Vibhaṅgavāra](../8.1.7.1.1.md)
 
 # Ārammaṇa
 
-* Nīvaraṇagocchaka
 
-* Nīvaraṇaduka
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Ārammaṇa
 
 (26.)
 
@@ -29,6 +22,5 @@
 
 1947\. Nīvaraṇo ca nonīvaraṇo ca dhammā nīvaraṇassa dhammassa ārammaṇapaccayena paccayo…  tīṇi. (Ārabbha kātabbā.)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (8.1.7.1.1 Vibhaṅgavāra)](../8.1.7.1.1.md) / [Go to next page (Adhipati)](Adhipati.md)
 
 

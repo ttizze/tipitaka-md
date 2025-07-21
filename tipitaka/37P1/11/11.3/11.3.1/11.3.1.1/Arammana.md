@@ -1,17 +1,11 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [11 Ācayagāmittika](../../../../11.md) / [11.3 Paccayavāra](../../../11.3.md) / [11.3.1 Paccayānuloma](../../11.3.1.md) / [11.3.1.1 Vibhaṅgavāra](../11.3.1.1.md)
 
 # Ārammaṇa
 
-* Ācayagāmittika
 
-* Paccayavāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Ārammaṇa
 
 (21.)
 
@@ -29,6 +23,5 @@
 
 1490\. Apacayagāmiñca nevācayagāmināpacayagāmiñca dhammaṃ paccayā apacayagāmī dhammo uppajjati ārammaṇapaccayā—  apacayagāmiṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe…pe… . (1)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (11.3.1.1 Vibhaṅgavāra)](../11.3.1.1.md) / [Go to next page (Adhipati)](Adhipati.md)
 
 

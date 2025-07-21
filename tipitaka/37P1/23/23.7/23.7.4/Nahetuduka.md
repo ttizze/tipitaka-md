@@ -1,15 +1,10 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../37P1.md) / [23 Sanidassanasappaṭighattika](../../../23.md) / [23.7 Pañhāvāra](../../23.7.md) / [23.7.4 Paccayapaccanīyānuloma](../23.7.4.md)
 
 # Nahetuduka
 
-* Sanidassanasappaṭighattika
 
-* Pañhāvāra
 
-* Paccayapaccanīyānuloma
 
-* Nahetuduka
 
 (66.)
 
@@ -36,6 +31,5 @@ Pañhāvāro niṭṭhito.
 
 
 
-[Go to previous page (23.7.4 Paccayapaccanīyānuloma)](../23.7.4.md) / [Go to parent page (23.7.4 Paccayapaccanīyānuloma)](../23.7.4.md)
 
 

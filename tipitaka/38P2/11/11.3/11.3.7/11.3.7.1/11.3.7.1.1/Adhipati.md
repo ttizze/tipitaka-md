@@ -1,19 +1,12 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [11 Upādānagocchaka](../../../../../11.md) / [11.3 Upādānasampayuttaduka](../../../../11.3.md) / [11.3.7 Pañhāvāra](../../../11.3.7.md) / [11.3.7.1 Paccayānuloma](../../11.3.7.1.md) / [11.3.7.1.1 Vibhaṅgavāra](../11.3.7.1.1.md)
 
 # Adhipati
 
-* Upādānagocchaka
 
-* Upādānasampayuttaduka
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Adhipati
 
 (69.)
 
@@ -31,6 +24,5 @@
 
 3707\. Upādānasampayutto ca upādānavippayutto ca dhammā upādānasampayuttassa dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  diṭṭhigatavippayuttalobhasahagate khandhe ca lobhañca garuṃ katvā upādānasampayuttā khandhā uppajjanti. (Mūlaṃ kātabbaṃ.) Diṭṭhigatavippayuttalobhasahagate khandhe ca lobhañca garuṃ katvā diṭṭhigatavippayutto lobho uppajjati. (Mūlaṃ kātabbaṃ.) Diṭṭhigatavippayuttalobhasahagate khandhe ca lobhañca garuṃ katvā diṭṭhigatavippayuttalobhasahagatā khandhā ca lobho ca uppajjanti. (3)
 
-[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (11.3.7.1.1 Vibhaṅgavāra)](../11.3.7.1.1.md) / [Go to next page (Anantara)](Anantara.md)
 
 

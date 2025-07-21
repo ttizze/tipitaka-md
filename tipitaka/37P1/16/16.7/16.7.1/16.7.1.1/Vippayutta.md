@@ -1,17 +1,11 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [16 Micchattaniyatattika](../../../../16.md) / [16.7 Pañhāvāra](../../../16.7.md) / [16.7.1 Paccayānuloma](../../16.7.1.md) / [16.7.1.1 Vibhaṅgavāra](../16.7.1.1.md)
 
 # Vippayutta
 
-* Micchattaniyatattika
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Vippayutta
 
 (55.)
 
@@ -25,6 +19,5 @@
 
 2397\. Aniyato dhammo sammattaniyatassa dhammassa vippayuttapaccayena paccayo. **Purejātaṃ**—  vatthu sammattaniyatānaṃ khandhānaṃ vippayuttapaccayena paccayo. (3)
 
-[Go to previous page (Āhārādi)](Aharadi.md) / [Go to parent page (16.7.1.1 Vibhaṅgavāra)](../16.7.1.1.md) / [Go to next page (Atthi)](Atthi.md)
 
 

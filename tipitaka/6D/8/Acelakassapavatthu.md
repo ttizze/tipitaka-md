@@ -1,11 +1,8 @@
 
-[Home](/) / [6D Sīlakkhandhavaggapāḷi](../../6D.md) / [8 Mahāsīhanādasutta](../8.md)
 
 # Acelakassapavatthu
 
-* Mahāsīhanādasutta
 
-* Acelakassapavatthu
 
 (381.)
 
@@ -25,6 +22,5 @@
 
 634\. Yaṃ mayaṃ ekaccaṃ vadema ‘sādhū’ti, parepi taṃ ekaccaṃ vadanti ‘sādhū’ti. Yaṃ mayaṃ ekaccaṃ vadema ‘na sādhū’ti, parepi taṃ ekaccaṃ vadanti ‘na sādhū’ti. Yaṃ mayaṃ ekaccaṃ vadema ‘na sādhū’ti, pare taṃ ekaccaṃ vadanti ‘sādhū’ti. Yaṃ mayaṃ ekaccaṃ vadema ‘sādhū’ti, pare taṃ ekaccaṃ vadanti ‘na sādhū’ti.
 
-[Go to previous page (8 Mahāsīhanādasutta)](../8.md) / [Go to parent page (8 Mahāsīhanādasutta)](../8.md) / [Go to next page (8.1 Samanuyuñjāpanakathā)](8.1.md)
 
 

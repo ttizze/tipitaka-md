@@ -1,11 +1,8 @@
 
-[Home](/) / [8D Pāthikavaggapāḷi](../../8D.md) / [6 Pāsādikasutta](../6.md)
 
 # Nigaṇṭhanāṭaputtakālaṃkiriyā
 
-* Pāsādikasutta
 
-* Nigaṇṭhanāṭaputtakālaṃkiriyā
 
 335\. Tena kho pana samayena nigaṇṭho nāṭaputto pāvāyaṃ adhunākālaṅkato hoti. Tassa kālaṃkiriyāya bhinnā nigaṇṭhā dvedhikajātā bhaṇḍanajātā kalahajātā vivādāpannā aññamaññaṃ mukhasattīhi vitudantā viharanti—  “na tvaṃ imaṃ dhammavinayaṃ ājānāsi, ahaṃ imaṃ dhammavinayaṃ ājānāmi, kiṃ tvaṃ imaṃ dhammavinayaṃ ājānissasi? Micchāpaṭipanno tvamasi, ahamasmi sammāpaṭipanno. Sahitaṃ me, asahitaṃ te. Purevacanīyaṃ pacchā avaca, pacchāvacanīyaṃ pure avaca. Adhiciṇṇaṃ te viparāvattaṃ, āropito te vādo, niggahito tvamasi, cara vādappamokkhāya, nibbeṭhehi vā sace pahosī”ti. Vadhoyeva kho maññe nigaṇṭhesu nāṭaputtiyesu vattati. Yepi nigaṇṭhassa nāṭaputtassa sāvakā gihī odātavasanā, tepi nigaṇṭhesu nāṭaputtiyesu nibbinnarūpā virattarūpā paṭivānarūpā, yathā taṃ durakkhāte dhammavinaye duppavedite aniyyānike anupasamasaṃvattanike asammāsambuddhappavedite bhinnathūpe appaṭisaraṇe.
 
@@ -17,6 +14,5 @@
 
 338\. Atha kho āyasmā ca ānando cundo ca samaṇuddeso yena bhagavā tenupasaṅkamiṃsu; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdiṃsu. Ekamantaṃ nisinno kho āyasmā ānando bhagavantaṃ etadavoca—  “ayaṃ, bhante, cundo samaṇuddeso evamāha, ‘nigaṇṭho, bhante, nāṭaputto pāvāyaṃ adhunākālaṅkato, tassa kālaṃkiriyāya bhinnā nigaṇṭhā…pe…  bhinnathūpe appaṭisaraṇe’”ti.
 
-[Go to previous page (6 Pāsādikasutta)](../6.md) / [Go to parent page (6 Pāsādikasutta)](../6.md) / [Go to next page (6.1 Asammāsambuddhappaveditadhammavinaya)](6.1.md)
 
 

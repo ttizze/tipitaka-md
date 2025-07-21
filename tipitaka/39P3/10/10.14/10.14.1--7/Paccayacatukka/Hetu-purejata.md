@@ -1,17 +1,11 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../../39P3.md) / [10 Mahantaraduka, Kusalattika](../../../../10.md) / [10.14 Upādinnaduka, Kusalattika](../../../10.14.md) / [10.14.1--7 Paṭiccādivāra](../../10.14.1--7.md) / [Paccayacatukka](../Paccayacatukka.md)
 
 # Hetu-purejāta
 
-* Mahantaraduka, Kusalattika
 
-* Upādinnaduka, Kusalattika
 
-* Paṭiccādivāra
 
-* Paccayacatukka
 
-* Hetu-purejāta
 
 (102.)
 
@@ -41,6 +35,5 @@
 
 
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (11 Upādānagocchaka, Kusalattika)](../../../../11.md)
 
 

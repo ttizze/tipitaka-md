@@ -1,19 +1,12 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [13 Piṭṭhiduka](../../../../../13.md) / [13.2 Bhāvanāyapahātabbaduka](../../../../13.2.md) / [13.2.7 Pañhāvāra](../../../13.2.7.md) / [13.2.7.1--4 Paccayānulomādi](../../13.2.7.1--4.md) / [13.2.7.1--4.1 Vibhaṅgavāra](../13.2.7.1--4.1.md)
 
 # Ārammaṇa
 
-* Piṭṭhiduka
 
-* Bhāvanāyapahātabbaduka
 
-* Pañhāvāra
 
-* Paccayānulomādi
 
-* Vibhaṅgavāra
 
-* Ārammaṇa
 
 (37.)
 
@@ -27,6 +20,5 @@
 
 4149\. Nabhāvanāya pahātabbo dhammo bhāvanāya pahātabbassa dhammassa ārammaṇapaccayena paccayo—  dānaṃ…pe…  sīlaṃ…pe…  jhānaṃ…pe…  cakkhuṃ…pe…  vatthuṃ nabhāvanāya pahātabbe khandhe assādeti abhinandati, taṃ ārabbha bhāvanāya pahātabbo rāgo uppajjati, uddhaccaṃ uppajjati, bhāvanāya pahātabbaṃ domanassaṃ uppajjati. (2)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (13.2.7.1--4.1 Vibhaṅgavāra)](../13.2.7.1--4.1.md) / [Go to next page (Adhipati)](Adhipati.md)
 
 

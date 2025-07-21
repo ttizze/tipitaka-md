@@ -1,17 +1,11 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.7 Pañhāvāra](../../../2.7.md) / [2.7.3 Paccayānulomapaccanīya](../../2.7.3.md) / [Adhipati](../Adhipati.md)
 
 # Vīmaṃsādhipatighaṭanā
 
-* Kusalattika
 
-* Pañhāvāra
 
-* Paccayānulomapaccanīya
 
-* Adhipati
 
-* Vīmaṃsādhipatighaṭanā
 
 (426.)
 
@@ -33,6 +27,5 @@
 
 
 
-[Go to previous page (Vīriyādhipatighaṭanā)](Viriyadhipatighatana.md) / [Go to parent page (Adhipati)](../Adhipati.md) / [Go to next page (Anantara)](../Anantara.md)
 
 

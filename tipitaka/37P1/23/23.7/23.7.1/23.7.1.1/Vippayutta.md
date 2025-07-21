@@ -1,17 +1,11 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [23 Sanidassanasappaṭighattika](../../../../23.md) / [23.7 Pañhāvāra](../../../23.7.md) / [23.7.1 Paccayānuloma](../../23.7.1.md) / [23.7.1.1 Vibhaṅgavāra](../23.7.1.1.md)
 
 # Vippayutta
 
-* Sanidassanasappaṭighattika
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Vippayutta
 
 (49.)
 
@@ -23,6 +17,5 @@
 
 3046\. (Avasesā pañca pañhā evaṃ vitthāretabbā. Sahajātā, pacchājātā.)
 
-[Go to previous page (Jhānādi)](Jhanadi.md) / [Go to parent page (23.7.1.1 Vibhaṅgavāra)](../23.7.1.1.md) / [Go to next page (Atthi)](Atthi.md)
 
 

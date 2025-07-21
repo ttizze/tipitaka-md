@@ -1,17 +1,11 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../../39P3.md) / [1 Hetuduka, Tika](../../../../1.md) / [1.17 Hetuduka, Uppannattika](../../../1.17.md) / [1.17.1 Uppannapada](../../1.17.1.md) / [1.17.1.7 Pañhāvāra](../1.17.1.7.md)
 
 # Paccanīyuddhāra
 
-* Hetuduka, Tika
 
-* Hetuduka, Uppannattika
 
-* Uppannapada
 
-* Pañhāvāra
 
-* Paccanīyuddhāra
 
 (479.)
 
@@ -33,6 +27,5 @@
 
 
 
-[Go to previous page (Hetu-upanissaya)](Paccayacatukka/Hetu-upanissaya.md) / [Go to parent page (1.17.1.7 Pañhāvāra)](../1.17.1.7.md) / [Go to next page (1.18 Hetuduka, Atītattika)](../../../1.18.md)
 
 

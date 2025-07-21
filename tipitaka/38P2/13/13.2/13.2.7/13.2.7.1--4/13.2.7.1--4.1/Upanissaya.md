@@ -1,19 +1,12 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [13 Piṭṭhiduka](../../../../../13.md) / [13.2 Bhāvanāyapahātabbaduka](../../../../13.2.md) / [13.2.7 Pañhāvāra](../../../13.2.7.md) / [13.2.7.1--4 Paccayānulomādi](../../13.2.7.1--4.md) / [13.2.7.1--4.1 Vibhaṅgavāra](../13.2.7.1--4.1.md)
 
 # Upanissaya
 
-* Piṭṭhiduka
 
-* Bhāvanāyapahātabbaduka
 
-* Pañhāvāra
 
-* Paccayānulomādi
 
-* Vibhaṅgavāra
 
-* Upanissaya
 
 (42.)
 
@@ -27,6 +20,5 @@
 
 4159\. Nabhāvanāya pahātabbo dhammo bhāvanāya pahātabbassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  saddhaṃ upanissāya mānaṃ jappeti…pe…  sīlaṃ…pe…  paññaṃ…  rāgaṃ…pe…  kāyikaṃ sukhaṃ…  kāyikaṃ dukkhaṃ…  senāsanaṃ upanissāya mānaṃ jappeti; saddhā…pe…  senāsanaṃ bhāvanāya pahātabbassa rāgassa…  dosassa…  mohassa…  mānassa…  patthanāya upanissayapaccayena paccayo. (2)
 
-[Go to previous page (Anantarādi)](Anantaradi.md) / [Go to parent page (13.2.7.1--4.1 Vibhaṅgavāra)](../13.2.7.1--4.1.md) / [Go to next page (Purejātādi)](Purejatadi.md)
 
 

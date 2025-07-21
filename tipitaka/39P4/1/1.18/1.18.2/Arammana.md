@@ -1,15 +1,10 @@
 
-[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../../39P4.md) / [1 Tika, Hetuduka](../../../1.md) / [1.18 Atītattika, Hetuduka](../../1.18.md) / [1.18.2 Nahetupada](../1.18.2.md)
 
 # Ārammaṇa
 
-* Tika, Hetuduka
 
-* Atītattika, Hetuduka
 
-* Nahetupada
 
-* Ārammaṇa
 
 (212.)
 
@@ -29,6 +24,5 @@
 
 813\. Nahetupaccayā ārammaṇe tīṇi. (Saṃkhittaṃ.)
 
-[Go to previous page (1.18.2 Nahetupada)](../1.18.2.md) / [Go to parent page (1.18.2 Nahetupada)](../1.18.2.md) / [Go to next page (1.19 Atītārammaṇattika, Hetuduka)](../../1.19.md)
 
 

@@ -1,17 +1,11 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.7 Pañhāvāra](../../../2.7.md) / [2.7.3 Paccayānulomapaccanīya](../../2.7.3.md) / [Jhāna](../Jhana.md)
 
 # Samaggaghaṭanā
 
-* Kusalattika
 
-* Pañhāvāra
 
-* Paccayānulomapaccanīya
 
-* Jhāna
 
-* Samaggaghaṭanā
 
 (473.)
 
@@ -33,6 +27,5 @@
 
 1572\. Jhāna sahajāta aññamañña nissaya vipāka magga vippayutta atthi avigatanti nahetuyā ekaṃ…pe…  novigate ekaṃ. [Savipāka—  5]
 
-[Go to previous page (Saindriyaghaṭanā)](Saindriyaghatana.md) / [Go to parent page (Jhāna)](../Jhana.md) / [Go to next page (Saindriya-maggaghaṭanā)](Saindriya-maggaghatana.md)
 
 

@@ -1,15 +1,10 @@
 
-[Home](/) / [40P13 Dhammānulomapaccanīya (3), Tikapaṭṭhānapāḷi (1)](../../../../40P13.md) / [4 Upādinnattika](../../../4.md) / [4.1--6 Paṭiccādivāra](../../4.1--6.md) / [Paccayacatukka](../Paccayacatukka.md)
 
 # Hetu
 
-* Upādinnattika
 
-* Paṭiccādivāra
 
-* Paccayacatukka
 
-* Hetu
 
 (26.)
 
@@ -29,6 +24,5 @@
 
 56\. (Sahajātavārampi paccayavārampi nissayavārampi saṃsaṭṭhavārampi sampayuttavārampi vitthāretabbaṃ.)
 
-[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (4.7 Pañhāvāra)](../../4.7.md)
 
 

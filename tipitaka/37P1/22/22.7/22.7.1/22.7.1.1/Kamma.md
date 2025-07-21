@@ -1,17 +1,11 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [22 Ajjhattārammaṇattika](../../../../22.md) / [22.7 Pañhāvāra](../../../22.7.md) / [22.7.1 Paccayānuloma](../../22.7.1.md) / [22.7.1.1 Vibhaṅgavāra](../22.7.1.1.md)
 
 # Kamma
 
-* Ajjhattārammaṇattika
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Kamma
 
 (22.)
 
@@ -23,6 +17,5 @@
 
 2915\. Bahiddhārammaṇo dhammo ajjhattārammaṇassa dhammassa kammapaccayena paccayo. Nānākkhaṇikā—  bahiddhārammaṇā cetanā vipākānaṃ ajjhattārammaṇānaṃ khandhānaṃ kammapaccayena paccayo. (2)
 
-[Go to previous page (Āsevana)](Asevana.md) / [Go to parent page (22.7.1.1 Vibhaṅgavāra)](../22.7.1.1.md) / [Go to next page (Vipākādi)](Vipakadi.md)
 
 

@@ -1,19 +1,12 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [1 Hetugocchaka](../../../../../1.md) / [1.6 Nahetusahetukaduka](../../../../1.6.md) / [1.6.7 Pañhāvāra](../../../1.6.7.md) / [1.6.7.1 Paccayānuloma](../../1.6.7.1.md) / [1.6.7.1.1 Vibhaṅgavāra](../1.6.7.1.1.md)
 
 # Atthi
 
-* Hetugocchaka
 
-* Nahetusahetukaduka
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Atthi
 
 (193.)
 
@@ -33,6 +26,5 @@
 
 528\. Nahetu sahetuko ca nahetu ahetuko ca dhammā nahetuahetukassa dhammassa atthipaccayena paccayo—  sahajātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ. **Sahajātā**—  nahetū sahetukā khandhā ca mahābhūtā ca cittasamuṭṭhānānaṃ rūpānaṃ atthipaccayena paccayo; paṭisandhikkhaṇe…pe… . **Pacchājātā**—  nahetū sahetukā khandhā ca kabaḷīkāro āhāro ca imassa kāyassa atthipaccayena paccayo. **Pacchājātā**—  nahetū sahetukā khandhā ca rūpajīvitindriyañca kaṭattārūpānaṃ atthipaccayena paccayo…pe… . (2)
 
-[Go to previous page (Vippayutta)](Vippayutta.md) / [Go to parent page (1.6.7.1.1 Vibhaṅgavāra)](../1.6.7.1.1.md) / [Go to next page (1.6.7.1.2 Saṅkhyāvāra)](../1.6.7.1.2.md)
 
 

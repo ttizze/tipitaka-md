@@ -1,19 +1,12 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [1 Hetugocchaka](../../../../../1.md) / [1.2 Sahetukaduka](../../../../1.2.md) / [1.2.7 Pañhāvāra](../../../1.2.7.md) / [1.2.7.1 Paccayānuloma](../../1.2.7.1.md) / [1.2.7.1.1 Vibhaṅgavāra](../1.2.7.1.1.md)
 
 # Ārammaṇa
 
-* Hetugocchaka
 
-* Sahetukaduka
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Ārammaṇa
 
 (98.)
 
@@ -39,6 +32,5 @@
 
 271\. Sahetuko ca ahetuko ca dhammā sahetukassa ca ahetukassa ca dhammassa ārammaṇapaccayena paccayo—  vicikicchāsahagate uddhaccasahagate khandhe ca mohañca ārabbha vicikicchāsahagatā uddhaccasahagatā khandhā ca moho ca uppajjanti. (3)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (1.2.7.1.1 Vibhaṅgavāra)](../1.2.7.1.1.md) / [Go to next page (Adhipati)](Adhipati.md)
 
 

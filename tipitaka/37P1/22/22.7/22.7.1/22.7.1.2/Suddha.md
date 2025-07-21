@@ -1,17 +1,11 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [22 Ajjhattārammaṇattika](../../../../22.md) / [22.7 Pañhāvāra](../../../22.7.md) / [22.7.1 Paccayānuloma](../../22.7.1.md) / [22.7.1.2 Saṅkhyāvāra](../22.7.1.2.md)
 
 # Suddha
 
-* Ajjhattārammaṇattika
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Saṅkhyāvāra
 
-* Suddha
 
 (24.)
 
@@ -23,6 +17,5 @@
 
 
 
-[Go to previous page (22.7.1.2 Saṅkhyāvāra)](../22.7.1.2.md) / [Go to parent page (22.7.1.2 Saṅkhyāvāra)](../22.7.1.2.md) / [Go to next page (Paccanīyuddhāra)](../../Paccaniyuddhara.md)
 
 

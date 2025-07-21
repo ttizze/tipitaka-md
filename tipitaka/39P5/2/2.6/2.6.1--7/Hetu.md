@@ -1,15 +1,10 @@
 
-[Home](/) / [39P5 Dhammānuloma (1), Tikatikapaṭṭhānapāḷi (5)](../../../../39P5.md) / [2 Tika, Kusalattika](../../../2.md) / [2.6 Pītittika, Kusalattika](../../2.6.md) / [2.6.1--7 Paṭiccādivāra](../2.6.1--7.md)
 
 # Hetu
 
-* Tika, Kusalattika
 
-* Pītittika, Kusalattika
 
-* Paṭiccādivāra
 
-* Hetu
 
 (14.)
 
@@ -41,6 +36,5 @@
 
 356\. Pītisahagataṃ abyākatañca sukhasahagataṃ abyākatañca dhammaṃ paṭicca pītisahagato abyākato dhammo uppajjati hetupaccayā…  tīṇi. (Sabbattha dasa. Sabbattha vitthāro.)
 
-[Go to previous page (2.6.1--7 Paṭiccādivāra)](../2.6.1--7.md) / [Go to parent page (2.6.1--7 Paṭiccādivāra)](../2.6.1--7.md) / [Go to next page (2.7 Dassanattika, Kusalattika)](../../2.7.md)
 
 

@@ -1,15 +1,10 @@
 
-[Home](/) / [40P19 Dhammapaccanīyānuloma (4), Tikapaṭṭhānapāḷi (1)](../../../../40P19.md) / [1 Kusalattika](../../../1.md) / [1.1--2 Paṭiccādivāra](../../1.1--2.md) / [Paccayacatukka](../Paccayacatukka.md)
 
 # Hetu-ārammaṇa
 
-* Kusalattika
 
-* Paṭiccādivāra
 
-* Paccayacatukka
 
-* Hetu-ārammaṇa
 
 (1.)
 
@@ -41,6 +36,5 @@
 
 14\. Hetuyā aṭṭhārasa, ārammaṇe nava, adhipatiyā aṭṭhārasa…pe…  vipāke tīṇi…pe…  avigate aṭṭhārasa.
 
-[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Paccanīya)](../Paccaniya.md)
 
 

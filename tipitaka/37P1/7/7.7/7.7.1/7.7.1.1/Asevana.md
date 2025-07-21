@@ -1,17 +1,11 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [7 Vitakkattika](../../../../7.md) / [7.7 Pañhāvāra](../../../7.7.md) / [7.7.1 Paccayānuloma](../../7.7.1.md) / [7.7.1.1 Vibhaṅgavāra](../7.7.1.1.md)
 
 # Āsevana
 
-* Vitakkattika
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Āsevana
 
 (109.)
 
@@ -65,6 +59,5 @@
 
 482\. Savitakkasavicāro ca avitakkavicāramatto ca dhammā savitakkasavicārassa ca avitakkavicāramattassa ca dhammassa āsevanapaccayena paccayo—  purimā purimā savitakkasavicārā khandhā ca vitakko ca pacchimānaṃ pacchimānaṃ savitakkasavicārānaṃ khandhānaṃ vitakkassa ca āsevanapaccayena paccayo. Anulomañca vitakko ca gotrabhussa vitakkassa ca…  anulomañca vitakko ca vodānassa vitakkassa ca…  gotrabhu ca vitakko ca savitakkasavicārassa maggassa vitakkassa ca…  vodānañca vitakko ca savitakkasavicārassa maggassa vitakkassa ca āsevanapaccayena paccayo. (5)
 
-[Go to previous page (Pacchājāta)](Pacchajata.md) / [Go to parent page (7.7.1.1 Vibhaṅgavāra)](../7.7.1.1.md) / [Go to next page (Kamma)](Kamma.md)
 
 

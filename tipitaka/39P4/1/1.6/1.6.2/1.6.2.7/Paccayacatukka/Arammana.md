@@ -1,19 +1,12 @@
 
-[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../../../../39P4.md) / [1 Tika, Hetuduka](../../../../../1.md) / [1.6 Vitakkattika, Hetuduka](../../../../1.6.md) / [1.6.2 Nahetupada](../../../1.6.2.md) / [1.6.2.7 Pañhāvāra](../../1.6.2.7.md) / [Paccayacatukka](../Paccayacatukka.md)
 
 # Ārammaṇa
 
-* Tika, Hetuduka
 
-* Vitakkattika, Hetuduka
 
-* Nahetupada
 
-* Pañhāvāra
 
-* Paccayacatukka
 
-* Ārammaṇa
 
 (94.)
 
@@ -35,6 +28,5 @@
 
 331\. Savitakkasavicāro nahetu ca avitakkavicāramatto nahetu ca dhammā savitakkasavicārassa nahetussa dhammassa ārammaṇapaccayena paccayo. Savitakkasavicāro nahetu ca avitakkavicāramatto nahetu ca dhammā avitakkavicāramattassa nahetussa dhammassa ārammaṇapaccayena paccayo. Savitakkasavicāro nahetu ca avitakkavicāramatto nahetu ca dhammā avitakkaavicārassa nahetussa dhammassa ārammaṇapaccayena paccayo. Savitakkasavicāro nahetu ca avitakkavicāramatto nahetu ca dhammā savitakkasavicārassa nahetussa ca avitakkavicāramattassa nahetussa ca dhammassa ārammaṇapaccayena paccayo…  cattāri.
 
-[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Adhipati)](Adhipati.md)
 
 

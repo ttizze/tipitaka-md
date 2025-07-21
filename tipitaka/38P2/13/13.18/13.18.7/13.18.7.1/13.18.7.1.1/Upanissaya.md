@@ -1,19 +1,12 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [13 Piṭṭhiduka](../../../../../13.md) / [13.18 Saraṇaduka](../../../../13.18.md) / [13.18.7 Pañhāvāra](../../../13.18.7.md) / [13.18.7.1 Paccayānuloma](../../13.18.7.1.md) / [13.18.7.1.1 Vibhaṅgavāra](../13.18.7.1.1.md)
 
 # Upanissaya
 
-* Piṭṭhiduka
 
-* Saraṇaduka
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Upanissaya
 
 (356.)
 
@@ -25,6 +18,5 @@
 
 4823\. Araṇo dhammo saraṇassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  saddhaṃ upanissāya mānaṃ jappeti, diṭṭhiṃ gaṇhāti; sīlaṃ…pe…  senāsanaṃ upanissāya pāṇaṃ hanati…pe…  saṃghaṃ bhindati; saddhā…pe…  senāsanaṃ rāgassa…pe…  patthanāya upanissayapaccayena paccayo. (2)
 
-[Go to previous page (Anantarādi)](Anantaradi.md) / [Go to parent page (13.18.7.1.1 Vibhaṅgavāra)](../13.18.7.1.1.md) / [Go to next page (Purejātādi)](Purejatadi.md)
 
 

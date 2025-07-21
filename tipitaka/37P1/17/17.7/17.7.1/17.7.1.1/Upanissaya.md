@@ -1,17 +1,11 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [17 Maggārammaṇattika](../../../../17.md) / [17.7 Pañhāvāra](../../../17.7.md) / [17.7.1 Paccayānuloma](../../17.7.1.md) / [17.7.1.1 Vibhaṅgavāra](../17.7.1.1.md)
 
 # Upanissaya
 
-* Maggārammaṇattika
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Upanissaya
 
 (40.)
 
@@ -65,6 +59,5 @@
 
 2560\. Maggahetuko ca maggādhipati ca dhammā maggahetukassa ca maggādhipatissa ca dhammassa upanissayapaccayena paccayo. **Pakatūpanissayo**—  paṭhamo maggo dutiyassa maggassa…pe…  tatiyo maggo catutthassa maggassa upanissayapaccayena paccayo. (5)
 
-[Go to previous page (Samanantarādi)](Samanantaradi.md) / [Go to parent page (17.7.1.1 Vibhaṅgavāra)](../17.7.1.1.md) / [Go to next page (Āsevana)](Asevana.md)
 
 

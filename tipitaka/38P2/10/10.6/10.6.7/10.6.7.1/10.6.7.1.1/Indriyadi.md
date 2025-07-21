@@ -1,19 +1,12 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [10 Mahantaraduka](../../../../../10.md) / [10.6 Cittasamuṭṭhānaduka](../../../../10.6.md) / [10.6.7 Pañhāvāra](../../../10.6.7.md) / [10.6.7.1 Paccayānuloma](../../10.6.7.1.md) / [10.6.7.1.1 Vibhaṅgavāra](../10.6.7.1.1.md)
 
 # Indriyādi
 
-* Mahantaraduka
 
-* Cittasamuṭṭhānaduka
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Indriyādi
 
 (225.)
 
@@ -27,6 +20,5 @@
 
 2875\. Jhānapaccayena paccayo…  tīṇi…  maggapaccayena paccayo…  tīṇi…  sampayuttapaccayena paccayo…  pañca…pe… .
 
-[Go to previous page (Āhāra)](Ahara.md) / [Go to parent page (10.6.7.1.1 Vibhaṅgavāra)](../10.6.7.1.1.md) / [Go to next page (Vippayutta)](Vippayutta.md)
 
 

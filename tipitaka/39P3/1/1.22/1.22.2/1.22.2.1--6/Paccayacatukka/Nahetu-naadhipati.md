@@ -1,19 +1,12 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../../../39P3.md) / [1 Hetuduka, Tika](../../../../../1.md) / [1.22 Hetuduka, Sanidassanasappaṭighattika](../../../../1.22.md) / [1.22.2 Anidassanaappaṭighapada](../../../1.22.2.md) / [1.22.2.1--6 Paṭiccādivāra](../../1.22.2.1--6.md) / [Paccayacatukka](../Paccayacatukka.md)
 
 # Nahetu-naadhipati
 
-* Hetuduka, Tika
 
-* Hetuduka, Sanidassanasappaṭighattika
 
-* Anidassanaappaṭighapada
 
-* Paṭiccādivāra
 
-* Paccayacatukka
 
-* Nahetu-naadhipati
 
 (547.)
 
@@ -33,6 +26,5 @@
 
 1230\. (Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.22.2.7 Pañhāvāra)](../../1.22.2.7.md)
 
 

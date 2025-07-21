@@ -1,17 +1,11 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.7 Pañhāvāra](../../../2.7.md) / [2.7.3 Paccayānulomapaccanīya](../../2.7.3.md) / [Hetu](../Hetu.md)
 
 # Saindriya-maggaghaṭanā
 
-* Kusalattika
 
-* Pañhāvāra
 
-* Paccayānulomapaccanīya
 
-* Hetu
 
-* Saindriya-maggaghaṭanā
 
 (416.)
 
@@ -33,6 +27,5 @@
 
 1288\. Hetu sahajāta aññamañña nissaya vipāka indriya magga vippayutta atthi avigatanti naārammaṇe ekaṃ, naadhipatiyā ekaṃ, naanantare ekaṃ, nasamanantare ekaṃ, naupanissaye ekaṃ, napurejāte ekaṃ, napacchājāte ekaṃ, naāsevane ekaṃ, nakamme ekaṃ, naāhāre ekaṃ, najhāne ekaṃ, nasampayutte ekaṃ, nonatthiyā ekaṃ, novigate ekaṃ. [Savipāka—  5]
 
-[Go to previous page (Hetusāmaññaghaṭanā)](Hetusamannaghatana.md) / [Go to parent page (Hetu)](../Hetu.md) / [Go to next page (Sādhipati-indriya-maggaghaṭanā)](Sadhipati-indriya-maggaghatana.md)
 
 

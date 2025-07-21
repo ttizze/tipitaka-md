@@ -1,19 +1,12 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [13 Piṭṭhiduka](../../../../../13.md) / [13.11 Kāmāvacaraduka](../../../../13.11.md) / [13.11.7 Pañhāvāra](../../../13.11.7.md) / [13.11.7.1 Paccayānuloma](../../13.11.7.1.md) / [13.11.7.1.1 Vibhaṅgavāra](../13.11.7.1.1.md)
 
 # Upanissaya
 
-* Piṭṭhiduka
 
-* Kāmāvacaraduka
 
-* Pañhāvāra
 
-* Paccayānuloma
 
-* Vibhaṅgavāra
 
-* Upanissaya
 
 (213.)
 
@@ -27,6 +20,5 @@
 
 4562\. Nakāmāvacaro dhammo kāmāvacarassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  nakāmāvacaraṃ saddhaṃ upanissāya dānaṃ deti, sīlaṃ…pe…  uposathakammaṃ…pe…  vipassanaṃ uppādeti, mānaṃ jappeti, diṭṭhiṃ gaṇhāti; nakāmāvacaraṃ sīlaṃ…pe…  paññaṃ upanissāya dānaṃ deti, sīlaṃ…pe…  uposathakammaṃ…pe…  vipassanaṃ uppādeti, mānaṃ jappeti, diṭṭhiṃ gaṇhāti; nakāmāvacarā saddhā…pe…  paññā kāmāvacarāya saddhāya…pe…  paññāya, rāgassa…pe…  patthanāya kāyikassa sukhassa, kāyikassa dukkhassa upanissayapaccayena paccayo; ariyā maggaṃ upanissāya saṅkhāre aniccato…pe…  vipassanti, maggo ariyānaṃ atthapaṭisambhidāya…  dhammapaṭisambhidāya…  niruttipaṭisambhidāya…  paṭibhānapaṭisambhidāya…  ṭhānāṭhānakosallassa upanissayapaccayena paccayo; phalasamāpatti kāyikassa sukhassa upanissayapaccayena paccayo. (2)
 
-[Go to previous page (Anantarādi)](Anantaradi.md) / [Go to parent page (13.11.7.1.1 Vibhaṅgavāra)](../13.11.7.1.1.md) / [Go to next page (Purejātādi)](Purejatadi.md)
 
 
