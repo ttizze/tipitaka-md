@@ -1,0 +1,13 @@
+# Aṅguttaranikāya (A)
+
+* [Ekakanipātapāḷi](15A1.md)
+* [Dukanipātapāḷi](15A2.md)
+* [Tikanipātapāḷi](15A3.md)
+* [Catukkanipātapāḷi](15A4.md)
+* [Pañcakanipātapāḷi](16A5.md)
+* [Chakkanipātapāḷi](16A6.md)
+* [Sattakanipātapā](16A7.md)
+* [Aṭṭhakanipātapāḷi](17A8.md)
+* [Navakanipātapāḷi](17A9.md)
+* [Dasakanipātapāḷi](17A10.md)
+* [Ekādasakanipātapāḷi](17A11.md)
