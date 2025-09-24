@@ -1,0 +1,12 @@
+# Yamaka (Y)
+
+* [Mūlayamakapāḷi](33Y1.md)
+* [Khandhayamakapāḷi](33Y2.md)
+* [Āyatanayamakapāḷi](33Y3.md)
+* [Dhātuyamakapāḷi](33Y4.md)
+* [Saccayamakapāḷi](33Y5.md)
+* [Saṅkhārayamakapāḷi](34Y6.md)
+* [Anusayayamakapāḷi](34Y7.md)
+* [Cittayamakapāḷi](34Y8.md)
+* [Dhammayamakapāḷi](35Y9.md)
+* [Indriyayamakapāḷi](35Y10.md)
